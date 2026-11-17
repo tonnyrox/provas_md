@@ -1,5 +1,13 @@
 # 🛠️ Ferramenta: Organizador de Provas (PDF → Markdown no padrão do repositório)
 
+> **📖 DOCUMENTAÇÃO DESTA PASTA (leia nesta ordem):**
+>
+> 1. **[INSTRUCOES.md](INSTRUCOES.md)** — manual completo passo a passo: o padrão obrigatório das provas, como preparar os PDFs, rodar a ferramenta, conferir a saída (checklist), publicar no repositório e o que fazer quando a ferramenta não bastar.
+> 2. **[PROMPT_EXTRACAO.md](PROMPT_EXTRACAO.md)** — o prompt oficial de extração integral, para usar com IA em provas complexas (escaneadas, agrupamentos não declarados, muitas imagens).
+> 3. **[README.md](README.md)** (este arquivo) — visão técnica da ferramenta.
+>
+> Quem for processar e subir provas deve seguir **obrigatoriamente** o padrão descrito na Parte 1 do `INSTRUCOES.md` — assim todas as pastas de `Provas MD/` ficam idênticas, independentemente de quem organizou.
+
 Automatiza em lote a organização de provas: lê os PDFs de uma pasta (pareando automaticamente **Prova + Gabarito** pelo nome do arquivo), extrai texto e imagens, detecta as questões e os **textos-base agrupados**, e gera cada prova **exatamente no padrão de `Provas MD/`**.
 
 ---
