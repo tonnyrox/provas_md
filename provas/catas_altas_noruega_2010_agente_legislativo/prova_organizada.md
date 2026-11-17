@@ -91,7 +91,6 @@
 
 **Texto integral da prova (reproduzido da página 2 do PDF):**
 
-> # Provas:
 > - Português
 > - Matemática
 > - Agente Legislativo
@@ -131,7 +130,6 @@ Nenhuma.
 
 **Texto integral da prova (reproduzido da página 2 do PDF):**
 
-> # Provas:
 > - Português
 > - Matemática
 > - Agente Legislativo
@@ -171,7 +169,6 @@ Nenhuma.
 
 **Texto integral da prova (reproduzido da página 2 do PDF):**
 
-> # Provas:
 > - Português
 > - Matemática
 > - Agente Legislativo
@@ -211,7 +208,6 @@ Nenhuma.
 
 **Texto integral da prova (reproduzido da página 2 do PDF):**
 
-> # Provas:
 > - Português
 > - Matemática
 > - Agente Legislativo
@@ -251,7 +247,6 @@ Nenhuma.
 
 **Texto integral da prova (reproduzido da página 2 do PDF):**
 
-> # Provas:
 > - Português
 > - Matemática
 > - Agente Legislativo
@@ -402,7 +397,7 @@ B) “Havia jardins, havia manhãs, naquele tempo.”
 
 C) Sabem-no, hajam vista as notas da prova.
 
-D) Entenda-se que todos somos brasileiros. # MATEMÁTICA
+D) Entenda-se que todos somos brasileiros.
 
 **Referências visuais:**
 
@@ -625,7 +620,7 @@ B) 100cm²
 
 C) 300cm²
 
-D) 400cm² # AGENTE LEGISLATIVO
+D) 400cm²
 
 **Referências visuais:**
 

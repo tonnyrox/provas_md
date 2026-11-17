@@ -403,7 +403,7 @@ C) o conectivo “mas” introduz uma oração coordenada adversativa.
 
 D) existem apenas 5 orações.
 
-E) existem dois conectivos: mas e por causa. # RACIOCÍNIO LÓGICO
+E) existem dois conectivos: mas e por causa.
 
 **Referências visuais:**
 
@@ -709,7 +709,7 @@ C) nenhuma caixa ficou vazia.
 
 D) alguma caixa ficou vazia.
 
-E) todas as caixas ficaram com, pelo menos, 25 documentos cada. # INFORMÁTICA
+E) todas as caixas ficaram com, pelo menos, 25 documentos cada.
 
 **Referências visuais:**
 
@@ -984,7 +984,7 @@ C) Mesmo por solicitação judicial, a empresa proprietária do aplicativo não 
 
 D) Se houver acesso aos dispositivos utilizados pelo emissor e/ou receptor das mensagens, uma terceira parte (atacante ou hacker) pode ter acesso ao conteúdo das mensagens, ainda que o uso da criptografia ponta a ponta esteja ativo.
 
-E) A criptografia de ponta a ponta não impede que um dos usuários guarde cópia (por exemplo, imagens) das mensagens trocadas, ainda que um deles decida por apagá-las para todos os usuários. # CONHECIMENTOS ESPECÍFICOS
+E) A criptografia de ponta a ponta não impede que um dos usuários guarde cópia (por exemplo, imagens) das mensagens trocadas, ainda que um deles decida por apagá-las para todos os usuários.
 
 **Referências visuais:**
 
