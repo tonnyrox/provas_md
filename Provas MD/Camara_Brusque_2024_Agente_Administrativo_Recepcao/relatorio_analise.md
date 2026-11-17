@@ -1,52 +1,35 @@
-# RELATÓRIO DE ANÁLISE — Câmara Municipal de Brusque (SC) — Agente Administrativo — Recepção (FURB, 2024)
+# Relatório de análise — Camara_Brusque_2024_Agente_Administrativo_Recepcao
 
-## 1. Identificação
+## Resumo
 
-- **Órgão:** Câmara Municipal de Brusque (SC).
-- **Concurso:** Concurso Público — Edital n.º 001/2024.
-- **Banca:** FURB Concursos.
-- **Cargo:** Agente Administrativo — Recepção.
-- **Data da prova:** 24 de novembro de 2024. **Duração:** 3 horas.
-- **Formato:** 40 questões objetivas de múltipla escolha (A–E).
+- Questões identificadas: **40**
+- Grupos com material compartilhado: **1**
+- Questões agrupadas: **8**
+- Questões independentes: **32**
+- Imagens extraídas: **2**
+- Gabarito: **não disponível (gabarito preliminar divulgado apenas em http://concursos.furb.br)**
 
-## 2. Quantidades
-
-| Item | Quantidade |
-|---|---|
-| Questões identificadas | 40 (numeração original 01 a 40) |
-| Textos de apoio | 1 texto-base compartilhado ("O machismo no futebol brasileiro", Correio Braziliense, adaptado) + 2 materiais exclusivos (tirinha e gráfico) |
-| Imagens de questão | 2 (tirinha da questão 09 — `imagens/imagem_001.jpg`; gráfico PoderData da questão 10 — `imagens/imagem_002.jpg`) |
-| Gráficos e tabelas | 1 gráfico (questão 10) |
-| Grupos identificados | 1 (questões 01 a 08) |
-| Questões independentes | 32 (questões 09 a 40; as questões 09 e 10 usam material visual exclusivo, reproduzido dentro de cada uma) |
-
-## 3. Agrupamentos e relacionamentos
+## Agrupamentos identificados
 
 | Material compartilhado | Questões vinculadas | Tipo |
 |---|---|---|
-| Texto "O machismo no futebol brasileiro" (Correio Braziliense, adaptado) | 01, 02, 03, 04, 05, 06, 07 e 08 | Texto |
-| Tirinha "papo de homem" (imagens/imagem_001.jpg) | 09 | Imagem |
-| Gráfico "Machismo × Machistas" (PoderData) (imagens/imagem_002.jpg) | 10 | Imagem |
+| TEXTO-BASE 1 — artigo "O machismo no futebol brasileiro" (Correio Braziliense, adaptado) | 01, 02, 03, 04, 05, 06, 07, 08 | Texto |
 
-- Na prova original, o texto-base aparece uma única vez antes da questão 01 (aviso: "O texto seguinte servirá de base para responder às questões de 1 a 8"); neste pacote ele foi repetido integralmente dentro de cada uma das questões 01 a 08.
-- A tirinha (Q09) e o gráfico (Q10) aparecem repetidos dentro das respectivas questões (enunciado e "Referências visuais").
-- Agrupamento interno por afirmativas (I, II, III, IV) presente nas questões 01, 02, 03, 07, 09, 11, 15, 18, 19, 20, 21, 22, 24, 25, 27, 28, 31, 32, 33, 34, 36 e 37 — preservado nos enunciados.
+- Na prova original, o texto-base 1 aparece uma única vez, antes da questão 01; nesta organização ele é repetido integralmente dentro de cada questão do grupo.
+- A questão 09 (tirinha "papo de homem" — `imagens/imagem_001.jpg`) e a questão 10 (gráfico PoderData "Machismo x Machistas" — `imagens/imagem_002.jpg`) têm material de apoio individual, reproduzido dentro de cada questão.
+- Muitas questões têm agrupamento interno por afirmativas (I, II, III...), padrão da banca FURB: 01, 02, 03, 07, 09, 11, 15, 18, 19, 20, 21, 22, 24, 25, 27, 28, 31, 32, 33, 34, 36, 37. Os itens permanecem dentro do enunciado de cada questão.
 
-## 4. Estrutura de blocos
+## Estrutura original
 
-| Bloco | Questões |
-|---|---|
-| Língua Portuguesa | 01 a 10 |
-| Noções de Informática | 11 a 15 |
-| Legislação | 16 a 20 |
-| Conhecimentos Específicos | 21 a 40 |
+| Bloco | Questões | Quantidade |
+|---|---|---|
+| Língua Portuguesa | 01 a 10 | 10 |
+| Noções de Informática | 11 a 15 | 5 |
+| Legislação | 16 a 20 | 5 |
+| Conhecimentos Específicos | 21 a 40 | 20 |
 
-## 5. Problemas encontrados durante a extração
+## Problemas encontrados
 
-1. **Padronização de nomes de imagens:** os arquivos originais `imagens/q09_tirinha_machismo.jpg` e `imagens/q10_grafico_poderdata.jpg` foram renomeados para o padrão `imagens/imagem_001.jpg` e `imagens/imagem_002.jpg`, com todas as referências do Markdown atualizadas (nenhuma alteração de conteúdo).
-2. Nenhum trecho ilegível identificado; nenhum conteúdo omitido ou resumido.
-
-## 6. Conferência final
-
-- 40 de 40 questões extraídas, na numeração e ordem originais.
-- Texto-base compartilhado repetido integralmente nas questões 01 a 08; imagens vinculadas e referenciadas com caminhos relativos funcionais.
+- Gabarito oficial não incluído no material original; registrado na seção 4 da prova.
+- Conteúdo transcrito por OCR a partir do PDF original; pequenas variações de pontuação ou destaque (sublinhado/negrito nas questões 02 e 07) podem existir em relação ao original impresso.
+- Nenhuma parte ilegível ou ausente além do gabarito foi identificada.
