@@ -632,6 +632,10 @@ D) Trópico de Capricórnio.
 
 E) Trópico de Câncer.
 
+**Referências visuais:**
+
+![Mapa analisado na questão 9](imagens/imagem_001.png)
+
 ---
 
 #### QUESTÃO 10
@@ -864,6 +868,10 @@ D) O elemento representado pelo ator Ator1 tem participação em todas as ocorr�
 
 E) Durante a ocorrência do caso de uso UCC é possível, mas não obrigatória, a ocorrência do caso de uso UCD.
 
+**Referências visuais:**
+
+![Diagrama de casos de uso da questão 18](imagens/imagem_002.png)
+
 ---
 
 #### QUESTÃO 19
@@ -889,6 +897,10 @@ C) Uma instância de DecoradorDeDado pode apontar para outra instância de Decor
 D) Uma instância de DecoradorDeDado pode apontar para uma instância de Dado, DecoradorDeDado, DadoSeisFaces ou DadoVinteFaces.
 
 E) Uma variável declarada como de tipo Dado não pode apontar para uma instância de DadoSeisFaces, por incompatibilidade de tipo.
+
+**Referências visuais:**
+
+![Diagrama de classes da questão 19](imagens/imagem_003.png)
 
 ---
 
@@ -1443,6 +1455,10 @@ Depende (código-Disciplina-é-pré-requisito, código-Disciplina-tem-como-pré-
 Turmas (código)  
 Salas (número, capacidade)  
 Oferecimento (código-Disciplina, código-Turma, semestre, vagas, número-Sala, diaSemana, horário)
+
+**Referências visuais:**
+
+![Modelagem Entidade-Relacionamento da questão 36](imagens/imagem_004.png)
 
 ---
 
