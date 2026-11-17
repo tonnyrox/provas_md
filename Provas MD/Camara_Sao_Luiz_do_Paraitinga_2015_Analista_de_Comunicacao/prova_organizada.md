@@ -48,6 +48,8 @@
 
 #### QUESTÃO 01
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Material de apoio:**
 
 > Alegria, Alegria
@@ -115,6 +117,8 @@ D) Andando na chuva.
 
 #### QUESTÃO 02
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Material de apoio:**
 
 > Alegria, Alegria
@@ -181,6 +185,8 @@ D) Eufemismo.
 ---
 
 #### QUESTÃO 03
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Material de apoio:**
 
@@ -255,6 +261,8 @@ D) O eu-lírico está em busca de liberdade, o que é metaforicamente apresentad
 
 #### QUESTÃO 04
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Material de apoio:**
 
 > O Bicho
@@ -286,6 +294,8 @@ D) Ficou nauseado com a situação.
 ---
 
 #### QUESTÃO 05
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Material de apoio:**
 
@@ -325,6 +335,8 @@ D) A desigualdade social, cada vez mais evidente no mundo globalizado.
 
 #### QUESTÃO 11
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Material de apoio:**
 
 > O atual ministro da Casa Civil afirmou em
@@ -355,6 +367,8 @@ D) Joaquim Levy
 ---
 
 #### QUESTÃO 12
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Material de apoio:**
 
@@ -401,6 +415,8 @@ D) I, II, III
 
 #### QUESTÃO 14
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Material de apoio:**
 
 > Rompido politicamente com o governo e
@@ -431,6 +447,8 @@ D) Eduardo Cunha, PMDB
 ---
 
 #### QUESTÃO 15
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Material de apoio:**
 
@@ -465,6 +483,8 @@ D) A ruptura com o governo foi desencadeada a partir dos atritos políticos entr
 
 #### QUESTÃO 06
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Enunciado:**
 
 Segundo o padrão de norma culta, em todos os casos ocorre crase, exceto em:
@@ -482,6 +502,8 @@ D) Quando iremos àquela praia?
 ---
 
 #### QUESTÃO 07
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Enunciado:**
 
@@ -511,6 +533,8 @@ D) Apenas I e III
 
 #### QUESTÃO 08
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Enunciado:**
 
 Assinale a alternativa em que todas as palavras levam acento:
@@ -528,6 +552,8 @@ D) ítem, bônus, juíza, estéril, médico.
 ---
 
 #### QUESTÃO 09
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Enunciado:**
 
@@ -547,6 +573,8 @@ D) Falta ainda um milhar para sanarmos a quantidade exigida.
 
 #### QUESTÃO 10
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Enunciado:**
 
 Identifique a alternativa em que a mudança da posição do pronome oblíquo torna a frase incorreta, segundo o padrão culto da língua. Página 2  
@@ -564,6 +592,8 @@ D) Em se confirmando essa previsão, o governo aumentará a taxa de juros. Em co
 ---
 
 #### QUESTÃO 13
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Enunciado:**
 
@@ -583,6 +613,8 @@ D) Cuba
 
 #### QUESTÃO 16
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Enunciado:**
 
 Sobre a recepção do governo brasileiro aos refugiados, pode-se corretamente afirmar que:
@@ -600,6 +632,8 @@ D) No continente americano, o Brasil é uma das principais nações que concede 
 ---
 
 #### QUESTÃO 17
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Enunciado:**
 
@@ -619,6 +653,8 @@ D) Permitir que as pessoas escrevam mensagens anônimas na internet, sem que pos
 
 #### QUESTÃO 18
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Enunciado:**
 
 Oswaldo Gonçalves Cruz,  nasceu no dia 5 de agosto de 1872, em São Luís do Paraitinga. Foi eleito membro da academia brasileira de letras. Uma renomada fundação de pesquisa, para homenageá-lo, carrega atualmente seu nome. Qual era a profissão exercida por Oswaldo Cruz?
@@ -636,6 +672,8 @@ D) Médico
 ---
 
 #### QUESTÃO 19
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Enunciado:**
 
@@ -655,6 +693,8 @@ D) Chile
 
 #### QUESTÃO 20
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Enunciado:**
 
 Logo após divulgação de uma histórica decisão da Suprema Corte norte americana, o presidente Barack Obama, em seu discurso, considerou a medida como uma vitória para os Estados Unidos. Obama ainda afirmou que a decisão era um avanço rumo à igualdade de diretos, pois avaliou que “Quando todos os norte-americanos são tratados com igualdade, nós somos mais livres”. A qual decisão histórica, definida no final de junho deste ano, faz referência o pronunciamento do presidente Barack Obama?
@@ -672,6 +712,8 @@ D) Abolição dos resquícios das leis segregacionistas Jim Crow, com extensão 
 ---
 
 #### QUESTÃO 21
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Enunciado:**
 
@@ -691,6 +733,8 @@ D) “Nariz de cera” é a técnica de redação em que o parágrafo introdutó
 
 #### QUESTÃO 22
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Enunciado:**
 
 Em meados do século XX, surgiu um novo termo para definir alguns veículos de imprensa que romperam a linha divisória entre o jornalismo e a publicidade, produzindo notícias híbridas onde, em um mesmo corpo de texto, pode-se encontrar entretenimento, publicidade, marketing, serviço e informação. Esse tipo de jornalismo faz parte da imprensa:
@@ -708,6 +752,8 @@ D) Marrom
 ---
 
 #### QUESTÃO 23
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Enunciado:**
 
@@ -727,6 +773,8 @@ D) Notoriedade
 
 #### QUESTÃO 24
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Enunciado:**
 
 No final da década de 1980, nos Estados Unidos, surgiu uma nova proposta para o jornalismo, conhecido como “jornalismo público”, ou cívico. Sobre esse novo conceito é correto afirmar que:
@@ -744,6 +792,8 @@ D) O “jornalismo público” é fundamentado na participação efetiva do cida
 ---
 
 #### QUESTÃO 25
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Enunciado:**
 
@@ -763,6 +813,8 @@ D) Charge e reportagem.
 
 #### QUESTÃO 26
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Enunciado:**
 
 Em 1906, o jornalista Ivy Lee fundou o primeiro escritório de assessoria de comunicação do mundo. A missão dele era conseguir mudar a opinião pública sobre o empresário John Rockefeller, após declarações polêmicas. Anos depois, surgiriam no Brasil as primeiras atividades de assessoria de imprensa. É correto afirmar que:
@@ -780,6 +832,8 @@ D) Com o fim do governo de Getúlio Vargas e a substituição do Departamento de
 ---
 
 #### QUESTÃO 27
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Enunciado:**
 
@@ -799,6 +853,8 @@ D) Gatekeeper
 
 #### QUESTÃO 28
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Enunciado:**
 
 Um dos modelos utilizados para estruturar e organizar uma notícia é conhecido como “pirâmide invertida”. Sobre o assunto é correto afirmar que:
@@ -816,6 +872,8 @@ D) No modelo “pirâmide invertida”, é utilizado um lead direto, onde as inf
 ---
 
 #### QUESTÃO 29
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Enunciado:**
 
@@ -835,6 +893,8 @@ D) O uso de imagem para publicidades sem autorização expressa é considerado u
 
 #### QUESTÃO 30
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Enunciado:**
 
 Com o desenvolvimento de novas tecnologias e o surgimento do jornalismo na Web, a discussão sobre a limitação do modelo de organização utilizado para estruturar as notícias ganhou mais notoriedade e resultou na criação de um novo modelo, conhecido como “pirâmide deitada”. É correto afirmar que:
@@ -852,6 +912,8 @@ D) O espaço disponível na web para utilização é limitado, o que impossibili
 ---
 
 #### QUESTÃO 31
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Enunciado:**
 
@@ -871,6 +933,8 @@ D) Todas as características acima.
 
 #### QUESTÃO 32
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Enunciado:**
 
 A segunda geração de comunidades e serviços oferecidos pela internet é conhecida como “Web 2.0”. O termo, criado em 2004 pela empresa americana O’Reilly Media, define uma nova fase da internet que influenciou diretamente no webjornalismo, pois:
@@ -888,6 +952,8 @@ D) Facilitou a publicação de conteúdos e o compartilhamento de informação, 
 ---
 
 #### QUESTÃO 33
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Enunciado:**
 
@@ -907,6 +973,8 @@ D) A entrevista testemunhal é conhecida como o relato do entrevistado sobre epi
 
 #### QUESTÃO 34
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Enunciado:**
 
 Assim como há tipos de entrevistas, existem variadas circunstâncias de realização que podem ser definidas como: ocasional, confronto, coletiva, dialogal e a individual. Assinale a alternativa incorreta sobre o assunto.
@@ -924,6 +992,8 @@ D) A circunstância em que o repórter assume papel de acusador, contra-argument
 ---
 
 #### QUESTÃO 35
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Enunciado:**
 
@@ -943,6 +1013,8 @@ D) Grid
 
 #### QUESTÃO 36
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Enunciado:**
 
 Sobre a história do jornalismo no Brasil e surgimento do primeiro jornal impresso, é correto afirmar que:
@@ -960,6 +1032,8 @@ D) Em 1808 foi lançada a primeira edição do “Correio Braziliense”, editad
 ---
 
 #### QUESTÃO 37
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Enunciado:**
 
@@ -987,6 +1061,8 @@ D) I, II e III
 
 #### QUESTÃO 38
 
+⚠️ **Gabarito: oficial não disponível**
+
 **Enunciado:**
 
 Ainda com relação aos aspectos gerais da Lei de Acesso à informação - LAI, não se pode afirmar que:
@@ -1004,6 +1080,8 @@ D) É preciso justificar o pedido de acesso à informação, a fim de que seja j
 ---
 
 #### QUESTÃO 39
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Enunciado:**
 
@@ -1024,6 +1102,8 @@ D) Oitenta por cento
 ---
 
 #### QUESTÃO 40
+
+⚠️ **Gabarito: oficial não disponível**
 
 **Enunciado:**
 
