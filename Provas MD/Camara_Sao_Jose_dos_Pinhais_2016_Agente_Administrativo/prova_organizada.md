@@ -87,8 +87,7 @@
 
 #### QUESTÃO 18
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Material de apoio:**
 
 > TIRO PELA CULATRA.
@@ -163,8 +162,7 @@ D) Impregnar valores na cultura de um povo.
 
 #### QUESTÃO 19
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Material de apoio:**
 
 > TIRO PELA CULATRA.
@@ -239,8 +237,7 @@ D) É propício ao discurso publicitário, visto que o povo brasileiro é predom
 
 #### QUESTÃO 20
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Material de apoio:**
 
 > TIRO PELA CULATRA.
@@ -315,8 +312,7 @@ D) Os publicitários brasileiros não são bons profissionais, pois usam a sensu
 
 #### QUESTÃO 21
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Material de apoio:**
 
 > TIRO PELA CULATRA.
@@ -393,8 +389,7 @@ D) “Há um outro aspecto da publicidade que, apesar de sua relevância, não c
 
 #### QUESTÃO 01
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Assinale a alternativa que indica respectivamente a capital dos seguintes estados brasileiros: Paraná, Minas Gerais e Rio Grande do Sul.
@@ -413,8 +408,7 @@ D) Londrina, Belo Horizonte e Pelotas.
 
 #### QUESTÃO 02
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Assinale a alternativa que contém informação correta sobre a Independência do Brasil:
@@ -433,8 +427,7 @@ D) O Brasil nunca foi dependente de outra nação.
 
 #### QUESTÃO 03
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Em relação à urbanização no Brasil, assinale a alternativa correta:
@@ -453,8 +446,7 @@ D) Já nos anos de 1960, o Brasil havia deixado de ser um país agrícola e não
 
 #### QUESTÃO 04
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Tendo por referência o texto constitucional, assinale a alternativa que melhor define o atual sistema político do Brasil:
@@ -473,8 +465,7 @@ D) República Federativa.
 
 #### QUESTÃO 05
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Assinale a alternativa que indica uma cidade que NÃO se localiza no Estado do Paraná:
@@ -493,8 +484,7 @@ D) Ribeirão Preto.
 
 #### QUESTÃO 06
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 O Estado do Paraná é caracterizado por uma economia agrícola diversificada. Assinale a alternativa que indica um produto agrícola que NÃO se destaca na estrutura produtiva paranaense.
@@ -513,8 +503,7 @@ D) Mandioca.
 
 #### QUESTÃO 07
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 O _____________________ pode ser definido como um processo capaz de suprir as necessidades da geração atual, sem comprometer a capacidade de atender as exigências das gerações futuras. Qual o conceito preenche corretamente a lacuna?
@@ -533,8 +522,7 @@ D) Protocolo de Quioto.
 
 #### QUESTÃO 08
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Resolva a operação (5/3 + 5/2) : √(25/16)
@@ -557,8 +545,7 @@ D) 5/3
 
 #### QUESTÃO 09
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Lucas tem uma bicicleta com um pneu de 66 cm de diâmetro. Qual será o número necessário de voltas completas do pneu para Lucas percorrer 20,724 quilômetros? Use π = 3.14
@@ -577,8 +564,7 @@ D) 42.948,40
 
 #### QUESTÃO 10
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Calcule o quanto corresponde na horizontal, em cm, uma volta de um pneu com 100 cm de diâmetro (Use π = 3.14):
@@ -597,8 +583,7 @@ D) 628 cm
 
 #### QUESTÃO 11
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 João mora numa casa situada no topo de uma rua que forma uma rampa plana, de 64 m de comprimento, fazendo ângulo de 45° com o plano horizontal. João, ao subir a rampa para chegar em sua casa, eleva-se verticalmente quantos metros?
@@ -617,8 +602,7 @@ D) 32√2 m
 
 #### QUESTÃO 12
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Carlos tem 25 hectolitros de suco de laranja que equivalem a quantos centilitros de suco de laranja?
@@ -637,8 +621,7 @@ D) 250 cl
 
 #### QUESTÃO 13
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Calcule a superfície da face de um cubo que mede 6 cm de aresta:
@@ -657,8 +640,7 @@ D) -6 cm2
 
 #### QUESTÃO 14
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Joana quer trocar o carpete de um auditório que mede 15 m x 30 m. Sabemos que cada rolo de carpete mede 7,5 metros de largura. Quantos metros lineares de carpete Joana precisará comprar para cobrir toda área do auditório?
@@ -677,8 +659,7 @@ D) 112,5 m
 
 #### QUESTÃO 15
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Temos dois conjuntos representados pelas letras A e B. Quando a associação entre eles será uma função?
@@ -697,8 +678,7 @@ D) nenhuma das anteriores
 
 #### QUESTÃO 16
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Considere a função f: A → B. Determine (D) de f.
@@ -717,8 +697,7 @@ D) A
 
 #### QUESTÃO 17
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Paulo tem uma loja de eletrodomésticos e devido à crise financeira que o país atravessa teve que aumentar o valor de uma geladeira que custava R$ 3.000,00 sucessivamente em 10%, 20% e 30%. Qual será o novo valor da geladeira?
@@ -737,8 +716,7 @@ D) R$ 4.200,00
 
 #### QUESTÃO 22
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Acerca dos usos do verbo haver, assinale a alternativa em que seu uso NÃO está de acordo com a norma-padrão da língua portuguesa:
@@ -757,8 +735,7 @@ D) Na verdade, há 1000 anos os anseios do homem eram os mesmos dos dias moderno
 
 #### QUESTÃO 23
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Assinale a única alternativa que apresenta verbo transitivo indireto:
@@ -777,8 +754,7 @@ D) Quem despreza chocolate?
 
 #### QUESTÃO 24
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Das questões abaixo, todas estão obedecendo às regras da norma-padrão da língua quanto à concordância verbal, EXCETO:
@@ -797,8 +773,7 @@ D) Mais de um formando se abraçou na formatura.
 
 #### QUESTÃO 25
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 “Despreocupadas com tudo à sua volta, as crianças brincavam no parque”. Acerca da frase acima, é correto afirmar que:
@@ -817,8 +792,7 @@ D) “As crianças” é o sujeito e seu núcleo é “crianças”.
 
 #### QUESTÃO 26
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Hoje,  muitas  empresas  escolhem  seus candidatos nem tanto por suas qualificações técnicas, mas por suas características comportamentais, ou seja, pela maneira como o indivíduo se porta perante outras pessoas. Entre as alternativas descritas abaixo, a única que NÃO representa um bom comportamento interpessoal é:
@@ -837,8 +811,7 @@ D) Cortesia
 
 #### QUESTÃO 27
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Dentre várias habilidades muito valorizadas pelas empresas, _______________ tem sido algo cada vez mais requisitado, uma vez que as organizações precisam de indivíduos que saibam trabalhar em conjunto e compartilhar resultados para ser eficiente. Esta habilidade tornou-se crucial nas organizações do século XXI. O termo que preenche corretamente a lacuna acima é:
@@ -857,8 +830,7 @@ D) Trabalho em equipe
 
 #### QUESTÃO 28
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Comunicação é algo fundamental para garantir que mensagens sejam devidamente transmitidas e compreendidas. A representa o conjunto de mensagens e trocas de informação que ocorrem dentro da empresa entre funcionários, departamentos, unidades, gestores e diretores. O termo que preenche corretamente a lacuna é:
@@ -877,8 +849,7 @@ D) Comunicação Externa
 
 #### QUESTÃO 29
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Na administração pública, usa-se o __________________ sempre que é necessário adquirir, resguardar, transferir, modificar, extinguir e declarar direitos. O termo que preenche corretamente a lacuna é:
@@ -897,8 +868,7 @@ D) Ato Público
 
 #### QUESTÃO 30
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 A _______________________, que representa o conjunto de normas éticas que formam a consciência do profissional e representam imperativos de sua conduta, é algo imprescindível no exercício do cargo público, tanto ao se lidar com os contribuintes quanto com os colegas de trabalho. O termo que completa corretamente a lacuna acima é:
@@ -917,8 +887,7 @@ D) Moral Normativa.
 
 #### QUESTÃO 31
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Nas organizações públicas, com grande frequência utilizam-se _____________, documentos nos quais são registradas todas as decisões tomadas em reuniões e assembleias. O texto acima refere-se ao conceito de:
@@ -937,8 +906,7 @@ D) Atas
 
 #### QUESTÃO 32
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Ao ato administrativo normativo expedido por autoridade pública, e pelo qual instruções são dadas para definir como será feita a execução de um determinado serviço, lei, regulamento ou nomeação, damos o nome de:
@@ -957,8 +925,7 @@ D) Requerimento
 
 #### QUESTÃO 33
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 O documento oficial em que há determinação, aviso, postura ou citação, e que se afixa em lugares públicos ou se anuncia na imprensa para conhecimento geral recebe o nome de:
@@ -977,8 +944,7 @@ D) Ata Interna
 
 #### QUESTÃO 34
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Nas organizações públicas e privadas, a comunicação é algo muito importante. Ela não se resume apenas a passar de forma adequada informações, mas fazer com que estas sejam devidamente compreendidas. Nesse processo, cartas, ofícios, memorandos e circulares são caracterizados como:
@@ -997,8 +963,7 @@ D) Receptores
 
 #### QUESTÃO 35
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Para que se possa oferecer um bom atendimento ao público, diversas características pessoais podem ser desenvolvidas. Dentre as características listadas abaixo, qual é aquela que NÃO contribui para um bom atendimento ao público?
@@ -1017,8 +982,7 @@ D) Cortesia
 
 #### QUESTÃO 36
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Para respeitar tanto o tempo do servidor público quanto o da pessoa que ele está atendendo, recomenda-se que o servidor foque-se naquilo que é realmente importante, e tente resolver o problema encontrado de forma rápida e eficiente, sem perder tempo com questões irrelevantes no momento. A isto, damos o nome de:  
@@ -1037,8 +1001,7 @@ D) Paciência
 
 #### QUESTÃO 37
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Muitas vezes, o servidor público lida com situações sigilosas e muito particulares do público que atende. Nessas situações específicas, para evitar que a situação e a própria pessoa sejam expostas, uma característica muito importante na postura do servidor é:
@@ -1057,8 +1020,7 @@ D) Apresentação da Empresa
 
 #### QUESTÃO 38
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Normalmente, consideramos o comportamento algo prejudicial nas organizações porque quando as pessoas agem desta forma, tornam-se mais agressivas e sensíveis, como se estivessem para ser ameaçadas ou ofendidas, mesmo que tudo esteja bem. O termo que completa corretamente a lacuna acima é:
@@ -1077,8 +1039,7 @@ D) Aberto GABARITO PREENCHA SUAS RESPOSTAS NO QUADRO ABAIXO E DESTAQUE NA LINHA 
 
 #### QUESTÃO 39
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 A Lei Municipal nº 525, de 25 de março de 2004, trata do:
@@ -1097,8 +1058,7 @@ D) Estatuto dos Servidores Públicos Municipais
 
 #### QUESTÃO 40
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Conforme o artigo 13 da Lei Orgânica do Município de São José dos Pinhais, a Câmara Municipal exerce o poder:

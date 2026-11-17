@@ -102,8 +102,7 @@
 
 #### QUESTÃO 01
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Material de apoio:**
 
 > Em São Roque de Minas, volta e meia desce a rua um carro de boi, rangendo as rodas como
@@ -158,8 +157,7 @@ E) O guia Lopes, um herói da Guerra do Paraguai.
 
 #### QUESTÃO 02
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Material de apoio:**
 
 > Em São Roque de Minas, volta e meia desce a rua um carro de boi, rangendo as rodas como
@@ -214,8 +212,7 @@ E) A cidade está imune a pragas, como peste ou doenças contagiosas, porque é 
 
 #### QUESTÃO 03
 
-✅ **Gabarito: E**
-
+✅ **Gabarito: E** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Material de apoio:**
 
 > Em São Roque de Minas, volta e meia desce a rua um carro de boi, rangendo as rodas como
@@ -280,8 +277,7 @@ E) São corretas apenas as afirmativas 1, 3 e 4.
 
 #### QUESTÃO 04
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Material de apoio:**
 
 > Em São Roque de Minas, volta e meia desce a rua um carro de boi, rangendo as rodas como
@@ -336,8 +332,7 @@ E) No caso de pais que tenham se comprome- tido a batizar o filho com o nome de 
 
 #### QUESTÃO 05
 
-✅ **Gabarito: E**
-
+✅ **Gabarito: E** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Material de apoio:**
 
 > Em São Roque de Minas, volta e meia desce a rua um carro de boi, rangendo as rodas como
@@ -414,8 +409,7 @@ E) 3 – 4 – 1 – 2
 
 #### QUESTÃO 06
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Material de apoio:**
 
 > Em São Roque de Minas, volta e meia desce a rua um carro de boi, rangendo as rodas como
@@ -470,8 +464,7 @@ E) Se a cidade é imune a essa praga onomás- tica… (peste)
 
 #### QUESTÃO 07
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Material de apoio:**
 
 > Em São Roque de Minas, volta e meia desce a rua um carro de boi, rangendo as rodas como
@@ -544,8 +537,7 @@ E) 3 – 2 – 1
 
 #### QUESTÃO 08
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Material de apoio:**
 
 > Em São Roque de Minas, volta e meia desce a rua um carro de boi, rangendo as rodas como
@@ -610,8 +602,7 @@ E) V – V – V
 
 #### QUESTÃO 09
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Analise o mapa abaixo:
@@ -640,8 +631,7 @@ E) Trópico de Câncer.
 
 #### QUESTÃO 10
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Teve grande repercussão o debate em torno do projeto de instalação no litoral catarinense, na região de Biguaçu, de um grande estaleiro. Em um primeiro momento o empreendimento não obteve a necessária licença. Assinale a alternativa que indica o principal óbice para a construção do estaleiro.
@@ -662,8 +652,7 @@ E) Os problemas culturais. A população local e regional é avessa aos empreend
 
 #### QUESTÃO 11
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Quando os portugueses desembarcaram no Brasil encontraram os povos indígenas.
@@ -686,8 +675,7 @@ E) Embora tivessem uma organização política diferente dos povos europeus, obe
 
 #### QUESTÃO 12
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Assinale a alternativa correta em relação à admi- nistração das primeiras vilas e cidades brasileiras.
@@ -708,8 +696,7 @@ E) As vilas e cidades do período colonial não conheceram uma organização adm
 
 #### QUESTÃO 13
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 A influência negra foi notável na formação da cul- tura brasileira. Assinale a alternativa que faz referência a algumas das suas contribuições.
@@ -730,8 +717,7 @@ E) O sincretismo religioso, fonte em que se ins- pirou a “Cabala”, que tenta
 
 #### QUESTÃO 14
 
-✅ **Gabarito: E**
-
+✅ **Gabarito: E** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Nos anos 1920/30, com a ascensão do fascismo na Itália e do nazismo na Alemanha, movimentos con- gêneres surgiram em várias partes do mundo.
@@ -754,8 +740,7 @@ E) No Brasil, o escritor Plínio Salgado criou a Ação Integralista Brasileira 
 
 #### QUESTÃO 15
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 No mês de julho de 2004 ocorreu um fato de grande importância para a história de Balneário Camboriú.
@@ -778,8 +763,7 @@ E) Foi fundada a Vila da Barra, que deu origem à cidade.
 
 #### QUESTÃO 16
 
-✅ **Gabarito: E**
-
+✅ **Gabarito: E** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Analise o texto abaixo. Na programação orientada a objetos, uma mesma assinatura de método pode estar presente em mais de uma classe, podendo cada classe ter um algoritmo diferente associado a essa assinatura.
@@ -802,8 +786,7 @@ E) Polimorfismo
 
 #### QUESTÃO 17
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Relacione corretamente as características de eta- pas do ciclo de vida de software, descritas na coluna 2, com a identificação das etapas, listadas na coluna 1.
@@ -846,8 +829,7 @@ E) 4 – 3 – 2 – 1
 
 #### QUESTÃO 18
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Com base nas informações contidas na modela- gem de casos de uso abaixo,
@@ -876,8 +858,7 @@ E) Durante a ocorrência do caso de uso UCC é possível, mas não obrigatória,
 
 #### QUESTÃO 19
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Com base nas informações contidas no diagrama de classes abaixo,
@@ -906,8 +887,7 @@ E) Uma variável declarada como de tipo Dado não pode apontar para uma instânc
 
 #### QUESTÃO 20
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Analise o texto abaixo. Teste conduzido na instalação do desenvolvedor, com o cliente. O software é usado num ambiente natural com o desenvolvedor “olhando sobre o ombro” do usuário e registrando erros e problemas de uso. Conduzido num ambiente controlado, mas sem planos de teste.
@@ -930,8 +910,7 @@ E) Teste de usabilidade
 
 #### QUESTÃO 21
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Relacione os conceitos da coluna 1 com as respec- tivas definições da coluna 2, de acordo com o PMBOK.
@@ -978,8 +957,7 @@ E) 2 – 5 – 4 – 1 – 3
 
 #### QUESTÃO 22
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Analise a lista numerada abaixo:
@@ -1018,8 +996,7 @@ E) 2 – 4 – 5 – 6 – 8
 
 #### QUESTÃO 23
 
-✅ **Gabarito: E**
-
+✅ **Gabarito: E** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Observe o seguinte trecho de código, escrito na linguagem Java:
@@ -1050,8 +1027,7 @@ E) É uma coleção de objetos do tipo String.
 
 #### QUESTÃO 24
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Assinale a alternativa correta a respeito dos códi- gos apresentados, escritos na linguagem PHP.
@@ -1102,8 +1078,7 @@ echo (int) $y;
 
 #### QUESTÃO 25
 
-✅ **Gabarito: E**
-
+✅ **Gabarito: E** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Assinale a alternativa correta a respeito do trata- mento de exceções na linguagem JavaScript.
@@ -1124,8 +1099,7 @@ E) Cada bloco try possui um único bloco catch no qual é feito o tratamento de 
 
 #### QUESTÃO 26
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Analise o comando abaixo, executado pelo usuá- rio root em um computador com sistema operacional Linux.
@@ -1152,8 +1126,7 @@ E) A execução do comando resulta em erro.
 
 #### QUESTÃO 27
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Em relação ao uso de formulários HTML e dos elementos (tags) utilizados para criá-los, é correto afirmar:
@@ -1174,8 +1147,7 @@ E) um elemento action com valor do atributo type igual a “submit” cria um bo
 
 #### QUESTÃO 28
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Analise as afirmativas abaixo a respeito das tecno- logias de redes locais e de longa distância.
@@ -1204,8 +1176,7 @@ E) São corretas as afirmativas 1, 2 e 3.
 
 #### QUESTÃO 29
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Suponha que os usuários X e Y possuem, cada um, um par de chaves criptográficas, sendo uma pública e outra privada, conhecida apenas pelo respectivo usuário. Indique o procedimento correto a ser executado pelo usuário X com o objetivo de garantir a confidenciali- dade de dados transmitidos pela rede para o usuário Y utilizando criptografia de chave pública (assimétrica).
@@ -1226,8 +1197,7 @@ E) Gerar um resumo (hash) dos dados, cifrá-lo com a chave pública de Y e envi�
 
 #### QUESTÃO 30
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Assinale a alternativa correta a respeito do funcionamento e da configuração de redes de computadores.
@@ -1248,8 +1218,7 @@ E) O datagrama IP possui campos em seu cabe- çalho para identificação do ende
 
 #### QUESTÃO 31
 
-✅ **Gabarito: E**
-
+✅ **Gabarito: E** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Assinale a alternativa que apresenta o comando cuja execução em um computador com sistema ope- racional Windows XP cria uma credencial para acesso ao servidor ‘gama’ usando o nome de usuário ‘delta’.
@@ -1270,8 +1239,7 @@ E) cmdkey /add:gama /user:delta
 
 #### QUESTÃO 32
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Assinale a alternativa que relaciona corretamente as portas padrão utilizadas pelos serviços de rede:
@@ -1292,8 +1260,7 @@ E) DNS: 23; FTP: 22; IMAP: 25; POP3: 143; SSH: 21.
 
 #### QUESTÃO 33
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Sobre o modelo relacional de banco de dados, é correto afirmar:
@@ -1314,8 +1281,7 @@ E) uma tabela não pode conter mais de uma chave primária e não pode conter ma
 
 #### QUESTÃO 34
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Considere a tabela relacional Empregados (ID, nome, cargo, salario, ID-Departamento, data-Ingresso- -Departamento). O atributo ID é chave primária e o atributo ID-Departamento é chave estrangeira.
@@ -1351,8 +1317,7 @@ Relacionamento Lotação que associa Empregados e Departamentos, com cardinali- 
 
 #### QUESTÃO 35
 
-✅ **Gabarito: E**
-
+✅ **Gabarito: E** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Considere as seguintes tabelas relacionais para um domínio Universitário: Turmas (ID, vagas, ID-Disciplina) e Disciplinas (ID, nome, creditos). O atri- buto ID em Turmas é chave primária e o atributo ID-Disciplina é chave estrangeira que faz referência à tabela Disciplinas. O atributo ID da tabela Disciplinas é a sua chave primária. O comando SQL que responde corretamente à con- sulta “Buscar os nomes das disciplinas de 4 créditos que possuem turmas com mais de 30 vagas” é:
@@ -1415,8 +1380,7 @@ AND Disciplinas.ID = ID-Disciplina);
 
 #### QUESTÃO 36
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Considere a modelagem Entidade-Relacionamento (ER) apresentada a seguir:
@@ -1464,8 +1428,7 @@ Oferecimento (código-Disciplina, código-Turma, semestre, vagas, número-Sala, 
 
 #### QUESTÃO 37
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Considere uma tabela relacional Tab (a1, a2, a3, a4, a5), sendo a chave primária composta pelo par de atributos (a1, a2). Esta tabela apresenta as seguintes dependências funcionais: (a1, a2) → a3; (a1, a2) → a4; a1 → a5; e a3 → a4. A forma normal mais avançada em que Tab se encon- tra é:
@@ -1486,8 +1449,7 @@ E) quinta forma normal.
 
 #### QUESTÃO 38
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Sobre o gerenciamento de transações em bancos de dados, é correto afirmar:
@@ -1508,8 +1470,7 @@ E) técnicas de recuperação de falhas de transa- ções baseadas em Log realiz
 
 #### QUESTÃO 39
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Assinale a alternativa correta, sobre Data Warehouse.
@@ -1530,8 +1491,7 @@ E) Um banco de dados multidimensional per- mite que usuários consultem e atuali
 
 #### QUESTÃO 40
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito oficial do cargo S1 Analista de Sistemas, conferido com as marcações ( X ) do PDF)
 **Enunciado:**
 
 Sobre a tecnologia XML, é correto afirmar:

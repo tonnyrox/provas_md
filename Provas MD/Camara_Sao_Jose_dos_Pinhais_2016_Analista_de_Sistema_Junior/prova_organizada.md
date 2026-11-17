@@ -88,8 +88,7 @@
 
 #### QUESTÃO 11
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Material de apoio:**
 
 > A TV ainda é a principal fonte de informação para
@@ -148,8 +147,7 @@ D) Não se deve assistir à TV e acessar a internet ao mesmo tempo.
 
 #### QUESTÃO 12
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Material de apoio:**
 
 > A TV ainda é a principal fonte de informação para
@@ -214,8 +212,7 @@ D) A TV digital certamente aumentará o índice de uso do aparelho de televisão
 
 #### QUESTÃO 18
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Material de apoio:**
 
 > PLÁSTICA NA ADOLESCÊNCIA
@@ -324,8 +321,7 @@ D) De modo geral, os médicos fazem o procedimento da cirurgia plástica em adol
 
 #### QUESTÃO 19
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Material de apoio:**
 
 > PLÁSTICA NA ADOLESCÊNCIA
@@ -434,8 +430,7 @@ D) Aos adultos.
 
 #### QUESTÃO 20
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Material de apoio:**
 
 > PLÁSTICA NA ADOLESCÊNCIA
@@ -546,8 +541,7 @@ D) Narrativo, pois narra a busca dos adolescentes por cirurgias plásticas. @SEC
 
 #### QUESTÃO 01
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Assinale a alternativa que apresenta uma informação INCORRETA em relação ao conceito de desenvolvimento sustentável.
@@ -566,8 +560,7 @@ D) Trata-se de um desenvolvimento capaz de suprir as necessidades da geração a
 
 #### QUESTÃO 02
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 A história do Brasil republicano é  caracterizada por uma série de rupturas políticas, como as ocorridas em 1889, 1930 e 1964. Assinale a alternativa que indica, respectivamente, os acontecimentos históricos ocorridos naqueles anos:
@@ -586,8 +579,7 @@ D) Proclamação da República, Fim da Escravidão e Redemocratização.
 
 #### QUESTÃO 03
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 ____________________ é uma organização internacional fundada em 1945, ao fim da Segunda Guerra Mundial, e conta atualmente com quase duzentos países-membros. Sua missão envolve temas globais como paz e segurança, mudança climática, desenvolvimento sustentável e direitos humanos. Com base nessa descrição, assinale a alternativa que preenche corretamente a lacuna:
@@ -606,8 +598,7 @@ D) A Organização do Tratado do Atlântico Norte (OTAN)
 
 #### QUESTÃO 04
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 O sistema educacional brasileiro, segundo o texto constitucional, deve estar pautado em determinados princípios básicos. Assinale a alternativa que NÃO indica um desses princípios:
@@ -626,8 +617,7 @@ D) Pluralismo de idéias e de concepções pedagógicas.
 
 #### QUESTÃO 05
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Assinale a alternativa que contém uma afirmação INCORRETA em relação ao processo de globalização.
@@ -646,8 +636,7 @@ D) O desenvolvimento tecnológico foi e tem sido um importante estímulo à glob
 
 #### QUESTÃO 06
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Qual das sentenças declarativas abaixo é uma proposição?
@@ -666,8 +655,7 @@ D) x + y = 10
 
 #### QUESTÃO 07
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Qual das proposições a seguir é uma tautologia?
@@ -686,8 +674,7 @@ D) nenhuma das anteriores
 
 #### QUESTÃO 08
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Um conjunto de cláusulas S é uma representação clausal para uma fórmula P se e somente se?
@@ -706,8 +693,7 @@ D) Nenhuma das anteriores
 
 #### QUESTÃO 09
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Qual dos casos abaixo é uma das leis de Morgan?
@@ -726,8 +712,7 @@ D) P ∧ Q ⇔ Q ∧ P
 
 #### QUESTÃO 10
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Saulo tem três motos: uma CG 125, uma Twister 250 e uma CB 500. Uma das motos é vermelha, a outra é amarela, e a outra é laranja. Sabemos que:
@@ -754,8 +739,7 @@ D) vermelha, laranja, amarela @SECTION@
 
 #### QUESTÃO 13
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 “Reconheci a vendedora Cíntia já na porta da loja”. Pode-se afirmar acerca desta oração:
@@ -774,8 +758,7 @@ D) O sujeito é: “eu”, pois se trata de sujeito desinencial.
 
 #### QUESTÃO 14
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Observe as frases abaixo:
@@ -802,8 +785,7 @@ D) II, III e IV apenas.
 
 #### QUESTÃO 15
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Assinale abaixo a oração na qual o advérbio expressa intensidade:
@@ -822,8 +804,7 @@ D) O nível do rio subiu muito depressa!
 
 #### QUESTÃO 16
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 As sentenças abaixo contêm pronomes relativos em destaque:
@@ -850,8 +831,7 @@ D) Apenas III.
 
 #### QUESTÃO 17
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Figura de linguagem é uma forma de expressão comunicativa que se utiliza das palavras em um sentido diferente daquele em que comumente são empregadas. Analise as frases abaixo, que se utilizam deste recurso linguístico:
@@ -878,8 +858,7 @@ D) Metáfora; comparação; hipérbole; eufemismo.
 
 #### QUESTÃO 21
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Acerca do processo de investidura do servidor público, assinale a alternativa correta de acordo com o Estatuto do Servidor Público de São José dos Pinhais (Lei Municipal 525, de 25 de março de 2004):
@@ -898,8 +877,7 @@ D) O prazo para o servidor entrar em exercício é de 03 (três) dias úteis, co
 
 #### QUESTÃO 22
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Sobre vencimento, remuneração e subsídio estabelecidos no Estatuto do Servidor Público de São José dos Pinhais (Lei Municipal 525, de 25 de março de 2004), assinale a alternativa correta.
@@ -918,8 +896,7 @@ D) O vencimento do cargo efetivo, acrescido da vantagem de caráter permanente, 
 
 #### QUESTÃO 23
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Acerca do regimento interno da Câmara de São José dos Pinhais, assinale a alternativa correta quanto às funções exercidas pela Câmara Municipal.
@@ -938,8 +915,7 @@ D) A função legislativa consiste em elaborar leis referentes a todos os assunt
 
 #### QUESTÃO 24
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Acerca da composição da mesa Diretiva da Câmara Municipal de São José dos Pinhais, assinale a alternativa correta de acordo com Regimento Interno da Câmara Municipal de São José dos Pinhais.
@@ -958,8 +934,7 @@ D) Nenhum dos membros da Mesa em exercício pode fazer parte de comissões.
 
 #### QUESTÃO 25
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Acerca das atribuições da Câmara de Vereadores previstas na Lei Orgânica Municipal de São José dos Pinhais, assinale a alternativa correta.
@@ -978,8 +953,7 @@ D) A legislatura não será interrompida sem a deliberação sobre o projeto de 
 
 #### QUESTÃO 26
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Atualmente as redes de computadores em sua grande maioria utilizam diversas arquiteturas e protocolos para trocarem informações entre si. A arquitetura mais conhecida é a TCP/IP, esta, possui algumas camadas e em cada camada atuam diversos protocolos. Assinale a alternativa que NÃO contenha protocolos executados pela camada em questão.
@@ -998,8 +972,7 @@ D) Nenhuma das alternativas anteriores.
 
 #### QUESTÃO 27
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Temos hoje diversos protocolos que são executados na camada de Aplicação, dentre esses protocolos podemos citar o SNMP. Este protocolo tem como função principal o uso em:
@@ -1018,8 +991,7 @@ D) Aplicações de tempo real como, por exemplo, entrega de dados áudio ponto-a
 
 #### QUESTÃO 28
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Leia as afirmações abaixo e assinale a alternativa correta: I - O hub é um dispositivo utilizado para interligar os computadores de uma rede local de computadores. Este equipamento recebe dados vindos de um computador e os transmite a outras máquinas da rede. II - O switch é utilizado para que os computadores se comuniquem e possam transmitir informações entre duas redes diferentes, ou seja, possui o recurso para direcionar o tráfego da rede entre redes diferentes. III - O access point fornece acesso sem fio a uma rede com fio. Um ponto de acesso se conecta a um hub, computador ou roteador com fio e envia sinais sem fio. Isso permite que os computadores e dispositivos se conectem a uma rede com fio sem usar fio. IV - O roteador é um aparelho muito semelhante ao hub, mas tem uma grande diferença: os dados vindos do computador de origem somente são repassados ao computador de destino.
@@ -1038,8 +1010,7 @@ D) Apenas as alternativas II e III são verdadeiras
 
 #### QUESTÃO 29
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Diversas são as técnicas para otimizar um servidor de banco de dados. O espelhamento é uma delas e traz alguns benefícios, entre eles: I – Aumenta a disponibilidade de um banco de dados II – Aumenta a disponibilidade de um banco de dados de produção durante atualizações III – Aumenta a proteção e a redundância completa ou quase completa dos dados dependendo do modo operacional de alta segurança ou alto desempenho. IV – Aumenta a velocidade da rede de computadores. Assinale a alternativa que contenha somente informações verdadeiras sobre espelhamento de banco de dados:
@@ -1058,8 +1029,7 @@ D) Apenas II, IV.
 
 #### QUESTÃO 30
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 O sistema operacional Windows em suas versões mais recentes (a partir do Windows Vista e Windows Server 2008) possui suporte nativo a 3 sistemas de resolução de nomes em redes, sendo eles:
@@ -1078,8 +1048,7 @@ D) LLMR, RNN, WINS
 
 #### QUESTÃO 31
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Dentre as funções abaixo, quais pertencem exclusivamente ao FIREWALL de rede? I – Proteção contra acessos não autorizados em uma rede de computadores. II – Proteção contra cavalos de tróia. III – Proteção antispams de email.
@@ -1098,8 +1067,7 @@ D) Somente as alternativas II e III.
 
 #### QUESTÃO 32
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Quando se trata de redundância e contingência de dados em Tecnologia da Informação, surge o conceito de planos de contingência. Os planos de contingência são desenvolvidos para cada provável ameaça em cada um dos processos do negócio, definindo em detalhes os procedimentos a serem executados em estado de contingência. Também se sabe que os planos de contingência são subdivididos em três módulos que tratam especificamente de cada momento vivido pela empresa em questão, sendo eles:
@@ -1118,8 +1086,7 @@ D) Plano de Administração de Recursos Humanos, Plano de Qualidade Processo. Pl
 
 #### QUESTÃO 33
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 _____________ é uma técnica utilizada por hackers (spammers) que consiste em varrer páginas na Internet, arquivos de listas de discussão, entre outros, em busca de endereços de e-mail.
@@ -1138,8 +1105,7 @@ D) Fowarding
 
 #### QUESTÃO 34
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 A  assinatura  digital  obtida  através  do  uso da  criptografia  assimétrica  ou  de  chave  pública infelizmente não pode ser empregada, na prática, de forma isolada, é necessário o emprego de um mecanismo fundamental para o adequado emprego da assinatura digital. Este mecanismo é a função hashing. Sabendo disso e dadas as definições abaixo, indique o tipo correto de hashing, respectivamente, para cada parágrafo numerado abaixo. 1 - É  uma  função  de  espalhamento  unidirecional. Este  algoritmo  produz um valor hash de 128 bits, para uma mensagem de entrada de tamanho arbitrário. 2 - É uma  função  de  espalhamento  unidirecional. Este algoritmo  gera  um  valor  hash  de  160 bits, a  partir  de  um  tamanho  arbitrário  de  mensagem.
@@ -1158,8 +1124,7 @@ D) SHA-1 e SHA-2
 
 #### QUESTÃO 35
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 A criptografia é um conjunto de conceitos e técnicas que visa codificar uma informação de forma que somente o emissor e o receptor possam acessá-la, evitando que um intruso consiga interpretá-la. Para isso, uma série de técnicas são utilizadas. Dentre essas, as técnicas mais conhecidas envolvem o conceito de chaves, as chamadas chaves criptográficas. Sabendo disso, identifique qual é a chave mais indicada para cada um dos textos abaixo. I - Também conhecida como "chave pública", a chave _______________  trabalha com duas chaves: uma denominada privada e outra denominada pública. Neste método, um emissor deve criar uma chave de codificação e enviá-la ao receptor. Essa é a chave pública. Uma outra chave deve ser criada para a decodificação. Esta, a chave privada, é secreta. II - Esse é um tipo de chave onde o emissor e o receptor fazem uso da mesma chave, isto é, uma única chave é usada na codificação e na decodificação da informação. Existem vários algoritmos que usam chaves _______________, como o DES, o IDEA, e o RC. Trata-se, respectivamente, da(s) criptografia(s):
@@ -1178,8 +1143,7 @@ D) Assimétrica, Simétrica.
 
 #### QUESTÃO 36
 
-✅ **Gabarito: D**
-
+✅ **Gabarito: D** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 O diagrama de classes apresenta a estrutura de classes de um sistema computacional. Este diagrama apresenta as classes com seus atributos e métodos, que por sua vez, possuem modificadores públicos, privados, protegidos e padrão. Esses modificadores são conhecidos como:
@@ -1198,8 +1162,7 @@ D) Modificadores de acesso
 
 #### QUESTÃO 37
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Os estereótipos de classe são uma maneira de destacar determinados componentes do diagrama. Existem três estereótipos pré-definidos na UML muito utilizados no diagrama de classe, são eles:
@@ -1218,8 +1181,7 @@ D) Sequence, Protected, Control.
 
 #### QUESTÃO 38
 
-✅ **Gabarito: C**
-
+✅ **Gabarito: C** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Em Java, um atributo pode ser membro de classe ou membro de instância. Qual o código que deve ser inserido na definição do atributo para que o mesmo seja um atributo membro de classe?
@@ -1238,8 +1200,7 @@ D) interface
 
 #### QUESTÃO 39
 
-✅ **Gabarito: B**
-
+✅ **Gabarito: B** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 A palavra final é utilizada na declaração de métodos em Java para indicar que o método :
@@ -1258,8 +1219,7 @@ D) não pode ser sobrecarregado.
 
 #### QUESTÃO 40
 
-✅ **Gabarito: A**
-
+✅ **Gabarito: A** (gabarito preliminar oficial — Edital 009/2016, de 11/07/2016)
 **Enunciado:**
 
 Sabe-se que a palavra reservada finally é utilizada para liberar recursos que foram alocados e devem ser liberados se ocorrer ou não uma exceção. Esta é utilizada :
