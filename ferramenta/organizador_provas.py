@@ -1,18 +1,36 @@
 #!/usr/bin/env python3
 """
-Organizador de Provas em PDF -> Markdown
+Organizador de Provas em PDF -> Markdown (padrão do repositório provas_md)
 
-Lê todos os PDFs de uma pasta, extrai texto e imagens, detecta as questões
-e os textos-base agrupados ("O texto seguinte servirá de base para responder
-às questões X a Y") e gera um .md organizado por prova, repetindo o texto-base
-antes de cada questão vinculada a ele.
+Lê todos os PDFs de uma pasta (pareando automaticamente "Prova" + "Gabarito"
+pelo nome do arquivo), extrai texto e imagens, detecta as questões e os
+textos-base agrupados e gera, para cada prova, uma pasta EXATAMENTE no padrão
+do repositório:
+
+    Camara_<Cidade>_<Ano>_<Cargo>/
+    ├── prova_organizada.md
+    ├── relatorio_analise.md
+    ├── PROVA_ORGANIZADA.zip
+    └── imagens/
+        ├── imagem_001.jpg
+        └── ...
+
+Regras do padrão aplicadas pela ferramenta:
+  - Nada é resumido ou omitido: todo o texto extraído do PDF vai para o .md.
+  - Cada questão é autossuficiente: o texto-base compartilhado é repetido
+    integralmente dentro de cada questão do grupo.
+  - Imagens nomeadas imagem_001, imagem_002... referenciadas relativamente
+    (mesmo arquivo físico, referências repetidas em cada questão).
+  - Estrutura fixa: 1. Análise geral / 2. Questões agrupadas /
+    3. Questões independentes / 4. Observações e limitações da extração.
 
 Uso:
     pip install pymupdf
     python organizador_provas.py --pasta ./pdfs --saida ./saida
 
-Opcional (publicar no GitHub automaticamente):
-    python organizador_provas.py --pasta ./pdfs --saida ./saida --repo /caminho/clone/provas_md
+Opcional:
+    --nome "Camara_Brusque_2024_Agente_Administrativo"   (força o nome da pasta)
+    --repo /caminho/clone/provas_md                      (copia p/ "Provas MD")
 """
 
 import argparse
@@ -20,6 +38,7 @@ import hashlib
 import re
 import shutil
 import sys
+import zipfile
 from pathlib import Path
 
 try:
@@ -27,37 +46,53 @@ try:
 except ImportError:
     sys.exit("PyMuPDF não encontrado. Instale com:  pip install pymupdf")
 
-
-QUESTAO_RE = re.compile(
-    r"(?im)^\s*quest[ãa]o\s*[-–—:]?\s*(\d{2,3})\s*\)?\s*$"
-)
-
-TEXTO_BASE_RE = re.compile(
-    r"o\s+texto\s+seguinte(?:s)?\s+servir[áa]\s+de\s+base[^.]*?"
-    r"quest[õo]es\s+(?:de\s+)?(\d{1,3})\s*(?:a|à|até|e)\s*(\d{1,3})",
+QUESTAO_HEAD_RE = re.compile(
+    r"^\s*(?:\*\*)?\s*quest[\u00e3a]o\s*[-\u2013\u2014:.]?\s*(\d{1,3})\s*\)?\s*(?:\*\*)?\s*$",
     re.IGNORECASE,
 )
+QUESTAO_NUM_RE = re.compile(r"^\s*(?:\*\*)?\s*(\d{1,3})\s*[\.\)]\s*\**\s*(.+)")
+ALT_RE = re.compile(r"^\s*\(?\s*([A-Ea-e])\s*\)\s*(.*)$")
 
-TEXTO_BASE_UNICO_RE = re.compile(
-    r"o\s+texto\s+seguinte(?:s)?\s+servir[áa]\s+de\s+base[^.]*?quest[ãa]o\s+(\d{1,3})",
-    re.IGNORECASE,
-)
+TEXTO_BASE_RES = [
+    re.compile(
+        r"o\s+texto\s+seguinte(?:s)?\s+servir[\u00e1a]\s+de\s+base[^.]*?quest[\u00f5o]es\s+(?:de\s+)?n[u00fa]?[\u00bao\u00b0]?\s*(?:meros?\s*)?(\d{1,3})\s*(?:a|\u00e0|at\u00e9|e)\s*(\d{1,3})",
+        re.IGNORECASE,
+    ),
+    re.compile(
+        r"texto\s+(?:para|para\s+as)\s+quest[\u00f5o]es\s+(?:de\s+)?n[u00fa]?[\u00bao\u00b0]?\s*(?:meros?\s*)?(\d{1,3})\s*(?:a|\u00e0|at\u00e9|e)\s*(\d{1,3})",
+        re.IGNORECASE,
+    ),
+    re.compile(
+        r"(?:utilize|leia|considere)\s+o\s+texto\s+(?:abaixo|a\s+seguir)[^.]*?quest[\u00f5o]es\s+(?:de\s+)?n[u00fa]?[\u00bao\u00b0]?\s*(?:meros?\s*)?(\d{1,3})\s*(?:a|\u00e0|at\u00e9|e)\s*(\d{1,3})",
+        re.IGNORECASE,
+    ),
+    re.compile(
+        r"quest[\u00f5o]es\s+(?:de\s+)?n[u00fa]?[\u00bao\u00b0]?\s*(?:meros?\s*)?(\d{1,3})\s*(?:a|\u00e0|at\u00e9)\s*(\d{1,3})\s+referem-se",
+        re.IGNORECASE,
+    ),
+    re.compile(
+        r"(?:responder|respondem?|destinadas?)[^.]{0,40}?quest[\u00f5o]es\s+(?:de\s+)?n[u00fa]?[\u00bao\u00b0]?\s*(?:meros?\s*)?(\d{1,3})\s*(?:a|\u00e0|at\u00e9|e)\s*(\d{1,3})",
+        re.IGNORECASE,
+    ),
+    re.compile(
+        r"o\s+texto\s+seguinte(?:s)?\s+servir[\u00e1a]\s+de\s+base[^.]*?quest[\u00e3a]o\s+(\d{1,3})",
+        re.IGNORECASE,
+    ),
+]
 
+GABARITO_PAR_RE = re.compile(r"(?<![\d.])(\d{1,3})\s*[-\u2013\u2014:.\s]+\(?([A-Ea-e])\)?(?=[\s,;)\]]|$)")
+ANULADA_RE = re.compile(r"(?<![\d.])(\d{1,3})\s*[-\u2013\u2014:.\s]+ANULAD[AO]", re.IGNORECASE)
+
+IMG_RE = re.compile(r"!\[[^\]]*\]\((imagens/[^)]+)\)")
 LARGURA_MIN_IMG = 150
 ALTURA_MIN_IMG = 100
-
 IMG_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp", ".bmp"}
-
-
-def limpar_linha(linha: str) -> str:
-    linha = linha.rstrip()
-    return linha
 
 
 def extrair_pdf(pdf_path: Path, pasta_imagens: Path) -> str:
     """Extrai um PDF para Markdown cru (texto + imagens intercaladas)."""
     doc = fitz.open(pdf_path)
-    partes: list[str] = [f"# {pdf_path.stem}\n"]
+    partes: list[str] = []
     contador_imgs = 0
     hashes_vistos: set[str] = set()
 
@@ -85,100 +120,569 @@ def extrair_pdf(pdf_path: Path, pasta_imagens: Path) -> str:
                 hashes_vistos.add(resumo)
                 contador_imgs += 1
                 ext = bloco.get("ext", "png")
-                nome = f"pag{num_pagina:03d}_img{contador_imgs:03d}.{ext}"
+                if ext == "jpeg":
+                    ext = "jpg"
+                nome = f"imagem_{contador_imgs:03d}.{ext}"
                 destino = pasta_imagens / nome
                 destino.write_bytes(bloco["image"])
-                partes.append(f"\n\n![imagem da página {num_pagina}](imagens/{nome})\n")
+                partes.append(f"\n\n![Imagem da questão](imagens/{nome})\n")
 
     doc.close()
     return "\n".join(partes)
 
 
-def organizar(markdown_cru: str) -> str:
-    """Detecta questões e textos-base; repete o texto-base nas questões vinculadas."""
-    linhas = markdown_cru.split("\n")
+def detectar_questoes(cru: str) -> tuple[list[dict], list[str]]:
+    """Separa o Markdown cru em questões (filtro sequencial 1, 2, 3...).
 
-    secoes: list[dict] = []
-    atual: dict | None = {"titulo": None, "linhas": []}
-    secoes.append(atual)
+    Retorna (questões, conteúdo prévio = capa/instruções).
+    """
+    linhas = cru.split("\n")
+    questoes: list[dict] = []
+    pre: list[str] = []
+    atual: list[str] = []
+    ultima = 0
 
-    ultima_questao = 0
     for linha in linhas:
-        m = QUESTAO_RE.match(linha)
-        numero = int(m.group(1)) if m else None
-        if numero and numero == ultima_questao + 1:
-            atual = {"titulo": f"Questão {numero:02d}", "linhas": [linha]}
-            secoes.append(atual)
-            ultima_questao = numero
-        else:
-            atual["linhas"].append(linha)
-
-    # localizar textos-base declarados e seu conteúdo (do aviso até a 1a questão vinculada)
-    texto_base_por_questao: dict[int, str] = {}
-    idx_questao = {
-        i: int(re.match(r"Questão (\d+)", s["titulo"]).group(1))
-        for i, s in enumerate(secoes)
-        if s["titulo"]
-    }
-
-    for i, secao in enumerate(secoes):
-        conteudo = re.sub(r"\s+", " ", "\n".join(secao["linhas"]))
-        m = TEXTO_BASE_RE.search(conteudo) or TEXTO_BASE_UNICO_RE.search(conteudo)
+        m = QUESTAO_HEAD_RE.match(linha)
         if not m:
+            m2 = QUESTAO_NUM_RE.match(linha)
+            m = m2 if m2 else None
+        numero = int(m.group(1)) if m else None
+        if numero and numero == ultima + 1 and numero <= 400:
+            if atual:
+                questoes.append({"numero": ultima, "linhas": atual})
+            atual = [linha]
+            ultima = numero
+        elif questoes or atual:
+            atual.append(linha)
+        else:
+            pre.append(linha)
+
+    if atual:
+        questoes.append({"numero": ultima, "linhas": atual})
+    return questoes, pre
+
+
+def limpar_corpo(linhas: list[str]) -> list[str]:
+    limpas = []
+    for s in linhas:
+        t = s.strip()
+        if not t:
+            limpas.append("")
             continue
-        ini = int(m.group(1))
-        fim = int(m.group(2)) if m.lastindex and m.lastindex >= 2 else ini
-        # o texto-base é tudo entre o aviso e a próxima seção de questão
+        if t.startswith("<!-- pagina"):
+            continue
+        if t == "---":
+            continue
+        if re.fullmatch(r"\d{1,3}", t):
+            continue
+        limpas.append(s.rstrip())
+    while limpas and not limpas[0].strip():
+        limpas.pop(0)
+    while limpas and not limpas[-1].strip():
+        limpas.pop()
+    return limpas
+
+
+def separar_alternativas(corpo: list[str]) -> tuple[list[str], list[tuple[str, str]]]:
+    """Divide o corpo da questão em (enunciado, alternativas A-E)."""
+    alts: list[tuple[str, str]] = []
+    idx_primeira = None
+    letra_esperada = 0
+    for i, s in enumerate(corpo):
+        t = s.strip()
+        m = ALT_RE.match(t)
+        if m and ord(m.group(1).upper()) - ord("A") == letra_esperada:
+            if letra_esperada == 0:
+                idx_primeira = i
+            alts.append((m.group(1).upper(), m.group(2).strip()))
+            letra_esperada += 1
+        elif alts and t and not m:
+            antiga = alts[-1][1]
+            alts[-1] = (alts[-1][0], (antiga + "\n" + t).strip())
+        elif alts and m:
+            break
+    if len(alts) < 2 or idx_primeira is None:
+        return corpo, []
+    enunciado = corpo[:idx_primeira]
+    while enunciado and not enunciado[-1].strip():
+        enunciado.pop()
+    return enunciado, alts
+
+
+def detectar_grupos(questoes: list[dict], pre: list[str]) -> dict[int, tuple[int, int, str]]:
+    """Detecta avisos de texto-base; retorna {questao: (ini, fim, corpo_do_texto)}."""
+    grupos: dict[int, tuple[int, int, str]] = {}
+    num_por_indice = {i: q["numero"] for i, q in enumerate(questoes)}
+
+    # anúncio no conteúdo prévio (capa/instruções): o texto-base é o que vem depois
+    pre_linhas = limpar_corpo(pre)
+    if pre_linhas:
+        plano = "\n".join(pre_linhas)
+        achado = None
+        for rex in TEXTO_BASE_RES:
+            m = rex.search(plano)
+            if m:
+                achado = m
+                break
+        if achado:
+            ini = int(achado.group(1))
+            fim = int(achado.group(2)) if achado.lastindex and achado.lastindex >= 2 else ini
+            if 0 <= fim - ini <= 40:
+                pos_fim = plano.find("\n", achado.end())
+                corpo = plano[pos_fim + 1:].strip() if pos_fim != -1 else ""
+                if corpo:
+                    for num in range(ini, fim + 1):
+                        grupos[num] = (ini, fim, corpo)
+
+    for i, q in enumerate(questoes):
+        conteudo = re.sub(r"\s+", " ", "\n".join(q["linhas"]))
+        aviso = None
+        for rex in TEXTO_BASE_RES:
+            m = rex.search(conteudo)
+            if m:
+                aviso = m
+                break
+        if not aviso:
+            continue
+        ini = int(aviso.group(1))
+        fim = int(aviso.group(2)) if aviso.lastindex and aviso.lastindex >= 2 else ini
+        if fim < ini or fim - ini > 40:
+            continue
         proxima = None
-        for j in range(i + 1, len(secoes)):
-            if j in idx_questao:
+        for j in range(i + 1, len(questoes)):
+            if num_por_indice[j] == ini:
                 proxima = j
                 break
-        corpo = "\n".join(
-            secoes[k]["linhas"] for k in range(i + 1, proxima or len(secoes))
-        ).strip()
-        aviso = m.group(0)
-        for q in range(ini, fim + 1):
-            texto_base_por_questao[q] = (
-                f"> 🔗 **Questão agrupada — texto-base das questões {ini} a {fim}.**\n"
-                f"> {aviso}\n\n{corpo}\n\n---\n"
+        if proxima is None:
+            continue
+        corpo = "\n".join(limpar_corpo(questoes[i]["linhas"])).strip()
+        corpo = re.sub(re.escape(aviso.group(0)), "", corpo, count=1, flags=re.IGNORECASE).strip()
+        if not corpo:
+            continue
+        for num in range(ini, fim + 1):
+            grupos[num] = (ini, fim, corpo)
+    return grupos
+
+
+CARGO_PROVA_RE = re.compile(
+    r"cargo\s*[:\s]\s*([\d]+(?:[\.,]\d+)?)\s*[-\u2013\u2014]?\s*([^\n]{0,80})",
+    re.IGNORECASE,
+)
+CABECALHO_BLOCO_RE = re.compile(r"^(\d+(?:[\.,]\d+)?)\s*[-\u2013\u2014]\s*(.+)$", re.MULTILINE)
+
+
+def selecionar_bloco_gabarito(texto_gab: str, cru_prova: str) -> tuple[str, str]:
+    """Seleciona o bloco do cargo correto em gabaritos com vários cargos.
+
+    Retorna (texto_do_bloco_ou_completo, observação).
+    """
+    blocos = list(CABECALHO_BLOCO_RE.finditer(texto_gab))
+    if len(blocos) <= 1:
+        return texto_gab, ""
+    m = CARGO_PROVA_RE.search(cru_prova)
+    if not m:
+        return "", (
+            "Gabarito contém vários cargos e o cargo da prova não foi identificado; "
+            "gabarito não preenchido automaticamente."
+        )
+    codigo = m.group(1).replace(",", ".")
+    for i, b in enumerate(blocos):
+        fim = blocos[i + 1].start() if i + 1 < len(blocos) else len(texto_gab)
+        if b.group(1).replace(",", ".") == codigo:
+            return texto_gab[b.start():fim], f"cargo {b.group(1)} - {b.group(2).strip()}"
+    return "", (
+        f"Gabarito contém vários cargos e nenhum corresponde ao código '{codigo}' "
+        "identificado na prova; gabarito não preenchido automaticamente."
+    )
+
+
+def parsear_gabarito(texto_cru: str, total_questoes: int) -> dict[int, str]:
+    """Extrai pares questão->letra do texto do PDF de gabarito.
+
+    Tenta primeiro o formato inline ("01 B 02 D ..."); se não houver confiança,
+    tenta o formato em colunas (números e letras sozinhos em linhas separadas).
+    """
+    def confiavel(respostas: dict[int, str]) -> bool:
+        if len(respostas) < max(3, total_questoes * 0.6):
+            return False
+        cobertas = sum(1 for n in range(1, total_questoes + 1) if n in respostas)
+        return cobertas >= total_questoes * 0.6
+
+    texto = re.sub(r"\s+", " ", texto_cru)
+    respostas: dict[int, str] = {}
+    for m in ANULADA_RE.finditer(texto):
+        num = int(m.group(1))
+        if 1 <= num <= total_questoes:
+            respostas[num] = "ANULADA"
+    for m in GABARITO_PAR_RE.finditer(texto):
+        num = int(m.group(1))
+        letra = m.group(2).upper()
+        if 1 <= num <= total_questoes and num not in respostas:
+            respostas[num] = letra
+
+    if not confiavel(respostas):
+        colunas: dict[int, str] = {}
+        nums: list[int] = []
+        letras: list[str] = []
+        for linha in texto_cru.splitlines():
+            t = linha.strip()
+            if re.fullmatch(r"\d{1,3}", t):
+                nums.append(int(t))
+            elif re.fullmatch(r"[A-Ea-e]", t):
+                letras.append(t.upper())
+        if nums and len(nums) == len(letras) and nums == list(range(1, len(nums) + 1)):
+            for n, l in zip(nums, letras):
+                colunas[n] = l
+        if confiavel(colunas):
+            respostas = {**colunas, **respostas}
+
+    if not confiavel(respostas):
+        return {}
+    return {n: respostas[n] for n in sorted(respostas)}
+
+
+def limpar_marcador(enunciado: list[str], numero: int) -> list[str]:
+    if not enunciado:
+        return enunciado
+    primeira = enunciado[0].strip()
+    m_head = QUESTAO_HEAD_RE.match(primeira)
+    m_num = re.match(
+        rf"^\s*(?:\*\*)?\s*0?{numero}\s*[\.\)]\s*\**\s*(.*)$", primeira
+    )
+    if m_head and int(m_head.group(1)) == numero:
+        enunciado = enunciado[1:]
+    elif m_num:
+        resto = m_num.group(1).strip()
+        enunciado = ([resto] if resto else []) + enunciado[1:]
+    while enunciado and not enunciado[0].strip():
+        enunciado.pop(0)
+    return enunciado
+
+
+def renderizar_questao(
+    numero: int,
+    enunciado: list[str],
+    alts: list[tuple[str, str]],
+    material: str | None,
+    gabarito: str | None,
+    origem_gabarito: str,
+) -> str:
+    partes = [f"#### QUESTÃO {numero:02d}", ""]
+    if gabarito:
+        if gabarito == "ANULADA":
+            partes.append("⚠️ **Gabarito: ANULADA**")
+        else:
+            partes.append(f"✅ **Gabarito: {gabarito}** ({origem_gabarito})")
+        partes.append("")
+    if material:
+        partes.append("**Material de apoio:**")
+        partes.append("")
+        partes.append(material)
+        partes.append("")
+    partes.append("**Enunciado:**")
+    partes.append("")
+    partes.extend(enunciado)
+    partes.append("")
+    if alts:
+        partes.append("**Alternativas:**")
+        partes.append("")
+        for letra, conteudo in alts:
+            partes.append(f"{letra}) {conteudo}")
+        partes.append("")
+    imagens = coletar_imagens_do_bloco(enunciado)
+    partes.append("**Referências visuais:**")
+    partes.append("")
+    if imagens:
+        for caminho in imagens:
+            partes.append(f"![Imagem da questão]({caminho})")
+            partes.append("")
+    else:
+        partes.append("Nenhuma.")
+        partes.append("")
+    partes.append("---")
+    partes.append("")
+    return "\n".join(partes)
+
+
+def coletar_imagens_do_bloco(enunciado: list[str]) -> list[str]:
+    texto = "\n".join(enunciado)
+    vistos: list[str] = []
+    for caminho in IMG_RE.findall(texto):
+        if caminho not in vistos:
+            vistos.append(caminho)
+    return vistos
+
+
+def montar_prova(
+    nome: str,
+    pre: list[str],
+    questoes: list[dict],
+    grupos: dict[int, tuple[int, int, str]],
+    gabarito: dict[int, str],
+    origem_gabarito: str,
+    total_imagens: int = 0,
+    observacoes_extras: list[str] | None = None,
+) -> tuple[str, str]:
+    num_para_q = {q["numero"]: q for q in questoes}
+    nums_grupos: dict[tuple[int, int], list[int]] = {}
+    for num, (ini, fim, _) in sorted(grupos.items()):
+        nums_grupos.setdefault((ini, fim), []).append(num)
+
+    total = len(questoes)
+    nums_agrupadas = sorted({n for ns in nums_grupos.values() for n in ns})
+    nums_independentes = [q["numero"] for q in questoes if q["numero"] not in grupos]
+    todas_imagens = sorted(
+        {c for q in questoes for c in coletar_imagens_do_bloco(limpar_corpo(q["linhas"]))}
+    )
+    n_imagens_prova = max(total_imagens, len(todas_imagens))
+
+    md: list[str] = [f"# PROVA — {nome}", ""]
+    md.append("## 1. Análise geral da prova")
+    md.append("")
+    md.append(f"- **Identificação:** {nome}")
+    md.append(f"- **Quantidade total de questões:** {total}")
+    md.append(f"- **Quantidade de textos de apoio (grupos):** {len(nums_grupos)}")
+    md.append(f"- **Quantidade de imagens:** {n_imagens_prova}")
+    md.append(f"- **Quantidade de gráficos e tabelas:** incluídos nas imagens e no texto extraído, quando presentes no PDF original")
+    md.append(f"- **Quantidade de grupos identificados:** {len(nums_grupos)}")
+    md.append(f"- **Quantidade de questões independentes:** {len(nums_independentes)}")
+    if nums_grupos:
+        detalhes = "; ".join(
+            f"texto-base das questões {ini:02d} a {fim:02d} → questões {', '.join(f'{n:02d}' for n in ns)}"
+            for (ini, fim), ns in sorted(nums_grupos.items())
+        )
+        md.append(f"- **Questões que compartilham materiais:** {detalhes}")
+    else:
+        md.append("- **Questões que compartilham materiais:** nenhuma identificada automaticamente")
+    md.append("")
+
+    if pre:
+        md.append("### Transcrição integral da capa/instruções (conforme extraída do PDF)")
+        md.append("")
+        md.append("> [!NOTE]")
+        md.append("> Conteúdo integral das páginas anteriores à primeira questão, sem cortes.")
+        md.append("")
+        for linha in limpar_corpo(pre):
+            md.append(f"> {linha}" if linha.strip() else ">")
+        md.append("")
+
+    if gabarito:
+        md.append("### Gabarito")
+        md.append("")
+        for inicio in range(1, total + 1, 5):
+            faixa = range(inicio, min(inicio + 5, total + 1))
+            cab = "| Questão | " + " | ".join(f"{n:02d}" for n in faixa) + " |"
+            sep = "|---|" + "---|" * len(faixa)
+            val = "| Resposta | " + " | ".join(
+                gabarito.get(n, "—") for n in faixa
+            ) + " |"
+            md.append(cab)
+            md.append(sep)
+            md.append(val)
+            md.append("")
+
+    md.append("## 2. Questões agrupadas")
+    md.append("")
+    if not nums_grupos:
+        md.append("Nenhum grupo de questões compartilhando material foi identificado automaticamente nesta prova.")
+        md.append("")
+    for gi, ((ini, fim), ns) in enumerate(sorted(nums_grupos.items()), start=1):
+        primeiro = num_para_q[ns[0]]
+        _, _, corpo_texto = grupos[ns[0]]
+        md.append(f"### GRUPO {gi:02d} — Texto-base compartilhado pelas questões {ini:02d} a {fim:02d}")
+        md.append("")
+        md.append(f"**Questões relacionadas:** " + ", ".join(f"{n:02d}" for n in ns) + ".")
+        md.append("")
+        for n in ns:
+            q = num_para_q[n]
+            enunciado, alts = separar_alternativas(limpar_corpo(q["linhas"]))
+            enunciado = limpar_marcador(enunciado, n)
+            md.append(
+                renderizar_questao(
+                    n, enunciado, alts, corpo_texto,
+                    gabarito.get(n), origem_gabarito,
+                )
             )
 
-    saida: list[str] = ["# Prova organizada\n"]
-    for secao in secoes:
-        if not secao["titulo"]:
-            cabecalho = "\n".join(secao["linhas"]).strip()
-            if cabecalho:
-                saida.append(cabecalho + "\n")
-            continue
+    md.append("## 3. Questões independentes")
+    md.append("")
+    for n in nums_independentes:
+        q = num_para_q[n]
+        enunciado, alts = separar_alternativas(limpar_corpo(q["linhas"]))
+        enunciado = limpar_marcador(enunciado, n)
+        md.append(
+            renderizar_questao(
+                n, enunciado, alts, None, gabarito.get(n), origem_gabarito
+            )
+        )
 
-        numero = int(re.match(r"Questão (\d+)", secao["titulo"]).group(1))
-        corpo = "\n".join(secao["linhas"]).strip()
-        saida.append(f"\n---\n\n## {secao['titulo']}\n")
-        if numero in texto_base_por_questao:
-            saida.append(texto_base_por_questao[numero])
-        saida.append(corpo + "\n")
+    md.append("## 4. Observações e limitações da extração")
+    md.append("")
+    obs = [
+        "Extração automática (texto selecionável do PDF via PyMuPDF), sem OCR: PDFs escaneados podem perder texto.",
+        "Imagens repetidas (logos/marcas d'água) foram descartadas; as imagens de conteúdo foram salvas em `imagens/` com nomenclatura `imagem_00N`.",
+        "A detecção de grupos usa os avisos padrão das bancas (\"o texto seguinte servirá de base...\"). Bancas sem esse aviso podem ter grupos não identificados — o conteúdo, porém, permanece integral.",
+        "Se houver divergência entre esta versão e o PDF original, vale o PDF original; corrija manualmente o Markdown.",
+    ]
+    if gabarito and len(gabarito) < total:
+        faltam = [n for n in range(1, total + 1) if n not in gabarito]
+        obs.append(
+            f"Gabarito incompleto: não foi possível identificar a resposta das questões {', '.join(f'{n:02d}' for n in faltam)} no PDF de gabarito."
+        )
+    if not gabarito:
+        obs.append("Gabarito oficial não disponível/pareado — nenhuma resposta foi preenchida.")
+    for extra in observacoes_extras or []:
+        obs.append(extra)
+    for o in obs:
+        md.append(f"- {o}")
+    md.append("")
+    prova_md = "\n".join(md)
 
-    return "\n".join(saida)
+    rel: list[str] = [f"# Relatório de análise — {nome}", ""]
+    rel.append("## Resumo")
+    rel.append("")
+    rel.append(f"- Questões identificadas: **{total}**")
+    rel.append(f"- Grupos com material compartilhado: **{len(nums_grupos)}**")
+    rel.append(f"- Questões agrupadas: **{len(nums_agrupadas)}**")
+    rel.append(f"- Questões independentes: **{len(nums_independentes)}**")
+    rel.append(f"- Imagens extraídas: **{n_imagens_prova}**")
+    rel.append(f"- Gabarito: **{'preenchido (' + origem_gabarito + ')' if gabarito else 'não disponível'}**")
+    rel.append("")
+    rel.append("| Material compartilhado | Questões vinculadas | Tipo |")
+    rel.append("|---|---|---|")
+    if nums_grupos:
+        for (ini, fim), ns in sorted(nums_grupos.items()):
+            rel.append(
+                f"| Texto-base compartilhado (questões {ini:02d} a {fim:02d}) | "
+                + ", ".join(f"{n:02d}" for n in ns)
+                + " | Texto |"
+            )
+    else:
+        rel.append("| — | — | — |")
+    rel.append("")
+    relatorio_md = "\n".join(rel)
+    return prova_md, relatorio_md
 
 
-def processar(pasta_pdfs: Path, pasta_saida: Path, repo: Path | None) -> None:
+def parear_pdfs(pdfs: list[Path]) -> list[tuple[Path, Path | None]]:
+    """Pareia Prova + Gabarito pela semelhança do nome (sem os prefixos)."""
+    def chave(p: Path) -> str:
+        nome = re.sub(r"^[A-Za-z0-9]{6,10}-", "", p.stem)
+        nome = re.sub(r"(?i)^(prova|gabarito)\s*[-–—:]?\s*", "", nome)
+        nome = re.sub(r"(?i)\s*gabarito\s*[-–—:]?\s*", " ", nome)
+        return re.sub(r"[^a-z0-9]", "", nome.lower())
+
+    provas = [p for p in pdfs if not re.search(r"(?i)gabarito", p.stem)]
+    gabas = [p for p in pdfs if re.search(r"(?i)gabarito", p.stem)]
+    pares: list[tuple[Path, Path | None]] = []
+    usados: set[Path] = set()
+    for prova in provas:
+        cp = chave(prova)
+        melhor = None
+        melhor_score = 0
+        for gaba in gabas:
+            if gaba in usados:
+                continue
+            cg = chave(gaba)
+            comum = sum(1 for i in range(0, min(len(cp), len(cg)), 4) if cp[i:i+4] == cg[i:i+4])
+            if comum > melhor_score:
+                melhor_score = comum
+                melhor = gaba
+        if melhor and melhor_score >= 1:
+            usados.add(melhor)
+            pares.append((prova, melhor))
+        else:
+            pares.append((prova, None))
+    return pares
+
+
+def processar_prova(
+    prova: Path,
+    gabarito: Path | None,
+    pasta_saida: Path,
+    nome_forcado: str | None,
+) -> Path:
+    nome = nome_forcado
+    if not nome:
+        nome = re.sub(r"^[A-Za-z0-9]{6,10}-", "", prova.stem)
+        nome = re.sub(r"(?i)^(prova|gabarito)\s*[-–—:]?\s*", "", nome)
+        nome = re.sub(r"\s*-\s*", "_", nome)
+        nome = re.sub(r"[^\w\- ]+", "_", nome).strip().replace(" ", "_")
+        nome = re.sub(r"_+", "_", nome).strip("_") or "Prova_Sem_Nome"
+
+    pasta_prova = pasta_saida / nome
+    pasta_imagens = pasta_prova / "imagens"
+    if pasta_prova.exists():
+        shutil.rmtree(pasta_prova)
+    pasta_imagens.mkdir(parents=True)
+
+    print(f"[{nome}] extraindo {prova.name}...")
+    cru = extrair_pdf(prova, pasta_imagens)
+    questoes, pre = detectar_questoes(cru)
+    if not questoes:
+        print(f"[{nome}] ⚠️ nenhuma questão detectada — PDF provavelmente escaneado (precisa de OCR).")
+        (pasta_prova / "prova_organizada.md").write_text(cru, encoding="utf-8")
+        (pasta_prova / "relatorio_analise.md").write_text(
+            f"# Relatório de análise — {nome}\n\n"
+            "⚠️ Nenhuma questão foi detectada automaticamente: o PDF provavelmente é "
+            "escaneado (sem texto selecionável) e precisa de OCR antes de ser processado "
+            "por esta ferramenta. O texto bruto extraído foi mantido em `prova_organizada.md`.\n",
+            encoding="utf-8",
+        )
+    else:
+        grupos = detectar_grupos(questoes, pre)
+        gabarito_map: dict[int, str] = {}
+        origem = ""
+        observacoes_gabarito: list[str] = []
+        if gabarito is not None:
+            print(f"[{nome}] pareado com gabarito: {gabarito.name}")
+            doc = fitz.open(gabarito)
+            texto_gab = "\n".join(p.get_text() for p in doc)
+            doc.close()
+            texto_gab, obs_gab = selecionar_bloco_gabarito(texto_gab, cru)
+            gabarito_map = parsear_gabarito(texto_gab, len(questoes)) if texto_gab else {}
+            if gabarito_map:
+                origem = f"gabarito oficial pareado{(' — ' + obs_gab) if obs_gab else ''}"
+            else:
+                print(f"[{nome}] ⚠️ gabarito pareado mas não interpretado com confiança.")
+                if obs_gab:
+                    observacoes_gabarito.append(obs_gab)
+        n_imgs = len([a for a in pasta_imagens.iterdir() if a.suffix.lower() in IMG_EXTS])
+        prova_md, relatorio_md = montar_prova(
+            nome, pre, questoes, grupos, gabarito_map, origem, n_imgs, observacoes_gabarito
+        )
+        (pasta_prova / "prova_organizada.md").write_text(prova_md, encoding="utf-8")
+        (pasta_prova / "relatorio_analise.md").write_text(relatorio_md, encoding="utf-8")
+        print(
+            f"[{nome}] ok: {len(questoes)} questões, {len(grupos)} questões agrupadas, "
+            f"{n_imgs} imagens, gabarito {'sim' if gabarito_map else 'não'}"
+        )
+
+    with zipfile.ZipFile(pasta_prova / "PROVA_ORGANIZADA.zip", "w", zipfile.ZIP_DEFLATED) as z:
+        z.write(pasta_prova / "prova_organizada.md", "prova_organizada.md")
+        z.write(pasta_prova / "relatorio_analise.md", "relatorio_analise.md")
+        for img in sorted(pasta_imagens.iterdir()):
+            if img.suffix.lower() in IMG_EXTS:
+                z.write(img, f"imagens/{img.name}")
+    print(f"[{nome}] ZIP gerado: {pasta_prova / 'PROVA_ORGANIZADA.zip'}")
+    return pasta_prova
+
+
+def processar(pasta_pdfs: Path, pasta_saida: Path, repo: Path | None, nome: str | None) -> None:
     pdfs = sorted(pasta_pdfs.glob("*.pdf")) + sorted(pasta_pdfs.glob("*.PDF"))
     if not pdfs:
         sys.exit(f"Nenhum PDF encontrado em {pasta_pdfs}")
 
-    for pdf in pdfs:
-        slug = re.sub(r"[^\w\-]+", "_", pdf.stem).strip("_")
-        pasta_prova = pasta_saida / slug
-        pasta_imagens = pasta_prova / "imagens"
-        pasta_imagens.mkdir(parents=True, exist_ok=True)
-
-        print(f"[{slug}] extraindo...")
-        cru = extrair_pdf(pdf, pasta_imagens)
-        organizado = organizar(cru)
-        (pasta_prova / f"{slug}.md").write_text(organizado, encoding="utf-8")
-        n_imgs = len([a for a in pasta_imagens.iterdir() if a.suffix.lower() in IMG_EXTS])
-        print(f"[{slug}] ok -> {pasta_prova / (slug + '.md')} ({n_imgs} imagens)")
+    pasta_saida.mkdir(parents=True, exist_ok=True)
+    pares = parear_pdfs(pdfs)
+    if len(pares) == 1:
+        processar_prova(pares[0][0], pares[0][1], pasta_saida, nome)
+    else:
+        if nome:
+            print("⚠️ --nome ignorado: há várias provas na pasta; o nome vem do arquivo.")
+        for prova, gabarito in pares:
+            processar_prova(prova, gabarito, pasta_saida, None)
 
     if repo:
         destino = repo / "Provas MD"
@@ -190,20 +694,21 @@ def processar(pasta_pdfs: Path, pasta_saida: Path, repo: Path | None) -> None:
                     shutil.rmtree(alvo)
                 shutil.copytree(pasta_prova, alvo)
         print(f"\nConteúdo copiado para {destino}. Para publicar:")
-        print(f"  cd {repo} && git add -A && git commit -m 'Nova prova organizada' && git push")
+        print(f"  cd {repo} && git add -A && git commit -m 'Novas provas organizadas' && git push")
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Organiza provas em PDF para Markdown")
+    parser = argparse.ArgumentParser(description="Organiza provas em PDF para Markdown (padrão provas_md)")
     parser.add_argument("--pasta", required=True, help="Pasta com os PDFs")
-    parser.add_argument("--saida", default="saida", help="Pasta de saída dos .md")
+    parser.add_argument("--saida", default="saida", help="Pasta de saída das provas")
+    parser.add_argument("--nome", help="Nome da pasta da prova (padrão: Camara_<Cidade>_<Ano>_<Cargo>)")
     parser.add_argument("--repo", help="Caminho do clone de provas_md para copiar o resultado")
     args = parser.parse_args()
 
     pasta_pdfs = Path(args.pasta).expanduser().resolve()
     pasta_saida = Path(args.saida).expanduser().resolve()
     repo = Path(args.repo).expanduser().resolve() if args.repo else None
-    processar(pasta_pdfs, pasta_saida, repo)
+    processar(pasta_pdfs, pasta_saida, repo, args.nome)
 
 
 if __name__ == "__main__":
