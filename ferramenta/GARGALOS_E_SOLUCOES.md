@@ -61,12 +61,15 @@ A extração literal do PDF traz lixo que NÃO é conteúdo da prova. Filtre ant
 
 | Situação | Como resolver |
 |---|---|
-| **Multi-cargo** (gabarito com páginas de vários cargos) | Selecionar o bloco da página do cargo da prova. A ferramenta acha o cargo pela capa (`CARGO: 2.03 - ...`). Se não achar, identifique manualmente e extraia só o bloco correto (ex.: Votorantim 2016 — cargo 2.03 Cerimonialista entre 6+ cargos; Abaetetuba 2018 — página do cargo no gabarito multi-cargo). |
+| **Multi-cargo** (gabarito com páginas de vários cargos) | Selecionar o bloco da página do cargo da prova. A ferramenta acha o cargo pela capa (`CARGO: 2.03 - ...`) **ou por rótulo de cargo no gabarito** (`FUN - AUXILIAR...`, `MED - AGENTE ADMINISTRATIVO` — Bezerros 2025). Se não achar, identifique manualmente e extraia só o bloco correto (ex.: Votorantim 2016 — cargo 2.03 Cerimonialista entre 6+ cargos; Abaetetuba 2018 — página do cargo no gabarito multi-cargo). |
+| **Gabarito lido pela metade** (tabela com várias colunas de questões) | CONFERIR se TODAS as questões receberam resposta. Caso real: Catas Altas da Noruega 2010 — a tabela tinha 4 colunas (Português 01–10, Matemática 11–20, Específica Agente Legislativo 21–40, Específica Secretário 21–40) e só as duas últimas foram capturadas; as questões 01–20 ficaram sem gabarito até a auditoria refazer o OCR da página e inserir as 20 respostas faltantes. Sintoma: `validar_prova.py` emite "gabarito parcial — questões sem resposta". |
+| **Questões V/F no gabarito** (respostas `V`/`F` em vez de A–E) | A ferramenta aceita: a passada A–E roda primeiro e a passada V/F preenche só os números que ficaram sem resposta (Belo Jardim 2015 Q10 = V). |
 | **Retificação no próprio gabarito** | Usar a resposta retificada e registrar: `✅ **Gabarito: A** (gabarito oficial definitivo — Tipo 1 (Cor Branca))` + observação "questão 11 tem resposta retificada para A no gabarito oficial" (Abaetetuba 2018 Administrador). |
 | **Gabarito indisponível** (PDF de gabarito só tem instruções, ou não veio) | NÃO inventar. Prova fica sem linhas de gabarito; registrar na seção 4: "Gabarito oficial não disponível: o PDF de gabarito contém apenas instruções, sem grade de respostas" (Serra 2014; Brusque 2024 — divulgado apenas no site da banca). |
 | **Preliminar × definitivo** | Citar a origem exata na linha de gabarito: "(gabarito oficial preliminar — Instituto ADM&TEC)". |
 | **Prova e gabarito com nomes genéricos** (`prova.pdf` / `gabarito.pdf`) | Identificar cidade/ano/cargo pela CAPA e pelo conteúdo, nunca pelo nome do arquivo (Alvorada 2008: identificado FAURGS pela capa). |
-| **Tipos de prova (Cor Branca, Tipo 1...)** | Usar o tipo correspondente e citar na origem: "Tipo 1 (Cor Branca)". |
+| **Tipos de prova (Cor Branca, Tipo 1...)** | Usar o tipo correspondente e citar na origem: "Tipo 1 (Cor Branca)" (Barbacena 2022 — TIPO 4 – AZUL; a ferramenta seleciona o bloco do tipo correto). |
+| **Marcador `#` no gabarito** (questão anulada) | Gabaritos oficiais usam `#` para anulada; a ferramenta converte para `⚠️ **Gabarito: ANULADA**` (Barbacena 2022 Q7, Bom Jesus do Itabapoana 2010 Q6 = `X`). |
 
 **Nunca:** preencher gabarito "deduzindo" respostas, usar gabarito de outro cargo, ou omitir a origem.
 
@@ -81,6 +84,9 @@ A extração literal do PDF traz lixo que NÃO é conteúdo da prova. Filtre ant
 - **Imagem dentro de tabela/questão complexa:** identificar a qual questão pertence lendo o contexto da página (Serra 2014: tabela + 3 gráficos da Q24; Abaetetuba Agente: 2 gráficos pizza da Q11).
 - **Imagem não extraível** (ícone decorativo vetorial pequeno): registrar na seção 4 (Serra 2014 Q12).
 - **Figuras vetoriais** (não são "imagens" no PDF): recortar a região da página em alta resolução e salvar como imagem (Piracicaba 2019: Q19, Q29, Q30, Q41...).
+- **Imagem extraída mas nunca referenciada = BUG GRAVE:** se `validar_prova.py` acusar imagem órfã, descubra a qual questão ela pertence e insira a referência. Caso real: Piracicaba 2019 — a tirinha "O melhor de Calvin" (base das questões 08 e 09, que dizem "Leia a tira...") estava salva em `imagens/` mas sem referência dentro das questões; corrigido inserindo `![...](imagens/imagem_001.png)` no material de apoio das duas questões e no cabeçalho do grupo.
+- **Gráfico em camada separada do PDF não capturado:** a extração por página pode perder imagens cujo xref não é único da página. Caso real: Americana 2024 Q11 — o gráfico de barras ("antecedência de compra de ingressos de cinema") estava no xref 66 da página 4, entre as duas partes do enunciado; recuperado com `pymupdf.Pixmap(doc, xref)`, verificado visualmente e inserido como `imagem_004.png`.
+- **Logo salvo por engano como se fosse conteúdo:** se a imagem órfã for logo/marca d'água (Araripina 2024 — logo do Instituto igeduc; Calumbi 2024 — marca do site), remova o arquivo, atualize a seção 1 e registre na seção 4.
 
 ---
 
@@ -100,10 +106,12 @@ Se o nome do arquivo conflitar com o documento, vale o documento — e registre 
 
 ## Caso 6 — Questões especiais
 
-- **Anulada:** `⚠️ **Gabarito: ANULADA**` + manter a questão inteira no lugar original (Acaraú 2009 Q18; Alvorada 2008 Q15).
+- **Anulada:** `⚠️ **Gabarito: ANULADA**` + manter a questão inteira no lugar original (Acaraú 2009 Q18; Alvorada 2008 Q15; marcadores `#` ou `X` no gabarito oficial viram ANULADA — Barbacena 2022 Q7, Bom Jesus do Itabapoana 2010 Q6).
 - **Verdadeiro/Falso (sem alternativas A–E):** preservar o formato original ("Julgue o item... V ou F"), gabarito pode ser V/F/C/E (Araripina 2024, São José do Egito 2024 — 100 questões de itens).
 - **Discursiva / Produção Escrita / Redação:** `⚠️ **Gabarito: não se aplica — questão discursiva**`, bloco próprio com `####` (Itaiópolis 2024: 4 questões de Produção Escrita) ou seção própria (`### REDAÇÃO`, Piracicaba 2019). Manter orientações da banca integralmente (contagem de linhas, rascunho etc.).
 - **Afirmativas I, II, III dentro do enunciado:** não são grupo — ficam dentro do enunciado da própria questão (padrão FURB — Brusque 2024).
+- **Texto fragmentado palavra por palavra** (camada de texto quebrada no PDF): o enunciado sai como `Um\n\nanalista\n\nestá...` e as alternativas podem ficar incompletas ou sumir. Reconstruir a questão a partir do PDF original e registrar na seção 4 (Bezerros 2025 Q10 e Q20 — a Q20 tinha perdido TODAS as alternativas; Barbacena 2022 Q45 — tinha perdido 2 dos 4 grupos de itens V/F e as alternativas finais A–D).
+- **Páginas finais após a última questão objetiva** (prova discursiva, rascunho, folha de texto): NÃO deixar que virem parte da última questão. A `montar_prova` tem o parâmetro `pos_texto`: transcreve essas páginas íntegras numa seção própria ("### Transcrição integral das páginas finais (após a última questão)") entre as seções 3 e 4 (Belo Horizonte 2023 — PROVA DISCURSIVA após a Q60).
 
 ---
 
@@ -125,6 +133,7 @@ Se encontrar pasta de prova com formato diferente (títulos `# PROVA ORGANIZADA 
    python validar_prova.py --pasta "Provas MD/Camara_X"   # uma prova
    ```
    Erros = não publique. Avisos = confira se são os casos legítimos (discursivas).
+   O validador também acusa: **imagem órfã** (extraída e nunca referenciada — ERRO), **imagem do material compartilhado do grupo que não aparece em todas as questões do grupo** (ERRO), **gabarito parcial** (algumas questões com resposta e outras sem — AVISO) e **questão que cita tira/figura/gráfico sem referência de imagem** (AVISO).
 2. **Conferência de cobertura (IA):** compare o `prova_organizada.md` com o transcript/PDF original linha a linha; cada linha "faltando" precisa ser classificada como (a) falsa divergência explicável (cabeçalho descartado, formato normalizado, linha mesclada dividida) ou (b) perda real → corrigir. Meta: **zero perdas reais**.
 3. **Checklist do `INSTRUCOES.md` (Passo 4)** — conte questões, confira alternativas, gabarito, imagens e capa.
 
@@ -151,3 +160,10 @@ Se encontrar pasta de prova com formato diferente (títulos `# PROVA ORGANIZADA 
 | Anulada | `Camara_Acarau_2009_Agente_Administrativo` (Q18), `Camara_Alvorada_2008_Agente_Administrativo` (Q15) |
 | Imagens (tirinha/gráfico) | `Camara_Brusque_2024_Agente_Administrativo_Recepcao`, `Camara_Americana_2024_Analista_de_Comunicacao` |
 | Alternativas "A." | `Camara_Alto_Paraiso_2024_Agente_Administrativo` |
+| Gabarito por rótulo de cargo (`MED - ...`, `FUN - ...`) | `Camara_Bezerros_2025_Agente_Administrativo` |
+| V/F no gabarito (resposta `V`) | `Camara_Belo_Jardim_2015_Agente_Administrativo` (Q10) |
+| `#` = anulada no gabarito | `Camara_Barbacena_2022_Agente_Administrativo` (Q7) |
+| Páginas finais/discursiva via `pos_texto` | `Camara_Belo_Horizonte_2023_Administrador` |
+| Gabarito lido pela metade (colunas 01–10/11–20 perdidas) | `Camara_Catas_Altas_da_Noruega_2010_Agente_Legislativo` (corrigido em auditoria) |
+| Imagem órfã = bug (tirinha sem ref nas questões) | `Camara_Piracicaba_2019_Agente_Legislativo` (Q08–09, corrigido) |
+| Texto fragmentado palavra por palavra | `Camara_Bezerros_2025_Agente_Administrativo` (Q10/Q20 reconstruídas) |

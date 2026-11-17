@@ -87,8 +87,8 @@ E) ...
 ### 1.5. Regras de conteúdo (INEGOCIÁVEIS)
 
 1. **NÃO resumir, omitir, simplificar, encurtar ou adaptar NADA.** Enunciados, alternativas A–E (todas as que existirem), textos de apoio completos, fórmulas, tabelas, notas de rodapé, instruções da capa: tudo 100%.
-2. **Cada questão é autossuficiente**: o material compartilhado (texto, imagem, tabela, situação-problema) aparece **repetido integralmente dentro de cada questão** do grupo. Teste: se uma questão for lida isoladamente por outra IA, ela deve ter tudo o que precisa.
-3. Gabarito por questão: `✅ **Gabarito: X** (gabarito oficial pareado)`; anulada: `⚠️ **Gabarito: ANULADA**`; sem gabarito: `⚠️ **Gabarito: oficial não disponível**`.
+2. **Cada questão é autossuficiente**: o material compartilhado (texto, imagem, tabela, situação-problema) aparece **repetido integralmente dentro de cada questão** do grupo. Teste: se uma questão for lida isoladamente por outra IA, ela deve ter tudo o que precisa. **Toda imagem extraída deve estar referenciada dentro da(s) questão(ões) que a usam** — imagem salva em `imagens/` mas sem referência no Markdown é bug (o validador acusa como "imagem órfã").
+3. Gabarito por questão: `✅ **Gabarito: X** (gabarito oficial pareado)`; anulada: `⚠️ **Gabarito: ANULADA**` (também quando o gabarito oficial usa `#` ou `X`); V/F: `✅ **Gabarito: V**`; sem gabarito: `⚠️ **Gabarito: oficial não disponível**`.
 4. Numeração original preservada; ordem original preservada; nada de "texto conforme original" ou "demais informações omitidas".
 5. Se algo estiver ilegível, registre **onde** está o problema na seção 4 — nunca invente conteúdo.
 

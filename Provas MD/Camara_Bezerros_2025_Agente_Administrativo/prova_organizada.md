@@ -5630,472 +5630,27 @@ Nenhuma.
 
 **Enunciado:**
 
-Um
+Um analista está criando uma planilha de comissões no Excel. Ele precisa calcular a comissão (na coluna B) para vários vendedores (na coluna A) com base em um percentual fixo que está em uma única célula (ex: F1). Ao escrever a fórmula `=A2*F1` na célula B2 e tentar arrastá-la para baixo (para B3, B4, etc.), ele nota que os cálculos ficam incorretos, pois a referência à célula F1 muda para F2, F3, etc. Para corrigir o comportamento da fórmula ao ser copiada, é necessário compreender o uso de referências absolutas e relativas. Sobre esse tema, marque V, para as afirmativas verdadeiras, e F, para as falsas.
 
-analista
+(__) Para travar a referência da célula F1, o analista deve usar a referência relativa `F1`, garantindo que ela se ajuste automaticamente ao ser copiada.
 
-está
+(__) A fórmula correta para a célula B2 seria `=$A$2*F1`, pois a referência absoluta em A2 impede que o nome do vendedor mude ao arrastar para baixo.
 
-criando
+(__) O atalho F4 no Excel é usado para converter uma referência mista (como `$F1`) em uma referência relativa (como `F1`), mas não o contrário.
 
-uma
+(__) A fórmula correta para a célula B2 deve ser `=A2*$F$1`, pois a referência absoluta `$F$1` impede que a linha e a coluna da célula de comissão mudem ao arrastar a fórmula.
 
-planilha
+Após análise, assinale a alternativa que apresenta a sequência correta dos itens acima, de cima para baixo:
 
-de
+**Alternativas:**
 
-comissões
+A) V, F, F, F.
 
-no
-Excel.
+B) F, F, V, V.
 
-Ele
+C) F, F, F, V.
 
-precisa
-
-calcular
-
-a
-
-comissão
-
-(na
-
-coluna
-
-B)
-
-para
-vários
-
-vendedores
-
-(na
-
-coluna
-
-A)
-
-com
-
-base
-
-em
-
-um
-percentual
-
-fixo
-
-que
-
-está
-
-em
-
-uma
-
-única
-
-célula
-
-(ex:
-
-F1).
-Ao
-
-escrever
-
-a
-
-fórmula
-
-`=A2*F1`
-
-na
-
-célula
-
-B2
-
-e
-
-tentar
-arrastá-la
-
-para
-
-baixo
-
-(para
-
-B3,
-
-B4,
-
-etc.),
-
-ele
-
-nota
-
-que
-
-os
-cálculos
-
-ficam
-
-incorretos,
-
-pois
-
-a
-
-referência
-
-à
-
-célula
-
-F1
-muda
-
-para
-
-F2,
-
-F3,
-
-etc.
-Para
-
-corrigir
-
-o
-
-comportamento
-
-da
-
-fórmula
-
-ao
-
-ser
-copiada,
-
-é
-
-necessário
-
-compreender
-
-o
-
-uso
-
-de
-
-referências
-absolutas
-
-e
-
-relativas.
-
-Sobre
-
-esse
-
-tema,
-
-marque
-
-V,
-
-para
-as
-
-afirmativas
-
-verdadeiras,
-
-e
-
-F,
-
-para
-
-as
-
-falsas.
-(__)
-
-Para
-
-travar
-
-a
-
-referência
-
-da
-
-célula
-
-F1,
-
-o
-
-analista
-deve
-
-usar
-
-a
-
-referência
-
-relativa
-
-`F1`,
-
-garantindo
-
-que
-
-ela
-se
-
-ajuste
-
-automaticamente
-
-ao
-
-ser
-
-copiada.
-(__)
-
-A
-
-fórmula
-
-correta
-
-para
-
-a
-
-célula
-
-B2
-
-seria
-
-`=$A$2*F1`,
-pois
-
-a
-
-referência
-
-absoluta
-
-em
-
-A2
-
-impede
-
-que
-
-o
-
-nome
-
-do
-vendedor
-
-mude
-
-ao
-
-arrastar
-
-para
-
-baixo.
-(__)
-
-O
-
-atalho
-
-F4
-
-no
-
-Excel
-
-é
-
-usado
-
-para
-
-converter
-
-uma
-referência
-
-mista
-
-(como
-
-`$F1`)
-
-em
-
-uma
-
-referência
-
-relativa
-(como
-
-`F1`),
-
-mas
-
-não
-
-o
-
-contrário.
-(__)
-
-A
-
-fórmula
-
-correta
-
-para
-
-a
-
-célula
-
-B2
-
-deve
-
-ser
-`=A2*$F$1`,
-
-pois
-
-a
-
-referência
-
-absoluta
-
-`$F$1`
-
-impede
-que
-
-a
-
-linha
-
-e
-
-a
-
-coluna
-
-da
-
-célula
-
-de
-
-comissão
-
-mudem
-
-ao
-arrastar
-
-a
-
-fórmula.
-Após
-
-análise,
-
-assinale
-
-a
-
-alternativa
-
-que
-
-apresenta
-
-a
-sequência
-
-correta
-
-dos
-
-itens
-
-acima,
-
-de
-
-cima
-
-para
-
-baixo:
-(A) V,
-
-F,
-
-F,
-
-F.
-(B) F,
-
-F,
-
-V,
-
-V.
-(C) F,
-
-F,
-
-F,
-
-V.
-(D) V,
-
-V,
-
-V,
-
-V.
-Conhecimentos Específicos
+D) V, V, V, V.
 
 **Referências visuais:**
 
@@ -8068,202 +7623,41 @@ Nenhuma.
 
 **Enunciado:**
 
-Durante a implementação de um projeto de
-modernização
+Durante a implementação de um projeto de modernização do sistema de atendimento ao cidadão, a equipe identificou diversas dificuldades: algumas atividades foram iniciadas antes de definir objetivos claros, outras tarefas importantes ficaram sem responsáveis e o acompanhamento da execução era irregular. Para solucionar, o gestor estruturou o projeto seguindo as cinco fases do ciclo de vida: iniciação, planejamento, execução, monitoramento e encerramento.
 
-do
+Associe a coluna A, que apresenta as fases do ciclo de vida do projeto, à coluna B, que indica suas respectivas funções principais.
 
-sistema
+Coluna A: Fase do ciclo de vida
 
-de
-
-atendimento
-
-ao
-
-cidadão,
-
-a
-equipe identificou diversas dificuldades: algumas
-atividades
-
-foram
-
-iniciadas
-
-antes
-
-de
-
-definir
-
-objetivos
-claros, outras tarefas importantes ficaram sem
-responsáveis
-
-e
-
-o
-
-acompanhamento
-
-da
-
-execução
-
-era
-irregular.
-
-Para
-
-solucionar,
-
-o
-
-gestor
-
-estruturou
-
-o
-
-projeto
-seguindo
-
-as
-
-cinco
-
-fases
-
-do
-
-ciclo
-
-de
-
-vida:
-
-iniciação,
-planejamento, execução, monitoramento e
-encerramento.
-AGENTE ADMINISTRATIVO - 1
-
-
-
-Associe
-
-a
-
-coluna
-
-A,
-
-que
-
-apresenta
-
-as
-
-fases
-
-do
-
-ciclo
-
-de
-vida
-
-do
-
-projeto,
-
-à
-
-coluna
-
-B,
-
-que
-
-indica
-
-suas
-
-respectivas
-funções
-
-principais.
-Coluna
-
-**Alternativas:**
-
-A) Fase
-do
-ciclo
-de
-vida
 1. Iniciação
 2. Planejamento
 3. Execução
 4. Monitoramento
 5. Encerramento
-Coluna
-B) Funções
-(__)
-Realização
-das
-atividades
-conforme
-definido
-no
-planejamento.
-(__)
-Acompanhamento
-do
-progresso,
-identificação
-de
-desvios
-e
-correção
-de
-problemas.
-(__)
-Definição
-do
-objetivo,
-escopo
-e
-viabilidade
-do
-projeto.
-(__)
-Formalização
-da
-conclusão
-do
-projeto
-e
-verificação
-do
-alcance
-dos
-resultados.
-(__)
-Detalhamento
-das
-tarefas,
-prazos,
-recursos
-e
-responsabilidades.
-Assinale
-a
-opção
-com
-a
-sequência
-CORRETA:
+
+Coluna B: Funções
+
+(__) Realização das atividades conforme definido no planejamento.
+
+(__) Acompanhamento do progresso, identificação de desvios e correção de problemas.
+
+(__) Definição do objetivo, escopo e viabilidade do projeto.
+
+(__) Formalização da conclusão do projeto e verificação do alcance dos resultados.
+
+(__) Detalhamento das tarefas, prazos, recursos e responsabilidades.
+
+Assinale a opção com a sequência CORRETA:
+
+**Alternativas:**
+
+A) 1, 5, 3, 2, 4.
+
+B) 3, 5, 1, 2, 4
+
+C) 5, 3, 1, 4, 2.
+
+D) 3, 1, 5, 2, 4.
 
 **Referências visuais:**
 
@@ -12447,6 +11841,7 @@ Nenhuma.
 
 ## 4. Observações e limitações da extração
 
+- **Questões 10 e 20 reconstruídas em auditoria:** o texto do PDF original dessas questões veio fragmentado palavra por palavra (falha da camada de texto do arquivo); foram reconstituídas na íntegra a partir do PDF original, com as alternativas (A)–(D) normalizadas para o formato "A)" — conteúdo integral preservado.
 - Extração automática (texto selecionável do PDF via PyMuPDF), sem OCR: PDFs escaneados podem perder texto.
 - Imagens repetidas (logos/marcas d'água) foram descartadas; as imagens de conteúdo foram salvas em `imagens/` com nomenclatura `imagem_00N`.
 - A detecção de grupos usa os avisos padrão das bancas ("o texto seguinte servirá de base..."). Bancas sem esse aviso podem ter grupos não identificados — o conteúdo, porém, permanece integral.

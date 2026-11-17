@@ -1294,6 +1294,7 @@ Julgue o item a seguir e marque **V (Certo)** ou **F (Errado)**.
 
 ## 4. Observações e limitações da extração
 
+- **Logo removido em auditoria:** o arquivo `imagens/imagem_001.jpg` era o logotipo/marca da banca ou do site de origem (não é conteúdo de questão) e foi excluído da pasta `imagens/`.
 - **Origem do conteúdo:** transcrição integral por OCR a partir do PDF oficial do caderno de questões (Igeduc — Concurso 001/2024, Câmara Municipal de Araripina-PE, G2 Agente Administrativo NM, aplicado em 30/06/2024). Todas as 8 páginas do PDF foram analisadas.
 - **Ano da prova:** o nome do arquivo enviado indica “2020”, porém o caderno, o gabarito e os registros oficiais do concurso (Igeduc/Qconcursos) confirmam que se trata do **Concurso 001/2024** (Edital nº 1), prova aplicada em **30/06/2024**. Além disso, a questão 22 cita a descontinuação do suporte ao Windows 7 “em janeiro de 2020” como fato já ocorrido, o que confirma prova posterior a 2020.
 - **Gabarito:** o PDF da prova não contém gabarito. Foi utilizado o **gabarito definitivo oficial** do Igeduc, atualizado em 24/07/2024, página “GABARITO DEFINITIVO (TARDE) — AD - AGENTE ADMINISTRATIVO” (as demais páginas do gabarito — AC, AD Analista Administrativo e AJ no turno da manhã; ACL e OL na tarde — pertencem a outros cargos e não foram aplicadas).

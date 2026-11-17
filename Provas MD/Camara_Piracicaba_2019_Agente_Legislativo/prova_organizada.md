@@ -326,6 +326,8 @@ E) O braço robótico, que manipu lavam as bananas de plástico, gastou horas em
 > 
 > (O melhor de Calvin. Bill Watterson. O Estado de S. Paulo, 06.04.2019)
 
+![Tira "O melhor de Calvin" (Bill Watterson) — base das questões 08 e 09](imagens/imagem_001.png)
+
 ---
 
 #### QUESTÃO 08
@@ -339,6 +341,8 @@ E) O braço robótico, que manipu lavam as bananas de plástico, gastou horas em
 > Leia a tira para responder às questões de números 08 e 09.
 > 
 > (O melhor de Calvin. Bill Watterson. O Estado de S. Paulo, 06.04.2019)
+
+![Tira "O melhor de Calvin" (Bill Watterson) — base das questões 08 e 09](imagens/imagem_001.png)
 
 **Enunciado:**
 
@@ -369,6 +373,8 @@ E) não gosta de estudar sobre a vida dos animais, mas serviu-se das informaçõ
 > Leia a tira para responder às questões de números 08 e 09.
 > 
 > (O melhor de Calvin. Bill Watterson. O Estado de S. Paulo, 06.04.2019)
+
+![Tira "O melhor de Calvin" (Bill Watterson) — base das questões 08 e 09](imagens/imagem_001.png)
 
 **Enunciado:**
 

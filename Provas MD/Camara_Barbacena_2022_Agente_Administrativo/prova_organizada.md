@@ -1439,22 +1439,51 @@ Nenhuma.
 
 **Enunciado:**
 
-Uma das finalidades principais de um sistema de arquivos
-é a guarda e a disponibilização de documentos necessários
-para o processo de tomada de decisão. No entanto, para
-que tal processo ocorra de forma eficiente os documentos
-devem ser corretamente ordenados, conforme o emprego
-de diversos métodos como o método alfabético. Em relação
-às regras de arquivamento alfanumérico, marque V para as
-verdadeiras e F para as falsas.
+Uma das finalidades principais de um sistema de arquivos é a guarda e a disponibilização de documentos necessários para o processo de tomada de decisão. No entanto, para que tal processo ocorra de forma eficiente os documentos devem ser corretamente ordenados, conforme o emprego de diversos métodos como o método alfabético. Em relação às regras de arquivamento alfanumérico, marque V para as verdadeiras e F para as falsas.
+
 ( ) Para sobrenomes iguais
+
+a) Souza, Aníbal
+
+b) Souza, Paulo
+
+c) Souza, Marília
+
+( ) Para nomes compostos
+
+a) Castelo Branco, Camilo
+
+b) Monte Verde, Paulo
+
+c) Villa Lobos, Heitor
+
+( ) Para nomes com artigos e preposições
+
+a) Almeida de, Paulo
+
+b) Câmara da, Lúcio
+
+c) Couto do, Adriano
+
+( ) Para sobrenomes com grau de parentesco
+
+a) Almeida Filho, Antonio
+
+b) Ramos Júnior, Paulo
+
+c) Vieira Sobrinho, Joaquim
+
+A sequência está correta em
 
 **Alternativas:**
 
-A) Souza, Aníbal
-B) Souza, Paulo
-C) Souza, Marília
-( ) Para nomes compostos
+A) F, F, F, V.
+
+B) F, V, F, V.
+
+C) V, V, V, F.
+
+D) V, F, V, F.
 
 **Referências visuais:**
 
