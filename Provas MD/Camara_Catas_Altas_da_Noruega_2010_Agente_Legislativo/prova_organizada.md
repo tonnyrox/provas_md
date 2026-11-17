@@ -66,14 +66,18 @@
 | Matemática | 11 a 20 | 10 |
 | Agente Legislativo (conhecimentos específicos) | 21 a 40 | 20 |
 
-**Gabarito preliminar aplicado — Agente Legislativo (questões 21 a 40):**
+**Gabarito preliminar aplicado — Agente Legislativo (questões 01 a 40):**
 
 | Questão | Resposta | Questão | Resposta | Questão | Resposta | Questão | Resposta | Questão | Resposta |
 |---|---|---|---|---|---|---|---|---|---|
-| 21 | **C** | 22 | **C** | 23 | **A** | 24 | **B** | 25 | **D** |
-| 26 | **C** | 27 | **D** | 28 | **D** | 29 | **B** | 30 | **B** |
-| 31 | **A** | 32 | **D** | 33 | **C** | 34 | **B** | 35 | **B** |
-| 36 | **D** | 37 | **B** | 38 | **A** | 39 | **D** | 40 | **A** |
+|| 01 | **D** || 02 | **A** || 03 | **C** || 04 | **D** || 05 | **B** |
+|| 06 | **B** || 07 | **D** || 08 | **C** || 09 | **B** || 10 | **D** |
+|| 11 | **C** || 12 | **B** || 13 | **C** || 14 | **B** || 15 | **D** |
+|| 16 | **B** || 17 | **D** || 18 | **C** || 19 | **A** || 20 | **A** |
+|| 21 | **C** || 22 | **C** || 23 | **A** || 24 | **B** || 25 | **D** |
+|| 26 | **C** || 27 | **D** || 28 | **D** || 29 | **B** || 30 | **B** |
+|| 31 | **A** || 32 | **D** || 33 | **C** || 34 | **B** || 35 | **B** |
+|| 36 | **D** || 37 | **B** || 38 | **A** || 39 | **D** || 40 | **A** |
 
 > 📌 Fonte: página 1 do próprio PDF da prova (GABARITO PRELIMINAR — Concurso Público nº 01/2009/2010, realização 07/08/2010). O arquivo de gabarito pareado enviado contém a mesma tabela, idêntica.
 
@@ -87,6 +91,7 @@
 
 #### QUESTÃO 01
 
+✅ **Gabarito preliminar: D**
 **Material de apoio:**
 
 **Texto integral da prova (reproduzido da página 2 do PDF):**
@@ -126,6 +131,7 @@ Nenhuma.
 
 #### QUESTÃO 02
 
+✅ **Gabarito preliminar: A**
 **Material de apoio:**
 
 **Texto integral da prova (reproduzido da página 2 do PDF):**
@@ -165,6 +171,7 @@ Nenhuma.
 
 #### QUESTÃO 03
 
+✅ **Gabarito preliminar: C**
 **Material de apoio:**
 
 **Texto integral da prova (reproduzido da página 2 do PDF):**
@@ -204,6 +211,7 @@ Nenhuma.
 
 #### QUESTÃO 04
 
+✅ **Gabarito preliminar: D**
 **Material de apoio:**
 
 **Texto integral da prova (reproduzido da página 2 do PDF):**
@@ -243,6 +251,7 @@ Nenhuma.
 
 #### QUESTÃO 05
 
+✅ **Gabarito preliminar: B**
 **Material de apoio:**
 
 **Texto integral da prova (reproduzido da página 2 do PDF):**
@@ -285,6 +294,7 @@ Nenhuma.
 
 #### QUESTÃO 06
 
+✅ **Gabarito preliminar: B**
 **Enunciado:**
 
 Observe a estrofe
@@ -312,6 +322,7 @@ Nenhuma.
 
 #### QUESTÃO 07
 
+✅ **Gabarito preliminar: D**
 **Enunciado:**
 
 Nas frases:
@@ -339,6 +350,7 @@ Nenhuma.
 
 #### QUESTÃO 08
 
+✅ **Gabarito preliminar: C**
 **Enunciado:**
 
 “As críticas _______________ está sujeito o trabalho do jornalista o auxiliam e fortificam a sua crença _______________ ainda pode melhorar muito.”
@@ -362,6 +374,7 @@ Nenhuma.
 
 #### QUESTÃO 09
 
+✅ **Gabarito preliminar: B**
 **Enunciado:**
 
 “Maria das Dores entra e vai abrir o comutador. Detenho-a: não quero luz.”
@@ -385,6 +398,7 @@ Nenhuma.
 
 #### QUESTÃO 10
 
+✅ **Gabarito preliminar: D**
 **Enunciado:**
 
 Identifique a frase em que a concordância se estabelece com o sentido e não com a forma gramatical, ocorrendo, pois, um caso de silepse:
@@ -407,6 +421,7 @@ Nenhuma.
 
 #### QUESTÃO 11
 
+✅ **Gabarito preliminar: C**
 **Enunciado:**
 
 O m.d.c. de 40 e 48 é:
@@ -429,6 +444,7 @@ Nenhuma.
 
 #### QUESTÃO 12
 
+✅ **Gabarito preliminar: B**
 **Enunciado:**
 
 Dois carros de corrida percorrem um circuito fechado. O primeiro dá uma volta completa a cada 10 minutos e o segundo a cada 8 minutos. Sabendo-se que os dois partiram de um mesmo local às 8 horas, pergunta-se a que horas os dois vão se encontrar no ponto de partida pela primeira vez?
@@ -451,6 +467,7 @@ Nenhuma.
 
 #### QUESTÃO 13
 
+✅ **Gabarito preliminar: C**
 **Enunciado:**
 
 Das afirmativas abaixo assinale a opção Falsa:
@@ -473,6 +490,7 @@ Nenhuma.
 
 #### QUESTÃO 14
 
+✅ **Gabarito preliminar: B**
 **Enunciado:**
 
 Um investidor aplicou a quantia de R$ 400.000,00 à taxa de juro composto de 9% ao mês. Que montante este capital irá gerar após 4 meses?
@@ -495,6 +513,7 @@ Nenhuma.
 
 #### QUESTÃO 15
 
+✅ **Gabarito preliminar: D**
 **Enunciado:**
 
 Um colégio ofereceu cursos de Inglês e Francês, devendo os alunos se matricularem, pelo menos, em um deles. Dos 50 alunos de uma classe, 14 resolveram estudar tanto Inglês quanto Francês. Em Francês matricularam-se 27 alunos e, em Inglês?
@@ -517,6 +536,7 @@ Nenhuma.
 
 #### QUESTÃO 16
 
+✅ **Gabarito preliminar: B**
 **Enunciado:**
 
 Um relógio bate a cada 10 minutos, outro a cada 36 minutos e um terceiro a cada 60 minutos. O menor intervalo de tempo decorrido entre duas batidas simultâneas dos três relógios é de:
@@ -539,6 +559,7 @@ Nenhuma.
 
 #### QUESTÃO 17
 
+✅ **Gabarito preliminar: D**
 **Enunciado:**
 
 Duas moedas têm, hoje, exatamente a mesma cotação. Se a primeira se valoriza 26% ao ano e a segunda se desvaloriza 16% ao ano, a primeiro valerá a mais que a segundo, daqui a 2 anos,
@@ -561,6 +582,7 @@ Nenhuma.
 
 #### QUESTÃO 18
 
+✅ **Gabarito preliminar: C**
 **Enunciado:**
 
 Multiplicar um número por 0,625 equivale a dividi-lo por:
@@ -583,6 +605,7 @@ Nenhuma.
 
 #### QUESTÃO 19
 
+✅ **Gabarito preliminar: A**
 **Enunciado:**
 
 Um trem tem 54 filas de poltronas e em cada fila existe 6 lugares. Em uma de suas viagens, todos os lugares estavam ocupados. Calcule a arrecadação nesta viagem, sabendo que o preço da passagem custava R$ 33,00.
@@ -605,6 +628,7 @@ Nenhuma.
 
 #### QUESTÃO 20
 
+✅ **Gabarito preliminar: A**
 **Enunciado:**
 
 Considere o quadrado circunscrito em uma circunferência de raio 10cm conforme o mostrado na figura abaixo.
@@ -1140,7 +1164,7 @@ Nenhuma.
 
 - **Gabarito preliminar:** o gabarito aplicado é o GABARITO PRELIMINAR (assim rotulado na página 1 do PDF). Caso tenha havido recursos, o gabarito definitivo pode diferir; nenhuma questão consta como anulada.
 - **Banca organizadora não identificada:** o PDF não traz nome ou logotipo da banca organizadora (apenas o cabeçalho da Câmara e a marca do site de origem, descartada por não ser conteúdo).
-- **Prova do cargo Secretário ausente:** a página 1 traz o gabarito preliminar do cargo Secretário (questões 21–40), mas o PDF enviado não contém as questões dessa prova — apenas a prova aplicável ao cargo Agente Legislativo (questões 21–40). Nada foi omitido: as questões não existem no arquivo original.
+- **Prova do cargo Secretário ausente:** a página 1 traz o gabarito preliminar do cargo Secretário (questões 21–40), mas o PDF enviado não contém as questões dessa prova — apenas a prova aplicável ao cargo Agente Legislativo (questões 01–40). Nada foi omitido: as questões do cargo Secretário não existem no arquivo original.
 - **Marca d'água descartada:** a imagem extraída da página 12 do PDF é a marca d'água "PCI Concursos" (site de origem do arquivo), não sendo conteúdo de questão; por isso não foi incluída na pasta `imagens/`. O mesmo vale para o logotipo da página 1.
 - **Questão 20 (figura):** a figura do quadrado circunscrito na circunferência foi extraída e referenciada no enunciado e em "Referências visuais" (`imagens/imagem_001.jpg`).
 - **Questão 39 (quebra de página):** o enunciado termina com "Assinale :" no fim da página 11 e as alternativas a)–d) iniciam a página 12 — recompostas na mesma questão, sem perda de conteúdo.

@@ -5,7 +5,7 @@
 - **Identificação:** Camara_Americana_2024_Analista_de_Comunicacao
 - **Quantidade total de questões:** 50
 - **Quantidade de textos de apoio (grupos):** 1
-- **Quantidade de imagens:** 3
+- **Quantidade de imagens:** 4
 - **Quantidade de gráficos e tabelas:** incluídos nas imagens e no texto extraído, quando presentes no PDF original
 - **Quantidade de grupos identificados:** 1
 - **Quantidade de questões independentes:** 43
@@ -1035,6 +1035,9 @@ Nenhuma.
 A figura abaixo mostra a antecedência de compra
 dos clientes para uma determinada sessão de
 cinema:
+
+![Gráfico da antecedência de compra dos clientes para uma sessão de cinema — questão 11](imagens/imagem_004.png)
+
 A antecedência de compra é a diferença de tempo
 entre o horário do início do filme e o horário da
 compra do bilhete. Com base no gráfico, pode-se
@@ -1051,7 +1054,7 @@ E) 5,15.
 
 **Referências visuais:**
 
-Nenhuma.
+![Gráfico da antecedência de compra dos clientes para uma sessão de cinema — questão 11](imagens/imagem_004.png)
 
 ---
 
@@ -2238,5 +2241,6 @@ Nenhuma.
 
 - Extração automática (texto selecionável do PDF via PyMuPDF), sem OCR: PDFs escaneados podem perder texto.
 - Imagens repetidas (logos/marcas d'água) foram descartadas; as imagens de conteúdo foram salvas em `imagens/` com nomenclatura `imagem_00N`.
+- **Gráfico da questão 11 recuperado em auditoria posterior:** o gráfico de antecedência de compra (barras, eixos "Horas antes do início da sessão" × "Número de bilhetes") não fora capturado pela extração inicial por estar em camada de imagem separada na página 4 do PDF; foi extraído diretamente do xref 66 da página, verificado visualmente e salvo como `imagens/imagem_004.png`, referenciado no enunciado e em "Referências visuais" da questão 11.
 - A detecção de grupos usa os avisos padrão das bancas ("o texto seguinte servirá de base..."). Bancas sem esse aviso podem ter grupos não identificados — o conteúdo, porém, permanece integral.
 - Se houver divergência entre esta versão e o PDF original, vale o PDF original; corrija manualmente o Markdown.

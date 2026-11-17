@@ -87,6 +87,8 @@ TEXTO_BASE_RES = [
 
 GABARITO_PAR_RE = re.compile(r"(?<![\d.])(\d{1,3})\s*[-\u2013\u2014:.|\s]+\(?([A-Ea-e])\)?(?=[\s,;)\]]|$)")
 ANULADA_RE = re.compile(r"(?<![\d.])(\d{1,3})\s*[-\u2013\u2014:.|\s]+ANULAD[AO]", re.IGNORECASE)
+ANULADA_HASH_RE = re.compile(r"(?<![\d.])(\d{1,3})\s*[-\u2013\u2014:.|\s]+#+(?=[\s,;)\]]|$)")
+VF_RE = re.compile(r"(?<![\d.])(\d{1,3})\s*[-\u2013\u2014:.|\s]+([VFvf])(?=[\s,;)\]]|$)")
 NUM_SOZINHO_RE = re.compile(r"^[\s.|]*((?:\d{1,3}[\s.|]+)*\d{1,3})[\s.|]*$")
 LETRA_SOZINHA_RE = re.compile(r"^[\s.|A-Ea-e]+$")
 CARGO_LINHA_RE = re.compile(
@@ -173,33 +175,54 @@ def detectar_questoes(cru: str) -> tuple[list[dict], list[str]]:
         if m:
             candidatos.append((i, int(m.group(1))))
 
-    def cadeia_a_partir(j: int) -> list[int]:
-        seq = [j]
-        ultima = candidatos[j][1]
-        for k in range(j + 1, len(candidatos)):
-            num = candidatos[k][1]
-            if num == ultima + 1 and num <= 400:
-                seq.append(k)
-                ultima = num
-        return seq
+    filtrados: list[tuple[int, int]] = []
+    for idx, (i, num) in enumerate(candidatos):
+        if QUESTAO_HEAD_RE.match(linhas[i]):
+            filtrados.append((i, num))
+            continue
+        fim_cand = candidatos[idx + 1][0] if idx + 1 < len(candidatos) else len(linhas)
+        if any(ALT_RE.match(l) for l in linhas[i:fim_cand]):
+            filtrados.append((i, num))
 
-    def pontuar(seq: list[int]) -> tuple[int, int]:
-        com_alt = 0
-        for pos, k in enumerate(seq):
-            inicio = candidatos[k][0]
-            fim = candidatos[seq[pos + 1]][0] if pos + 1 < len(seq) else len(linhas)
-            if any(ALT_RE.match(l) for l in linhas[inicio:fim]):
-                com_alt += 1
-        return (com_alt, len(seq))
+    def melhor_cadeia(
+        lista: list[tuple[int, int]],
+    ) -> tuple[list[int], tuple[int, int] | None]:
+        def cadeia_a_partir(j: int) -> list[int]:
+            seq = [j]
+            ultima = lista[j][1]
+            for k in range(j + 1, len(lista)):
+                num = lista[k][1]
+                if num == ultima + 1 and num <= 400:
+                    seq.append(k)
+                    ultima = num
+            return seq
 
-    melhor_seq: list[int] = []
-    melhor_score: tuple[int, int] | None = None
-    for j in range(len(candidatos)):
-        seq = cadeia_a_partir(j)
-        score = pontuar(seq)
-        if melhor_score is None or score > melhor_score:
-            melhor_score = score
-            melhor_seq = seq
+        def pontuar(seq: list[int]) -> tuple[int, int]:
+            com_alt = 0
+            for pos, k in enumerate(seq):
+                inicio = lista[k][0]
+                fim = lista[seq[pos + 1]][0] if pos + 1 < len(seq) else len(linhas)
+                if any(ALT_RE.match(l) for l in linhas[inicio:fim]):
+                    com_alt += 1
+            return (com_alt, len(seq))
+
+        melhor_seq: list[int] = []
+        melhor_score: tuple[int, int] | None = None
+        for j in range(len(lista)):
+            seq = cadeia_a_partir(j)
+            score = pontuar(seq)
+            if melhor_score is None or score > melhor_score:
+                melhor_score = score
+                melhor_seq = seq
+        return melhor_seq, melhor_score
+
+    seq_a, score_a = melhor_cadeia(candidatos)
+    seq_b, score_b = melhor_cadeia(filtrados)
+    if score_b is not None and (score_a is None or score_b > score_a):
+        candidatos = filtrados
+        melhor_seq = seq_b
+    else:
+        melhor_seq = seq_a
 
     if not melhor_seq:
         return [], list(linhas)
@@ -303,6 +326,20 @@ def detectar_grupos(questoes: list[dict], pre: list[str]) -> dict[int, tuple[int
                 achado = m
                 break
         if achado:
+            trecho_pre = re.sub(r"\s+", " ", achado.group(0)).strip().lower()
+            linha_origem_pre = next(
+                (
+                    l
+                    for l in pre_linhas
+                    if trecho_pre in re.sub(r"\s+", " ", l).strip().lower()
+                ),
+                None,
+            )
+            if linha_origem_pre is not None and not re.search(
+                r"[a-z\u00e0-\u00fc]", linha_origem_pre
+            ):
+                achado = None
+        if achado:
             ini = int(achado.group(1))
             fim = int(achado.group(2)) if achado.lastindex and achado.lastindex >= 2 else ini
             if 0 <= fim - ini <= 40:
@@ -322,6 +359,17 @@ def detectar_grupos(questoes: list[dict], pre: list[str]) -> dict[int, tuple[int
                 aviso = m
                 break
         if not aviso:
+            continue
+        trecho = re.sub(r"\s+", " ", aviso.group(0)).strip().lower()
+        linha_origem = next(
+            (
+                l
+                for l in q["linhas"]
+                if trecho in re.sub(r"\s+", " ", l).strip().lower()
+            ),
+            None,
+        )
+        if linha_origem is not None and not re.search(r"[a-z\u00e0-\u00fc]", linha_origem):
             continue
         ini = int(aviso.group(1))
         fim = int(aviso.group(2)) if aviso.lastindex and aviso.lastindex >= 2 else ini
@@ -413,33 +461,52 @@ def extrair_cargo_da_prova(cru_prova: str) -> str:
     return ""
 
 
+TIPO_PROVA_RE = re.compile(r"TIPO\s*(\d+)", re.IGNORECASE)
+ROTULO_CARGO_RE = re.compile(
+    r"^\s*([A-Z]{2,10})\s*[\u2013\u2014-]\s*([A-Z\u00c0-\u00dc][A-Z\u00c0-\u00dc\s/]{2,60})\s*$",
+    re.MULTILINE,
+)
+PALAVRAS_COMUNS_CARGO = {
+    "lingua", "portugues", "matematica", "conhecimentos", "gerais",
+    "especificos", "texto", "atualidades", "informatica", "questoes",
+    "gabarito", "definitivo", "preliminar", "prova", "candidato",
+    "manha", "tarde", "noite", "turno",
+}
+
+
+def so_palavras_comuns(nome: str) -> bool:
+    tokens = set(nome.split())
+    return bool(tokens) and tokens <= PALAVRAS_COMUNS_CARGO
+
+
+def canon_cargo(nome: str) -> str:
+    return " ".join(sorted(nome.split()))
+
+
 def selecionar_bloco_gabarito(
     texto_gab: str, cru_prova: str, total_questoes: int
 ) -> tuple[str, str]:
-    """Seleciona o bloco do cargo correto em gabaritos com vários cargos.
+    """Seleciona o bloco do cargo correto em gabaritos com v\u00e1rios cargos.
 
-    Retorna (texto_do_bloco_ou_completo, observação).
+    Retorna (texto_do_bloco_ou_completo, observa\u00e7\u00e3o).
     """
     blocos = list(CABECALHO_BLOCO_RE.finditer(texto_gab))
     linhas_cargo = list(CARGO_LINHA_RE.finditer(texto_gab))
     linhas_completas = list(CARGO_LINHA_COMPLETA_RE.finditer(texto_gab))
-    if len(blocos) <= 1 and len(linhas_cargo) <= 1 and len(linhas_completas) <= 1:
+    rotulos = list(ROTULO_CARGO_RE.finditer(texto_gab))
+    if (
+        len(blocos) <= 1
+        and len(linhas_cargo) <= 1
+        and len(linhas_completas) <= 1
+        and len(rotulos) <= 1
+    ):
         return texto_gab, ""
 
-    candidatos: list[tuple[str, str, str]] = []
+    candidatos: list[tuple[int, int, str, str]] = []
     for i, b in enumerate(blocos):
         fim = blocos[i + 1].start() if i + 1 < len(blocos) else len(texto_gab)
         rotulo = f"cargo {b.group(1)} - {b.group(2).strip()}"
-        candidatos.append((normalizar_cargo(b.group(2)), texto_gab[b.start():fim], rotulo))
-    for i, b in enumerate(linhas_cargo):
-        fim = len(texto_gab)
-        for prox in linhas_cargo[i + 1:]:
-            if prox.start() > b.end():
-                fim = prox.start()
-                break
-        rotulo = f"cargo {b.group(1).strip()}"
-        candidatos.append((normalizar_cargo(b.group(1)), texto_gab[b.end():fim], rotulo))
-
+        candidatos.append((b.start(), fim, normalizar_cargo(b.group(2)), rotulo))
     for i, b in enumerate(linhas_completas):
         fim = len(texto_gab)
         for prox in linhas_completas[i + 1:]:
@@ -447,33 +514,118 @@ def selecionar_bloco_gabarito(
                 fim = prox.start()
                 break
         rotulo = f"cargo {b.group(1).strip()}"
-        candidatos.insert(0, (normalizar_cargo(b.group(1)), texto_gab[b.start():fim], rotulo))
+        nome_bruto = b.group(1).strip()
+        if "/" in nome_bruto:
+            nome_bruto = " ".join(p.strip() for p in sorted(nome_bruto.split("/")))
+        candidatos.append((b.start(), fim, normalizar_cargo(nome_bruto), rotulo))
+    for i, b in enumerate(linhas_cargo):
+        nome = normalizar_cargo(b.group(1))
+        if so_palavras_comuns(nome):
+            continue
+        fim = len(texto_gab)
+        for prox in linhas_cargo[i + 1:]:
+            if prox.start() > b.end() and not so_palavras_comuns(
+                normalizar_cargo(prox.group(1))
+            ):
+                fim = prox.start()
+                break
+        for outro in [*linhas_completas, *blocos]:
+            if b.start() < outro.start() < fim:
+                fim = min(fim, outro.start())
+                break
+        rotulo = f"cargo {b.group(1).strip()}"
+        candidatos.append((b.start(), fim, nome, rotulo))
+    for i, b in enumerate(rotulos):
+        fim = len(texto_gab)
+        for prox in rotulos:
+            if prox.start() > b.end():
+                fim = prox.start()
+                break
+        rotulo = f"cargo {b.group(1).strip()} - {b.group(2).strip()}"
+        candidatos.append((b.start(), fim, normalizar_cargo(b.group(2)), rotulo))
 
-    plano = re.sub(r"\s+", " ", texto_gab)
-    n_matches = len(GABARITO_PAR_RE.findall(plano)) + len(ANULADA_RE.findall(plano))
-    if n_matches and n_matches <= total_questoes * 1.3:
-        r = parsear_gabarito(texto_gab, total_questoes)
-        if len(r) >= total_questoes * 0.9:
-            return texto_gab, ""
+    candidatos.sort(key=lambda c: c[0])
+    if not candidatos:
+        return texto_gab, ""
+
+    m_tipo = TIPO_PROVA_RE.search(cru_prova)
+    tipo_prova = m_tipo.group(1) if m_tipo else ""
+
+    def com_tipo(texto: str) -> bool:
+        if not tipo_prova:
+            return False
+        m = TIPO_PROVA_RE.search(texto)
+        return bool(m and m.group(1) == tipo_prova)
+
+    def casa(a: str, b: str) -> bool:
+        if not a or not b:
+            return False
+        if a in b or b in a:
+            return True
+        ca, cb = canon_cargo(a), canon_cargo(b)
+        return bool(ca and cb and (ca in cb or cb in ca))
 
     alvo = normalizar_cargo(extrair_cargo_da_prova(cru_prova))
+    if alvo and so_palavras_comuns(alvo):
+        alvo = ""
     if alvo:
-        for nome, texto, rotulo in candidatos:
-            if alvo in nome or nome in alvo:
-                return texto, rotulo
-        return "", (
-            f"Gabarito contém vários cargos e nenhum corresponde ao cargo '{alvo}' "
-            "identificado na prova; gabarito não preenchido automaticamente."
-        )
+        casados = [c for c in candidatos if casa(alvo, c[2])]
+        for c in casados:
+            if com_tipo(texto_gab[c[0]:c[1]]):
+                return texto_gab[c[0]:c[1]], c[3]
+        if casados:
+            return texto_gab[casados[0][0]:casados[0][1]], casados[0][3]
 
-    for nome, texto, rotulo in candidatos:
-        r = parsear_gabarito_grade(texto, total_questoes)
-        if r and len(r) >= total_questoes * 0.9:
-            return texto, f"{rotulo} (identificado pela quantidade de questões)"
+    plano_prova = normalizar_cargo(re.sub(r"\s+", " ", cru_prova))
+    por_texto = [
+        c
+        for c in candidatos
+        if len(c[2]) >= 8
+        and not so_palavras_comuns(c[2])
+        and c[2] in plano_prova
+        and len(parsear_gabarito(texto_gab[c[0]:c[1]], total_questoes))
+        >= total_questoes * 0.9
+    ]
+    for c in por_texto:
+        if com_tipo(texto_gab[c[0]:c[1]]):
+            return texto_gab[c[0]:c[1]], c[3]
+    if por_texto:
+        c = por_texto[0]
+        return texto_gab[c[0]:c[1]], c[3]
+
+    completos = []
+    for c in candidatos:
+        r = parsear_gabarito(texto_gab[c[0]:c[1]], total_questoes)
+        if len(r) == total_questoes:
+            completos.append(c)
+    if len(completos) == 1:
+        c = completos[0]
+        return (
+            texto_gab[c[0]:c[1]],
+            f"{c[3]} (identificado pela quantidade de quest\u00f5es)",
+        )
+    if completos:
+        tokens_prova = set(plano_prova.split())
+        melhor, melhor_score = None, 0
+        for c in completos:
+            score = sum(1 for t in set(c[2].split()) if t in tokens_prova)
+            if score > melhor_score:
+                melhor, melhor_score = c, score
+        if melhor is not None and melhor_score > 0:
+            rotulo = melhor[3]
+            if com_tipo(texto_gab[melhor[0]:melhor[1]]):
+                rotulo += " \u2014 tipo compat\u00edvel com a prova"
+            return texto_gab[melhor[0]:melhor[1]], rotulo
+        return "", (
+            "Gabarito cont\u00e9m v\u00e1rios blocos compat\u00edveis em quantidade de quest\u00f5es "
+            "e nenhum cargo p\u00f4de ser associado com seguran\u00e7a \u00e0 prova; gabarito n\u00e3o "
+            "preenchido automaticamente."
+        )
     return "", (
-        "Gabarito contém vários cargos e o cargo da prova não foi identificado; "
-        "gabarito não preenchido automaticamente."
+        "Gabarito cont\u00e9m v\u00e1rios cargos e nenhum corresponde ao cargo identificado "
+        "na prova; gabarito n\u00e3o preenchido automaticamente."
     )
+
 
 
 def parsear_gabarito(texto_cru: str, total_questoes: int) -> dict[int, str]:
@@ -494,7 +646,16 @@ def parsear_gabarito(texto_cru: str, total_questoes: int) -> dict[int, str]:
         num = int(m.group(1))
         if 1 <= num <= total_questoes:
             respostas[num] = "ANULADA"
+    for m in ANULADA_HASH_RE.finditer(texto):
+        num = int(m.group(1))
+        if 1 <= num <= total_questoes:
+            respostas[num] = "ANULADA"
     for m in GABARITO_PAR_RE.finditer(texto):
+        num = int(m.group(1))
+        letra = m.group(2).upper()
+        if 1 <= num <= total_questoes and num not in respostas:
+            respostas[num] = letra
+    for m in VF_RE.finditer(texto):
         num = int(m.group(1))
         letra = m.group(2).upper()
         if 1 <= num <= total_questoes and num not in respostas:
@@ -591,6 +752,7 @@ def montar_prova(
     total_imagens: int = 0,
     observacoes_extras: list[str] | None = None,
     via_ocr: bool = False,
+    pos_texto: list[str] | None = None,
 ) -> tuple[str, str]:
     num_para_q = {q["numero"]: q for q in questoes}
     nums_grupos: dict[tuple[int, int], list[int]] = {}
@@ -684,6 +846,21 @@ def montar_prova(
             )
         )
 
+    if pos_texto:
+        pos_limpas = limpar_corpo(pos_texto)
+        if pos_limpas:
+            md.append("### Transcrição integral das páginas finais (após a última questão)")
+            md.append("")
+            md.append("> [!NOTE]")
+            md.append(
+                "> Conteúdo integral das páginas seguintes à última questão "
+                "(ex.: prova discursiva, temas, folhas de rascunho), sem cortes."
+            )
+            md.append("")
+            for linha in pos_limpas:
+                md.append(f"> {linha}" if linha.strip() else ">")
+            md.append("")
+
     md.append("## 4. Observações e limitações da extração")
     md.append("")
     global SECOES_REMOVIDAS
@@ -704,6 +881,12 @@ def montar_prova(
         )
     if not gabarito:
         obs.append("Gabarito oficial não disponível/pareado — nenhuma resposta foi preenchida.")
+    if pos_texto and limpar_corpo(pos_texto):
+        obs.append(
+            "O PDF original contém páginas após a última questão objetiva "
+            "(prova discursiva e/ou folhas de rascunho); esse conteúdo foi transcrito "
+            "integralmente na seção \"Transcrição integral das páginas finais\"."
+        )
     if SECOES_REMOVIDAS:
         obs.append(
             "Cabeçalhos de seção do caderno ("

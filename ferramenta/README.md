@@ -97,10 +97,12 @@ Verifica: arquivos obrigatórios, seções do Markdown, numeração sequencial d
 
 - Lê **todos os PDFs** de uma pasta de uma vez.
 - **Pareia automaticamente** cada `Prova ...` com o seu `Gabarito ...` pela semelhança do nome.
-- Em gabaritos com **vários cargos**, seleciona o bloco do cargo declarado na capa da prova (ex.: `CARGO: 2.03 - CERIMONIALISTA`).
+- Em gabaritos com **vários cargos**, seleciona o bloco do cargo declarado na capa da prova (ex.: `CARGO: 2.03 - CERIMONIALISTA`) ou pelo **rótulo de cargo do próprio gabarito** (ex.: `MED - AGENTE ADMINISTRATIVO`).
+- Parseia gabaritos com respostas **A–E, V/F (verdadeiro/falso), `#`/`X` (anulada)** — cada formato vira o indicativo correto por questão.
 - Extrai o **texto** na ordem original e as **imagens de conteúdo** (descarta logos/marcas d'água repetidos), salvando como `imagens/imagem_00N.ext`.
 - Detecta as questões (`Questão NN` / `NN.`) com filtro sequencial e separa **enunciado × alternativas** (A–E, maiúsculas ou minúsculas).
 - Detecta avisos de texto-base ("o texto seguinte servirá de base...", "leia o texto abaixo para responder as questões de nº 01 à 10", "texto para as questões X a Y"...) e **repete o texto integralmente em cada questão do grupo**.
+- Aceita o parâmetro `pos_texto` na `montar_prova` para transcrever **páginas finais após a última questão objetiva** (prova discursiva, rascunho, folha de texto) numa seção própria — sem contaminar a última questão (Belo Horizonte 2023).
 - Gera `prova_organizada.md`, `relatorio_analise.md` (com a tabela de relacionamentos) e `PROVA_ORGANIZADA.zip` no padrão acima.
 
 ## 📥 Como instalar (uma vez só)

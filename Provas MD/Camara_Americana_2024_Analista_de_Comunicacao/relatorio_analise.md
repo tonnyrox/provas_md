@@ -6,7 +6,7 @@
 - Grupos com material compartilhado: **1**
 - Questões agrupadas: **7**
 - Questões independentes: **43**
-- Imagens extraídas: **3**
+- Imagens extraídas: **4**
 - Gabarito: **preenchido (gabarito oficial pareado — cargo ANALISTA DE COMUNICAÇÃO)**
 
 | Material compartilhado | Questões vinculadas | Tipo |

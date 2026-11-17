@@ -44,7 +44,7 @@ Questões 06 a 40 (35 questões), cada uma com enunciado e alternativas completo
 
 ## 6. Gabarito aplicado
 
-**GABARITO PRELIMINAR — Agente Legislativo (questões 21 a 40):**
+**GABARITO PRELIMINAR — Agente Legislativo (questões 01 a 40):**
 
 | Questão | Resposta | Questão | Resposta | Questão | Resposta | Questão | Resposta | Questão | Resposta |
 |---|---|---|---|---|---|---|---|---|---|
@@ -53,7 +53,7 @@ Questões 06 a 40 (35 questões), cada uma com enunciado e alternativas completo
 | 31 | A | 32 | D | 33 | C | 34 | B | 35 | B |
 | 36 | D | 37 | B | 38 | A | 39 | D | 40 | A |
 
-- Português (01–D, 02–A, 03–C, 04–D, 05–B, 06–B, 07–D, 08–C, 09–B, 10–D) e Matemática (11–C, 12–B, 13–C, 14–B, 15–D, 16–B, 17–D, 18–C, 19–A, 20–A) também constam do gabarito preliminar e estão indicadas questão a questão no arquivo organizado.
+- Português (01–D a 10–D) e Matemática (11–C a 20–A) constam do gabarito preliminar e estão indicadas questão a questão no arquivo organizado, junto com as questões 21–40 (conhecimentos específicos).
 - O gabarito preliminar traz ainda a coluna do cargo Secretário (21–A, 22–D, 23–B, 24–C, 25–C, 26–B, 27–A, 28–A, 29–D, 30–D, 31–C, 32–A, 33–B, 34–A, 35–C, 36–C, 37–A, 38–B, 39–B, 40–C), sem correspondência de prova neste PDF.
 
 ## 7. Correspondência prova × gabarito

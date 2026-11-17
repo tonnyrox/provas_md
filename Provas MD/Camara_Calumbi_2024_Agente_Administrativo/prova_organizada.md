@@ -1208,6 +1208,7 @@ D) Moralidade.
 
 ## 4. Observações e limitações da extração
 
+- **Logo removido em auditoria:** o arquivo `imagens/imagem_001.jpg` era o logotipo/marca da banca ou do site de origem (não é conteúdo de questão) e foi excluído da pasta `imagens/`.
 - **Origem do conteúdo:** transcrição integral por OCR a partir do PDF oficial do caderno de questões (Igeduc — Concurso 001/2024, Câmara de Calumbi-PE, Agente Administrativo, turno da tarde). Todas as 10 páginas do PDF foram analisadas.
 - **Cargo:** o nome dos arquivos enviados menciona “Fiscal”, porém o caderno de questões é o de **AGENTE ADMINISTRATIVO (TARDE)** e o gabarito utilizado é o da tabela **“AD - AGENTE ADMINISTRATIVO”** do gabarito definitivo oficial (as demais tabelas — ADC, ASG, RECP e VIG — pertencem a outros cargos e não foram aplicadas).
 - **Questão anulada:** a **Questão 10 está ANULADA** no gabarito definitivo oficial do Igedu c (marcada com ⚠️ no início da questão). O enunciado e as alternativas foram mantidos integralmente.
