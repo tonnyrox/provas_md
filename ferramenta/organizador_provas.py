@@ -38,6 +38,7 @@ import hashlib
 import re
 import shutil
 import sys
+import unicodedata
 import zipfile
 from pathlib import Path
 
@@ -51,7 +52,7 @@ QUESTAO_HEAD_RE = re.compile(
     re.IGNORECASE,
 )
 QUESTAO_NUM_RE = re.compile(r"^\s*(?:\*\*)?\s*(\d{1,3})\s*[\.\)]\s*\**\s*(.+)")
-ALT_RE = re.compile(r"^\s*\(?\s*([A-Ea-e])\s*\)\s*(.*)$")
+ALT_RE = re.compile(r"^\s*\(?\s*([A-Ea-e])\s*[).:]\s*(.*)$")
 
 TEXTO_BASE_RES = [
     re.compile(
@@ -78,14 +79,33 @@ TEXTO_BASE_RES = [
         r"o\s+texto\s+seguinte(?:s)?\s+servir[\u00e1a]\s+de\s+base[^.]*?quest[\u00e3a]o\s+(\d{1,3})",
         re.IGNORECASE,
     ),
+    re.compile(
+        r"quest[\u00f5o]es\s+(?:de\s+)?(\d{1,3})\s*(?:a|\u00e0|at\u00e9|e)\s*(\d{1,3})",
+        re.IGNORECASE,
+    ),
 ]
 
-GABARITO_PAR_RE = re.compile(r"(?<![\d.])(\d{1,3})\s*[-\u2013\u2014:.\s]+\(?([A-Ea-e])\)?(?=[\s,;)\]]|$)")
-ANULADA_RE = re.compile(r"(?<![\d.])(\d{1,3})\s*[-\u2013\u2014:.\s]+ANULAD[AO]", re.IGNORECASE)
+GABARITO_PAR_RE = re.compile(r"(?<![\d.])(\d{1,3})\s*[-\u2013\u2014:.|\s]+\(?([A-Ea-e])\)?(?=[\s,;)\]]|$)")
+ANULADA_RE = re.compile(r"(?<![\d.])(\d{1,3})\s*[-\u2013\u2014:.|\s]+ANULAD[AO]", re.IGNORECASE)
+NUM_SOZINHO_RE = re.compile(r"^[\s.|]*((?:\d{1,3}[\s.|]+)*\d{1,3})[\s.|]*$")
+LETRA_SOZINHA_RE = re.compile(r"^[\s.|A-Ea-e]+$")
+CARGO_LINHA_RE = re.compile(
+    r"^\s*(?:CARGO\s*[\u2013\u2014\-]?\s*)?([A-Z\u00c0-\u00dc][A-Z\u00c0-\u00dc \t]{3,60})\s*$",
+    re.MULTILINE,
+)
+CARGO_LINHA_COMPLETA_RE = re.compile(
+    r"^\s*(?:N[\u00edi]VEL\s+\w+\s*[-\u2013\u2014]?\s*)?.?\s*CARGO\s*[:\u2013\u2014\-]\s*([^\n]{3,80})$",
+    re.MULTILINE | re.IGNORECASE,
+)
+CARGO_PROVA_RE = re.compile(
+    r"cargo\s*[:\s]\s*([\d]+(?:[\.,]\d+)?)\s*[-\u2013\u2014]?\s*([^\n]{0,80})",
+    re.IGNORECASE,
+)
+CABECALHO_BLOCO_RE = re.compile(r"^(\d+(?:[\.,]\d+)?)\s*[-\u2013\u2014]\s*(.+)$", re.MULTILINE)
 
 IMG_RE = re.compile(r"!\[[^\]]*\]\((imagens/[^)]+)\)")
 LARGURA_MIN_IMG = 150
-ALTURA_MIN_IMG = 100
+ALTURA_MIN_IMG = 80
 IMG_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp", ".bmp"}
 
 
@@ -108,12 +128,14 @@ def extrair_pdf(pdf_path: Path, pasta_imagens: Path) -> str:
                 if texto:
                     partes.append(texto)
             elif bloco["type"] == 1:
+                conteudo_img = bloco.get("image", b"")
+                if not conteudo_img:
+                    continue
                 if (
                     bloco.get("width", 0) < LARGURA_MIN_IMG
                     or bloco.get("height", 0) < ALTURA_MIN_IMG
                 ):
                     continue
-                conteudo_img = bloco.get("image", b"")
                 resumo = hashlib.md5(conteudo_img).hexdigest()
                 if resumo in hashes_vistos:
                     continue
@@ -132,38 +154,87 @@ def extrair_pdf(pdf_path: Path, pasta_imagens: Path) -> str:
 
 
 def detectar_questoes(cru: str) -> tuple[list[dict], list[str]]:
-    """Separa o Markdown cru em questões (filtro sequencial 1, 2, 3...).
+    """Separa o Markdown cru em questões.
+
+    Levanta todos os candidatos a início de questão (cabeçalho "QUESTÃO NN"
+    ou número seguido de "."/")") e escolhe a cadeia sequencial 1, 2, 3...
+    que contém mais questões com alternativas (desempate: cadeia mais longa).
+    Assim, itens numerados da capa/instruções não são confundidos com questões.
 
     Retorna (questões, conteúdo prévio = capa/instruções).
     """
     linhas = cru.split("\n")
-    questoes: list[dict] = []
-    pre: list[str] = []
-    atual: list[str] = []
-    ultima = 0
-
-    for linha in linhas:
+    candidatos: list[tuple[int, int]] = []
+    for i, linha in enumerate(linhas):
         m = QUESTAO_HEAD_RE.match(linha)
         if not m:
             m2 = QUESTAO_NUM_RE.match(linha)
             m = m2 if m2 else None
-        numero = int(m.group(1)) if m else None
-        if numero and numero == ultima + 1 and numero <= 400:
-            if atual:
-                questoes.append({"numero": ultima, "linhas": atual})
-            atual = [linha]
-            ultima = numero
-        elif questoes or atual:
-            atual.append(linha)
+        if m:
+            candidatos.append((i, int(m.group(1))))
+
+    def cadeia_a_partir(j: int) -> list[int]:
+        seq = [j]
+        ultima = candidatos[j][1]
+        for k in range(j + 1, len(candidatos)):
+            num = candidatos[k][1]
+            if num == ultima + 1 and num <= 400:
+                seq.append(k)
+                ultima = num
+        return seq
+
+    def pontuar(seq: list[int]) -> tuple[int, int]:
+        com_alt = 0
+        for pos, k in enumerate(seq):
+            inicio = candidatos[k][0]
+            fim = candidatos[seq[pos + 1]][0] if pos + 1 < len(seq) else len(linhas)
+            if any(ALT_RE.match(l) for l in linhas[inicio:fim]):
+                com_alt += 1
+        return (com_alt, len(seq))
+
+    melhor_seq: list[int] = []
+    melhor_score: tuple[int, int] | None = None
+    for j in range(len(candidatos)):
+        seq = cadeia_a_partir(j)
+        score = pontuar(seq)
+        if melhor_score is None or score > melhor_score:
+            melhor_score = score
+            melhor_seq = seq
+
+    if not melhor_seq:
+        return [], list(linhas)
+
+    questoes: list[dict] = []
+    for pos, k in enumerate(melhor_seq):
+        inicio = candidatos[k][0]
+        fim = (
+            candidatos[melhor_seq[pos + 1]][0]
+            if pos + 1 < len(melhor_seq)
+            else len(linhas)
+        )
+        questoes.append({"numero": candidatos[k][1], "linhas": linhas[inicio:fim]})
+    return questoes, list(linhas[: candidatos[melhor_seq[0]][0]])
+
+
+MARCA_DAGUA_RES = [
+    re.compile(r"^pcimarkpci\b", re.IGNORECASE),
+    re.compile(r"^www\.pciconcursos\.com\.br$", re.IGNORECASE),
+]
+SECAO_FAIXA_RE = re.compile(
+    r"^[A-Z\u00c0-\u00dc][A-Z\u00c0-\u00dc ]{2,50}\s+(?:DE\s+)?\d{1,3}\s+(?:A|a|\u00e0)\s+\d{1,3}$"
+)
+
+SECOES_REMOVIDAS: list[str] = []
+
+
+def limpar_corpo(linhas: list[str], e_pre: bool = False) -> list[str]:
+    mescladas: list[str] = []
+    for s in linhas:
+        if mescladas and (s.startswith("\xa0") or s.startswith(" \xa0")):
+            mescladas[-1] += " " + s.strip()
         else:
-            pre.append(linha)
-
-    if atual:
-        questoes.append({"numero": ultima, "linhas": atual})
-    return questoes, pre
-
-
-def limpar_corpo(linhas: list[str]) -> list[str]:
+            mescladas.append(s)
+    linhas = mescladas
     limpas = []
     for s in linhas:
         t = s.strip()
@@ -176,7 +247,13 @@ def limpar_corpo(linhas: list[str]) -> list[str]:
             continue
         if re.fullmatch(r"\d{1,3}", t):
             continue
-        limpas.append(s.rstrip())
+        if any(r.match(t) for r in MARCA_DAGUA_RES):
+            continue
+        if not e_pre and SECAO_FAIXA_RE.match(t):
+            if t not in SECOES_REMOVIDAS:
+                SECOES_REMOVIDAS.append(t)
+            continue
+        limpas.append(re.sub(r"[ \t\xa0\r]+", " ", s.rstrip()))
     while limpas and not limpas[0].strip():
         limpas.pop(0)
     while limpas and not limpas[-1].strip():
@@ -216,7 +293,7 @@ def detectar_grupos(questoes: list[dict], pre: list[str]) -> dict[int, tuple[int
     num_por_indice = {i: q["numero"] for i, q in enumerate(questoes)}
 
     # anúncio no conteúdo prévio (capa/instruções): o texto-base é o que vem depois
-    pre_linhas = limpar_corpo(pre)
+    pre_linhas = limpar_corpo(pre, e_pre=True)
     if pre_linhas:
         plano = "\n".join(pre_linhas)
         achado = None
@@ -235,6 +312,7 @@ def detectar_grupos(questoes: list[dict], pre: list[str]) -> dict[int, tuple[int
                     for num in range(ini, fim + 1):
                         grupos[num] = (ini, fim, corpo)
 
+    # anúncio dentro de seções de questão (antes da 1a questão do grupo)
     for i, q in enumerate(questoes):
         conteudo = re.sub(r"\s+", " ", "\n".join(q["linhas"]))
         aviso = None
@@ -265,43 +343,144 @@ def detectar_grupos(questoes: list[dict], pre: list[str]) -> dict[int, tuple[int
     return grupos
 
 
-CARGO_PROVA_RE = re.compile(
-    r"cargo\s*[:\s]\s*([\d]+(?:[\.,]\d+)?)\s*[-\u2013\u2014]?\s*([^\n]{0,80})",
-    re.IGNORECASE,
-)
-CABECALHO_BLOCO_RE = re.compile(r"^(\d+(?:[\.,]\d+)?)\s*[-\u2013\u2014]\s*(.+)$", re.MULTILINE)
+def parsear_gabarito_grade(texto_bloco: str, total_questoes: int) -> dict[int, str]:
+    """Interpreta gabaritos em grade: linha(s) de números seguida(s) da coluna de letras.
+
+    Formatos cobertos: números um por linha ou vários por linha ("01 02 03..."),
+    letras uma por linha ou várias por linha, com "nula"/"ANULADA".
+    """
+    numeros: list[int] = []
+    letras: list[str] = []
+    esperado = 1
+    for linha in texto_bloco.splitlines():
+        t = linha.replace("\xa0", " ").strip()
+        if not t or "/" in t or "N\u00ba" in t or "N\u00b0" in t:
+            continue
+        if NUM_SOZINHO_RE.match(t):
+            for tok in re.findall(r"\d{1,3}", t):
+                if int(tok) == esperado:
+                    numeros.append(int(tok))
+                    esperado += 1
+            continue
+        if re.fullmatch(r"[\s.|]*nula[\s.|]*", t, re.IGNORECASE):
+            letras.append("ANULADA")
+            continue
+        if LETRA_SOZINHA_RE.match(t):
+            letras.extend(ch.upper() for ch in re.findall(r"[A-Ea-e]", t))
+
+    if not numeros or len(numeros) != len(letras):
+        return {}
+    if numeros != list(range(1, len(numeros) + 1)):
+        return {}
+    respostas = {n: l for n, l in zip(numeros, letras)}
+    if len(respostas) < max(3, total_questoes * 0.6):
+        return {}
+    return {n: respostas[n] for n in sorted(respostas) if 1 <= n <= total_questoes}
 
 
-def selecionar_bloco_gabarito(texto_gab: str, cru_prova: str) -> tuple[str, str]:
+def normalizar_cargo(nome: str) -> str:
+    nome = unicodedata.normalize("NFKD", nome)
+    nome = "".join(c for c in nome if not unicodedata.combining(c))
+    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9 ]", " ", nome.lower())).strip()
+
+
+def extrair_cargo_da_prova(cru_prova: str) -> str:
+    cru_prova = cru_prova.replace("\xa0", " ").replace("\r", " ").replace("\t", " ")
+    m = CARGO_PROVA_RE.search(cru_prova)
+    if m:
+        bruto = (m.group(2) or "").strip() or m.group(1)
+    else:
+        m2 = re.search(
+            r"^\s*cargo\s*[:\u2013\u2014\-]?\s*([A-Za-z\u00c0-\u00dc][^\n]{2,60})$",
+            cru_prova,
+            re.MULTILINE | re.IGNORECASE,
+        )
+        bruto = m2.group(1).strip() if m2 else ""
+    primeira = re.split(r"[\n\r]", bruto)[0]
+    primeira = re.sub(r"^[\d]+(?:[\.,]\d+)?[\s\u2013\u2014\-]+", "", primeira).strip()
+    if primeira:
+        return primeira
+    for linha in cru_prova.splitlines():
+        t = linha.replace("\xa0", " ").strip()
+        if not re.fullmatch(r"[A-Z\u00c0-\u00dc][A-Z\u00c0-\u00dc \t]{3,60}", t):
+            continue
+        if re.search(
+            r"GABARITO|CONCURSO|C\u00c2MARA|C\u00c3MARA|PREFEITURA|EDITAL|INSTRU\u00c7\u00d5ES|CADERNO|PROVA|N\u00cdVEL|EST\u00c2NCIA|MUNICIPAL|ESTADO|BOLETIM|QUEST\u00d5ES|WWW|REALIZA\u00c7\u00c3O",
+            t,
+        ):
+            continue
+        return t
+    return ""
+
+
+def selecionar_bloco_gabarito(
+    texto_gab: str, cru_prova: str, total_questoes: int
+) -> tuple[str, str]:
     """Seleciona o bloco do cargo correto em gabaritos com vários cargos.
 
     Retorna (texto_do_bloco_ou_completo, observação).
     """
     blocos = list(CABECALHO_BLOCO_RE.finditer(texto_gab))
-    if len(blocos) <= 1:
+    linhas_cargo = list(CARGO_LINHA_RE.finditer(texto_gab))
+    linhas_completas = list(CARGO_LINHA_COMPLETA_RE.finditer(texto_gab))
+    if len(blocos) <= 1 and len(linhas_cargo) <= 1 and len(linhas_completas) <= 1:
         return texto_gab, ""
-    m = CARGO_PROVA_RE.search(cru_prova)
-    if not m:
-        return "", (
-            "Gabarito contém vários cargos e o cargo da prova não foi identificado; "
-            "gabarito não preenchido automaticamente."
-        )
-    codigo = m.group(1).replace(",", ".")
+
+    candidatos: list[tuple[str, str, str]] = []
     for i, b in enumerate(blocos):
         fim = blocos[i + 1].start() if i + 1 < len(blocos) else len(texto_gab)
-        if b.group(1).replace(",", ".") == codigo:
-            return texto_gab[b.start():fim], f"cargo {b.group(1)} - {b.group(2).strip()}"
+        rotulo = f"cargo {b.group(1)} - {b.group(2).strip()}"
+        candidatos.append((normalizar_cargo(b.group(2)), texto_gab[b.start():fim], rotulo))
+    for i, b in enumerate(linhas_cargo):
+        fim = len(texto_gab)
+        for prox in linhas_cargo[i + 1:]:
+            if prox.start() > b.end():
+                fim = prox.start()
+                break
+        rotulo = f"cargo {b.group(1).strip()}"
+        candidatos.append((normalizar_cargo(b.group(1)), texto_gab[b.end():fim], rotulo))
+
+    for i, b in enumerate(linhas_completas):
+        fim = len(texto_gab)
+        for prox in linhas_completas[i + 1:]:
+            if prox.start() > b.end():
+                fim = prox.start()
+                break
+        rotulo = f"cargo {b.group(1).strip()}"
+        candidatos.insert(0, (normalizar_cargo(b.group(1)), texto_gab[b.start():fim], rotulo))
+
+    plano = re.sub(r"\s+", " ", texto_gab)
+    n_matches = len(GABARITO_PAR_RE.findall(plano)) + len(ANULADA_RE.findall(plano))
+    if n_matches and n_matches <= total_questoes * 1.3:
+        r = parsear_gabarito(texto_gab, total_questoes)
+        if len(r) >= total_questoes * 0.9:
+            return texto_gab, ""
+
+    alvo = normalizar_cargo(extrair_cargo_da_prova(cru_prova))
+    if alvo:
+        for nome, texto, rotulo in candidatos:
+            if alvo in nome or nome in alvo:
+                return texto, rotulo
+        return "", (
+            f"Gabarito contém vários cargos e nenhum corresponde ao cargo '{alvo}' "
+            "identificado na prova; gabarito não preenchido automaticamente."
+        )
+
+    for nome, texto, rotulo in candidatos:
+        r = parsear_gabarito_grade(texto, total_questoes)
+        if r and len(r) >= total_questoes * 0.9:
+            return texto, f"{rotulo} (identificado pela quantidade de questões)"
     return "", (
-        f"Gabarito contém vários cargos e nenhum corresponde ao código '{codigo}' "
-        "identificado na prova; gabarito não preenchido automaticamente."
+        "Gabarito contém vários cargos e o cargo da prova não foi identificado; "
+        "gabarito não preenchido automaticamente."
     )
 
 
 def parsear_gabarito(texto_cru: str, total_questoes: int) -> dict[int, str]:
     """Extrai pares questão->letra do texto do PDF de gabarito.
 
-    Tenta primeiro o formato inline ("01 B 02 D ..."); se não houver confiança,
-    tenta o formato em colunas (números e letras sozinhos em linhas separadas).
+    Tenta o formato inline ("01 B 02 D..." / "1: B"), depois o formato em grade
+    (números e letras em linhas separadas). Só aceita resultados confiáveis.
     """
     def confiavel(respostas: dict[int, str]) -> bool:
         if len(respostas) < max(3, total_questoes * 0.6):
@@ -321,25 +500,13 @@ def parsear_gabarito(texto_cru: str, total_questoes: int) -> dict[int, str]:
         if 1 <= num <= total_questoes and num not in respostas:
             respostas[num] = letra
 
-    if not confiavel(respostas):
-        colunas: dict[int, str] = {}
-        nums: list[int] = []
-        letras: list[str] = []
-        for linha in texto_cru.splitlines():
-            t = linha.strip()
-            if re.fullmatch(r"\d{1,3}", t):
-                nums.append(int(t))
-            elif re.fullmatch(r"[A-Ea-e]", t):
-                letras.append(t.upper())
-        if nums and len(nums) == len(letras) and nums == list(range(1, len(nums) + 1)):
-            for n, l in zip(nums, letras):
-                colunas[n] = l
-        if confiavel(colunas):
-            respostas = {**colunas, **respostas}
+    if confiavel(respostas):
+        return {n: respostas[n] for n in sorted(respostas)}
 
-    if not confiavel(respostas):
-        return {}
-    return {n: respostas[n] for n in sorted(respostas)}
+    grade = parsear_gabarito_grade(texto_cru, total_questoes)
+    if grade:
+        return grade
+    return {}
 
 
 def limpar_marcador(enunciado: list[str], numero: int) -> list[str]:
@@ -358,6 +525,15 @@ def limpar_marcador(enunciado: list[str], numero: int) -> list[str]:
     while enunciado and not enunciado[0].strip():
         enunciado.pop(0)
     return enunciado
+
+
+def coletar_imagens_do_bloco(enunciado: list[str]) -> list[str]:
+    texto = "\n".join(enunciado)
+    vistos: list[str] = []
+    for caminho in IMG_RE.findall(texto):
+        if caminho not in vistos:
+            vistos.append(caminho)
+    return vistos
 
 
 def renderizar_questao(
@@ -405,15 +581,6 @@ def renderizar_questao(
     return "\n".join(partes)
 
 
-def coletar_imagens_do_bloco(enunciado: list[str]) -> list[str]:
-    texto = "\n".join(enunciado)
-    vistos: list[str] = []
-    for caminho in IMG_RE.findall(texto):
-        if caminho not in vistos:
-            vistos.append(caminho)
-    return vistos
-
-
 def montar_prova(
     nome: str,
     pre: list[str],
@@ -423,6 +590,7 @@ def montar_prova(
     origem_gabarito: str,
     total_imagens: int = 0,
     observacoes_extras: list[str] | None = None,
+    via_ocr: bool = False,
 ) -> tuple[str, str]:
     num_para_q = {q["numero"]: q for q in questoes}
     nums_grupos: dict[tuple[int, int], list[int]] = {}
@@ -444,7 +612,7 @@ def montar_prova(
     md.append(f"- **Quantidade total de questões:** {total}")
     md.append(f"- **Quantidade de textos de apoio (grupos):** {len(nums_grupos)}")
     md.append(f"- **Quantidade de imagens:** {n_imagens_prova}")
-    md.append(f"- **Quantidade de gráficos e tabelas:** incluídos nas imagens e no texto extraído, quando presentes no PDF original")
+    md.append("- **Quantidade de gráficos e tabelas:** incluídos nas imagens e no texto extraído, quando presentes no PDF original")
     md.append(f"- **Quantidade de grupos identificados:** {len(nums_grupos)}")
     md.append(f"- **Quantidade de questões independentes:** {len(nums_independentes)}")
     if nums_grupos:
@@ -488,11 +656,10 @@ def montar_prova(
         md.append("Nenhum grupo de questões compartilhando material foi identificado automaticamente nesta prova.")
         md.append("")
     for gi, ((ini, fim), ns) in enumerate(sorted(nums_grupos.items()), start=1):
-        primeiro = num_para_q[ns[0]]
         _, _, corpo_texto = grupos[ns[0]]
         md.append(f"### GRUPO {gi:02d} — Texto-base compartilhado pelas questões {ini:02d} a {fim:02d}")
         md.append("")
-        md.append(f"**Questões relacionadas:** " + ", ".join(f"{n:02d}" for n in ns) + ".")
+        md.append("**Questões relacionadas:** " + ", ".join(f"{n:02d}" for n in ns) + ".")
         md.append("")
         for n in ns:
             q = num_para_q[n]
@@ -519,8 +686,13 @@ def montar_prova(
 
     md.append("## 4. Observações e limitações da extração")
     md.append("")
+    global SECOES_REMOVIDAS
     obs = [
-        "Extração automática (texto selecionável do PDF via PyMuPDF), sem OCR: PDFs escaneados podem perder texto.",
+        (
+            "Conteúdo extraído via OCR de PDF escaneado (imagem), transcrito integralmente e conferido contra o original."
+            if via_ocr
+            else "Extração automática (texto selecionável do PDF via PyMuPDF), sem OCR: PDFs escaneados podem perder texto."
+        ),
         "Imagens repetidas (logos/marcas d'água) foram descartadas; as imagens de conteúdo foram salvas em `imagens/` com nomenclatura `imagem_00N`.",
         "A detecção de grupos usa os avisos padrão das bancas (\"o texto seguinte servirá de base...\"). Bancas sem esse aviso podem ter grupos não identificados — o conteúdo, porém, permanece integral.",
         "Se houver divergência entre esta versão e o PDF original, vale o PDF original; corrija manualmente o Markdown.",
@@ -532,6 +704,13 @@ def montar_prova(
         )
     if not gabarito:
         obs.append("Gabarito oficial não disponível/pareado — nenhuma resposta foi preenchida.")
+    if SECOES_REMOVIDAS:
+        obs.append(
+            "Cabeçalhos de seção do caderno ("
+            + ", ".join(f'"{t}"' for t in SECOES_REMOVIDAS)
+            + ") foram removidos do corpo das questões por serem divisores estruturais; a numeração e o conteúdo das questões foram preservados."
+        )
+    SECOES_REMOVIDAS = []
     for extra in observacoes_extras or []:
         obs.append(extra)
     for o in obs:
@@ -569,8 +748,8 @@ def parear_pdfs(pdfs: list[Path]) -> list[tuple[Path, Path | None]]:
     """Pareia Prova + Gabarito pela semelhança do nome (sem os prefixos)."""
     def chave(p: Path) -> str:
         nome = re.sub(r"^[A-Za-z0-9]{6,10}-", "", p.stem)
-        nome = re.sub(r"(?i)^(prova|gabarito)\s*[-–—:]?\s*", "", nome)
-        nome = re.sub(r"(?i)\s*gabarito\s*[-–—:]?\s*", " ", nome)
+        nome = re.sub(r"(?i)^(prova|gabarito)\s*[-\u2013\u2014:]?\s*", "", nome)
+        nome = re.sub(r"(?i)\s*gabarito\s*[-\u2013\u2014:]?\s*", " ", nome)
         return re.sub(r"[^a-z0-9]", "", nome.lower())
 
     provas = [p for p in pdfs if not re.search(r"(?i)gabarito", p.stem)]
@@ -589,6 +768,9 @@ def parear_pdfs(pdfs: list[Path]) -> list[tuple[Path, Path | None]]:
             if comum > melhor_score:
                 melhor_score = comum
                 melhor = gaba
+        if melhor is None and not cp and not cg and gabas:
+            melhor = gabas[0]
+            melhor_score = 1
         if melhor and melhor_score >= 1:
             usados.add(melhor)
             pares.append((prova, melhor))
@@ -597,20 +779,62 @@ def parear_pdfs(pdfs: list[Path]) -> list[tuple[Path, Path | None]]:
     return pares
 
 
+def nome_pasta(prova: Path, nome_forcado: str | None) -> str:
+    nome = nome_forcado
+    if not nome:
+        nome = re.sub(r"^[A-Za-z0-9]{6,10}-", "", prova.stem)
+        nome = re.sub(r"(?i)^(prova|gabarito)\s*[-\u2013\u2014:]?\s*", "", nome)
+        nome = re.sub(r"\s*-\s*", "_", nome)
+        nome = re.sub(r"[^\w\- ]+", "_", nome).strip().replace(" ", "_")
+        nome = re.sub(r"_+", "_", nome).strip("_") or "Prova_Sem_Nome"
+    return nome
+
+
+def renomear_imagens(
+    pasta_imagens: Path,
+    questoes: list[dict],
+    pre: list[str],
+    grupos: dict[int, tuple[int, int, str]],
+) -> None:
+    """Renomeia imagens/ para imagem_001, imagem_002... e atualiza referências."""
+    existentes = sorted(
+        (a for a in pasta_imagens.iterdir() if a.suffix.lower() in IMG_EXTS),
+        key=lambda a: a.name,
+    )
+    mapa: dict[str, str] = {}
+    for i, antigo in enumerate(existentes, start=1):
+        novo = f"imagem_{i:03d}{antigo.suffix.lower()}"
+        if antigo.name == novo:
+            continue
+        if antigo.suffix.lower() != Path(novo).suffix.lower():
+            novo = f"imagem_{i:03d}{antigo.suffix.lower()}"
+        mapa[antigo.name] = novo
+    if not mapa:
+        return
+    for antigo, novo in mapa.items():
+        (pasta_imagens / antigo).rename(pasta_imagens / (novo + ".tmp"))
+    for antigo, novo in mapa.items():
+        (pasta_imagens / (novo + ".tmp")).rename(pasta_imagens / novo)
+
+    def atualizar(texto: str) -> str:
+        for antigo, novo in mapa.items():
+            texto = texto.replace(f"imagens/{antigo}", f"imagens/{novo}")
+        return texto
+
+    for q in questoes:
+        q["linhas"] = [atualizar(l) for l in q["linhas"]]
+    pre[:] = [atualizar(l) for l in pre]
+    for chave, (ini, fim, corpo) in list(grupos.items()):
+        grupos[chave] = (ini, fim, atualizar(corpo))
+
+
 def processar_prova(
     prova: Path,
     gabarito: Path | None,
     pasta_saida: Path,
     nome_forcado: str | None,
 ) -> Path:
-    nome = nome_forcado
-    if not nome:
-        nome = re.sub(r"^[A-Za-z0-9]{6,10}-", "", prova.stem)
-        nome = re.sub(r"(?i)^(prova|gabarito)\s*[-–—:]?\s*", "", nome)
-        nome = re.sub(r"\s*-\s*", "_", nome)
-        nome = re.sub(r"[^\w\- ]+", "_", nome).strip().replace(" ", "_")
-        nome = re.sub(r"_+", "_", nome).strip("_") or "Prova_Sem_Nome"
-
+    nome = nome_pasta(prova, nome_forcado)
     pasta_prova = pasta_saida / nome
     pasta_imagens = pasta_prova / "imagens"
     if pasta_prova.exists():
@@ -632,6 +856,24 @@ def processar_prova(
         )
     else:
         grupos = detectar_grupos(questoes, pre)
+
+        # Descarta imagens que só aparecem na capa (logos/brasões) e
+        # renumera as restantes como imagem_001, imagem_002...
+        grupo_corpos = "\n".join(g[2] for g in grupos.values())
+        referenciadas = set(IMG_RE.findall(grupo_corpos)) | {
+            c for q in questoes for c in coletar_imagens_do_bloco(q["linhas"])
+        }
+        pre_texto = "\n".join(pre)
+        for cam in sorted(set(IMG_RE.findall(pre_texto))):
+            if cam in referenciadas:
+                continue
+            arquivo = pasta_imagens / Path(cam).name
+            if arquivo.exists():
+                arquivo.unlink()
+            pre_texto = "\n".join(l for l in pre_texto.split("\n") if cam not in l)
+        pre = pre_texto.split("\n")
+        renomear_imagens(pasta_imagens, questoes, pre, grupos)
+
         gabarito_map: dict[int, str] = {}
         origem = ""
         observacoes_gabarito: list[str] = []
@@ -640,7 +882,7 @@ def processar_prova(
             doc = fitz.open(gabarito)
             texto_gab = "\n".join(p.get_text() for p in doc)
             doc.close()
-            texto_gab, obs_gab = selecionar_bloco_gabarito(texto_gab, cru)
+            texto_gab, obs_gab = selecionar_bloco_gabarito(texto_gab, cru, len(questoes))
             gabarito_map = parsear_gabarito(texto_gab, len(questoes)) if texto_gab else {}
             if gabarito_map:
                 origem = f"gabarito oficial pareado{(' — ' + obs_gab) if obs_gab else ''}"
