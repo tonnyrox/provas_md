@@ -16,6 +16,9 @@ provas_md/
 └── ferramenta/     ← ferramenta + instruções para organizar novas provas
     ├── INSTRUCOES.md        ← manual completo passo a passo (LEIA PRIMEIRO)
     ├── PROMPT_EXTRACAO.md   ← prompt oficial para extração com IA
+    ├── GARGALOS_E_SOLUCOES.md ← manual de campo: problemas reais e soluções
+    ├── validar_prova.py     ← validador automático do padrão (rodar antes de publicar)
+    ├── exemplo_builder_ocr.py ← template para provas escaneadas (OCR)
     ├── README.md            ← visão técnica da ferramenta
     └── organizador_provas.py
 ```
@@ -30,4 +33,4 @@ provas_md/
 
 ## Como adicionar novas provas
 
-Siga o manual completo em **[ferramenta/INSTRUCOES.md](ferramenta/INSTRUCOES.md)**: ele cobre desde a preparação dos PDFs até a publicação, incluindo o checklist de conferência obrigatório. Para provas complexas, use o prompt de extração em **[ferramenta/PROMPT_EXTRACAO.md](ferramenta/PROMPT_EXTRACAO.md)**.
+Siga o manual completo em **[ferramenta/INSTRUCOES.md](ferramenta/INSTRUCOES.md)**: ele cobre desde a preparação dos PDFs até a publicação, incluindo o checklist de conferência obrigatório. Para provas complexas, use o prompt de extração em **[ferramenta/PROMPT_EXTRACAO.md](ferramenta/PROMPT_EXTRACAO.md)** e consulte o manual de campo **[ferramenta/GARGALOS_E_SOLUCOES.md](ferramenta/GARGALOS_E_SOLUCOES.md)** (problemas reais já resolvidos, com provas de referência). Antes de publicar, rode o validador: `python ferramenta/validar_prova.py --pasta "Provas MD"`.

@@ -4,8 +4,11 @@
 >
 > 1. **[INSTRUCOES.md](INSTRUCOES.md)** — manual completo passo a passo: o padrão obrigatório das provas, como preparar os PDFs, rodar a ferramenta, conferir a saída (checklist), publicar no repositório e o que fazer quando a ferramenta não bastar.
 > 2. **[PROMPT_EXTRACAO.md](PROMPT_EXTRACAO.md)** — o prompt oficial de extração integral, para usar com IA em provas complexas (escaneadas, agrupamentos não declarados, muitas imagens).
-> 3. **[README.md](README.md)** (este arquivo) — visão técnica da ferramenta.
->
+> 3. **[GARGALOS_E_SOLUCOES.md](GARGALOS_E_SOLUCOES.md)** — manual de campo com TODOS os problemas reais já resolvidos neste repositório (PDF escaneado/OCR, marcas d'água, gabaritos multi-cargo, metadados errados no nome do arquivo, questões anuladas/discursivas, imagens, validação) e as provas de referência de cada caso.
+> 4. **[validar_prova.py](validar_prova.py)** — validador automático do padrão. Rodar SEMPRE antes de publicar: `python validar_prova.py --pasta "Provas MD"`.
+> 5. **[exemplo_builder_ocr.py](exemplo_builder_ocr.py)** — template de código para montar provas a partir de OCR (PDF escaneado) usando a ferramenta como biblioteca.
+> 6. **[README.md](README.md)** (este arquivo) — visão técnica da ferramenta.
+
 > Quem for processar e subir provas deve seguir **obrigatoriamente** o padrão descrito na Parte 1 do `INSTRUCOES.md` — assim todas as pastas de `Provas MD/` ficam idênticas, independentemente de quem organizou.
 
 Automatiza em lote a organização de provas: lê os PDFs de uma pasta (pareando automaticamente **Prova + Gabarito** pelo nome do arquivo), extrai texto e imagens, detecta as questões e os **textos-base agrupados**, e gera cada prova **exatamente no padrão de `Provas MD/`**.
@@ -81,6 +84,15 @@ Camara_<Cidade>_<Ano>_<Cargo>/
 
 ---
 
+## ✅ Validação automática (obrigatória antes de publicar)
+
+```
+python validar_prova.py --pasta "Provas MD"            # valida todas as provas
+python validar_prova.py --pasta "Provas MD/Camara_X_2024_Cargo"   # valida uma prova
+```
+
+Verifica: arquivos obrigatórios, seções do Markdown, numeração sequencial das questões, alternativas, consistência de gabaritos e referências de imagens. Saída 0 = pode publicar.
+
 ## ✅ O que a ferramenta faz
 
 - Lê **todos os PDFs** de uma pasta de uma vez.
@@ -123,12 +135,7 @@ Camara_<Cidade>_<Ano>_<Cargo>/
 
 ## ⚠️ Limitações importantes
 
-- **PDFs escaneados** (sem texto selecionável) não funcionam — precisam de OCR antes:
-  ```
-  pip install ocrmypdf
-  ocrmypdf entrada.pdf saida.pdf
-  ```
-  Nesse caso a ferramenta salva o texto bruto e registra a limitação no `relatorio_analise.md`.
+- **PDFs escaneados** (sem texto selecionável) não funcionam com a ferramenta direta — faça OCR e monte com o builder template [`exemplo_builder_ocr.py`](exemplo_builder_ocr.py); o pipeline completo está no [`GARGALOS_E_SOLUCOES.md`](GARGALOS_E_SOLUCOES.md) (Caso 1).
 - A extração é automática e literal: **sem a análise fina de uma revisão humana/IA** (vincular imagem à questão certa quando o aviso não existe, corrigir quebras de linha, conferir gabarito duvidoso). A detecção de grupos depende dos avisos padrão das bancas.
 - Gabaritos em formatos muito incomuns podem não ser interpretados com confiança — nesse caso a ferramenta **não inventa respostas**: deixa sem gabarito e registra a limitação.
 

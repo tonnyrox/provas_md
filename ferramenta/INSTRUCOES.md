@@ -153,7 +153,13 @@ python organizador_provas.py --pasta C:\provas\pdfs --saida C:\provas\saida
 
 ### Passo 4 — Conferir a saída (CHECKLIST OBRIGATÓRIO)
 
-Para cada prova gerada, confira:
+Primeiro, rode o **validador automático** (incluído nesta pasta):
+
+```
+python validar_prova.py --pasta C:\provas\saida
+```
+
+Ele verifica arquivos obrigatórios, seções do Markdown, numeração das questões, alternativas, gabaritos e referências de imagens. **Saída sem "ERROS" é pré-requisito para publicar.** Depois, confira manualmente:
 
 - [ ] A pasta tem o nome no padrão `<Origem>_<Cidade>_<Ano>_<Cargo>` (se não, renomeie).
 - [ ] Contém `prova_organizada.md`, `relatorio_analise.md` e `PROVA_ORGANIZADA.zip`.
@@ -184,17 +190,20 @@ Se você NÃO usa git: entregue a(s) pasta(s) geradas (com o ZIP dentro) para o 
 
 ## PARTE 3 — QUANDO A FERRAMENTA NÃO BASTA
 
+> **🧯 Leia o manual de campo: [`GARGALOS_E_SOLUCOES.md`](GARGALOS_E_SOLUCOES.md)** — ele documenta TODOS os problemas reais já resolvidos neste repositório (PDF escaneado, marcas d'água, linhas mescladas, gabaritos multi-cargo e retificados, gabarito indisponível, metadados errados no nome do arquivo, questões anuladas/discursivas, imagens a descartar, provas fora do padrão) com a solução testada e a prova de referência de cada caso.
+
 A ferramenta é automática e resolve a maioria dos casos, mas pode falhar em:
 
 | Situação | Sintoma | O que fazer |
 |---|---|---|
-| PDF escaneado | "nenhuma questão detectada" | Faça OCR (Passo 1) e rode de novo |
+| PDF escaneado | "nenhuma questão detectada" | Faça OCR e monte com o builder template [`exemplo_builder_ocr.py`](exemplo_builder_ocr.py) (detalhes no GARGALOS, Caso 1) |
 | Grupo não detectado | Texto-base não repetido nas questões | Corrija manualmente o `.md` seguindo a seção 1.4/1.5 |
 | Gabarito não interpretado | "gabarito pareado mas não interpretado" | Preencha o gabarito manualmente comparando com o PDF |
 | Vários cargos sem código | Aviso no relatório | Identifique o cargo correto e selecione o bloco no PDF de gabarito |
 | Imagem vinculada à questão errada | Imagem fora do lugar | Mova a referência `![...]` para dentro da questão certa |
+| Nome do arquivo errado | Cargo/ano do arquivo difere da capa/gabarito | Vale o documento; corrija o nome da pasta (GARGALOS, Caso 5) |
 
-Para provas complexas (muitas imagens, agrupamentos não declarados pela banca, discursivas), use a **IA com o prompt padrão**: o arquivo [`PROMPT_EXTRACAO.md`](PROMPT_EXTRACAO.md) desta pasta contém o prompt completo que deve ser enviado junto com os PDFs. O resultado da IA deve seguir **exatamente** o padrão da Parte 1 deste arquivo.
+Para provas complexas (muitas imagens, agrupamentos não declarados pela banca, discursivas), use a **IA com o prompt padrão**: o arquivo [`PROMPT_EXTRACAO.md`](PROMPT_EXTRACAO.md) desta pasta contém o prompt completo que deve ser enviado junto com os PDFs. O resultado da IA deve seguir **exatamente** o padrão da Parte 1 deste arquivo e ser validado com [`validar_prova.py`](validar_prova.py) antes de publicar.
 
 ---
 
