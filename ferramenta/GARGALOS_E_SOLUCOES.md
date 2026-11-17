@@ -167,3 +167,20 @@ Se encontrar pasta de prova com formato diferente (títulos `# PROVA ORGANIZADA 
 | Gabarito lido pela metade (colunas 01–10/11–20 perdidas) | `Camara_Catas_Altas_da_Noruega_2010_Agente_Legislativo` (corrigido em auditoria) |
 | Imagem órfã = bug (tirinha sem ref nas questões) | `Camara_Piracicaba_2019_Agente_Legislativo` (Q08–09, corrigido) |
 | Texto fragmentado palavra por palavra | `Camara_Bezerros_2025_Agente_Administrativo` (Q10/Q20 reconstruídas) |
+
+---
+
+## Caso 10 — Lote 4: novos formatos e melhorias na ferramenta (2025)
+
+Aprendizados do lote 4 (Bom Princípio, Bonito de Minas, Brusque, Caeté, Camaragibe, Campina Grande, Campo Mourão, Canaã dos Carajás, Candiota, Capanema, Carangola 1992/2008), já incorporados ao [`organizador_provas.py`](organizador_provas.py):
+
+1. **`parear_pdfs` sem gabarito na pasta** — variável `cg` não definida quando não existia nenhum PDF de gabarito → `UnboundLocalError`. Corrigido (inicialização antes do loop). **Sintoma:** crash ao processar pasta só com provas.
+2. **Gabarito colunar com marcação `N`/`X`** (FURB/Brusque): linhas `NN: A` / `NN: X` (X = anulada). Novo parser `parsear_gabarito_colunas` + regex `ANULADA_X_RE`.
+3. **Gabarito vertical multi-coluna** (números e letras em colunas separadas, vários pares por linha, dígitos fatiados "3"+"5" = 35): novo parser `parsear_gabarito_vertical` usando coordenadas de palavras (`page.get_text("words")`), com fusão de dígitos por proximidade (< 7pt) e limiar de confiança de 60%.
+4. **Cabeçalhos alternativos de questão** agora detectados automaticamente: `14ª QUESTÃO` (ordinal), `Questão 01 - enunciado na mesma linha` (inline) e `NN)` sozinho na linha (exigindo alternativas no bloco para não pegar listas da capa).
+5. **Imagens descartáveis filtradas automaticamente**: fundo de página inteira (> 85% da área) e marca d'água repetida em ≥ 60% das páginas com altura < 150px (ex.: `pcimarkpci`) não viram mais `imagem_XXX.png` órfãs.
+6. **Layout em duas colunas**: nova flag `--colunas 2` reordena os blocos de texto (coluna esquerda inteira antes da direita) para provas tipo jornal.
+7. **Recorrência entre concursos da mesma cidade** (ex.: Carangola 1992 ≈ 50% das questões reaproveitadas em 2008): NÃO é duplicidade — registra a ocorrência na seção "Recorrência histórica" dos dois `relatorio_analise.md` e mantém as duas provas integralmente.
+8. **`validar_prova.py`** agora aceita linha de gabarito `🚫 **Gabarito: ANULADA**` além de ✅/⚠️.
+
+Referências novas no apêndice: `Camara_Brusque_2024_Agente_Administrativo_Recepcao` (gabarito `NN: X`), `Camara_Carangola_1992_Agente_Administrativo_I` + `Camara_Carangola_2008_Agente_Administrativo_I` (recorrência entre concursos).

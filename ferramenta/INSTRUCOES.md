@@ -219,3 +219,25 @@ Para provas complexas (muitas imagens, agrupamentos não declarados pela banca, 
 - ❌ Inventar gabarito, ano, cargo ou qualquer informação que não esteja no documento.
 
 Em caso de dúvida, abra uma prova existente em `Provas MD/` (ex.: `Camara_Brusque_2024_Agente_Administrativo_Recepcao/`) e copie o formato.
+
+---
+
+## PARTE 5 — RECURSOS AUTOMÁTICOS DA FERRAMENTA (lote 4)
+
+O [`organizador_provas.py`](organizador_provas.py) agora resolve sozinho, sem intervenção manual:
+
+- **Gabaritos em grade colunar** `NN: A` / `NN: X` (X, N, *, # ou "ANULADA" = anulada) — parser `parsear_gabarito_colunas`.
+- **Gabaritos verticais em colunas** (pares número/letra em colunas separadas, vários pares por linha, dígitos fatiados) — parser `parsear_gabarito_vertical` (usa coordenadas das palavras; exige ≥ 60% de cobertura para aceitar).
+- **Cabeçalhos de questão** `QUESTÃO 05`, `05ª QUESTÃO`, `Questão 05 - texto...` e `05)` (este último só quando há alternativas no bloco).
+- **Imagens de fundo/marca d'água** (fundo de página inteira ou repetido na maioria das páginas) são descartadas automaticamente — não viram imagens órfãs.
+- **PDF em duas colunas**: rodar com `--colunas 2` (verifique no resultado se a ordem das questões ficou correta antes de publicar).
+
+**Fluxo recomendado para cada nova prova:**
+
+1. `python3 ferramenta/organizador_provas.py --pasta <pdfs> --saida saida` (adicione `--colunas 2` se o PDF for de duas colunas).
+2. Conferir o console: `gabarito interpretado: N respostas` deve cobrir todas as questões; se não, parear manualmente (GARGALOS, Casos 2/3).
+3. Conferir `imagens/` — nenhuma imagem órfã; toda figura citada em enunciado referenciada dentro da questão.
+4. `python3 ferramenta/validar_prova.py --pasta "Provas MD/<pasta>"` → deve terminar com **OK** (avisos ⚠ exigem conferência manual).
+5. Copiar para `Provas MD/`, commitar na `main` e conferir `git status` (só os arquivos da prova nova).
+
+**Regra de duplicidade (PROMPT MESTRE):** ano diferente = concurso diferente, mesmo que as questões se repitam — cadastre as duas e registre a recorrência nos dois `relatorio_analise.md` (exemplo: `Camara_Carangola_1992_Agente_Administrativo_I` e `Camara_Carangola_2008_Agente_Administrativo_I`). Prova idêntica (mesmo ano, cargo, banca e conteúdo) já existente = não processe novamente.

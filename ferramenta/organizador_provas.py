@@ -51,6 +51,17 @@ QUESTAO_HEAD_RE = re.compile(
     r"^\s*(?:\*\*)?\s*quest[\u00e3a]o\s*[-\u2013\u2014:.]?\s*(\d{1,3})\s*\)?\s*(?:\*\*)?\s*$",
     re.IGNORECASE,
 )
+QUESTAO_HEAD_INLINE_RE = re.compile(
+    r"^\s*(?:\*\*)?\s*quest[\u00e3a]o\s*[-\u2013\u2014:.]?\s*(\d{1,3})\s*\)?\s*[-\u2013\u2014:.]?\s*(?:\*\*)?\s*(\S.*)$",
+    re.IGNORECASE,
+)
+QUESTAO_HEAD_ORDINAL_RE = re.compile(
+    r"^\s*(?:\*\*)?\s*(\d{1,3})\s*[\u00aa\u00ba\u00b0o]\s+quest[\u00e3a]o\s*(?:\*\*)?\s*$",
+    re.IGNORECASE,
+)
+QUESTAO_NUM_SOZINHO_RE = re.compile(
+    r"^\s*(?:\*\*)?\s*(\d{1,3})\s*\)\s*(?:\*\*)?\s*$"
+)
 QUESTAO_NUM_RE = re.compile(r"^\s*(?:\*\*)?\s*(\d{1,3})\s*[\.\)]\s*\**\s*(.+)")
 ALT_RE = re.compile(r"^\s*\(?\s*([A-Ea-e])\s*[).:]\s*(.*)$")
 
@@ -88,6 +99,7 @@ TEXTO_BASE_RES = [
 GABARITO_PAR_RE = re.compile(r"(?<![\d.])(\d{1,3})\s*[-\u2013\u2014:.|\s]+\(?([A-Ea-e])\)?(?=[\s,;)\]]|$)")
 ANULADA_RE = re.compile(r"(?<![\d.])(\d{1,3})\s*[-\u2013\u2014:.|\s]+ANULAD[AO]", re.IGNORECASE)
 ANULADA_HASH_RE = re.compile(r"(?<![\d.])(\d{1,3})\s*[-\u2013\u2014:.|\s]+#+(?=[\s,;)\]]|$)")
+ANULADA_X_RE = re.compile(r"(?<![\d.])(\d{1,3})\s*[-\u2013\u2014:.|\s]+X(?=[\s,;)\]]|$)")
 VF_RE = re.compile(r"(?<![\d.])(\d{1,3})\s*[-\u2013\u2014:.|\s]+([VFvf])(?=[\s,;)\]]|$)")
 NUM_SOZINHO_RE = re.compile(r"^[\s.|]*((?:\d{1,3}[\s.|]+)*\d{1,3})[\s.|]*$")
 LETRA_SOZINHA_RE = re.compile(r"^[\s.|A-Ea-e]+$")
@@ -111,17 +123,51 @@ ALTURA_MIN_IMG = 80
 IMG_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp", ".bmp"}
 
 
-def extrair_pdf(pdf_path: Path, pasta_imagens: Path) -> str:
-    """Extrai um PDF para Markdown cru (texto + imagens intercaladas)."""
+def extrair_pdf(pdf_path: Path, pasta_imagens: Path, colunas: int = 1) -> str:
+    """Extrai um PDF para Markdown cru (texto + imagens intercaladas).
+
+    colunas=2 reordena os blocos de texto de páginas em duas colunas
+    (esquerda inteira antes da direita), corrigindo provas com layout
+    jornal onde a leitura natural embaralha as questões.
+    """
     doc = fitz.open(pdf_path)
     partes: list[str] = []
     contador_imgs = 0
     hashes_vistos: set[str] = set()
 
+    area_por_hash: dict[str, int] = {}
+    total_paginas = max(1, len(doc))
+    pre_scan: list[tuple[str, float]] = []
+    for pagina in doc:
+        area_pagina = abs(pagina.rect)
+        for bloco in pagina.get_text("dict")["blocks"]:
+            if bloco["type"] == 1 and bloco.get("image"):
+                resumo = hashlib.md5(bloco["image"]).hexdigest()
+                pre_scan.append((resumo, (bloco.get("width", 0) * bloco.get("height", 0)) / max(1.0, area_pagina)))
+    for resumo, _ in pre_scan:
+        area_por_hash[resumo] = area_por_hash.get(resumo, 0) + 1
+    
+    def imagem_descartavel(resumo: str, largura: int, altura: int, area_pagina: float) -> bool:
+        area_frac = (largura * altura) / max(1.0, area_pagina)
+        if area_frac > 0.85:
+            return True
+        ocorrencias = area_por_hash.get(resumo, 0)
+        if ocorrencias >= max(3, total_paginas * 0.6) and altura < 150:
+            return True
+        return False
+
     for num_pagina, pagina in enumerate(doc, start=1):
         partes.append(f"\n\n<!-- pagina {num_pagina} -->\n")
+        area_pagina = abs(pagina.rect)
         dados = pagina.get_text("dict")
-        for bloco in dados["blocks"]:
+        blocos = list(dados["blocks"])
+        if colunas == 2:
+            meio = pagina.rect.width / 2
+            texto_esq = [b for b in blocos if b["type"] == 0 and b["bbox"][0] < meio]
+            texto_dir = [b for b in blocos if b["type"] == 0 and b["bbox"][0] >= meio]
+            visuais = [b for b in blocos if b["type"] == 1]
+            blocos = texto_esq + texto_dir + visuais
+        for bloco in blocos:
             if bloco["type"] == 0:
                 texto = "\n".join(
                     "".join(span["text"] for span in linha["spans"]).strip()
@@ -140,6 +186,8 @@ def extrair_pdf(pdf_path: Path, pasta_imagens: Path) -> str:
                     continue
                 resumo = hashlib.md5(conteudo_img).hexdigest()
                 if resumo in hashes_vistos:
+                    continue
+                if imagem_descartavel(resumo, bloco.get("width", 0), bloco.get("height", 0), area_pagina):
                     continue
                 hashes_vistos.add(resumo)
                 contador_imgs += 1
@@ -170,6 +218,14 @@ def detectar_questoes(cru: str) -> tuple[list[dict], list[str]]:
     for i, linha in enumerate(linhas):
         m = QUESTAO_HEAD_RE.match(linha)
         if not m:
+            m_ord = QUESTAO_HEAD_ORDINAL_RE.match(linha)
+            if m_ord:
+                m = m_ord
+            elif QUESTAO_HEAD_INLINE_RE.match(linha):
+                m = QUESTAO_HEAD_INLINE_RE.match(linha)
+            elif QUESTAO_NUM_SOZINHO_RE.match(linha):
+                m = QUESTAO_NUM_SOZINHO_RE.match(linha)
+        if not m:
             m2 = QUESTAO_NUM_RE.match(linha)
             m = m2 if m2 else None
         if m:
@@ -177,7 +233,11 @@ def detectar_questoes(cru: str) -> tuple[list[dict], list[str]]:
 
     filtrados: list[tuple[int, int]] = []
     for idx, (i, num) in enumerate(candidatos):
-        if QUESTAO_HEAD_RE.match(linhas[i]):
+        if (
+            QUESTAO_HEAD_RE.match(linhas[i])
+            or QUESTAO_HEAD_ORDINAL_RE.match(linhas[i])
+            or QUESTAO_HEAD_INLINE_RE.match(linhas[i])
+        ):
             filtrados.append((i, num))
             continue
         fim_cand = candidatos[idx + 1][0] if idx + 1 < len(candidatos) else len(linhas)
@@ -426,6 +486,100 @@ def parsear_gabarito_grade(texto_bloco: str, total_questoes: int) -> dict[int, s
     return {n: respostas[n] for n in sorted(respostas) if 1 <= n <= total_questoes}
 
 
+ANULADA_TOKENS = {"N", "X", "*", "#", "ANULADA", "ANULAD", "ANUL", "NULA", "NULO"}
+
+
+def parsear_gabarito_vertical(
+    palavras: list[tuple[float, float, float, float, str]], total_questoes: int
+) -> dict[int, str]:
+    """Interpreta gabaritos em colunas verticais usando coordenadas das palavras.
+
+    Formato típico: duas colunas lado a lado ("1  A", "2  C", ...) renderizadas
+    como palavras separadas na mesma linha, inclusive com múltiplos pares por
+    linha e números fatiados em dígitos ("3" "5" para "35").
+    """
+    if not palavras:
+        return {}
+    palavras = [tuple(w[:5]) for w in palavras]
+    ordenadas = sorted(palavras, key=lambda w: (round(w[1], 1), w[0]))
+    linhas: list[list[tuple[float, float, float, float, str]]] = []
+    atual: list[tuple[float, float, float, float, str]] = []
+    y_atual: float | None = None
+    for w in ordenadas:
+        if y_atual is None or abs(w[1] - y_atual) <= 4.0:
+            atual.append(w)
+            y_atual = w[1] if y_atual is None else y_atual
+        else:
+            linhas.append(atual)
+            atual = [w]
+            y_atual = w[1]
+    if atual:
+        linhas.append(atual)
+
+    respostas: dict[int, str] = {}
+    for linha in linhas:
+        tokens = sorted(linha, key=lambda w: w[0])
+        numeros: list[tuple[float, int]] = []
+        letras: list[tuple[float, str]] = []
+        for idx, (x0, _y0, x1, _x1b, tok) in enumerate(tokens):
+            limpo = tok.strip(".:-")
+            if re.fullmatch(r"\d{1,3}", limpo):
+                anterior = tokens[idx - 1] if idx > 0 else None
+                anterior_limpo = anterior[4].strip(".:-") if anterior else ""
+                gap = x0 - anterior[2] if anterior else 999.0
+                if (
+                    numeros
+                    and re.fullmatch(r"\d{1,3}", anterior_limpo)
+                    and gap < 7.0
+                ):
+                    x_anterior, n_anterior = numeros[-1]
+                    numeros[-1] = (x_anterior, n_anterior * 10 ** len(limpo) + int(limpo))
+                else:
+                    numeros.append((x0, int(limpo)))
+            elif re.fullmatch(r"[A-Ea-e]", limpo):
+                letras.append((x0, limpo.upper()))
+            elif limpo.upper() in ANULADA_TOKENS:
+                letras.append((x0, "ANULADA"))
+        if not numeros or not letras or len(numeros) != len(letras):
+            continue
+        if [n for _x, n in numeros] != sorted(n for _x, n in numeros):
+            continue
+        for (_nx, num), (_lx, letra) in zip(numeros, letras):
+            if 1 <= num <= total_questoes and num not in respostas:
+                respostas[num] = letra
+    cobertas = sum(1 for n in range(1, total_questoes + 1) if n in respostas)
+    if cobertas < max(3, total_questoes * 0.6):
+        return {}
+    return {n: respostas[n] for n in sorted(respostas)}
+
+
+def parsear_gabarito_colunas(texto_bloco: str, total_questoes: int) -> dict[int, str]:
+    """Interpreta gabaritos em grade colunar com marcação N/X (número + letra por linha).
+
+    Formato típico (FURB e similares):
+        01: A
+        02: X        (X = anulada)
+    """
+    respostas: dict[int, str] = {}
+    for linha in texto_bloco.splitlines():
+        t = linha.replace("\xa0", " ").strip()
+        m = re.match(r"^(\d{1,3})\s*[-\u2013\u2014:.|]?\s*([A-Ea-eXx*#]|ANULAD[AO]|NULA)\s*$", t)
+        if not m:
+            continue
+        num = int(m.group(1))
+        val = m.group(2).upper()
+        if not (1 <= num <= total_questoes):
+            continue
+        if val in {"X", "*", "#", "ANULADA", "ANULADO", "NULA", "NULO"}:
+            respostas[num] = "ANULADA"
+        else:
+            respostas[num] = val
+    cobertas = sum(1 for n in range(1, total_questoes + 1) if n in respostas)
+    if cobertas < max(3, total_questoes * 0.6):
+        return {}
+    return {n: respostas[n] for n in sorted(respostas)}
+
+
 def normalizar_cargo(nome: str) -> str:
     nome = unicodedata.normalize("NFKD", nome)
     nome = "".join(c for c in nome if not unicodedata.combining(c))
@@ -650,6 +804,10 @@ def parsear_gabarito(texto_cru: str, total_questoes: int) -> dict[int, str]:
         num = int(m.group(1))
         if 1 <= num <= total_questoes:
             respostas[num] = "ANULADA"
+    for m in ANULADA_X_RE.finditer(texto):
+        num = int(m.group(1))
+        if 1 <= num <= total_questoes:
+            respostas[num] = "ANULADA"
     for m in GABARITO_PAR_RE.finditer(texto):
         num = int(m.group(1))
         letra = m.group(2).upper()
@@ -675,11 +833,18 @@ def limpar_marcador(enunciado: list[str], numero: int) -> list[str]:
         return enunciado
     primeira = enunciado[0].strip()
     m_head = QUESTAO_HEAD_RE.match(primeira)
+    m_ord = QUESTAO_HEAD_ORDINAL_RE.match(primeira)
+    m_inline = QUESTAO_HEAD_INLINE_RE.match(primeira)
     m_num = re.match(
         rf"^\s*(?:\*\*)?\s*0?{numero}\s*[\.\)]\s*\**\s*(.*)$", primeira
     )
-    if m_head and int(m_head.group(1)) == numero:
+    if (m_head and int(m_head.group(1)) == numero) or (
+        m_ord and int(m_ord.group(1)) == numero
+    ):
         enunciado = enunciado[1:]
+    elif m_inline and int(m_inline.group(1)) == numero:
+        resto = m_inline.group(2).strip(" -\u2013\u2014:.")
+        enunciado = ([resto] if resto else []) + enunciado[1:]
     elif m_num:
         resto = m_num.group(1).strip()
         enunciado = ([resto] if resto else []) + enunciado[1:]
@@ -941,6 +1106,7 @@ def parear_pdfs(pdfs: list[Path]) -> list[tuple[Path, Path | None]]:
     usados: set[Path] = set()
     for prova in provas:
         cp = chave(prova)
+        cg = ""
         melhor = None
         melhor_score = 0
         for gaba in gabas:
@@ -1016,6 +1182,7 @@ def processar_prova(
     gabarito: Path | None,
     pasta_saida: Path,
     nome_forcado: str | None,
+    colunas: int = 1,
 ) -> Path:
     nome = nome_pasta(prova, nome_forcado)
     pasta_prova = pasta_saida / nome
@@ -1025,7 +1192,7 @@ def processar_prova(
     pasta_imagens.mkdir(parents=True)
 
     print(f"[{nome}] extraindo {prova.name}...")
-    cru = extrair_pdf(prova, pasta_imagens)
+    cru = extrair_pdf(prova, pasta_imagens, colunas)
     questoes, pre = detectar_questoes(cru)
     if not questoes:
         print(f"[{nome}] ⚠️ nenhuma questão detectada — PDF provavelmente escaneado (precisa de OCR).")
@@ -1064,9 +1231,16 @@ def processar_prova(
             print(f"[{nome}] pareado com gabarito: {gabarito.name}")
             doc = fitz.open(gabarito)
             texto_gab = "\n".join(p.get_text() for p in doc)
+            palavras_gab = [tuple(w[:5]) for p in doc for w in p.get_text("words")]
             doc.close()
             texto_gab, obs_gab = selecionar_bloco_gabarito(texto_gab, cru, len(questoes))
             gabarito_map = parsear_gabarito(texto_gab, len(questoes)) if texto_gab else {}
+            if not gabarito_map:
+                gabarito_map = parsear_gabarito_colunas(texto_gab, len(questoes)) if texto_gab else {}
+            if not gabarito_map:
+                gabarito_map = parsear_gabarito_vertical(palavras_gab, len(questoes))
+            if gabarito_map:
+                print(f"[{nome}] gabarito interpretado: {len(gabarito_map)} respostas")
             if gabarito_map:
                 origem = f"gabarito oficial pareado{(' — ' + obs_gab) if obs_gab else ''}"
             else:
@@ -1094,7 +1268,13 @@ def processar_prova(
     return pasta_prova
 
 
-def processar(pasta_pdfs: Path, pasta_saida: Path, repo: Path | None, nome: str | None) -> None:
+def processar(
+    pasta_pdfs: Path,
+    pasta_saida: Path,
+    repo: Path | None,
+    nome: str | None,
+    colunas: int = 1,
+) -> None:
     pdfs = sorted(pasta_pdfs.glob("*.pdf")) + sorted(pasta_pdfs.glob("*.PDF"))
     if not pdfs:
         sys.exit(f"Nenhum PDF encontrado em {pasta_pdfs}")
@@ -1102,12 +1282,12 @@ def processar(pasta_pdfs: Path, pasta_saida: Path, repo: Path | None, nome: str 
     pasta_saida.mkdir(parents=True, exist_ok=True)
     pares = parear_pdfs(pdfs)
     if len(pares) == 1:
-        processar_prova(pares[0][0], pares[0][1], pasta_saida, nome)
+        processar_prova(pares[0][0], pares[0][1], pasta_saida, nome, colunas)
     else:
         if nome:
             print("⚠️ --nome ignorado: há várias provas na pasta; o nome vem do arquivo.")
         for prova, gabarito in pares:
-            processar_prova(prova, gabarito, pasta_saida, None)
+            processar_prova(prova, gabarito, pasta_saida, None, colunas)
 
     if repo:
         destino = repo / "Provas MD"
@@ -1128,12 +1308,19 @@ def main() -> None:
     parser.add_argument("--saida", default="saida", help="Pasta de saída das provas")
     parser.add_argument("--nome", help="Nome da pasta da prova (padrão: Camara_<Cidade>_<Ano>_<Cargo>)")
     parser.add_argument("--repo", help="Caminho do clone de provas_md para copiar o resultado")
+    parser.add_argument(
+        "--colunas",
+        type=int,
+        choices=[1, 2],
+        default=1,
+        help="Layout do PDF: 1 = coluna única (padrão), 2 = duas colunas",
+    )
     args = parser.parse_args()
 
     pasta_pdfs = Path(args.pasta).expanduser().resolve()
     pasta_saida = Path(args.saida).expanduser().resolve()
     repo = Path(args.repo).expanduser().resolve() if args.repo else None
-    processar(pasta_pdfs, pasta_saida, repo, args.nome)
+    processar(pasta_pdfs, pasta_saida, repo, args.nome, args.colunas)
 
 
 if __name__ == "__main__":

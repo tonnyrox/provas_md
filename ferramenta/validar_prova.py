@@ -38,7 +38,7 @@ SECAO3 = "## 3. Questões independentes"
 SECAO4 = "## 4. Observações e limitações da extração"
 
 Q_RE = re.compile(r"^#### QUESTÃO (\d+)$", re.M)
-GAB_RE = re.compile(r"^(?:✅|⚠️) \*\*Gabarito:", re.M)
+GAB_RE = re.compile(r"^(?:✅|⚠️|🚫) \*\*Gabarito", re.M)
 IMG_RE = re.compile(r"!\[[^\]]*\]\((imagens/[^)]+)\)")
 GRUPO_RE = re.compile(r"^### GRUPO \d+ — (.*)$", re.M)
 REL_RE = re.compile(r"\*\*Questões relacionadas:\*\*\s*([0-9,\s e]+)")
