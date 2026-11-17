@@ -28,7 +28,7 @@
 
 - **QUESTÕES 01 a 08** estão vinculadas ao **texto-base 1**: o artigo **"O machismo no futebol brasileiro"** (Correio Braziliense, adaptado).
   - ⚠️ **ATENÇÃO:** na prova original, esse texto aparece **UMA ÚNICA VEZ**, antes da questão 01, com o aviso *"O texto seguinte servirá de base para responder às questões de 1 a 8"*. As questões 2 a 8 aparecem "soltas", sem repetir o texto.
-  - ✅ **Neste arquivo, o texto-base foi REPETIDO integralmente antes de cada uma das questões 01 a 08**, para que cada questão fique completa e independente.
+  - ✅ **Neste arquivo, o texto-base foi REPETIDO integralmente DENTRO de cada uma das questões 01 a 08**, para que cada questão seja uma unidade autossuficiente (regra: nenhuma questão pode depender de consulta a outra questão ou seção).
 - **QUESTÃO 09** está vinculada a uma **tirinha (imagem)** sobre machismo ("papo de homem") — `imagens/q09_tirinha_machismo.jpg`.
 - **QUESTÃO 10** está vinculada a um **gráfico (imagem)** da pesquisa **PoderData** ("Machismo x Machistas") — `imagens/q10_grafico_poderdata.jpg`.
 
@@ -85,7 +85,28 @@ Parte desse combate também passa por maiores investimentos no futebol feminino 
 
 ## Questão 01
 
-> 🔗 **AGrupada — usa o TEXTO-BASE 1 ("O machismo no futebol brasileiro"), repetido acima.**
+> 🔗 **Agrupada — usa o TEXTO-BASE 1 ("O machismo no futebol brasileiro"), compartilhado com as questões 01 a 08 e reproduzido integralmente abaixo.**
+
+**TEXTO-BASE 1 (compartilhado pelas questões 01 a 08) — reproduzido integralmente abaixo:**
+
+### O machismo no futebol brasileiro
+
+Quando se fala sobre o mundo da bola, a maior parte do debate público se volta ao que acontece dentro das quatro linhas. Gols, passes, dribles, defesas marcantes e até erros de arbitragem ocupam o imaginário popular com contornos de emoção. Nos últimos anos, porém, chama a atenção a ainda limitada discussão sobre a violência contra a mulher no esporte mais popular do país — situação que já colocou atrás das grades jogadores renomados com passagens pela Seleção Brasileira, como Robinho e Daniel Alves.
+
+Na Europa, veio à tona uma investigação do Ministério Público da Suécia que, segundo a imprensa internacional, pode envolver o nome do atacante Kylian Mbappé, estrela do Real Madrid e da França, um dos maiores craques da atualidade. Sua advogada garante a inocência dele. Ainda na Espanha, circulou na imprensa mundial, um "contrato de estupro acidental" que jogadores têm apresentado a mulheres para evitar denúncias de crimes do tipo, diante da alta de casos recentemente. O documento, além de frágil judicialmente, expõe a faceta mais cruel do machismo no futebol. Os atletas invertem a lógica e querem, na prática, ser tratados como uma parcela da sociedade acima do bem e do mal.
+
+Todo esse contexto se soma ao que se vê nas arquibancadas mundo afora. Quem frequenta estádios se depara com frequência com músicas machistas, que objetificam a mulher para provocar um rival — sem contar os olhares indesejados independentemente da roupa usada. O cenário exige que os clubes e as confederações tomem medidas duras para combater a violência contra a mulher no futebol e, mais do que isso, conscientizem seus atletas sobre eventuais crimes que se tornaram recorrentes no noticiário esportivo.
+
+Recentemente, Atlético, Cruzeiro e América marcaram golaços ao divulgarem, entre seus funcionários, inclusive os atletas, o protocolo Fale Agora, desenvolvido pela Secretaria de Estado de Desenvolvimento Social de Minas Gerais (Sedese-MG) para trabalhar a questão com os departamentos de psicologia e pedagogia dos três principais clubes mineiros.
+
+É papel dos clubes realizar medidas efetivas para reduzir os casos de violência contra a mulher. Pouco adianta aderir a campanhas educativas nos uniformes se, dentro do vestiário, posturas machistas são aceitas sem problematização. Ou se atletas são contratados mesmo com denúncias de crimes contra mulheres. Não se trata de caça às bruxas, mas é preciso prudência para que aquele acusado só volte a ocupar uma posição de destaque após a apuração completa do caso.
+
+Parte desse combate também passa por maiores investimentos no futebol feminino — parcela essa que também cabe ao torcedor cobrar efetivamente seus dirigentes. Além disso, é preciso reconhecer a atribuição que a Confederação Brasileira de Futebol (CBF) tem nesse necessário combate. Sempre muito preocupada com a Seleção Brasileira, a CBF fecha os olhos para problemas recorrentes da modalidade no país — entre eles, a violência contra a mulher e o machismo abertamente vociferado com orgulho nas arquibancadas. Um problema não só do esporte, mas também dele.
+
+(Disponível em: http://www.correiobraziliense.com.br/opiniao/2024/10/6965598-visao-do-correio-e-preciso-combater-o-machismo-no-futebol-brasileiro.html. Acesso em: 16 out. 2024. Adaptado.)
+
+---
+
 
 Considere as seguintes afirmações sobre hipônimo e hiperônimo com base no texto sobre machismo no futebol e marque V, para as verdadeiras, e F, para as falsas:
 
@@ -107,7 +128,28 @@ Assinale a alternativa que indica a sequência correta:
 
 ## Questão 02
 
-> 🔗 **AGrupada — usa o TEXTO-BASE 1 ("O machismo no futebol brasileiro"), repetido acima.**
+> 🔗 **Agrupada — usa o TEXTO-BASE 1 ("O machismo no futebol brasileiro"), compartilhado com as questões 01 a 08 e reproduzido integralmente abaixo.**
+
+**TEXTO-BASE 1 (compartilhado pelas questões 01 a 08) — reproduzido integralmente abaixo:**
+
+### O machismo no futebol brasileiro
+
+Quando se fala sobre o mundo da bola, a maior parte do debate público se volta ao que acontece dentro das quatro linhas. Gols, passes, dribles, defesas marcantes e até erros de arbitragem ocupam o imaginário popular com contornos de emoção. Nos últimos anos, porém, chama a atenção a ainda limitada discussão sobre a violência contra a mulher no esporte mais popular do país — situação que já colocou atrás das grades jogadores renomados com passagens pela Seleção Brasileira, como Robinho e Daniel Alves.
+
+Na Europa, veio à tona uma investigação do Ministério Público da Suécia que, segundo a imprensa internacional, pode envolver o nome do atacante Kylian Mbappé, estrela do Real Madrid e da França, um dos maiores craques da atualidade. Sua advogada garante a inocência dele. Ainda na Espanha, circulou na imprensa mundial, um "contrato de estupro acidental" que jogadores têm apresentado a mulheres para evitar denúncias de crimes do tipo, diante da alta de casos recentemente. O documento, além de frágil judicialmente, expõe a faceta mais cruel do machismo no futebol. Os atletas invertem a lógica e querem, na prática, ser tratados como uma parcela da sociedade acima do bem e do mal.
+
+Todo esse contexto se soma ao que se vê nas arquibancadas mundo afora. Quem frequenta estádios se depara com frequência com músicas machistas, que objetificam a mulher para provocar um rival — sem contar os olhares indesejados independentemente da roupa usada. O cenário exige que os clubes e as confederações tomem medidas duras para combater a violência contra a mulher no futebol e, mais do que isso, conscientizem seus atletas sobre eventuais crimes que se tornaram recorrentes no noticiário esportivo.
+
+Recentemente, Atlético, Cruzeiro e América marcaram golaços ao divulgarem, entre seus funcionários, inclusive os atletas, o protocolo Fale Agora, desenvolvido pela Secretaria de Estado de Desenvolvimento Social de Minas Gerais (Sedese-MG) para trabalhar a questão com os departamentos de psicologia e pedagogia dos três principais clubes mineiros.
+
+É papel dos clubes realizar medidas efetivas para reduzir os casos de violência contra a mulher. Pouco adianta aderir a campanhas educativas nos uniformes se, dentro do vestiário, posturas machistas são aceitas sem problematização. Ou se atletas são contratados mesmo com denúncias de crimes contra mulheres. Não se trata de caça às bruxas, mas é preciso prudência para que aquele acusado só volte a ocupar uma posição de destaque após a apuração completa do caso.
+
+Parte desse combate também passa por maiores investimentos no futebol feminino — parcela essa que também cabe ao torcedor cobrar efetivamente seus dirigentes. Além disso, é preciso reconhecer a atribuição que a Confederação Brasileira de Futebol (CBF) tem nesse necessário combate. Sempre muito preocupada com a Seleção Brasileira, a CBF fecha os olhos para problemas recorrentes da modalidade no país — entre eles, a violência contra a mulher e o machismo abertamente vociferado com orgulho nas arquibancadas. Um problema não só do esporte, mas também dele.
+
+(Disponível em: http://www.correiobraziliense.com.br/opiniao/2024/10/6965598-visao-do-correio-e-preciso-combater-o-machismo-no-futebol-brasileiro.html. Acesso em: 16 out. 2024. Adaptado.)
+
+---
+
 
 Nos trechos apresentados a seguir, diferentes elementos coesivos são utilizados para conectar as ideias e organizar as informações. Avalie-os e, em seguida, assinale a alternativa que analisa corretamente as relações estabelecidas pelos elementos coesivos sublinhados:
 
@@ -126,7 +168,28 @@ Nos trechos apresentados a seguir, diferentes elementos coesivos são utilizados
 
 ## Questão 03
 
-> 🔗 **AGrupada — usa o TEXTO-BASE 1 ("O machismo no futebol brasileiro"), repetido acima.**
+> 🔗 **Agrupada — usa o TEXTO-BASE 1 ("O machismo no futebol brasileiro"), compartilhado com as questões 01 a 08 e reproduzido integralmente abaixo.**
+
+**TEXTO-BASE 1 (compartilhado pelas questões 01 a 08) — reproduzido integralmente abaixo:**
+
+### O machismo no futebol brasileiro
+
+Quando se fala sobre o mundo da bola, a maior parte do debate público se volta ao que acontece dentro das quatro linhas. Gols, passes, dribles, defesas marcantes e até erros de arbitragem ocupam o imaginário popular com contornos de emoção. Nos últimos anos, porém, chama a atenção a ainda limitada discussão sobre a violência contra a mulher no esporte mais popular do país — situação que já colocou atrás das grades jogadores renomados com passagens pela Seleção Brasileira, como Robinho e Daniel Alves.
+
+Na Europa, veio à tona uma investigação do Ministério Público da Suécia que, segundo a imprensa internacional, pode envolver o nome do atacante Kylian Mbappé, estrela do Real Madrid e da França, um dos maiores craques da atualidade. Sua advogada garante a inocência dele. Ainda na Espanha, circulou na imprensa mundial, um "contrato de estupro acidental" que jogadores têm apresentado a mulheres para evitar denúncias de crimes do tipo, diante da alta de casos recentemente. O documento, além de frágil judicialmente, expõe a faceta mais cruel do machismo no futebol. Os atletas invertem a lógica e querem, na prática, ser tratados como uma parcela da sociedade acima do bem e do mal.
+
+Todo esse contexto se soma ao que se vê nas arquibancadas mundo afora. Quem frequenta estádios se depara com frequência com músicas machistas, que objetificam a mulher para provocar um rival — sem contar os olhares indesejados independentemente da roupa usada. O cenário exige que os clubes e as confederações tomem medidas duras para combater a violência contra a mulher no futebol e, mais do que isso, conscientizem seus atletas sobre eventuais crimes que se tornaram recorrentes no noticiário esportivo.
+
+Recentemente, Atlético, Cruzeiro e América marcaram golaços ao divulgarem, entre seus funcionários, inclusive os atletas, o protocolo Fale Agora, desenvolvido pela Secretaria de Estado de Desenvolvimento Social de Minas Gerais (Sedese-MG) para trabalhar a questão com os departamentos de psicologia e pedagogia dos três principais clubes mineiros.
+
+É papel dos clubes realizar medidas efetivas para reduzir os casos de violência contra a mulher. Pouco adianta aderir a campanhas educativas nos uniformes se, dentro do vestiário, posturas machistas são aceitas sem problematização. Ou se atletas são contratados mesmo com denúncias de crimes contra mulheres. Não se trata de caça às bruxas, mas é preciso prudência para que aquele acusado só volte a ocupar uma posição de destaque após a apuração completa do caso.
+
+Parte desse combate também passa por maiores investimentos no futebol feminino — parcela essa que também cabe ao torcedor cobrar efetivamente seus dirigentes. Além disso, é preciso reconhecer a atribuição que a Confederação Brasileira de Futebol (CBF) tem nesse necessário combate. Sempre muito preocupada com a Seleção Brasileira, a CBF fecha os olhos para problemas recorrentes da modalidade no país — entre eles, a violência contra a mulher e o machismo abertamente vociferado com orgulho nas arquibancadas. Um problema não só do esporte, mas também dele.
+
+(Disponível em: http://www.correiobraziliense.com.br/opiniao/2024/10/6965598-visao-do-correio-e-preciso-combater-o-machismo-no-futebol-brasileiro.html. Acesso em: 16 out. 2024. Adaptado.)
+
+---
+
 
 O texto aborda o machismo no futebol brasileiro, destacando diferentes aspectos dessa problemática, desde atitudes machistas por parte de torcedores e atletas até a resposta institucional de clubes e confederações. A partir da leitura crítica do texto, considere as seguintes afirmações:
 
@@ -150,7 +213,28 @@ Com base no texto, está correto o que se afirma em:
 
 ## Questão 04
 
-> 🔗 **AGrupada — usa o TEXTO-BASE 1 ("O machismo no futebol brasileiro"), repetido acima.**
+> 🔗 **Agrupada — usa o TEXTO-BASE 1 ("O machismo no futebol brasileiro"), compartilhado com as questões 01 a 08 e reproduzido integralmente abaixo.**
+
+**TEXTO-BASE 1 (compartilhado pelas questões 01 a 08) — reproduzido integralmente abaixo:**
+
+### O machismo no futebol brasileiro
+
+Quando se fala sobre o mundo da bola, a maior parte do debate público se volta ao que acontece dentro das quatro linhas. Gols, passes, dribles, defesas marcantes e até erros de arbitragem ocupam o imaginário popular com contornos de emoção. Nos últimos anos, porém, chama a atenção a ainda limitada discussão sobre a violência contra a mulher no esporte mais popular do país — situação que já colocou atrás das grades jogadores renomados com passagens pela Seleção Brasileira, como Robinho e Daniel Alves.
+
+Na Europa, veio à tona uma investigação do Ministério Público da Suécia que, segundo a imprensa internacional, pode envolver o nome do atacante Kylian Mbappé, estrela do Real Madrid e da França, um dos maiores craques da atualidade. Sua advogada garante a inocência dele. Ainda na Espanha, circulou na imprensa mundial, um "contrato de estupro acidental" que jogadores têm apresentado a mulheres para evitar denúncias de crimes do tipo, diante da alta de casos recentemente. O documento, além de frágil judicialmente, expõe a faceta mais cruel do machismo no futebol. Os atletas invertem a lógica e querem, na prática, ser tratados como uma parcela da sociedade acima do bem e do mal.
+
+Todo esse contexto se soma ao que se vê nas arquibancadas mundo afora. Quem frequenta estádios se depara com frequência com músicas machistas, que objetificam a mulher para provocar um rival — sem contar os olhares indesejados independentemente da roupa usada. O cenário exige que os clubes e as confederações tomem medidas duras para combater a violência contra a mulher no futebol e, mais do que isso, conscientizem seus atletas sobre eventuais crimes que se tornaram recorrentes no noticiário esportivo.
+
+Recentemente, Atlético, Cruzeiro e América marcaram golaços ao divulgarem, entre seus funcionários, inclusive os atletas, o protocolo Fale Agora, desenvolvido pela Secretaria de Estado de Desenvolvimento Social de Minas Gerais (Sedese-MG) para trabalhar a questão com os departamentos de psicologia e pedagogia dos três principais clubes mineiros.
+
+É papel dos clubes realizar medidas efetivas para reduzir os casos de violência contra a mulher. Pouco adianta aderir a campanhas educativas nos uniformes se, dentro do vestiário, posturas machistas são aceitas sem problematização. Ou se atletas são contratados mesmo com denúncias de crimes contra mulheres. Não se trata de caça às bruxas, mas é preciso prudência para que aquele acusado só volte a ocupar uma posição de destaque após a apuração completa do caso.
+
+Parte desse combate também passa por maiores investimentos no futebol feminino — parcela essa que também cabe ao torcedor cobrar efetivamente seus dirigentes. Além disso, é preciso reconhecer a atribuição que a Confederação Brasileira de Futebol (CBF) tem nesse necessário combate. Sempre muito preocupada com a Seleção Brasileira, a CBF fecha os olhos para problemas recorrentes da modalidade no país — entre eles, a violência contra a mulher e o machismo abertamente vociferado com orgulho nas arquibancadas. Um problema não só do esporte, mas também dele.
+
+(Disponível em: http://www.correiobraziliense.com.br/opiniao/2024/10/6965598-visao-do-correio-e-preciso-combater-o-machismo-no-futebol-brasileiro.html. Acesso em: 16 out. 2024. Adaptado.)
+
+---
+
 
 No texto "O machismo no futebol brasileiro", o autor adota uma postura crítica em relação à violência de gênero no esporte, abordando tanto ações institucionais quanto comportamentos culturais. A alternativa que reflete o posicionamento do autor sobre o combate ao machismo no futebol é:
 
@@ -164,7 +248,28 @@ No texto "O machismo no futebol brasileiro", o autor adota uma postura crítica 
 
 ## Questão 05
 
-> 🔗 **AGrupada — usa o TEXTO-BASE 1 ("O machismo no futebol brasileiro"), repetido acima.**
+> 🔗 **Agrupada — usa o TEXTO-BASE 1 ("O machismo no futebol brasileiro"), compartilhado com as questões 01 a 08 e reproduzido integralmente abaixo.**
+
+**TEXTO-BASE 1 (compartilhado pelas questões 01 a 08) — reproduzido integralmente abaixo:**
+
+### O machismo no futebol brasileiro
+
+Quando se fala sobre o mundo da bola, a maior parte do debate público se volta ao que acontece dentro das quatro linhas. Gols, passes, dribles, defesas marcantes e até erros de arbitragem ocupam o imaginário popular com contornos de emoção. Nos últimos anos, porém, chama a atenção a ainda limitada discussão sobre a violência contra a mulher no esporte mais popular do país — situação que já colocou atrás das grades jogadores renomados com passagens pela Seleção Brasileira, como Robinho e Daniel Alves.
+
+Na Europa, veio à tona uma investigação do Ministério Público da Suécia que, segundo a imprensa internacional, pode envolver o nome do atacante Kylian Mbappé, estrela do Real Madrid e da França, um dos maiores craques da atualidade. Sua advogada garante a inocência dele. Ainda na Espanha, circulou na imprensa mundial, um "contrato de estupro acidental" que jogadores têm apresentado a mulheres para evitar denúncias de crimes do tipo, diante da alta de casos recentemente. O documento, além de frágil judicialmente, expõe a faceta mais cruel do machismo no futebol. Os atletas invertem a lógica e querem, na prática, ser tratados como uma parcela da sociedade acima do bem e do mal.
+
+Todo esse contexto se soma ao que se vê nas arquibancadas mundo afora. Quem frequenta estádios se depara com frequência com músicas machistas, que objetificam a mulher para provocar um rival — sem contar os olhares indesejados independentemente da roupa usada. O cenário exige que os clubes e as confederações tomem medidas duras para combater a violência contra a mulher no futebol e, mais do que isso, conscientizem seus atletas sobre eventuais crimes que se tornaram recorrentes no noticiário esportivo.
+
+Recentemente, Atlético, Cruzeiro e América marcaram golaços ao divulgarem, entre seus funcionários, inclusive os atletas, o protocolo Fale Agora, desenvolvido pela Secretaria de Estado de Desenvolvimento Social de Minas Gerais (Sedese-MG) para trabalhar a questão com os departamentos de psicologia e pedagogia dos três principais clubes mineiros.
+
+É papel dos clubes realizar medidas efetivas para reduzir os casos de violência contra a mulher. Pouco adianta aderir a campanhas educativas nos uniformes se, dentro do vestiário, posturas machistas são aceitas sem problematização. Ou se atletas são contratados mesmo com denúncias de crimes contra mulheres. Não se trata de caça às bruxas, mas é preciso prudência para que aquele acusado só volte a ocupar uma posição de destaque após a apuração completa do caso.
+
+Parte desse combate também passa por maiores investimentos no futebol feminino — parcela essa que também cabe ao torcedor cobrar efetivamente seus dirigentes. Além disso, é preciso reconhecer a atribuição que a Confederação Brasileira de Futebol (CBF) tem nesse necessário combate. Sempre muito preocupada com a Seleção Brasileira, a CBF fecha os olhos para problemas recorrentes da modalidade no país — entre eles, a violência contra a mulher e o machismo abertamente vociferado com orgulho nas arquibancadas. Um problema não só do esporte, mas também dele.
+
+(Disponível em: http://www.correiobraziliense.com.br/opiniao/2024/10/6965598-visao-do-correio-e-preciso-combater-o-machismo-no-futebol-brasileiro.html. Acesso em: 16 out. 2024. Adaptado.)
+
+---
+
 
 Assinale a alternativa em que o uso da(s) vírgula(s) foi empregado corretamente, de acordo com as regras da pontuação da norma culta da língua portuguesa:
 
@@ -178,7 +283,28 @@ Assinale a alternativa em que o uso da(s) vírgula(s) foi empregado corretamente
 
 ## Questão 06
 
-> 🔗 **AGrupada — usa o TEXTO-BASE 1 ("O machismo no futebol brasileiro"), repetido acima.**
+> 🔗 **Agrupada — usa o TEXTO-BASE 1 ("O machismo no futebol brasileiro"), compartilhado com as questões 01 a 08 e reproduzido integralmente abaixo.**
+
+**TEXTO-BASE 1 (compartilhado pelas questões 01 a 08) — reproduzido integralmente abaixo:**
+
+### O machismo no futebol brasileiro
+
+Quando se fala sobre o mundo da bola, a maior parte do debate público se volta ao que acontece dentro das quatro linhas. Gols, passes, dribles, defesas marcantes e até erros de arbitragem ocupam o imaginário popular com contornos de emoção. Nos últimos anos, porém, chama a atenção a ainda limitada discussão sobre a violência contra a mulher no esporte mais popular do país — situação que já colocou atrás das grades jogadores renomados com passagens pela Seleção Brasileira, como Robinho e Daniel Alves.
+
+Na Europa, veio à tona uma investigação do Ministério Público da Suécia que, segundo a imprensa internacional, pode envolver o nome do atacante Kylian Mbappé, estrela do Real Madrid e da França, um dos maiores craques da atualidade. Sua advogada garante a inocência dele. Ainda na Espanha, circulou na imprensa mundial, um "contrato de estupro acidental" que jogadores têm apresentado a mulheres para evitar denúncias de crimes do tipo, diante da alta de casos recentemente. O documento, além de frágil judicialmente, expõe a faceta mais cruel do machismo no futebol. Os atletas invertem a lógica e querem, na prática, ser tratados como uma parcela da sociedade acima do bem e do mal.
+
+Todo esse contexto se soma ao que se vê nas arquibancadas mundo afora. Quem frequenta estádios se depara com frequência com músicas machistas, que objetificam a mulher para provocar um rival — sem contar os olhares indesejados independentemente da roupa usada. O cenário exige que os clubes e as confederações tomem medidas duras para combater a violência contra a mulher no futebol e, mais do que isso, conscientizem seus atletas sobre eventuais crimes que se tornaram recorrentes no noticiário esportivo.
+
+Recentemente, Atlético, Cruzeiro e América marcaram golaços ao divulgarem, entre seus funcionários, inclusive os atletas, o protocolo Fale Agora, desenvolvido pela Secretaria de Estado de Desenvolvimento Social de Minas Gerais (Sedese-MG) para trabalhar a questão com os departamentos de psicologia e pedagogia dos três principais clubes mineiros.
+
+É papel dos clubes realizar medidas efetivas para reduzir os casos de violência contra a mulher. Pouco adianta aderir a campanhas educativas nos uniformes se, dentro do vestiário, posturas machistas são aceitas sem problematização. Ou se atletas são contratados mesmo com denúncias de crimes contra mulheres. Não se trata de caça às bruxas, mas é preciso prudência para que aquele acusado só volte a ocupar uma posição de destaque após a apuração completa do caso.
+
+Parte desse combate também passa por maiores investimentos no futebol feminino — parcela essa que também cabe ao torcedor cobrar efetivamente seus dirigentes. Além disso, é preciso reconhecer a atribuição que a Confederação Brasileira de Futebol (CBF) tem nesse necessário combate. Sempre muito preocupada com a Seleção Brasileira, a CBF fecha os olhos para problemas recorrentes da modalidade no país — entre eles, a violência contra a mulher e o machismo abertamente vociferado com orgulho nas arquibancadas. Um problema não só do esporte, mas também dele.
+
+(Disponível em: http://www.correiobraziliense.com.br/opiniao/2024/10/6965598-visao-do-correio-e-preciso-combater-o-machismo-no-futebol-brasileiro.html. Acesso em: 16 out. 2024. Adaptado.)
+
+---
+
 
 O texto "O machismo no futebol brasileiro" aborda a questão da violência de gênero no esporte. Considerando os elementos discursivos, estruturais e a função comunicativa do texto, assinale a alternativa que corretamente define o gênero textual ao qual ele pertence:
 
@@ -192,7 +318,28 @@ O texto "O machismo no futebol brasileiro" aborda a questão da violência de g�
 
 ## Questão 07
 
-> 🔗 **AGrupada — usa o TEXTO-BASE 1 ("O machismo no futebol brasileiro"), repetido acima.**
+> 🔗 **Agrupada — usa o TEXTO-BASE 1 ("O machismo no futebol brasileiro"), compartilhado com as questões 01 a 08 e reproduzido integralmente abaixo.**
+
+**TEXTO-BASE 1 (compartilhado pelas questões 01 a 08) — reproduzido integralmente abaixo:**
+
+### O machismo no futebol brasileiro
+
+Quando se fala sobre o mundo da bola, a maior parte do debate público se volta ao que acontece dentro das quatro linhas. Gols, passes, dribles, defesas marcantes e até erros de arbitragem ocupam o imaginário popular com contornos de emoção. Nos últimos anos, porém, chama a atenção a ainda limitada discussão sobre a violência contra a mulher no esporte mais popular do país — situação que já colocou atrás das grades jogadores renomados com passagens pela Seleção Brasileira, como Robinho e Daniel Alves.
+
+Na Europa, veio à tona uma investigação do Ministério Público da Suécia que, segundo a imprensa internacional, pode envolver o nome do atacante Kylian Mbappé, estrela do Real Madrid e da França, um dos maiores craques da atualidade. Sua advogada garante a inocência dele. Ainda na Espanha, circulou na imprensa mundial, um "contrato de estupro acidental" que jogadores têm apresentado a mulheres para evitar denúncias de crimes do tipo, diante da alta de casos recentemente. O documento, além de frágil judicialmente, expõe a faceta mais cruel do machismo no futebol. Os atletas invertem a lógica e querem, na prática, ser tratados como uma parcela da sociedade acima do bem e do mal.
+
+Todo esse contexto se soma ao que se vê nas arquibancadas mundo afora. Quem frequenta estádios se depara com frequência com músicas machistas, que objetificam a mulher para provocar um rival — sem contar os olhares indesejados independentemente da roupa usada. O cenário exige que os clubes e as confederações tomem medidas duras para combater a violência contra a mulher no futebol e, mais do que isso, conscientizem seus atletas sobre eventuais crimes que se tornaram recorrentes no noticiário esportivo.
+
+Recentemente, Atlético, Cruzeiro e América marcaram golaços ao divulgarem, entre seus funcionários, inclusive os atletas, o protocolo Fale Agora, desenvolvido pela Secretaria de Estado de Desenvolvimento Social de Minas Gerais (Sedese-MG) para trabalhar a questão com os departamentos de psicologia e pedagogia dos três principais clubes mineiros.
+
+É papel dos clubes realizar medidas efetivas para reduzir os casos de violência contra a mulher. Pouco adianta aderir a campanhas educativas nos uniformes se, dentro do vestiário, posturas machistas são aceitas sem problematização. Ou se atletas são contratados mesmo com denúncias de crimes contra mulheres. Não se trata de caça às bruxas, mas é preciso prudência para que aquele acusado só volte a ocupar uma posição de destaque após a apuração completa do caso.
+
+Parte desse combate também passa por maiores investimentos no futebol feminino — parcela essa que também cabe ao torcedor cobrar efetivamente seus dirigentes. Além disso, é preciso reconhecer a atribuição que a Confederação Brasileira de Futebol (CBF) tem nesse necessário combate. Sempre muito preocupada com a Seleção Brasileira, a CBF fecha os olhos para problemas recorrentes da modalidade no país — entre eles, a violência contra a mulher e o machismo abertamente vociferado com orgulho nas arquibancadas. Um problema não só do esporte, mas também dele.
+
+(Disponível em: http://www.correiobraziliense.com.br/opiniao/2024/10/6965598-visao-do-correio-e-preciso-combater-o-machismo-no-futebol-brasileiro.html. Acesso em: 16 out. 2024. Adaptado.)
+
+---
+
 
 Sobre o texto "O machismo no Brasil", analise as frases a seguir, considerando os trechos em destaque e as figuras de linguagem.
 
@@ -213,7 +360,28 @@ Assinale a alternativa que apresenta a correta relação entre a frase e a figur
 
 ## Questão 08
 
-> 🔗 **AGrupada — usa o TEXTO-BASE 1 ("O machismo no futebol brasileiro"), repetido acima.**
+> 🔗 **Agrupada — usa o TEXTO-BASE 1 ("O machismo no futebol brasileiro"), compartilhado com as questões 01 a 08 e reproduzido integralmente abaixo.**
+
+**TEXTO-BASE 1 (compartilhado pelas questões 01 a 08) — reproduzido integralmente abaixo:**
+
+### O machismo no futebol brasileiro
+
+Quando se fala sobre o mundo da bola, a maior parte do debate público se volta ao que acontece dentro das quatro linhas. Gols, passes, dribles, defesas marcantes e até erros de arbitragem ocupam o imaginário popular com contornos de emoção. Nos últimos anos, porém, chama a atenção a ainda limitada discussão sobre a violência contra a mulher no esporte mais popular do país — situação que já colocou atrás das grades jogadores renomados com passagens pela Seleção Brasileira, como Robinho e Daniel Alves.
+
+Na Europa, veio à tona uma investigação do Ministério Público da Suécia que, segundo a imprensa internacional, pode envolver o nome do atacante Kylian Mbappé, estrela do Real Madrid e da França, um dos maiores craques da atualidade. Sua advogada garante a inocência dele. Ainda na Espanha, circulou na imprensa mundial, um "contrato de estupro acidental" que jogadores têm apresentado a mulheres para evitar denúncias de crimes do tipo, diante da alta de casos recentemente. O documento, além de frágil judicialmente, expõe a faceta mais cruel do machismo no futebol. Os atletas invertem a lógica e querem, na prática, ser tratados como uma parcela da sociedade acima do bem e do mal.
+
+Todo esse contexto se soma ao que se vê nas arquibancadas mundo afora. Quem frequenta estádios se depara com frequência com músicas machistas, que objetificam a mulher para provocar um rival — sem contar os olhares indesejados independentemente da roupa usada. O cenário exige que os clubes e as confederações tomem medidas duras para combater a violência contra a mulher no futebol e, mais do que isso, conscientizem seus atletas sobre eventuais crimes que se tornaram recorrentes no noticiário esportivo.
+
+Recentemente, Atlético, Cruzeiro e América marcaram golaços ao divulgarem, entre seus funcionários, inclusive os atletas, o protocolo Fale Agora, desenvolvido pela Secretaria de Estado de Desenvolvimento Social de Minas Gerais (Sedese-MG) para trabalhar a questão com os departamentos de psicologia e pedagogia dos três principais clubes mineiros.
+
+É papel dos clubes realizar medidas efetivas para reduzir os casos de violência contra a mulher. Pouco adianta aderir a campanhas educativas nos uniformes se, dentro do vestiário, posturas machistas são aceitas sem problematização. Ou se atletas são contratados mesmo com denúncias de crimes contra mulheres. Não se trata de caça às bruxas, mas é preciso prudência para que aquele acusado só volte a ocupar uma posição de destaque após a apuração completa do caso.
+
+Parte desse combate também passa por maiores investimentos no futebol feminino — parcela essa que também cabe ao torcedor cobrar efetivamente seus dirigentes. Além disso, é preciso reconhecer a atribuição que a Confederação Brasileira de Futebol (CBF) tem nesse necessário combate. Sempre muito preocupada com a Seleção Brasileira, a CBF fecha os olhos para problemas recorrentes da modalidade no país — entre eles, a violência contra a mulher e o machismo abertamente vociferado com orgulho nas arquibancadas. Um problema não só do esporte, mas também dele.
+
+(Disponível em: http://www.correiobraziliense.com.br/opiniao/2024/10/6965598-visao-do-correio-e-preciso-combater-o-machismo-no-futebol-brasileiro.html. Acesso em: 16 out. 2024. Adaptado.)
+
+---
+
 
 Com relação ao texto "O machismo no futebol brasileiro", assinale a alternativa que apresenta a função de linguagem predominante:
 
@@ -239,7 +407,18 @@ Com relação ao texto "O machismo no futebol brasileiro", assinale a alternativ
 
 ## Questão 09
 
-> 🔗 **AGrupada — usa o TEXTO-BASE 2 (tirinha `imagens/q09_tirinha_machismo.jpg`, exibida acima).**
+> 🔗 **Agrupada — usa o TEXTO-BASE 2 (tirinha), reproduzida abaixo.**
+
+**TEXTO-BASE 2 — tirinha (compartilhada apenas com esta questão) — reproduzida abaixo:**
+
+![Tirinha (Questão 09) — machismo, "papo de homem"](imagens/q09_tirinha_machismo.jpg)
+
+**Transcrição da tirinha** (dois quadrinhos, com um menino e uma menina):
+- **1º quadrinho** — a menina pergunta: **"Pai, o que é 'machismo'?"**
+- **2º quadrinho** — o menino responde: **"Não se mete, Fê! Isso é papo de homem!"**
+
+---
+
 
 Na tirinha apresentada, o menino diz: "Não se mete, Fê! Isso é papo de homem!" Essa fala revela um comportamento machista. Com base nessa situação, analise as afirmações que seguem considerando a língua portuguesa e a construção linguística que mais contribui para a exclusão de gênero:
 
@@ -283,7 +462,28 @@ III. A construção "Não se mete, Fê!" utiliza a negação como estratégia de
 
 ## Questão 10
 
-> 🔗 **AGrupada — usa o TEXTO-BASE 3 (gráfico PoderData `imagens/q10_grafico_poderdata.jpg`, exibido acima).**
+> 🔗 **Agrupada — usa o TEXTO-BASE 3 (gráfico PoderData), reproduzido abaixo.**
+
+**TEXTO-BASE 3 — gráfico PoderData (compartilhado apenas com esta questão) — reproduzido abaixo:**
+
+![Gráfico (Questão 10) — Machismo x Machistas (PoderData)](imagens/q10_grafico_poderdata.jpg)
+
+**Dados do gráfico** — Título: **"Machismo x Machistas"** — Fonte: **PoderData** (Poder360). Pesquisa feita a **2.500 pessoas**:
+
+**Pergunta 1: "Você acredita que existe machismo no Brasil?"**
+- Sim: **83%**
+- Não: **7%**
+- Não sabe / não respondeu: **10%**
+
+**Pergunta 2: "Você diria que é uma pessoa machista?"**
+- Sim: **11%**
+- Não: **80%**
+- Não sabe / não respondeu: **9%**
+
+(Disponível em: https://www.poder360.com.br/pesquisas/83-dizem-que-ha-machismo-n-o-brasil-mas-so-12-se-consideram-machistas/)
+
+---
+
 
 Considerando os resultados das duas perguntas ("Você acredita que existe machismo no Brasil?" e "Você diria que é uma pessoa machista?"), feitas a 2500 pessoas sobre o machismo no Brasil, analise as alternativas a seguir e assinale a que interpreta os dados corretamente:
 
