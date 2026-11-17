@@ -14,7 +14,7 @@
 - **Imagens:** 2 (tirinha da questão 09 e gráfico PoderData da questão 10)
 - **Grupos identificados:** 1
 - **Questões independentes:** 32 (09 a 40; as questões 09 e 10 trazem material de apoio individual)
-- **Gabarito:** não incluído no material original (gabarito preliminar divulgado em http://concursos.furb.br)
+- **Gabarito:** 40 respostas oficiais (gabarito preliminar FURB, Concurso Público Edital n.º 001/2024), pareadas com as questões
 
 **Estrutura original do caderno:**
 
@@ -34,6 +34,8 @@
 > Na prova original, o texto aparece uma única vez, antes da questão 01, com o aviso "O texto seguinte servirá de base para responder às questões de 1 a 8". Aqui ele é repetido integralmente dentro de cada questão do grupo.
 
 #### QUESTÃO 01
+
+✅ **Gabarito preliminar: C** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
 
@@ -85,6 +87,8 @@ Nenhuma.
 
 #### QUESTÃO 02
 
+✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Nos trechos apresentados a seguir, diferentes elementos coesivos são utilizados para conectar as ideias e organizar as informações. Avalie-os e, em seguida, assinale a alternativa que analisa corretamente as relações estabelecidas pelos elementos coesivos sublinhados:
@@ -131,6 +135,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 03
+
+✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
 
@@ -184,6 +190,8 @@ Nenhuma.
 
 #### QUESTÃO 04
 
+✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 No texto "O machismo no futebol brasileiro", o autor adota uma postura crítica em relação à violência de gênero no esporte, abordando tanto ações institucionais quanto comportamentos culturais. A alternativa que reflete o posicionamento do autor sobre o combate ao machismo no futebol é:
@@ -225,6 +233,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 05
+
+✅ **Gabarito preliminar: C** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
 
@@ -268,6 +278,8 @@ Nenhuma.
 
 #### QUESTÃO 06
 
+✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 O texto "O machismo no futebol brasileiro" aborda a questão da violência de gênero no esporte. Considerando os elementos discursivos, estruturais e a função comunicativa do texto, assinale a alternativa que corretamente define o gênero textual ao qual ele pertence:
@@ -309,6 +321,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 07
+
+✅ **Gabarito preliminar: C** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
 
@@ -359,6 +373,8 @@ Nenhuma.
 
 #### QUESTÃO 08
 
+✅ **Gabarito preliminar: A** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Com relação ao texto "O machismo no futebol brasileiro", assinale a alternativa que apresenta a função de linguagem predominante:
@@ -403,6 +419,8 @@ Nenhuma.
 
 #### QUESTÃO 09
 
+✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Na tirinha apresentada, o menino diz: "Não se mete, Fê! Isso é papo de homem!" Essa fala revela um comportamento machista. Com base nessa situação, analise as afirmações que seguem considerando a língua portuguesa e a construção linguística que mais contribui para a exclusão de gênero:
@@ -440,6 +458,8 @@ E) II, apenas.
 ---
 
 #### QUESTÃO 10
+
+✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
 
@@ -481,6 +501,8 @@ E) A pesquisa revela que 10% da população não sabe se existe machismo no Bras
 
 #### QUESTÃO 11
 
+✅ **Gabarito preliminar: E** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Considere as afirmativas relacionadas a hardware de computadores apresentadas a seguir. Registre V, para verdadeiras, e F, para falsas:
@@ -517,6 +539,8 @@ Nenhuma.
 
 #### QUESTÃO 12
 
+✅ **Gabarito preliminar: E** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Quando realizamos a manutenção preventiva de um computador, um dos pontos importantes é verificar a pasta térmica entre o processador e o cooler. Muitas vezes a pasta térmica está velha e precisa ser trocada, por exemplo. Nesse contexto, verifique as afirmativas a seguir e assinale aquela que apresenta a função de utilizarmos pasta térmica entre o processador e o cooler de um PC:
@@ -541,6 +565,8 @@ Nenhuma.
 
 #### QUESTÃO 13
 
+✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Em um mundo cada vez mais conectado, as casas inteligentes estão se tornando uma realidade comum, com dispositivos como lâmpadas, câmeras de segurança, termostatos e assistentes de voz, todos conectados à rede da casa. Esses dispositivos são integrados à Internet das Coisas (IoT), permitindo que objetos do cotidiano "conversem" entre si e sejam gerenciados de forma automática. Diante dessa integração entre Inteligência Artificial (IA) e IoT, qual das afirmativas a seguir descreve corretamente o papel da IA e suas diversas aplicações, incluindo IoT?
@@ -564,6 +590,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 14
+
+✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
 
@@ -599,6 +627,8 @@ Nenhuma.
 
 #### QUESTÃO 15
 
+✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Considere as afirmativas relacionadas a redes de computadores e serviços em nuvem apresentadas a seguir. Registre V, para verdadeiras, e F, para falsas:
@@ -633,6 +663,8 @@ Nenhuma.
 
 #### QUESTÃO 16
 
+✅ **Gabarito preliminar: E** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Conforme a Lei Orgânica do Município de Brusque, fica fixado em _______ o número de Vereadores da Câmara Municipal de Brusque. Assinale a alternativa que corretamente preenche a lacuna no excerto:
@@ -656,6 +688,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 17
+
+✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
 
@@ -684,6 +718,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 18
+
+✅ **Gabarito preliminar: C** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
 
@@ -717,6 +753,8 @@ Nenhuma.
 
 #### QUESTÃO 19
 
+✅ **Gabarito preliminar: A** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Com base no Regimento Interno da Câmara de Vereadores de Brusque, qualquer cidadão poderá assistir às Sessões da Câmara, na parte do recinto reservado ao público, desde que:
@@ -749,6 +787,8 @@ Nenhuma.
 
 #### QUESTÃO 20
 
+✅ **Gabarito preliminar: E** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 O art. 76, do Estatuto dos Servidores Públicos Municipais, esclarece que o servidor que se deslocar em caráter eventual ou transitório do Município, a serviço, fará jus a diárias, para cobrir as despesas de:
@@ -779,6 +819,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 21
+
+✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
 
@@ -811,6 +853,8 @@ Nenhuma.
 
 #### QUESTÃO 22
 
+✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Durante uma semana atípica na Câmara Municipal, o servidor da recepção enfrenta as seguintes demandas simultâneas:
@@ -842,6 +886,8 @@ Nenhuma.
 
 #### QUESTÃO 23
 
+✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Considerando os procedimentos de segurança e controle de acesso em prédios públicos, qual a conduta adequada do servidor da recepção ao lidar com o acesso de diferentes públicos à Câmara Municipal?
@@ -865,6 +911,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 24
+
+✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
 
@@ -896,6 +944,8 @@ Nenhuma.
 
 #### QUESTÃO 25
 
+✅ **Gabarito preliminar: A** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Uma câmara municipal implementou um novo sistema para gerenciar documentos e correspondências recebidas, priorizando eficiência no protocolo, arquivamento e digitalização. Durante um dia de trabalho, o agente administrativo da recepção recebe:
@@ -926,6 +976,8 @@ Nenhuma.
 
 #### QUESTÃO 26
 
+✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 A segurança patrimonial é um componente crucial para proteger os bens públicos e garantir a integridade do patrimônio da Câmara Municipal. O agente administrativo da recepção desempenha papel estratégico ao observar e aplicar medidas preventivas que minimizem riscos e assegurem o funcionamento ininterrupto das atividades institucionais. Qual das alternativas a seguir representa uma ação preventiva eficiente no âmbito da segurança patrimonial?
@@ -949,6 +1001,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 27
+
+✅ **Gabarito preliminar: E** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
 
@@ -980,6 +1034,8 @@ Nenhuma.
 
 #### QUESTÃO 28
 
+✅ **Gabarito preliminar: E** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Uma câmara municipal está implementando um sistema de Gestão Eletrônica de Documentos (GED) para melhorar o controle e o acesso aos arquivos digitais. O agente administrativo da recepção é responsável por realizar a digitalização e catalogação de documentos recebidos, garantindo que estejam disponíveis no sistema para consulta. Certo dia, o agente recebe:
@@ -1010,6 +1066,8 @@ Nenhuma.
 
 #### QUESTÃO 29
 
+✅ **Gabarito preliminar: E** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Na recepção de uma câmara municipal, o agente administrativo é frequentemente responsável por redigir ofícios, memorandos e encaminhamentos institucionais. Certo dia, a recepção recebe uma solicitação de outro órgão público para informações sobre um projeto de lei em tramitação. Cabe ao agente redigir uma resposta oficial. Considerando as normas da redação oficial e correspondências institucionais, qual das práticas a seguir é a mais adequada para garantir clareza, formalidade e eficiência no documento?
@@ -1034,6 +1092,8 @@ Nenhuma.
 
 #### QUESTÃO 30
 
+✅ **Gabarito preliminar: C** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Um cidadão chega à recepção da câmara municipal visivelmente irritado, alegando demora na resposta de um protocolo que ele havia submetido semanas antes. Durante a conversa, ele eleva o tom de voz e exige uma solução imediata. Como agente administrativo responsável pelo atendimento na recepção, qual postura e conduta são mais adequadas para lidar com essa situação, mantendo a etiqueta e o profissionalismo no ambiente de trabalho?
@@ -1057,6 +1117,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 31
+
+✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
 
@@ -1088,6 +1150,8 @@ Nenhuma.
 
 #### QUESTÃO 32
 
+✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Uma câmara municipal utiliza serviços postais e de malote para envio e recebimento de correspondências entre seus departamentos e órgãos externos. Em um determinado dia, o agente administrativo responsável pela recepção recebe as seguintes demandas:
@@ -1117,6 +1181,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 33
+
+✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
 
@@ -1149,6 +1215,8 @@ Nenhuma.
 
 #### QUESTÃO 34
 
+✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 A recepção da Câmara Municipal recebeu simultaneamente as seguintes demandas de comunicação:
@@ -1180,6 +1248,8 @@ Nenhuma.
 
 #### QUESTÃO 35
 
+✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 No dia a dia da Câmara Municipal, o agente administrativo da recepção utiliza diversos equipamentos de escritório, como impressoras multifuncionais, scanners e máquinas de cópia, para atender às demandas internas e externas. Qual das práticas a seguir demonstra o uso mais eficiente e adequado desses equipamentos, considerando economia de recursos, manutenção preventiva e segurança das informações?
@@ -1203,6 +1273,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 36
+
+✅ **Gabarito preliminar: C** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
 
@@ -1235,6 +1307,8 @@ Nenhuma.
 
 #### QUESTÃO 37
 
+✅ **Gabarito preliminar: A** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Em uma Câmara Municipal, a gestão eficiente do controle de estoque e patrimônio é essencial para garantir a economicidade e o cumprimento das normas de gestão pública. O setor administrativo recebeu recentemente a responsabilidade de organizar o inventário anual de bens patrimoniais e atualizar o controle de estoque de materiais de consumo. Durante a execução dessa tarefa, um agente administrativo identificou que:
@@ -1265,6 +1339,8 @@ Nenhuma.
 
 #### QUESTÃO 38
 
+✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Uma câmara municipal implementou um sistema digital para gerenciar as solicitações de acesso à informação realizadas por cidadãos, conforme previsto pela Lei de Acesso à Informação, no entanto, ao processar essas solicitações, é essencial garantir a conformidade com a Lei Geral de Proteção de Dados Pessoais (LGPD). Ao encontro disso, qual das seguintes práticas reflete adequadamente os princípios da LGPD no tratamento de dados pessoais coletados nesse contexto?
@@ -1288,6 +1364,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 39
+
+✅ **Gabarito preliminar: A** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
 
@@ -1313,6 +1391,8 @@ Nenhuma.
 
 #### QUESTÃO 40
 
+✅ **Gabarito preliminar: A** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
+
 **Enunciado:**
 
 Em uma câmara municipal, as relações humanas no trabalho são fundamentais para o bom funcionamento da equipe e para o cumprimento dos objetivos institucionais. Considerando um cenário no qual um servidor público percebe que um colega demonstra resistência às mudanças implementadas na rotina administrativa, como a adoção de um novo sistema digital de gestão, qual seria a conduta mais eficaz, alinhada aos princípios de boas práticas nas relações humanas no trabalho?
@@ -1337,7 +1417,7 @@ Nenhuma.
 
 ## 4. Observações e limitações da extração
 
-- Gabarito oficial não incluído no material original: o gabarito preliminar foi divulgado em http://concursos.furb.br (Câmara Municipal de Brusque - Concurso Público - Edital n.º 001/2024).
+- Gabarito oficial preliminar (FURB) posteriormente pareado: as 40 respostas foram inseridas junto a cada questão.
 - Prazo de recursos: de 00h00min01s de 26/11/2024 a 23h59min59s de 27/11/2024. Blumenau, 24 de novembro de 2024.
 - Este arquivo foi transcrito por OCR a partir do PDF original. Pequenas variações de pontuação ou destaque (sublinhado/negrito nas questões 02 e 07) podem existir em relação ao original impresso.
 - Muitas questões têm agrupamento interno por afirmativas (I, II, III...), padrão da banca FURB; os itens permanecem dentro do enunciado de cada questão.
