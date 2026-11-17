@@ -29,8 +29,8 @@
 - **QUESTÕES 01 a 08** estão vinculadas ao **texto-base 1**: o artigo **"O machismo no futebol brasileiro"** (Correio Braziliense, adaptado).
   - ⚠️ **ATENÇÃO:** na prova original, esse texto aparece **UMA ÚNICA VEZ**, antes da questão 01, com o aviso *"O texto seguinte servirá de base para responder às questões de 1 a 8"*. As questões 2 a 8 aparecem "soltas", sem repetir o texto.
   - ✅ **Neste arquivo, o texto-base foi REPETIDO integralmente DENTRO de cada uma das questões 01 a 08**, para que cada questão seja uma unidade autossuficiente (regra: nenhuma questão pode depender de consulta a outra questão ou seção).
-- **QUESTÃO 09** está vinculada a uma **tirinha (imagem)** sobre machismo ("papo de homem") — `imagens/q09_tirinha_machismo.jpg`.
-- **QUESTÃO 10** está vinculada a um **gráfico (imagem)** da pesquisa **PoderData** ("Machismo x Machistas") — `imagens/q10_grafico_poderdata.jpg`.
+- **QUESTÃO 09** está vinculada a uma **tirinha (imagem)** sobre machismo ("papo de homem") — `imagens/imagem_001.jpg`.
+- **QUESTÃO 10** está vinculada a um **gráfico (imagem)** da pesquisa **PoderData** ("Machismo x Machistas") — `imagens/imagem_002.jpg`.
 
 ### Agrupamento interno por AFIRMATIVAS (I, II, III, IV)
 
@@ -52,8 +52,8 @@ Tipos de comando com afirmativas:
 | Questão | Agrupada com | Texto-base / suporte |
 |---|---|---|
 | 01–08 | Grupo 1 | Texto "O machismo no futebol brasileiro" |
-| 09 | Isolada | Tirinha (imagem) — `imagens/q09_tirinha_machismo.jpg` |
-| 10 | Isolada | Gráfico PoderData (imagem) — `imagens/q10_grafico_poderdata.jpg` |
+| 09 | Isolada | Tirinha (imagem) — `imagens/imagem_001.jpg` |
+| 10 | Isolada | Gráfico PoderData (imagem) — `imagens/imagem_002.jpg` |
 | 11–40 | Isoladas | — (algumas com afirmativas I/II/III internas) |
 
 ---
@@ -395,9 +395,9 @@ Com relação ao texto "O machismo no futebol brasileiro", assinale a alternativ
 
 ## TEXTO-BASE 2 (usado na questão 09) — TIRINHA
 
-> 🔗 **A questão 09 é agrupada a esta tirinha.** Imagem original no arquivo: **`imagens/q09_tirinha_machismo.jpg`**
+> 🔗 **A questão 09 é agrupada a esta tirinha.** Imagem original no arquivo: **`imagens/imagem_001.jpg`**
 
-![Tirinha da Questão 09 — machismo, "papo de homem"](imagens/q09_tirinha_machismo.jpg)
+![Tirinha da Questão 09 — machismo, "papo de homem"](imagens/imagem_001.jpg)
 
 **Transcrição da tirinha** (dois quadrinhos, com um menino e uma menina):
 - **1º quadrinho** — a menina pergunta: **"Pai, o que é 'machismo'?"**
@@ -411,7 +411,7 @@ Com relação ao texto "O machismo no futebol brasileiro", assinale a alternativ
 
 **TEXTO-BASE 2 — tirinha (compartilhada apenas com esta questão) — reproduzida abaixo:**
 
-![Tirinha (Questão 09) — machismo, "papo de homem"](imagens/q09_tirinha_machismo.jpg)
+![Tirinha (Questão 09) — machismo, "papo de homem"](imagens/imagem_001.jpg)
 
 **Transcrição da tirinha** (dois quadrinhos, com um menino e uma menina):
 - **1º quadrinho** — a menina pergunta: **"Pai, o que é 'machismo'?"**
@@ -440,9 +440,9 @@ III. A construção "Não se mete, Fê!" utiliza a negação como estratégia de
 
 ## TEXTO-BASE 3 (usado na questão 10) — GRÁFICO PODERDATA
 
-> 🔗 **A questão 10 é agrupada a este gráfico.** Imagem original no arquivo: **`imagens/q10_grafico_poderdata.jpg`**
+> 🔗 **A questão 10 é agrupada a este gráfico.** Imagem original no arquivo: **`imagens/imagem_002.jpg`**
 
-![Gráfico da Questão 10 — Machismo x Machistas (PoderData)](imagens/q10_grafico_poderdata.jpg)
+![Gráfico da Questão 10 — Machismo x Machistas (PoderData)](imagens/imagem_002.jpg)
 
 **Dados do gráfico** — Título: **"Machismo x Machistas"** — Fonte: **PoderData** (Poder360). Pesquisa feita a **2.500 pessoas**:
 
@@ -466,7 +466,7 @@ III. A construção "Não se mete, Fê!" utiliza a negação como estratégia de
 
 **TEXTO-BASE 3 — gráfico PoderData (compartilhado apenas com esta questão) — reproduzido abaixo:**
 
-![Gráfico (Questão 10) — Machismo x Machistas (PoderData)](imagens/q10_grafico_poderdata.jpg)
+![Gráfico (Questão 10) — Machismo x Machistas (PoderData)](imagens/imagem_002.jpg)
 
 **Dados do gráfico** — Título: **"Machismo x Machistas"** — Fonte: **PoderData** (Poder360). Pesquisa feita a **2.500 pessoas**:
 
