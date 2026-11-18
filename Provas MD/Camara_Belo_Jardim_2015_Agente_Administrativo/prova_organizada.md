@@ -636,7 +636,7 @@ Texto 4
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
@@ -805,17 +805,7 @@ Nenhuma.
 No Microsoft Office Excel, foi digitada a seguinte
 planilha de valores:
 
-
-
-
-
-
-
-
-
-
-
-
+![Imagem da questão](imagens/imagem_003.jpg)
 
 Conforme figura acima podemos afirmar que:
 
@@ -831,7 +821,7 @@ E) O Microsoft Excel não executará a soma.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_003.jpg)
 
 ---
 
@@ -858,11 +848,6 @@ B) = SOMA(B5*C5)
 C) = SOMA(B5;C5)
 D) = MÉDIA(B5;C5)/2
 E) = SOMA(B5;C5)/2
-![Imagem da questão](imagens/imagem_003.jpg)
-CÂMARA MUNICIPAL DE BELO JARDIM - 2015
-CONCURSO PÚBLICO
-Nível Médio
-Cargo: Agente Administrativo
 
 **Referências visuais:**
 
@@ -881,6 +866,10 @@ aplicada para calcular a situação do aluno João, isto
 é, se foi “aprovado” ou “reprovado” após a digitação
 das notas.
 
+**Material de apoio:** (planilha compartilhada com a questão 17 — "Para responder às questões 17 e 18 observe a planilha abaixo")
+
+![Imagem da questão](imagens/imagem_002.png)
+
 **Alternativas:**
 
 A) =SE(D3>=7;"APROVADO";"REPROVADO")
@@ -891,7 +880,7 @@ E) =SE(D3>=8;"APROVADO";"REPROVADO")
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.png)
 
 ---
 
@@ -1723,4 +1712,4 @@ Nenhuma.
 - Imagens repetidas (logos/marcas d'água) foram descartadas; as imagens de conteúdo foram salvas em `imagens/` com nomenclatura `imagem_00N`.
 - A detecção de grupos usa os avisos padrão das bancas ("o texto seguinte servirá de base..."). Bancas sem esse aviso podem ter grupos não identificados — o conteúdo, porém, permanece integral.
 - Se houver divergência entre esta versão e o PDF original, vale o PDF original; corrija manualmente o Markdown.
-- **Figura da questão 16 indisponível:** o enunciado cita "planilha de valores... conforme figura acima", mas a imagem da planilha não foi extraída da prova original e o PDF original não está mais disponível no sandbox para reextração; os valores citados nas alternativas (células C3–C8, total 110,00) permanecem como referência do conteúdo. Registrado como limitação (status CONCLUÍDA COM RESSALVAS no relatório).
+- **Correções do pente fino (PDF original reenviado pelo usuário):** a planilha da questão 16 (`imagem_003.jpg`) havia sido extraída mas referenciada fora de posição — vazou após as alternativas da questão 17, junto da capa da página seguinte. Reunida ao lugar certo: inline no enunciado da questão 16 e repetida na questão 18 (planilha compartilhada com a 17, conforme o aviso do original "Para responder às questões 17 e 18 observe a planilha abaixo"). Conteúdo confirmado por OCR (célula C8, valores 10/20/30/40, total 100,00).

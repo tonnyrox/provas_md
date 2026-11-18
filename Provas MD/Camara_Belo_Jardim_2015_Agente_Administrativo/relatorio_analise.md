@@ -15,4 +15,4 @@
 
 ## Resultado
 
-**CONCLUÍDA COM RESSALVAS.** Figura da questão 16 não recuperável (PDF original indisponível); limitação registrada nas Observações.
+**CONCLUÍDA E VALIDADA.** Pente fino com o PDF original reenviado pelo usuário: planilha da questão 16 (`imagem_003.jpg`) religada ao enunciado da questão 16 — vazava após as alternativas da questão 17, junto da capa da página seguinte; planilha compartilhada Q17/Q18 agora repetida inline na questão 18; conteúdo da figura confirmado por OCR (célula C8, valores 10/20/30/40, total 100,00).
