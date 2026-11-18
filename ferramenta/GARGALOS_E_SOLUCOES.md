@@ -167,6 +167,7 @@ Se encontrar pasta de prova com formato diferente (títulos `# PROVA ORGANIZADA 
 | Gabarito lido pela metade (colunas 01–10/11–20 perdidas) | `Camara_Catas_Altas_da_Noruega_2010_Agente_Legislativo` (corrigido em auditoria) |
 | Imagem órfã = bug (tirinha sem ref nas questões) | `Camara_Piracicaba_2019_Agente_Legislativo` (Q08–09, corrigido) |
 | Texto fragmentado palavra por palavra | `Camara_Bezerros_2025_Agente_Administrativo` (Q10/Q20 reconstruídas) |
+| Capa com numeração de instruções que vira "questões" (empate de cadeias) | `Camara_Araripina_2020_Agente_Administrativo_Grupo_02` |
 | PDF vetorial sem camada de texto (OCR página inteira) | `Camara_Contagem_2022_Analista_Tecnico_Analista_de_Sistemas` |
 | Gabarito multi-blocos por código de cargo (FUNDEP/UFMG) | `Camara_Contagem_2022_Analista_Tecnico_Analista_de_Sistemas` |
 | Ano impossível no nome do arquivo ("2030") | `Camara_Conde_2022_Nivel_Fundamental_Completo` |
@@ -247,3 +248,15 @@ Verificação de duplicidade da remessa Lote 8 (9 PDFs: Mipibu CPAP 103/109, Cer
 6. **Barbalha "no Ano de 2020"**: capa interna diz "EDITAL 01/2019" e o gabarito preliminar da URCA (NÍVEL FUNDAMENTAL/MÉDIO/SUPERIOR) casa 45/45 com a prova publicada `Camara_Barbalha_2019_Nivel_Medio` — duplicidade confirmada; não processar.
 
 Referências novas no apêndice: `Camara_Sao_Jose_de_Mipibu_2020_Assistente_de_Cerimonial` (imagem_002 — figura da Q22 fechada com o original reenviado), `Camara_Cerro_Cora_2020_Agente_Administrativo` (divergência de versão de gabarito registrada, prova duplicada).
+
+---
+
+## Caso 15 — Numeração de instruções da capa vira "questões" (empate de cadeias no detector) + Araripina G2 publicada sem gabarito (2026)
+
+1. **Sintoma** (`Camara_Araripina_2020_Agente_Administrativo_Grupo_02`, 100 itens V/F, texto selecionável): o detector escolheu, por empate de pontuação, a cadeia formada pelos números das instruções da capa (layout do PDF quebrou "1." sozinho na linha) em vez dos itens reais 01–100. Resultado: as "questões" 01–05 eram continuação das instruções da capa e os itens reais 01–05 (que colidem com 1–5) sumiram do banco.
+2. **Causa** em `detectar_questoes`: sem alternativas (prova V/F), o filtro "com alternativas" fica vazio e o desempate das cadeias equivalentes (capa 1–5 + itens 06–100 = 100 elos × itens 01–100 = 100 elos) favorecia a cadeia que começa primeiro no documento.
+3. **Correção**: no empate, a cadeia que começa **mais tarde** no documento vence — instruções da capa permanecem no `pre` (transcrição integral da seção 1) e a cadeia real dos itens vence. Valide sempre contando as questões e conferindo a Q01 contra o PDF.
+4. **Decisão de publicação sem gabarito** (fecha a ressalva do item 5 do Caso 14): seguindo o precedente já aplicado a Serra 2014, Brusque 2024, Boa Viagem 2016 e Caucaia 2010, a prova foi publicada com `⚠️ **Gabarito: oficial não disponível**` em cada questão e a limitação registrada na seção 4 — nada inventado. Se o gabarito oficial da G2 surgir (remessa ou site da banca), parear e atualizar com rastreio no relatório.
+5. **Duplicidade na mesma remessa** (pasta 002 do acervo de PDFs): a prova de 2020 convive com o gabarito de 2024 no mesmo diretório — **não parear** por semelhança de nome: ano diferente = concurso diferente (regra do PROMPT MESTRE). Processe a prova isolada.
+
+Referências novas no apêndice: `Camara_Araripina_2020_Agente_Administrativo_Grupo_02` (capa numerada que confunde o detector; prova publicada sem gabarito).

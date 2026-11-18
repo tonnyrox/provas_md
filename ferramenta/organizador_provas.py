@@ -272,7 +272,10 @@ def detectar_questoes(cru: str) -> tuple[list[dict], list[str]]:
         for j in range(len(lista)):
             seq = cadeia_a_partir(j)
             score = pontuar(seq)
-            if melhor_score is None or score > melhor_score:
+            if melhor_score is None or score >= melhor_score:
+                # empate: prefere a cadeia que começa mais tarde no documento —
+                # numeração de instruções da capa (ex.: "1." sozinho na linha,
+                # layout que o extrator quebrou) vira 'pre', não questões
                 melhor_score = score
                 melhor_seq = seq
         return melhor_seq, melhor_score
