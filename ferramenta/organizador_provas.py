@@ -1276,7 +1276,8 @@ def processar(
     nome: str | None,
     colunas: int = 1,
 ) -> None:
-    pdfs = sorted(pasta_pdfs.glob("*.pdf")) + sorted(pasta_pdfs.glob("*.PDF"))
+    # Windows: glob é case-insensitive — dedupe para não processar cada PDF duas vezes
+    pdfs = sorted({p for p in pasta_pdfs.iterdir() if p.suffix.lower() == ".pdf"})
     if not pdfs:
         sys.exit(f"Nenhum PDF encontrado em {pasta_pdfs}")
 
