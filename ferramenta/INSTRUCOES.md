@@ -231,6 +231,7 @@ O [`organizador_provas.py`](organizador_provas.py) agora resolve sozinho, sem in
 - **Cabeçalhos de questão** `QUESTÃO 05`, `05ª QUESTÃO`, `Questão 05 - texto...`, `05)`, `5.` e `01- enunciado` com hífen (o separador sozinho na linha e o formato com hífen só valem quando há alternativas no bloco).
 - **Imagens de fundo/marca d'água** (fundo de página inteira ou repetido na maioria das páginas) são descartadas automaticamente — não viram imagens órfãs.
 - **PDF em duas colunas**: rodar com `--colunas 2` (verifique no resultado se a ordem das questões ficou correta antes de publicar).
+- **Cabeçalho de questão só com o número** (bancas como FGV: linha `15` sem `.`/`)`/`-`, alternativas `(A) ...`): rodar com `--cab-numero-liso` (sempre exige alternativas no bloco, para não confundir com numeração de capa/rodapé).
 
 **Fluxo recomendado para cada nova prova:**
 

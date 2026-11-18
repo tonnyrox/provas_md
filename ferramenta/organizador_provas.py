@@ -62,6 +62,11 @@ QUESTAO_HEAD_ORDINAL_RE = re.compile(
 QUESTAO_NUM_SOZINHO_RE = re.compile(
     r"^\s*(?:\*\*)?\s*(\d{1,3})\s*[\.\)-]\s*(?:\*\*)?\s*$"
 )
+# Banca FGV (e afins): cabecalho e APENAS o numero da questao, sem separador
+# (ex.: linha "15" seguida do enunciado; alternativas no formato "(A) ...").
+# Ligado por --cab-numero-liso: a regra de filtro existente exige alternativas
+# no bloco, para nao confundir com numeracao de capa/rodape.
+QUESTAO_NUM_LISO_RE = re.compile(r"^\s*(?:\*\*)?\s*(\d{1,3})\s*(?:\*\*)?\s*$")
 QUESTAO_NUM_RE = re.compile(r"^\s*(?:\*\*)?\s*(\d{1,3})\s*[\.\)-]\s*\**\s*(.+)")
 ALT_RE = re.compile(r"^\s*\(?\s*([A-Ea-e])\s*[).:]\s*(.*)$")
 
@@ -203,7 +208,7 @@ def extrair_pdf(pdf_path: Path, pasta_imagens: Path, colunas: int = 1) -> str:
     return "\n".join(partes)
 
 
-def detectar_questoes(cru: str) -> tuple[list[dict], list[str]]:
+def detectar_questoes(cru: str, cab_num_liso: bool = False) -> tuple[list[dict], list[str]]:
     """Separa o Markdown cru em questões.
 
     Levanta todos os candidatos a início de questão (cabeçalho "QUESTÃO NN"
@@ -226,6 +231,8 @@ def detectar_questoes(cru: str) -> tuple[list[dict], list[str]]:
                 m = QUESTAO_HEAD_INLINE_RE.match(linha)
             elif QUESTAO_NUM_SOZINHO_RE.match(linha):
                 m = QUESTAO_NUM_SOZINHO_RE.match(linha)
+            elif cab_num_liso and QUESTAO_NUM_LISO_RE.match(linha):
+                m = QUESTAO_NUM_LISO_RE.match(linha)
         if not m:
             m2 = QUESTAO_NUM_RE.match(linha)
             m = m2 if m2 else None
@@ -1187,6 +1194,7 @@ def processar_prova(
     pasta_saida: Path,
     nome_forcado: str | None,
     colunas: int = 1,
+    cab_num_liso: bool = False,
 ) -> Path:
     nome = nome_pasta(prova, nome_forcado)
     pasta_prova = pasta_saida / nome
@@ -1197,7 +1205,7 @@ def processar_prova(
 
     print(f"[{nome}] extraindo {prova.name}...")
     cru = extrair_pdf(prova, pasta_imagens, colunas)
-    questoes, pre = detectar_questoes(cru)
+    questoes, pre = detectar_questoes(cru, cab_num_liso)
     if not questoes:
         print(f"[{nome}] ⚠️ nenhuma questão detectada — PDF provavelmente escaneado (precisa de OCR).")
         (pasta_prova / "prova_organizada.md").write_text(cru, encoding="utf-8")
@@ -1278,6 +1286,7 @@ def processar(
     repo: Path | None,
     nome: str | None,
     colunas: int = 1,
+    cab_num_liso: bool = False,
 ) -> None:
     # Windows: glob é case-insensitive — dedupe para não processar cada PDF duas vezes
     pdfs = sorted({p for p in pasta_pdfs.iterdir() if p.suffix.lower() == ".pdf"})
@@ -1287,12 +1296,12 @@ def processar(
     pasta_saida.mkdir(parents=True, exist_ok=True)
     pares = parear_pdfs(pdfs)
     if len(pares) == 1:
-        processar_prova(pares[0][0], pares[0][1], pasta_saida, nome, colunas)
+        processar_prova(pares[0][0], pares[0][1], pasta_saida, nome, colunas, cab_num_liso)
     else:
         if nome:
             print("⚠️ --nome ignorado: há várias provas na pasta; o nome vem do arquivo.")
         for prova, gabarito in pares:
-            processar_prova(prova, gabarito, pasta_saida, None, colunas)
+            processar_prova(prova, gabarito, pasta_saida, None, colunas, cab_num_liso)
 
     if repo:
         destino = repo / "Provas MD"
@@ -1320,12 +1329,19 @@ def main() -> None:
         default=1,
         help="Layout do PDF: 1 = coluna única (padrão), 2 = duas colunas",
     )
+    parser.add_argument(
+        "--cab-numero-liso",
+        action="store_true",
+        help="Aceita cabeçalho de questão como número sozinho na linha, sem "
+             "separador (estilo FGV: \"15\\nEnunciado...\n(A)...\". Sempre confira "
+             "o resultado: numeração de capa/rodapé pode virar questão.",
+    )
     args = parser.parse_args()
 
     pasta_pdfs = Path(args.pasta).expanduser().resolve()
     pasta_saida = Path(args.saida).expanduser().resolve()
     repo = Path(args.repo).expanduser().resolve() if args.repo else None
-    processar(pasta_pdfs, pasta_saida, repo, args.nome, args.colunas)
+    processar(pasta_pdfs, pasta_saida, repo, args.nome, args.colunas, args.cab_numero_liso)
 
 
 if __name__ == "__main__":
