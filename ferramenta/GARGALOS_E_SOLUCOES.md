@@ -184,3 +184,18 @@ Aprendizados do lote 4 (Bom Princípio, Bonito de Minas, Brusque, Caeté, Camara
 8. **`validar_prova.py`** agora aceita linha de gabarito `🚫 **Gabarito: ANULADA**` além de ✅/⚠️.
 
 Referências novas no apêndice: `Camara_Brusque_2024_Agente_Administrativo_Recepcao` (gabarito `NN: X`), `Camara_Carangola_1992_Agente_Administrativo_I` + `Camara_Carangola_2008_Agente_Administrativo_I` (recorrência entre concursos).
+
+## Caso 11 — Lote 6: cabeçalhos com hífen e número "sozinho" com ponto (2026)
+
+Aprendizados do lote 6 (Bonito de Minas 2009, Caucaia 2010/2016/2024, Caçapava 2015/2025, Cerro Corá 2020), já incorporados ao [`organizador_provas.py`](organizador_provas.py):
+
+1. **Número + hífen** (formato antigo, ex. Bonito de Minas 2009): enunciados do tipo `01- Nesta tirinha...`, `39-Para abrir o menu...` (inclusive sem espaço depois do hífen) e separador hífen sozinho na linha não eram reconhecidos — só `.` e `)` eram. `QUESTAO_NUM_RE` e `QUESTAO_NUM_SOZINHO_RE` agora aceitam `-` como separador. **Proteção:** instruções numeradas da capa (`01-`, `02-`...) não viram questões porque o gate exige alternativas no bloco e a cadeia sequencial escolhida é a que contém mais questões com alternativas (40 > 6, no caso de Bonito de Minas).
+2. **Número + ponto sozinho na linha** (enunciado começa na linha de baixo, ex. Caucaia 2024/2010): `Questão 1.` em uma linha e o texto na seguinte fazia as questões iniciais não serem detectadas → `KeyError` no `montar_prova`. `QUESTAO_NUM_SOZINHO_RE` agora aceita também `.` (antes só `)`).
+3. **Material preliminar é parte do material de apoio**: frase introdutória do texto-base (ex. "Leia o texto para responder às questões de 1 a 9." em Caucaia 2024) pode cair na seção de capa por estar antes do texto. Regra de auditoria: ela precisa aparecer **na capinha do GRUPO e dentro do material de apoio de cada questão do grupo** (autossuficiência — PROMPT MESTRE §10).
+4. **Imagem referenciada pode cair no bloco da questão seguinte** (ex. tirinha de Bonito de Minas 2009 extraída antes do cabeçalho `01-`): na auditoria, mover a referência para a questão que a cita no enunciado e registrar como conteúdo de `Referências visuais`.
+5. **Números fantasmas entre colunas** (Caçapava 2015 numeração dupla): números soltos que vazam de outra coluna (`04`, `49`, `50`) são numeração, não enunciado — garantir que os regex + cadeia seqüencial não os elevem a questões (prova real: transcrição manual conferida).
+6. **Frações empilhadas/expressões visuais** (Caçapava 2015): linearizar fielmente (ex. `12/40`) e registrar a decisão nas Observações — não omitir nem "corrigir".
+7. **Gabarito multi-cargo em 2+ páginas** (Caucaia 2016/2024): ler o PDF oficial inteiro, identificar o bloco do cargo da prova (por cabeçalho), preencher só esse bloco e registrar no relatório quais blocos foram ignorados; questões `NULA`/`X` → `⚠️ **Gabarito: ANULADA**`.
+8. **Prova sem gabarito** (Caucaia 2010, Bonito de Minas 2009 — onde o PDF "gabarito" é cópia da prova): registrar `Gabarito: **não disponível**` — nunca inventar respostas.
+
+Referências novas no apêndice: `Camara_Bonito_de_Minas_2009` (hífen + imagem fora de posição), `Camara_Caucaia_2024_Agente_Administrativo_do_Legislativo` (intro do grupo + gabarito multi-cargo), `Camara_Caucaia_2016_Agente_Administrativo` (gabarito 3 páginas/multi-nível), `Camara_Caucaia_2010_Agente_Administrativo` (sem gabarito), `Camara_Cacapava_2015_Agente_Administrativo` (números fantasma + frações + capa com caixa de exemplo).

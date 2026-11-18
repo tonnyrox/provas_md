@@ -60,9 +60,9 @@ QUESTAO_HEAD_ORDINAL_RE = re.compile(
     re.IGNORECASE,
 )
 QUESTAO_NUM_SOZINHO_RE = re.compile(
-    r"^\s*(?:\*\*)?\s*(\d{1,3})\s*\)\s*(?:\*\*)?\s*$"
+    r"^\s*(?:\*\*)?\s*(\d{1,3})\s*[\.\)-]\s*(?:\*\*)?\s*$"
 )
-QUESTAO_NUM_RE = re.compile(r"^\s*(?:\*\*)?\s*(\d{1,3})\s*[\.\)]\s*\**\s*(.+)")
+QUESTAO_NUM_RE = re.compile(r"^\s*(?:\*\*)?\s*(\d{1,3})\s*[\.\)-]\s*\**\s*(.+)")
 ALT_RE = re.compile(r"^\s*\(?\s*([A-Ea-e])\s*[).:]\s*(.*)$")
 
 TEXTO_BASE_RES = [
@@ -207,7 +207,8 @@ def detectar_questoes(cru: str) -> tuple[list[dict], list[str]]:
     """Separa o Markdown cru em questões.
 
     Levanta todos os candidatos a início de questão (cabeçalho "QUESTÃO NN"
-    ou número seguido de "."/")") e escolhe a cadeia sequencial 1, 2, 3...
+    ou número seguido de "."/"))"/"-" ou número + separador sozinho na linha
+    (enunciado embaixo), e escolhe a cadeia sequencial 1, 2, 3...
     que contém mais questões com alternativas (desempate: cadeia mais longa).
     Assim, itens numerados da capa/instruções não são confundidos com questões.
 
