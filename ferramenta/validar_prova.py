@@ -36,6 +36,11 @@ SECAO1 = "## 1. Análise geral da prova"
 SECAO2 = "## 2. Questões agrupadas"
 SECAO3 = "## 3. Questões independentes"
 SECAO4 = "## 4. Observações e limitações da extração"
+REDACAO4 = "## 4. Redação"
+SECAO_OBS = [
+    SECAO4,
+    "## 5. Observações e limitações da extração",
+]
 
 Q_RE = re.compile(r"^#### QUESTÃO (\d+)$", re.M)
 GAB_RE = re.compile(r"^(?:✅|⚠️|🚫) \*\*Gabarito", re.M)
@@ -44,7 +49,11 @@ GRUPO_RE = re.compile(r"^### GRUPO \d+ — (.*)$", re.M)
 REL_RE = re.compile(r"\*\*Questões relacionadas:\*\*\s*([0-9,\s e]+)")
 CITA_FIGURA_RE = re.compile(
     r"(leia a tira|analisa ndo a tira|analisando a tira|conforme a figura"
-    r"|figura abaixo|imagem abaixo|gráfico abaixo|tabela abaixo)", re.I)
+    r"|figura abaixo|figura acima|imagem abaixo|imagem acima"
+    r"|gráfico abaixo|gráfico acima|tabela abaixo"
+    r"|desenho abaixo|esquema abaixo|charge abaixo"
+    r"|pelo ícone|pelo botão|clica-se no botão|clique no botão"
+    r"|botão representado pela figura|qual dos ícones|ícone abaixo)", re.I)
 
 
 def validar_pasta(pasta):
@@ -58,9 +67,17 @@ def validar_pasta(pasta):
         if not os.path.exists(os.path.join(pasta, f)):
             erros.append(f"{f} ausente")
 
-    for sec in (SECAO1, SECAO2, SECAO3, SECAO4):
+    for sec in (SECAO1, SECAO2, SECAO3):
         if sec not in md:
             erros.append(f"seção ausente: {sec}")
+    obs = next((s for s in SECAO_OBS if s in md), None)
+    if obs == SECAO_OBS[1] and REDACAO4 not in md:
+        erros.append(
+            "seção ausente: " + SECAO4
+            + " (ou '## 4. Redação' ,'## 5. Observações' — padrão com proposta de redação)"
+        )
+    elif obs is None:
+        erros.append(f"seção ausente: {SECAO4}")
     if erros:
         return erros, avisos
 
@@ -68,7 +85,7 @@ def validar_pasta(pasta):
         return md.split(ini)[1].split(fim)[0]
 
     s2 = secao(SECAO2, SECAO3)
-    s3 = secao(SECAO3, SECAO4)
+    s3 = secao(SECAO3, obs)
     n2 = [int(x) for x in Q_RE.findall(s2)]
     n3 = [int(x) for x in Q_RE.findall(s3)]
     todas = n2 + n3
@@ -162,7 +179,13 @@ def validar_pasta(pasta):
 
     for i, b in enumerate(re.split(r"^#### QUESTÃO \d+$", md, flags=re.M)[1:], 1):
         b_q = re.split(r"^---\s*$", b, maxsplit=1, flags=re.M)[0]
-        if CITA_FIGURA_RE.search(b_q) and "imagens/" not in b_q and "| --- |" not in b_q:
+        en = b_q.split("**Enunciado:**", 1)[-1]
+        en = en.split("**Alternativas:**", 1)[0]
+        if (
+            CITA_FIGURA_RE.search(en)
+            and "imagens/" not in b_q
+            and not re.search(r"\|\s*-{3,}\s*\|", b_q)
+        ):
             avisos.append(
                 f"questão {i:02d} cita tira/figura/gráfico mas não tem referência "
                 "de imagem — confira se a figura foi extraída"

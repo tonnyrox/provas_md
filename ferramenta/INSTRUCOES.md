@@ -228,7 +228,7 @@ O [`organizador_provas.py`](organizador_provas.py) agora resolve sozinho, sem in
 
 - **Gabaritos em grade colunar** `NN: A` / `NN: X` (X, N, *, # ou "ANULADA" = anulada) — parser `parsear_gabarito_colunas`.
 - **Gabaritos verticais em colunas** (pares número/letra em colunas separadas, vários pares por linha, dígitos fatiados) — parser `parsear_gabarito_vertical` (usa coordenadas das palavras; exige ≥ 60% de cobertura para aceitar).
-- **Cabeçalhos de questão** `QUESTÃO 05`, `05ª QUESTÃO`, `Questão 05 - texto...` e `05)` (este último só quando há alternativas no bloco).
+- **Cabeçalhos de questão** `QUESTÃO 05`, `05ª QUESTÃO`, `Questão 05 - texto...`, `05)`, `5.` e `01- enunciado` com hífen (o separador sozinho na linha e o formato com hífen só valem quando há alternativas no bloco).
 - **Imagens de fundo/marca d'água** (fundo de página inteira ou repetido na maioria das páginas) são descartadas automaticamente — não viram imagens órfãs.
 - **PDF em duas colunas**: rodar com `--colunas 2` (verifique no resultado se a ordem das questões ficou correta antes de publicar).
 
