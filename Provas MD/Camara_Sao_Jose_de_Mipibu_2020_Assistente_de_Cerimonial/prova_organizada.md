@@ -5,7 +5,7 @@
 - **Identificação:** Concurso Público — Edital Nº 002/2020 — Prefeituras/Câmara Municipais do Agreste Potiguar/RN. Banca: FUNCERN — Fundação de Apoio à Educação e ao Desenvolvimento Tecnológico do RN. Órgão: Câmara Municipal de São José de Mipibu (RN). Cargo: ASSISTENTE DE CERIMONIAL. Caderno de Provas: CPAP 109 – NM (Nível Médio). Prova de 3 (três) horas, 30 questões de múltipla escolha com 4 alternativas (A–D).
 - **Quantidade total de questões:** 30 (múltipla escolha, alternativas A–D).
 - **Quantidade de textos de apoio:** 1 (texto jornalístico "Metade das praias do mundo pode desaparecer até 2100", compartilhado pelas questões 1 a 10; o último parágrafo desse texto é citado como referência específica das questões 2, 3 e 4).
-- **Quantidade de imagens:** 1 imagem de questão (figura das três bandeiras hasteadas na fachada da Prefeitura, questão 25). A única outra imagem do material é o logotipo FUNCERN/Agreste Potiguar da capa, descartado por ser marca institucional.
+- **Quantidade de imagens:** 2 imagens de questão (figura das três bandeiras hasteadas na fachada da Prefeitura, questão 25; esquema de disposição da mesa de honra, questão 22). A única outra imagem do material é o logotipo FUNCERN/Agreste Potiguar da capa, descartado por ser marca institucional.
 - **Quantidade de gráficos e tabelas:** 1 figura esquemática representada textualmente no OCR (esquema mesa/plateia da questão 22, preservado em forma de texto); a tabela da capa é a tabela de disciplinas/pontuação, transcrita na capa.
 - **Quantidade de grupos identificados:** 1 (questões 1 a 10; as questões 2, 3 e 4 compartilham adicionalmente o último parágrafo do texto, reproduzido em cada uma delas).
 - **Quantidade de questões independentes:** 20 (questões 11 a 30).
@@ -653,9 +653,13 @@ D) é governador o estado com a maior população do Nordeste.
 **Enunciado:**
 
 A Câmara Municipal de São José de Mipibu organizou um evento para homenagear um funcionário de uma empresa privada local, em virtude de relevantes serviços prestados à sociedade. Além do homenageado, participaram da mesa de honra: o proprietário da empresa, o Presidente da Câmara Municipal e o vereador decano. Considerando a figura abaixo, conforme Decreto nº 70.274/72, deverá ocupar o lugar de número 2
+
+![Imagem da questão](imagens/imagem_002.png)
+
 1 2 3 4
 MESA
 PLATEIA
+
 Fonte: Elaboração própria.
 
 **Alternativas:**
@@ -665,7 +669,7 @@ B) o proprietário da empresa.
 C) o vereador decano.
 D) o Presidente da Câmara Municipal.
 
-**Referências visuais:** Nenhuma.
+**Referências visuais:** `imagens/imagem_002.png` — esquema de disposição da mesa de honra (posições numeradas 1, 2, 3 e 4, com "MESA" na parte superior e "PLATEIA" na parte inferior), inserido inline no enunciado.
 
 ---
 
@@ -830,7 +834,7 @@ D) à portuguesa.
 
 1. **Item 18 do gabarito ausente no print oficial:** a tabela impressa do caderno 1261 (cargo 109) salta do item 17 para o item 19. A resposta do item 18 (D) foi recuperada por corroboração: a questão 18 de Informática é idêntica nas provas do mesmo concurso e os cadernos 1242/1243 — que compartilham o mesmo bloco de Informática (itens 11 a 16 com letras idênticas em todos os cadernos: B/A/D/C/B/C) — apresentam 18 = D. Registro transparente: trata-se de resposta corroborada, não lida diretamente no print.
 2. **Imagem da questão 25:** figura das três bandeiras hasteadas na fachada da Prefeitura Municipal de São José de Mipibu ("Fonte: elaboração própria") extraída para `imagens/imagem_001.jpg` e referenciada dentro da questão 25.
-3. **Figura da questão 22 representada textualmente:** o esquema de disposição da mesa de honra (posições "1 2 3 4", "MESA" e "PLATEIA") é um elemento gráfico do original que o OCR não isolou como imagem; foi preservado em forma de texto dentro do enunciado, exatamente como capturado.
+3. **Figura da questão 22 (RESOLVIDO no pente fino com o original reenviado):** o esquema de disposição da mesa de honra (posições "1 2 3 4", "MESA" e "PLATEIA") não havia sido isolado como imagem na extração inicial e constava apenas como texto. Com o reenvio do PDF original do caderno CPAP 109, a figura foi localizada na página 9 (xref 71, 624×406 px), extraída para `imagens/imagem_002.png`, conferida por OCR (rótulos 1, 2, 3, 4, MESA, PLATEIA — idênticos à transcrição textual anterior) e inserida inline no enunciado da questão 22, com a transcrição textual preservada.
 4. **Logotipo da capa:** o logotipo FUNCERN/Agreste Potiguar da capa foi descartado de `imagens/` por ser marca institucional, não conteúdo da prova.
 5. **Destaques tipográficos não sinalizados pelo OCR:** os enunciados das questões 3, 6, 8 e 10 referem-se a "elementos/palavra/verbo em destaque" e as questões 2, 5, 7 e 10 citam trechos do texto dentro do enunciado; os trechos citados foram preservados integralmente (os itálicos do texto de apoio, como *Nature Climate Change* e *The Conversation*, foram preservados como capturados).
 6. **Figura da marcação da Folha de Respostas:** a capa menciona "conforme a figura a seguir" (marcação do campo na Folha de Respostas), mas a figura não foi isolada pelo OCR por se tratar de elemento gráfico simples da capa; a instrução foi transcrita integralmente.
