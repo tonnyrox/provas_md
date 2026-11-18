@@ -167,6 +167,11 @@ Se encontrar pasta de prova com formato diferente (títulos `# PROVA ORGANIZADA 
 | Gabarito lido pela metade (colunas 01–10/11–20 perdidas) | `Camara_Catas_Altas_da_Noruega_2010_Agente_Legislativo` (corrigido em auditoria) |
 | Imagem órfã = bug (tirinha sem ref nas questões) | `Camara_Piracicaba_2019_Agente_Legislativo` (Q08–09, corrigido) |
 | Texto fragmentado palavra por palavra | `Camara_Bezerros_2025_Agente_Administrativo` (Q10/Q20 reconstruídas) |
+| PDF vetorial sem camada de texto (OCR página inteira) | `Camara_Contagem_2022_Analista_Tecnico_Analista_de_Sistemas` |
+| Gabarito multi-blocos por código de cargo (FUNDEP/UFMG) | `Camara_Contagem_2022_Analista_Tecnico_Analista_de_Sistemas` |
+| Ano impossível no nome do arquivo ("2030") | `Camara_Conde_2022_Nivel_Fundamental_Completo` |
+| Mesmo concurso, provas por cargo distintas | `Camara_Conselheiro_Lafaiete_2018_Agente_Legislativo` + `Camara_Conselheiro_Lafaiete_2018_Analista_de_Sistemas` |
+| Redação em seção dedicada (seção 4) | `Camara_Contagem_2022_Analista_Tecnico_Analista_de_Sistemas` |
 
 ---
 
@@ -199,3 +204,17 @@ Aprendizados do lote 6 (Bonito de Minas 2009, Caucaia 2010/2016/2024, Caçapava 
 8. **Prova sem gabarito** (Caucaia 2010, Bonito de Minas 2009 — onde o PDF "gabarito" é cópia da prova): registrar `Gabarito: **não disponível**` — nunca inventar respostas.
 
 Referências novas no apêndice: `Camara_Bonito_de_Minas_2009` (hífen + imagem fora de posição), `Camara_Caucaia_2024_Agente_Administrativo_do_Legislativo` (intro do grupo + gabarito multi-cargo), `Camara_Caucaia_2016_Agente_Administrativo` (gabarito 3 páginas/multi-nível), `Camara_Caucaia_2010_Agente_Administrativo` (sem gabarito), `Camara_Cacapava_2015_Agente_Administrativo` (números fantasma + frações + capa com caixa de exemplo).
+
+## Caso 12 — Lote 7: PDF vetorial sem camada de texto, duas colunas que cruzam e gabarito multi-blocos por código de cargo (2026)
+
+Aprendizados do lote 7 (Chapecó 2025/2007, Clevelândia 2011 I/II e 2017, Conde 2022, Conselheiro Lafaiete 2018 ×2, Contagem 2022):
+
+1. **PDF vetorial sem camada de texto** (`Camara_Contagem_2022_Analista_Tecnico_Analista_de_Sistemas`): a leitura nativa (`get_text`) devolve ~133 caracteres/página (só numerações e marcas) pois o conteúdo é vetorial com fontes sem mapa de caracteres. **Solução:** renderizar as páginas inteiras com PyMuPDF em 200–300 dpi e passar OCR (página inteira, não por coluna). Neste cenário o pipeline padrão do `organizador_provas.py` não produce nada — a prova precisa ser construída por transcrição assistida, questão por questão.
+2. **Duas colunas com frases cruzando colunas**: em Contagem 2022 as frases quebram no meio e continuam na coluna oposta (e às vezes na página seguinte). OCR por coluna fragmenta o texto (metade da frase em cada arquivo); OCR de **página inteira** preserva a ordem de leitura. Regra: quando suspeitar de frase cortada (linha termina sem pontuação/sintaxe), re-OCR a página inteira antes de reconstruir manualmente.
+3. **Pontos incertos → tripla conferência**: toda leitura divergente entre OCRs foi resolvida com recorte em 300 dpi (`page.get_pixmap(clip=Rect(...))`) da região exata + segunda e terceira leituras (mistral-ocr × easyocr × tesseract). Nunca "adivinhar" a palavra: recortar e reler. Exemplos resolvidos assim: "étnico-identitárias", "improbidade administrativa", "independentemente de convocaç\u00e3o", "Procuradoria da Câmara... Comp\u00f5e".
+4. **Gabarito multi-blocos por código de cargo** (FUNDEP/UFMG, Contagem 2022): o PDF oficial traz vários cargos por página (blocos lado a lado), com colunas distintas por código (101–312) e por fase (PRÉ/ PÓS-RECURSOS). Extrair a coluna exata do cargo pelo **código numérico em coordenadas x** (render + recorte da faixa de coluna) e registrar no relatório qual coluna/bloco foi usado. Preferir o gabarito **PÓS-RECURSOS** quando existirem as duas versões.
+5. **ANULADA no meio do gabarito**: a questão anulada recebe literalmente `**ANULADA**` na tabela e `✅ **Gabarito: ANULADA**` na questão (já suportado pelo `validar_prova.py`), com nota nas Observações apontando a fonte oficial.
+6. **Duplicidade entre remessas com nomes diferentes** (`Camara_Conde_2022_Nivel_Fundamental_Completo`): dois PDFs rotulados "Conde - PB - 2030" eram concessões antigas do mesmo gabarito oficial do Conde 2022 (ano impossível no nome do arquivo). Prova única processada; a data/ano real vem do conteúdo da capa, não do nome do arquivo.
+7. **Regra absoluta de imagem inline** (Lote 7 como um todo): cada questão que usa uma imagem carrega a referência `![Imagem da quest\u00e3o](imagens/imagem_XXX.png)` dentro de si (material de apoio e/ou Referências visuais), lendo o enunciado para confirmar o vínculo; imagens decorativas (logos, marca d'água) continuam descartadas. No resto do banco as fotos/capas das provas também foram verificadas questão a questão na decisão de agrupamento.
+
+Referências novas no apêndice: `Camara_Contagem_2022_Analista_Tecnico_Analista_de_Sistemas` (PDF vetorial + 2 colunas + gabarito multi-blocos + ANULADA), `Camara_Conde_2022_Nivel_Fundamental_Completo` (ano errado no nome do arquivo — 2030), `Camara_Conselheiro_Lafaiete_2018_Agente_Legislativo` e `Camara_Conselheiro_Lafaiete_2018_Analista_de_Sistemas` (mesmo concurso, cargos diferentes — provas distintas).
