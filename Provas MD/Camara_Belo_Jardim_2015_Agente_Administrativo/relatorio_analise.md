@@ -12,3 +12,7 @@
 | Material compartilhado | Questões vinculadas | Tipo |
 |---|---|---|
 | — | — | — |
+
+## Resultado
+
+**CONCLUÍDA COM RESSALVAS.** Figura da questão 16 não recuperável (PDF original indisponível); limitação registrada nas Observações.

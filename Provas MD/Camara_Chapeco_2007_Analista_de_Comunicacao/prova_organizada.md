@@ -5,7 +5,7 @@
 - **Identificação:** Camara_Chapeco_2007_Analista_de_Comunicacao
 - **Quantidade total de questões:** 50
 - **Quantidade de textos de apoio (grupos):** 0
-- **Quantidade de imagens:** 2
+- **Quantidade de imagens:** 22 (incluindo ícones de ferramentas da interface e figuras recuperadas na revisão)
 - **Quantidade de gráficos e tabelas:** incluídos nas imagens e no texto extraído, quando presentes no PDF original
 - **Quantidade de grupos identificados:** 0
 - **Quantidade de questões independentes:** 50
@@ -495,21 +495,48 @@ Nenhuma.
 **Enunciado:**
 
 Em uma planilha do Excel 2007, o texto “Concurso
-Público” é digitado na célula A1, conforme a figura abaixo,
+Público” é digitado na célula A1, conforme a figura abaixo
+
+![Imagem da questão](imagens/imagem_003.png)
+
 e com essa célula selecionada clica-se no botão
+
+![Imagem da questão](imagens/imagem_004.png)
+
 . O
 resultado dessa ação está apresentado na alternativa:
 
 **Alternativas:**
 
-A) 
-B) 
-C) 
-D) 
+A)
+
+![Imagem da alternativa](imagens/imagem_005.png)
+
+B)
+
+![Imagem da alternativa](imagens/imagem_006.png)
+
+C)
+
+![Imagem da alternativa](imagens/imagem_007.png)
+
+D)
+
+![Imagem da alternativa](imagens/imagem_008.png)
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_003.png)
+
+![Imagem da questão](imagens/imagem_004.png)
+
+![Imagem da alternativa](imagens/imagem_005.png)
+
+![Imagem da alternativa](imagens/imagem_006.png)
+
+![Imagem da alternativa](imagens/imagem_007.png)
+
+![Imagem da alternativa](imagens/imagem_008.png)
 
 ---
 
@@ -520,6 +547,9 @@ Nenhuma.
 **Enunciado:**
 
 Em relação à ferramenta Pincel
+
+![Imagem da questão](imagens/imagem_009.png)
+
 do
 Word 2007, analisar os itens abaixo:
 
@@ -537,7 +567,7 @@ www.objetivas.com.br
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_009.png)
 
 ---
 
@@ -548,8 +578,10 @@ Nenhuma.
 **Enunciado:**
 
 No Word 2007 o botão representado pela figura
-,
-tem a função de:
+
+![Imagem da questão](imagens/imagem_010.png)
+
+, tem a função de:
 
 **Alternativas:**
 
@@ -569,7 +601,7 @@ maiúsculas/minúsculas.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_010.png)
 
 ---
 
@@ -1673,14 +1705,39 @@ ferramenta:
 
 **Alternativas:**
 
-A) F5
-B) F5
-C) F12
-D) F5
+A)
+
+![Imagem da alternativa](imagens/imagem_011.png)
+
+F5
+
+B)
+
+![Imagem da alternativa](imagens/imagem_012.png)
+
+F5
+
+C)
+
+![Imagem da alternativa](imagens/imagem_013.png)
+
+F12
+
+D)
+
+![Imagem da alternativa](imagens/imagem_014.png)
+
+F5
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da alternativa](imagens/imagem_011.png)
+
+![Imagem da alternativa](imagens/imagem_012.png)
+
+![Imagem da alternativa](imagens/imagem_013.png)
+
+![Imagem da alternativa](imagens/imagem_014.png)
 
 ---
 
@@ -1766,7 +1823,13 @@ D) 1 - PenTool, 2 - Tebas, 4 - Circle.
 
 O Adobe InDesign utiliza a Ferramenta Tipo (ou Type
 nas versões em Inglês) representadas pelo ícone
+
+![Imagem da questão](imagens/imagem_015.png)
+
 .
+
+![Imagem da questão](imagens/imagem_016.png)
+
 As letras A e B na figura acima representam,
 respectivamente, os controles de formatação de:
 
@@ -1781,7 +1844,9 @@ de numeração de páginas.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_015.png)
+
+![Imagem da questão](imagens/imagem_016.png)
 
 ---
 
@@ -1793,20 +1858,34 @@ Nenhuma.
 
 No Adobe InDesign, é possível trabalhar o texto de
 uma maneira artística:
+
+![Imagem da questão](imagens/imagem_017.png)
+
 A imagem acima mostra um exemplo da utilização da
 ferramenta Tipo no Traçado. Qual dos ícones abaixo
 representa essa ferramenta?
 
 **Alternativas:**
 
-A) 
-B) 
-C) 
-D) 
+A) ![Imagem da alternativa](imagens/imagem_018.png)
+
+B) ![Imagem da alternativa](imagens/imagem_019.png)
+
+C) ![Imagem da alternativa](imagens/imagem_020.png)
+
+D) ![Imagem da alternativa](imagens/imagem_021.png)
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_017.png)
+
+![Imagem da alternativa](imagens/imagem_018.png)
+
+![Imagem da alternativa](imagens/imagem_019.png)
+
+![Imagem da alternativa](imagens/imagem_020.png)
+
+![Imagem da alternativa](imagens/imagem_021.png)
 
 ---
 
@@ -1823,6 +1902,9 @@ valores, é possível modificar os objetos selecionados e/ou
 seus preenchimentos de padrão. Também é possível
 alterar o ponto de referência de transformação e bloquear
 as proporções do objeto.
+
+![Imagem da questão](imagens/imagem_022.png)
+
 Observando-se as ferramentas numeradas na figura
 acima, assinalar a alternativa CORRETA:
 
@@ -1837,7 +1919,7 @@ D) 1 - Alinhamento, 2 - Menu do Painel Transformar.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_022.png)
 
 ---
 
@@ -1869,8 +1951,8 @@ Nenhuma.
 ## 4. Observações e limitações da extração
 
 - Extração automática (texto selecionável do PDF via PyMuPDF), sem OCR: PDFs escaneados podem perder texto.
+- Revisão do pente fino recuperou **ícones e figuras de interface (GUI) perdidos na extração automática**, incluídos como `imagem_003` a `imagem_022` e referenciados inline nas questões 12, 13, 14, 44, 47, 48 e 49 (a Q12 e a Q48 também têm alternativas inteiramente em imagem).
 - Imagens repetidas (logos/marcas d'água) foram descartadas; as imagens de conteúdo foram salvas em `imagens/` com nomenclatura `imagem_00N`.
 - A detecção de grupos usa os avisos padrão das bancas ("o texto seguinte servirá de base..."). Bancas sem esse aviso podem ter grupos não identificados — o conteúdo, porém, permanece integral.
 - Se houver divergência entre esta versão e o PDF original, vale o PDF original; corrija manualmente o Markdown.
-- Gabarito oficial não disponível/pareado — nenhuma resposta foi preenchida.
-- Gabarito contém vários cargos e nenhum corresponde ao cargo identificado na prova; gabarito não preenchido automaticamente.
+- Gabarito preenchido a partir do bloco "ANALISTA DE COMUNICAÇÃO" do gabarito oficial multi-cargo (revisão do pente fino; antes registrava incorretamente que não havia gabarito).

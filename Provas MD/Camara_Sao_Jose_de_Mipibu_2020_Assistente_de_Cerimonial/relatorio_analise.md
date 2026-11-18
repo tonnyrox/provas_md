@@ -57,3 +57,8 @@
 - Gabarito preliminar conferido contra a tabela oficial do cargo 109 (29/30 respostas lidas diretamente; item 18 corroborado).
 - Texto compartilhado reproduzido integralmente em cada questão do grupo 01; último parágrafo reproduzido nas questões 2, 3 e 4.
 - Imagem da questão 25 extraída e referenciada com caminho relativo funcional.
+- Pente fino: a figura da questão 22 (esquema da mesa de honra) só existe em forma de texto no original processado; PDF original indisponível para reextração — limitação registrada nas Observações (status CONCLUÍDA COM RESSALVAS).
+
+## 7. Resultado
+
+**CONCLUÍDA COM RESSALVAS.** Figura da questão 22 preservada somente em forma de texto; PDF original indisponível para reextração.

@@ -1723,3 +1723,4 @@ Nenhuma.
 - Imagens repetidas (logos/marcas d'água) foram descartadas; as imagens de conteúdo foram salvas em `imagens/` com nomenclatura `imagem_00N`.
 - A detecção de grupos usa os avisos padrão das bancas ("o texto seguinte servirá de base..."). Bancas sem esse aviso podem ter grupos não identificados — o conteúdo, porém, permanece integral.
 - Se houver divergência entre esta versão e o PDF original, vale o PDF original; corrija manualmente o Markdown.
+- **Figura da questão 16 indisponível:** o enunciado cita "planilha de valores... conforme figura acima", mas a imagem da planilha não foi extraída da prova original e o PDF original não está mais disponível no sandbox para reextração; os valores citados nas alternativas (células C3–C8, total 110,00) permanecem como referência do conteúdo. Registrado como limitação (status CONCLUÍDA COM RESSALVAS no relatório).
