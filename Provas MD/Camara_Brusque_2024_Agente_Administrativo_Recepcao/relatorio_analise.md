@@ -30,6 +30,6 @@
 
 ## Problemas encontrados
 
-- Gabarito oficial não incluído no material original; registrado na seção 4 da prova.
+- Gabarito oficial gabarito preliminar oficial (FURB) pareado com as 40 questões; registrado na seção 4 da prova.
 - Conteúdo transcrito por OCR a partir do PDF original; pequenas variações de pontuação ou destaque (sublinhado/negrito nas questões 02 e 07) podem existir em relação ao original impresso.
 - Nenhuma parte ilegível ou ausente além do gabarito foi identificada.
