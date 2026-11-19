@@ -1,0 +1,455 @@
+[2026-11-19 15:20:38] [INFO] ================================================================================
+[2026-11-19 15:20:38] [INFO] INICIANDO PROCESSAMENTO COMPLETO AUTOMÁTICO
+[2026-11-19 15:20:38] [INFO] ================================================================================
+[2026-11-19 15:20:38] [INFO] Progresso anterior: 0 pastas processadas, 0 erros
+[2026-11-19 15:20:38] [INFO] 
+================================================================================
+[2026-11-19 15:20:38] [INFO] ETAPA 1: CORRIGINDO NOMES DE PASTAS MALFORMADOS
+[2026-11-19 15:20:38] [INFO] ================================================================================
+[2026-11-19 15:20:38] [INFO] Pastas para corrigir: 5
+[2026-11-19 15:20:38] [INFO] 
+Corrigindo 1/5: Camara_Gabarito_2020_Nao_Identificado
+[2026-11-19 15:20:38] [INFO] ✅ Renomeada: Camara_Gabarito_2020_Nao_Identificado → Camara_Gabarito_2020_Camara_de_Mamanguape_PB_2020_-_Agente_Administrativo_IDIB-qconcursos
+[2026-11-19 15:20:38] [INFO] 
+Corrigindo 2/5: Camara_Gabarito_2025_Nao_Identificado
+[2026-11-19 15:20:38] [INFO] ✅ Renomeada: Camara_Gabarito_2025_Nao_Identificado → Camara_Gabarito_2025_Camara_de_Lagoa_do_Carro_PE_2025_-_Agente_Administrativo_do_Legislativo_Darwin-qconcursos
+[2026-11-19 15:20:38] [INFO] 
+Corrigindo 3/5: Camara_icapuí_-_-_agente_administrativo__21_10_2012_2012_agente_administrativo
+[2026-11-19 15:20:38] [INFO] ✅ Renomeada: Camara_icapuí_-_-_agente_administrativo__21_10_2012_2012_agente_administrativo → Camara_icapuí_-_-_agente_administrativo_21_10_2012_2012_agente_administrativo
+[2026-11-19 15:20:38] [INFO] 
+Corrigindo 4/5: Camara__2003_
+[2026-11-19 15:20:38] [INFO] ⚠️  Não foi possível corrigir: Não foi possível extrair metadados
+[2026-11-19 15:20:38] [INFO] 
+Corrigindo 5/5: Nao_Identificado_243 ID_Prova
+[2026-11-19 15:20:38] [INFO] ⚠️  Não foi possível corrigir: Não foi possível extrair metadados
+[2026-11-19 15:20:38] [INFO] 
+================================================================================
+[2026-11-19 15:20:38] [INFO] ETAPA 2: PROCESSANDO CADA PROVA INDIVIDUALMENTE
+[2026-11-19 15:20:38] [INFO] ================================================================================
+[2026-11-19 15:20:38] [INFO] Pastas com PDFs para processar: 28
+[2026-11-19 15:20:38] [INFO] 
+================================================================================
+[2026-11-19 15:20:38] [INFO] Processando prova 1/28: Camara_câmara_municipal_de_goiânia_2018_administrador
+[2026-11-19 15:20:38] [INFO] ================================================================================
+[2026-11-19 15:20:38] [INFO] PDFs: 2
+[2026-11-19 15:20:38] [INFO]   - Gabarito - Câmara Municipal de Goiânia - 2018 - Administrador.pdf
+[2026-11-19 15:20:38] [INFO]   - Prova - Câmara Municipal de Goiânia - 2018 - Administrador.pdf
+[2026-11-19 15:20:38] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Goiânia - 2018 - Administrador.pdf
+[2026-11-19 15:20:40] [INFO] ✅ Texto extraído (43623 caracteres)
+[2026-11-19 15:20:40] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'GOIÂNIA', 'ano': '2018', 'cargo': 'TÉCNICO', 'quantidade_questoes': 226, 'tem_imagens': True, 'questoes_agrupadas': True}
+[2026-11-19 15:21:03] [INFO] ================================================================================
+[2026-11-19 15:21:03] [INFO] INICIANDO PROCESSAMENTO COMPLETO AUTOMÁTICO
+[2026-11-19 15:21:03] [INFO] ================================================================================
+[2026-11-19 15:21:03] [INFO] Progresso anterior: 0 pastas processadas, 0 erros
+[2026-11-19 15:21:03] [INFO] 
+================================================================================
+[2026-11-19 15:21:03] [INFO] ETAPA 1: CORRIGINDO NOMES DE PASTAS MALFORMADOS
+[2026-11-19 15:21:03] [INFO] ================================================================================
+[2026-11-19 15:21:03] [INFO] Pastas para corrigir: 2
+[2026-11-19 15:21:03] [INFO] 
+Corrigindo 1/2: Camara__2003_
+[2026-11-19 15:21:03] [INFO] ⚠️  Não foi possível corrigir: Não foi possível extrair metadados
+[2026-11-19 15:21:03] [INFO] 
+Corrigindo 2/2: Nao_Identificado_243 ID_Prova
+[2026-11-19 15:21:03] [INFO] ⚠️  Não foi possível corrigir: Não foi possível extrair metadados
+[2026-11-19 15:21:03] [INFO] 
+================================================================================
+[2026-11-19 15:21:03] [INFO] ETAPA 2: PROCESSANDO CADA PROVA INDIVIDUALMENTE
+[2026-11-19 15:21:03] [INFO] ================================================================================
+[2026-11-19 15:21:03] [INFO] Pastas com PDFs para processar: 28
+[2026-11-19 15:21:03] [INFO] 
+================================================================================
+[2026-11-19 15:21:03] [INFO] Processando prova 1/28: Camara_câmara_municipal_de_goiânia_2018_administrador
+[2026-11-19 15:21:03] [INFO] ================================================================================
+[2026-11-19 15:21:03] [INFO] PDFs: 2
+[2026-11-19 15:21:03] [INFO]   - Gabarito - Câmara Municipal de Goiânia - 2018 - Administrador.pdf
+[2026-11-19 15:21:03] [INFO]   - Prova - Câmara Municipal de Goiânia - 2018 - Administrador.pdf
+[2026-11-19 15:21:03] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Goiânia - 2018 - Administrador.pdf
+[2026-11-19 15:21:05] [INFO] ✅ Texto extraído (43623 caracteres)
+[2026-11-19 15:21:05] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'GOIÂNIA', 'ano': '2018', 'cargo': 'TÉCNICO', 'quantidade_questoes': 226, 'tem_imagens': True, 'questoes_agrupadas': True}
+[2026-11-19 15:21:06] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:06] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:06] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:06] [INFO] 
+Progresso: 1/28 processadas | 27 pendentes | 0 erros
+[2026-11-19 15:21:06] [INFO] 
+================================================================================
+[2026-11-19 15:21:06] [INFO] Processando prova 2/28: Camara_câmara_municipal_de_governador_nunes_freire_2011_agente_administrativo
+[2026-11-19 15:21:06] [INFO] ================================================================================
+[2026-11-19 15:21:06] [INFO] PDFs: 2
+[2026-11-19 15:21:06] [INFO]   - Gabarito - Câmara Municipal de Governador Nunes Freire - 2011 - Agente Administrativo.pdf
+[2026-11-19 15:21:06] [INFO]   - Prova - Câmara Municipal de Governador Nunes Freire - 2011 - Agente Administrativo.pdf
+[2026-11-19 15:21:06] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Governador Nunes Freire - 2011 - Agente Administrativo.pdf
+[2026-11-19 15:21:07] [INFO] ✅ Texto extraído (21228 caracteres)
+[2026-11-19 15:21:07] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'Nao_Identificado', 'ano': '0000', 'cargo': 'AGENTE', 'quantidade_questoes': 196, 'tem_imagens': True, 'questoes_agrupadas': False}
+[2026-11-19 15:21:07] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:07] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:07] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:07] [INFO] 
+Progresso: 2/28 processadas | 26 pendentes | 0 erros
+[2026-11-19 15:21:07] [INFO] 
+================================================================================
+[2026-11-19 15:21:07] [INFO] Processando prova 3/28: Camara_câmara_municipal_de_ibirité_2009_agente_administrativo_iv
+[2026-11-19 15:21:07] [INFO] ================================================================================
+[2026-11-19 15:21:07] [INFO] PDFs: 1
+[2026-11-19 15:21:07] [INFO]   - Gabarito - Câmara Municipal de Ibirité - 2009 - Agente Administrativo IV.pdf
+[2026-11-19 15:21:07] [INFO] 
+Progresso: 3/28 processadas | 25 pendentes | 0 erros
+[2026-11-19 15:21:07] [INFO] 
+================================================================================
+[2026-11-19 15:21:07] [INFO] Processando prova 4/28: Camara_câmara_municipal_de_ibirité_2022_agente_de_serviços_v_2
+[2026-11-19 15:21:07] [INFO] ================================================================================
+[2026-11-19 15:21:07] [INFO] PDFs: 1
+[2026-11-19 15:21:07] [INFO]   - Gabarito - Câmara Municipal de Ibirité - 2022 - Agente de Serviços V) (2).pdf
+[2026-11-19 15:21:07] [INFO] 
+Progresso: 4/28 processadas | 24 pendentes | 0 erros
+[2026-11-19 15:21:07] [INFO] 
+================================================================================
+[2026-11-19 15:21:07] [INFO] Processando prova 5/28: Camara_câmara_municipal_de_maracanau_2000_agente_administrativo
+[2026-11-19 15:21:07] [INFO] ================================================================================
+[2026-11-19 15:21:07] [INFO] PDFs: 1
+[2026-11-19 15:21:07] [INFO]   - Gabarito - Câmara Municipal de Maracanau - 2000 - Agente Administrativo.pdf
+[2026-11-19 15:21:07] [INFO] 
+Progresso: 5/28 processadas | 23 pendentes | 0 erros
+[2026-11-19 15:21:07] [INFO] 
+================================================================================
+[2026-11-19 15:21:07] [INFO] Processando prova 6/28: Camara_câmara_municipal_de_pirapora_2021_agente_administrativo_legislativo
+[2026-11-19 15:21:07] [INFO] ================================================================================
+[2026-11-19 15:21:07] [INFO] PDFs: 2
+[2026-11-19 15:21:07] [INFO]   - Gabarito - Câmara Municipal de Pirapora - 2021 - Agente Administrativo Legislativo.pdf
+[2026-11-19 15:21:07] [INFO]   - Prova - Câmara Municipal de Pirapora - 2021 - Agente Administrativo Legislativo (2).pdf
+[2026-11-19 15:21:07] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Pirapora - 2021 - Agente Administrativo Legislativo (2).pdf
+[2026-11-19 15:21:08] [INFO] ✅ Texto extraído (39897 caracteres)
+[2026-11-19 15:21:08] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'Nao_Identificado', 'ano': '0000', 'cargo': 'AGENTE', 'quantidade_questoes': 290, 'tem_imagens': True, 'questoes_agrupadas': True}
+[2026-11-19 15:21:09] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:09] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:09] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:09] [INFO] 
+Progresso: 6/28 processadas | 22 pendentes | 0 erros
+[2026-11-19 15:21:09] [INFO] 
+================================================================================
+[2026-11-19 15:21:09] [INFO] Processando prova 7/28: Camara_câmara_municipal_de_vereadores_de_itapoá_2008_agente_administrativo_i
+[2026-11-19 15:21:09] [INFO] ================================================================================
+[2026-11-19 15:21:09] [INFO] PDFs: 1
+[2026-11-19 15:21:09] [INFO]   - Gabarito - Câmara Municipal de Vereadores de Itapoá - 2008 - Agente Administrativo I.pdf
+[2026-11-19 15:21:09] [INFO] 
+Progresso: 7/28 processadas | 21 pendentes | 0 erros
+[2026-11-19 15:21:09] [INFO] 
+================================================================================
+[2026-11-19 15:21:09] [INFO] Processando prova 8/28: Camara_Gabarito_2020_Camara_de_Mamanguape_PB_2020_-_Agente_Administrativo_IDIB-qconcursos
+[2026-11-19 15:21:09] [INFO] ================================================================================
+[2026-11-19 15:21:09] [INFO] PDFs: 2
+[2026-11-19 15:21:09] [INFO]   - Gabarito - Camara de Mamanguape PB 2020 - Agente Administrativo (IDIB-qconcursos).pdf
+[2026-11-19 15:21:09] [INFO]   - Prova - Câmara Municipal de Mamanguape - PB - 2020 - Agente Administrativo.pdf
+[2026-11-19 15:21:09] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Mamanguape - PB - 2020 - Agente Administrativo.pdf
+[2026-11-19 15:21:10] [INFO] ✅ Texto extraído (26354 caracteres)
+[2026-11-19 15:21:10] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'MAMANGUAPE', 'ano': '0000', 'cargo': 'Nao_Identificado', 'quantidade_questoes': 84, 'tem_imagens': True, 'questoes_agrupadas': True}
+[2026-11-19 15:21:11] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:11] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:11] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:11] [INFO] 
+Progresso: 8/28 processadas | 20 pendentes | 0 erros
+[2026-11-19 15:21:11] [INFO] 
+================================================================================
+[2026-11-19 15:21:11] [INFO] Processando prova 9/28: Camara_Gabarito_2025_Camara_de_Lagoa_do_Carro_PE_2025_-_Agente_Administrativo_do_Legislativo_Darwin-qconcursos
+[2026-11-19 15:21:11] [INFO] ================================================================================
+[2026-11-19 15:21:11] [INFO] PDFs: 2
+[2026-11-19 15:21:11] [INFO]   - Gabarito - Camara de Lagoa do Carro PE 2025 - Agente Administrativo do Legislativo (Darwin-qconcursos).pdf
+[2026-11-19 15:21:11] [INFO]   - Prova - Câmara Municipal de Lagoa do Carro – - PE - 2025 - Agente Administrativo do Legislativo.pdf
+[2026-11-19 15:21:11] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Lagoa do Carro – - PE - 2025 - Agente Administrativo do Legislativo.pdf
+[2026-11-19 15:21:11] [ERROR] Erro ao extrair texto do PDF Prova - Câmara Municipal de Lagoa do Carro – - PE - 2025 - Agente Administrativo do Legislativo.pdf: [Errno 2] No such file or directory: 'C:\\Users\\Tonny\\Downloads\\projeto_git_prova\\provas_md\\Provas MD\\Camara_Gabarito_2025_Camara_de_Lagoa_do_Carro_PE_2025_-_Agente_Administrativo_do_Legislativo_Darwin-qconcursos\\PDFs_originais\\Prova - Câmara Municipal de Lagoa do Carro – - PE - 2025 - Agente Administrativo do Legislativo.pdf'
+[2026-11-19 15:21:11] [ERROR] ❌ Não foi possível extrair texto do PDF
+[2026-11-19 15:21:11] [INFO] 
+Progresso: 9/28 processadas | 19 pendentes | 1 erros
+[2026-11-19 15:21:11] [INFO] 
+================================================================================
+[2026-11-19 15:21:11] [INFO] Processando prova 10/28: Camara_general_carneiro_2026_público_agente_administrativo
+[2026-11-19 15:21:11] [INFO] ================================================================================
+[2026-11-19 15:21:11] [INFO] PDFs: 2
+[2026-11-19 15:21:11] [INFO]   - Gabarito - Câmara Municipal de General Carneiro - MT - 2026 - Público Agente Administrativo.pdf
+[2026-11-19 15:21:11] [INFO]   - Prova - Câmara Municipal de General Carneiro - MT - 2026 - Público Agente Administrativo.pdf
+[2026-11-19 15:21:11] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de General Carneiro - MT - 2026 - Público Agente Administrativo.pdf
+[2026-11-19 15:21:12] [INFO] ✅ Texto extraído (35632 caracteres)
+[2026-11-19 15:21:12] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'Nao_Identificado', 'ano': '2026', 'cargo': 'Agente', 'quantidade_questoes': 187, 'tem_imagens': True, 'questoes_agrupadas': False}
+[2026-11-19 15:21:13] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:13] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:13] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:13] [INFO] 
+Progresso: 10/28 processadas | 18 pendentes | 1 erros
+[2026-11-19 15:21:13] [INFO] 
+================================================================================
+[2026-11-19 15:21:13] [INFO] Processando prova 11/28: Camara_glorinha_2013_agente
+[2026-11-19 15:21:13] [INFO] ================================================================================
+[2026-11-19 15:21:13] [INFO] PDFs: 1
+[2026-11-19 15:21:13] [INFO]   - Gabarito - Câmara Municipal de Glorinha - RS - 2013 - Agente.pdf
+[2026-11-19 15:21:13] [INFO] 
+Progresso: 11/28 processadas | 17 pendentes | 1 erros
+[2026-11-19 15:21:13] [INFO] 
+================================================================================
+[2026-11-19 15:21:13] [INFO] Processando prova 12/28: Camara_horizontina_2024_agente_legislativo
+[2026-11-19 15:21:13] [INFO] ================================================================================
+[2026-11-19 15:21:13] [INFO] PDFs: 2
+[2026-11-19 15:21:13] [INFO]   - Gabarito - Câmara Municipal de Horizontina - RS - 2024 - Agente Legislativo.pdf
+[2026-11-19 15:21:13] [INFO]   - Prova - Câmara Municipal de Horizontina - RS - 2024 - Agente Legislativo.pdf
+[2026-11-19 15:21:13] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Horizontina - RS - 2024 - Agente Legislativo.pdf
+[2026-11-19 15:21:14] [INFO] ✅ Texto extraído (38875 caracteres)
+[2026-11-19 15:21:14] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'Nao_Identificado', 'ano': '2024', 'cargo': 'Agente', 'quantidade_questoes': 128, 'tem_imagens': True, 'questoes_agrupadas': False}
+[2026-11-19 15:21:15] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:15] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:15] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:15] [INFO] 
+Progresso: 12/28 processadas | 16 pendentes | 1 erros
+[2026-11-19 15:21:15] [INFO] 
+================================================================================
+[2026-11-19 15:21:15] [INFO] Processando prova 13/28: Camara_ibiá_2010_agente_legislativo
+[2026-11-19 15:21:15] [INFO] ================================================================================
+[2026-11-19 15:21:15] [INFO] PDFs: 1
+[2026-11-19 15:21:15] [INFO]   - Gabarito - Câmara Municipal de Ibiá - MG - 2010 - Agente Legislativo.pdf
+[2026-11-19 15:21:15] [INFO] 
+Progresso: 13/28 processadas | 15 pendentes | 1 erros
+[2026-11-19 15:21:15] [INFO] 
+================================================================================
+[2026-11-19 15:21:15] [INFO] Processando prova 14/28: Camara_icapuí_-_-_agente_administrativo_21_10_2012_2012_agente_administrativo
+[2026-11-19 15:21:15] [INFO] ================================================================================
+[2026-11-19 15:21:15] [INFO] PDFs: 1
+[2026-11-19 15:21:15] [INFO]   - Gabarito - Câmara Municipal de Icapuí - - Agente Administrativo – 21 10 2012 - CE - 2012 - Agente Administrativo.pdf
+[2026-11-19 15:21:15] [INFO] 
+Progresso: 14/28 processadas | 14 pendentes | 1 erros
+[2026-11-19 15:21:15] [INFO] 
+================================================================================
+[2026-11-19 15:21:15] [INFO] Processando prova 15/28: Camara_ipu_2023_agente_administrativo
+[2026-11-19 15:21:15] [INFO] ================================================================================
+[2026-11-19 15:21:15] [INFO] PDFs: 2
+[2026-11-19 15:21:15] [INFO]   - Gabarito - Câmara Municipal de IPU – - CE - 2023 - Agente Administrativo.pdf
+[2026-11-19 15:21:15] [INFO]   - Prova - Câmara Municipal de IPU – – Agente Administrativo – 07 05 2023 - CE - 2023 - Agente Administrativo.pdf
+[2026-11-19 15:21:15] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de IPU – – Agente Administrativo – 07 05 2023 - CE - 2023 - Agente Administrativo.pdf
+[2026-11-19 15:21:16] [INFO] ✅ Texto extraído (32229 caracteres)
+[2026-11-19 15:21:16] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'Nao_Identificado', 'ano': '2023', 'cargo': 'AGENTE', 'quantidade_questoes': 192, 'tem_imagens': True, 'questoes_agrupadas': True}
+[2026-11-19 15:21:18] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:18] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:18] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:18] [INFO] 
+Progresso: 15/28 processadas | 13 pendentes | 1 erros
+[2026-11-19 15:21:18] [INFO] 
+================================================================================
+[2026-11-19 15:21:18] [INFO] Processando prova 16/28: Camara_itumbiara_-_goiás_2016_agente_administrativo
+[2026-11-19 15:21:18] [INFO] ================================================================================
+[2026-11-19 15:21:18] [INFO] PDFs: 2
+[2026-11-19 15:21:18] [INFO]   - Gabarito - Câmara Municipal de Itumbiara - Goiás - GO - 2016 - Agente Administrativo.pdf
+[2026-11-19 15:21:18] [INFO]   - Prova - Câmara Municipal de Itumbiara - GO - 2016 - Agente Administrativo.pdf
+[2026-11-19 15:21:18] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Itumbiara - GO - 2016 - Agente Administrativo.pdf
+[2026-11-19 15:21:18] [INFO] ✅ Texto extraído (36714 caracteres)
+[2026-11-19 15:21:18] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'ITUMBIARA', 'ano': '2016', 'cargo': 'Agente', 'quantidade_questoes': 265, 'tem_imagens': True, 'questoes_agrupadas': True}
+[2026-11-19 15:21:19] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:19] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:19] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:19] [INFO] 
+Progresso: 16/28 processadas | 12 pendentes | 1 erros
+[2026-11-19 15:21:19] [INFO] 
+================================================================================
+[2026-11-19 15:21:19] [INFO] Processando prova 17/28: Camara_juiz_de_fora_2018_das_vírgulas_no_trecho_essa
+[2026-11-19 15:21:19] [INFO] ================================================================================
+[2026-11-19 15:21:19] [INFO] PDFs: 2
+[2026-11-19 15:21:19] [INFO]   - Gabarito - Câmara Municipal de Juiz de Fora - MG - 2018 - Das Vírgulas no Trecho “essa.pdf
+[2026-11-19 15:21:19] [INFO]   - Prova - Câmara Municipal de Juiz de Fora – Minas Gerais - CE - 2006 - Das Vírgulas no Trecho “essa.pdf
+[2026-11-19 15:21:19] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Juiz de Fora – Minas Gerais - CE - 2006 - Das Vírgulas no Trecho “essa.pdf
+[2026-11-19 15:21:20] [INFO] ✅ Texto extraído (41321 caracteres)
+[2026-11-19 15:21:20] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'Nao_Identificado', 'ano': '3224', 'cargo': 'técnico', 'quantidade_questoes': 201, 'tem_imagens': True, 'questoes_agrupadas': True}
+[2026-11-19 15:21:21] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:21] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:22] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:22] [INFO] 
+Progresso: 17/28 processadas | 11 pendentes | 1 erros
+[2026-11-19 15:21:22] [INFO] 
+================================================================================
+[2026-11-19 15:21:22] [INFO] Processando prova 18/28: Camara_lagoa_salgada_2007_digitador
+[2026-11-19 15:21:22] [INFO] ================================================================================
+[2026-11-19 15:21:22] [INFO] PDFs: 1
+[2026-11-19 15:21:22] [INFO]   - Gabarito - Câmara Municipal de Lagoa Salgada - RN - 2007 - – Digitador.pdf
+[2026-11-19 15:21:22] [INFO] 
+Progresso: 18/28 processadas | 10 pendentes | 1 erros
+[2026-11-19 15:21:22] [INFO] 
+================================================================================
+[2026-11-19 15:21:22] [INFO] Processando prova 19/28: Camara_marialva_2015_atendente_legislativo
+[2026-11-19 15:21:22] [INFO] ================================================================================
+[2026-11-19 15:21:22] [INFO] PDFs: 2
+[2026-11-19 15:21:22] [INFO]   - Gabarito - Câmara Municipal de Marialva - PA - 2015 - Atendente Legislativo.pdf
+[2026-11-19 15:21:22] [INFO]   - Prova - Câmara Municipal de Marialva - PA - 2015 - Atendente Legislativo.pdf
+[2026-11-19 15:21:22] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Marialva - PA - 2015 - Atendente Legislativo.pdf
+[2026-11-19 15:21:22] [INFO] ✅ Texto extraído (22185 caracteres)
+[2026-11-19 15:21:22] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'Nao_Identificado', 'ano': '2015', 'cargo': 'LEGISLATIVO', 'quantidade_questoes': 160, 'tem_imagens': False, 'questoes_agrupadas': True}
+[2026-11-19 15:21:22] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:22] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:22] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:22] [INFO] 
+Progresso: 19/28 processadas | 9 pendentes | 1 erros
+[2026-11-19 15:21:22] [INFO] 
+================================================================================
+[2026-11-19 15:21:22] [INFO] Processando prova 20/28: Camara_mariana_1997_agente_legislativo
+[2026-11-19 15:21:22] [INFO] ================================================================================
+[2026-11-19 15:21:22] [INFO] PDFs: 2
+[2026-11-19 15:21:22] [INFO]   - Gabarito - Câmara Municipal de Mariana - MG - 1997 - Agente Legislativo.pdf
+[2026-11-19 15:21:22] [INFO]   - Prova - Câmara Municipal de Mariana - MG - 1997 - Agente Legislativo.pdf
+[2026-11-19 15:21:22] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Mariana - MG - 1997 - Agente Legislativo.pdf
+[2026-11-19 15:21:23] [INFO] ✅ Texto extraído (44472 caracteres)
+[2026-11-19 15:21:23] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'Nao_Identificado', 'ano': '1997', 'cargo': 'Agente', 'quantidade_questoes': 219, 'tem_imagens': True, 'questoes_agrupadas': False}
+[2026-11-19 15:21:24] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:24] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:24] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:24] [INFO] 
+Progresso: 20/28 processadas | 8 pendentes | 1 erros
+[2026-11-19 15:21:24] [INFO] 
+================================================================================
+[2026-11-19 15:21:24] [INFO] Processando prova 21/28: Camara_nova_iguaçu_1992_analista_de_sistemas
+[2026-11-19 15:21:24] [INFO] ================================================================================
+[2026-11-19 15:21:24] [INFO] PDFs: 2
+[2026-11-19 15:21:24] [INFO]   - Gabarito - Câmara Municipal de Nova Iguaçu - RJ - 1992 - Analista de Sistemas.pdf
+[2026-11-19 15:21:25] [INFO]   - Prova - Câmara Municipal de Nova Iguaçu - RJ - 1992 - Analista de Sistemas.pdf
+[2026-11-19 15:21:25] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Nova Iguaçu - RJ - 1992 - Analista de Sistemas.pdf
+[2026-11-19 15:21:25] [INFO] ✅ Texto extraído (31353 caracteres)
+[2026-11-19 15:21:25] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'Nao_Identificado', 'ano': '0000', 'cargo': 'Analista', 'quantidade_questoes': 231, 'tem_imagens': True, 'questoes_agrupadas': False}
+[2026-11-19 15:21:26] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:26] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:26] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:26] [INFO] 
+Progresso: 21/28 processadas | 7 pendentes | 1 erros
+[2026-11-19 15:21:26] [INFO] 
+================================================================================
+[2026-11-19 15:21:26] [INFO] Processando prova 22/28: Camara_ouro_preto_doeste_2014_analista_de_sistema
+[2026-11-19 15:21:26] [INFO] ================================================================================
+[2026-11-19 15:21:26] [INFO] PDFs: 2
+[2026-11-19 15:21:26] [INFO]   - Gabarito - Câmara Municipal de Ouro Preto D’oeste - RO - 2014 - Analista de Sistema.pdf
+[2026-11-19 15:21:26] [INFO]   - Prova - Câmara Municipal de Ouro Preto D’oeste – . - RO - 2004 - Analista de Sistema.pdf
+[2026-11-19 15:21:26] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Ouro Preto D’oeste – . - RO - 2004 - Analista de Sistema.pdf
+[2026-11-19 15:21:26] [INFO] ✅ Texto extraído (23346 caracteres)
+[2026-11-19 15:21:26] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'OURO_PRETO_DOESTE', 'ano': '0000', 'cargo': 'ANALISTA', 'quantidade_questoes': 82, 'tem_imagens': True, 'questoes_agrupadas': False}
+[2026-11-19 15:21:27] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:27] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:27] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:27] [INFO] 
+Progresso: 22/28 processadas | 6 pendentes | 1 erros
+[2026-11-19 15:21:27] [INFO] 
+================================================================================
+[2026-11-19 15:21:27] [INFO] Processando prova 23/28: Camara_princesa_isabel_2019_agente_administrativo_1
+[2026-11-19 15:21:27] [INFO] ================================================================================
+[2026-11-19 15:21:27] [INFO] PDFs: 2
+[2026-11-19 15:21:27] [INFO]   - Gabarito - Câmara Municipal de Princesa Isabel - PB - 2019 - Agente Administrativo 1.pdf
+[2026-11-19 15:21:27] [INFO]   - Prova - Câmara Municipal de Princesa Isabel - PB - 2019 - Agente Administrativo 1.pdf
+[2026-11-19 15:21:27] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Princesa Isabel - PB - 2019 - Agente Administrativo 1.pdf
+[2026-11-19 15:21:27] [INFO] ✅ Texto extraído (21832 caracteres)
+[2026-11-19 15:21:27] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'Nao_Identificado', 'ano': '0000', 'cargo': 'AGENTE', 'quantidade_questoes': 87, 'tem_imagens': True, 'questoes_agrupadas': True}
+[2026-11-19 15:21:28] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:28] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:28] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:28] [INFO] 
+Progresso: 23/28 processadas | 5 pendentes | 1 erros
+[2026-11-19 15:21:28] [INFO] 
+================================================================================
+[2026-11-19 15:21:28] [INFO] Processando prova 24/28: Camara_quirinópolis_2012_além
+[2026-11-19 15:21:28] [INFO] ================================================================================
+[2026-11-19 15:21:28] [INFO] PDFs: 2
+[2026-11-19 15:21:28] [INFO]   - Gabarito - Câmara Municipal de Quirinópolis - MA - 2012 - , Além.pdf
+[2026-11-19 15:21:28] [INFO]   - Prova - Câmara Municipal de Quirinópolis - MA - 2005 - , Além.pdf
+[2026-11-19 15:21:28] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Quirinópolis - MA - 2005 - , Além.pdf
+[2026-11-19 15:21:29] [INFO] ✅ Texto extraído (25990 caracteres)
+[2026-11-19 15:21:29] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'Quirinópolis', 'ano': '2012', 'cargo': 'Analista', 'quantidade_questoes': 180, 'tem_imagens': True, 'questoes_agrupadas': True}
+[2026-11-19 15:21:29] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:29] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:29] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:29] [INFO] 
+Progresso: 24/28 processadas | 4 pendentes | 1 erros
+[2026-11-19 15:21:29] [INFO] 
+================================================================================
+[2026-11-19 15:21:29] [INFO] Processando prova 25/28: Camara_vereadores_de_iguaracy_2022_agente_administrativo
+[2026-11-19 15:21:29] [INFO] ================================================================================
+[2026-11-19 15:21:29] [INFO] PDFs: 2
+[2026-11-19 15:21:29] [INFO]   - Gabarito - Câmara Municipal de Vereadores de Iguaracy - PE - 2022 - Agente Administrativo.pdf
+[2026-11-19 15:21:29] [INFO]   - Prova - Câmara Municipal de Iguaracy - PE - 2014 - Agente Administrativo.pdf
+[2026-11-19 15:21:29] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Iguaracy - PE - 2014 - Agente Administrativo.pdf
+[2026-11-19 15:21:30] [INFO] ✅ Texto extraído (24294 caracteres)
+[2026-11-19 15:21:30] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'IGUARACY', 'ano': '0000', 'cargo': 'AGENTE', 'quantidade_questoes': 151, 'tem_imagens': True, 'questoes_agrupadas': False}
+[2026-11-19 15:21:31] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:31] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:31] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:31] [INFO] 
+Progresso: 25/28 processadas | 3 pendentes | 1 erros
+[2026-11-19 15:21:31] [INFO] 
+================================================================================
+[2026-11-19 15:21:31] [INFO] Processando prova 26/28: Camara_vereadores_de_lajeado_grande_2017_agente_administrativo
+[2026-11-19 15:21:31] [INFO] ================================================================================
+[2026-11-19 15:21:31] [INFO] PDFs: 2
+[2026-11-19 15:21:31] [INFO]   - Gabarito - Câmara Municipal de Vereadores de Lajeado Grande - SC - 2017 - Agente Administrativo.pdf
+[2026-11-19 15:21:31] [INFO]   - Prova - Câmara Municipal de Lajeado Grande - SC - 2017 - Agente Administrativo.pdf
+[2026-11-19 15:21:31] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Lajeado Grande - SC - 2017 - Agente Administrativo.pdf
+[2026-11-19 15:21:31] [INFO] ✅ Texto extraído (24852 caracteres)
+[2026-11-19 15:21:31] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'Nao_Identificado', 'ano': '2017', 'cargo': 'AGENTE', 'quantidade_questoes': 142, 'tem_imagens': True, 'questoes_agrupadas': False}
+[2026-11-19 15:21:32] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:32] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:32] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:32] [INFO] 
+Progresso: 26/28 processadas | 2 pendentes | 1 erros
+[2026-11-19 15:21:32] [INFO] 
+================================================================================
+[2026-11-19 15:21:32] [INFO] Processando prova 27/28: Camara__2003_
+[2026-11-19 15:21:32] [INFO] ================================================================================
+[2026-11-19 15:21:32] [INFO] PDFs: 2
+[2026-11-19 15:21:32] [INFO]   - Gabarito - Câmara Municipal de Petrópolis - Agente Legislativo.pdf
+[2026-11-19 15:21:32] [INFO]   - prova.pdf
+[2026-11-19 15:21:32] [INFO] 
+📄 Processando PDF da prova: prova.pdf
+[2026-11-19 15:21:32] [INFO] ✅ Texto extraído (40972 caracteres)
+[2026-11-19 15:21:32] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'Nao_Identificado', 'ano': '0000', 'cargo': 'Agente', 'quantidade_questoes': 212, 'tem_imagens': False, 'questoes_agrupadas': True}
+[2026-11-19 15:21:33] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:33] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:33] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:33] [INFO] 
+Progresso: 27/28 processadas | 1 pendentes | 1 erros
+[2026-11-19 15:21:33] [INFO] 
+================================================================================
+[2026-11-19 15:21:33] [INFO] Processando prova 28/28: Nao_Identificado_243 ID_Prova
+[2026-11-19 15:21:33] [INFO] ================================================================================
+[2026-11-19 15:21:33] [INFO] PDFs: 2
+[2026-11-19 15:21:33] [INFO]   - Gabarito - Câmara Municipal de Monte Santo de Minas – - MG - Agente Administrativo e Recepcionista.pdf
+[2026-11-19 15:21:33] [INFO]   - Prova - Câmara Municipal de Monte Santo de Minas – - MG - Agente Administrativo e Recepcionista.pdf
+[2026-11-19 15:21:33] [INFO] 
+📄 Processando PDF da prova: Prova - Câmara Municipal de Monte Santo de Minas – - MG - Agente Administrativo e Recepcionista.pdf
+[2026-11-19 15:21:33] [INFO] ✅ Texto extraído (6711 caracteres)
+[2026-11-19 15:21:33] [INFO] Metadados: {'orgao': 'Camara', 'cidade': 'Nao_Identificado', 'ano': '0000', 'cargo': 'AGENTE', 'quantidade_questoes': 55, 'tem_imagens': False, 'questoes_agrupadas': False}
+[2026-11-19 15:21:33] [INFO] ✅ prova_organizada.md gerado
+[2026-11-19 15:21:33] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:21:33] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:21:33] [INFO] 
+Progresso: 28/28 processadas | 0 pendentes | 1 erros
+[2026-11-19 15:21:34] [INFO] 
+================================================================================
+[2026-11-19 15:21:34] [INFO] ETAPA 3: PUBLICANDO NO GITHUB
+[2026-11-19 15:21:34] [INFO] ================================================================================
+[2026-11-19 15:21:34] [ERROR] ❌ Erro ao publicar no GitHub: Command ['git', 'add', '.'] returned non-zero exit status 128.
+[2026-11-19 15:21:34] [INFO] 
+================================================================================
+[2026-11-19 15:21:34] [INFO] RESUMO FINAL
+[2026-11-19 15:21:34] [INFO] ================================================================================
+[2026-11-19 15:21:34] [INFO] ✅ Pastas processadas: 19
+[2026-11-19 15:21:34] [INFO] ❌ Erros: 1
+[2026-11-19 15:21:34] [INFO] ✅ Publicado no GitHub: Não
+[2026-11-19 15:21:34] [INFO] 
+⚠️  1 pastas não puderam ser processadas

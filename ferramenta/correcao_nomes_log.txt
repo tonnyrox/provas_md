@@ -1,0 +1,428 @@
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] INICIANDO CORREÇÃO DE NOMES DE PASTAS
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] Pastas para corrigir: 27
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 1/27: Camara__1992_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Nova Iguaçu - RJ - 1992 - Analista de Sistemas.pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de Nova Iguaçu - RJ - 1992 - Analista de Sistemas.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: nova_iguaçu
+[2026-11-19 15:17:41] [INFO]   Ano: 1992
+[2026-11-19 15:17:41] [INFO]   Cargo: analista_de_sistemas
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_nova_iguaçu_1992_analista_de_sistemas
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__1992_ → Camara_nova_iguaçu_1992_analista_de_sistemas
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 1/27 corrigidas | 0 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 2/27: Camara__1997_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Mariana - MG - 1997 - Agente Legislativo.pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de Mariana - MG - 1997 - Agente Legislativo.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: mariana
+[2026-11-19 15:17:41] [INFO]   Ano: 1997
+[2026-11-19 15:17:41] [INFO]   Cargo: agente_legislativo
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_mariana_1997_agente_legislativo
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__1997_ → Camara_mariana_1997_agente_legislativo
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 2/27 corrigidas | 0 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 3/27: Camara__2000_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 1
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Maracanau - 2000 - Agente Administrativo.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: câmara_municipal_de_maracanau
+[2026-11-19 15:17:41] [INFO]   Ano: 2000
+[2026-11-19 15:17:41] [INFO]   Cargo: agente_administrativo
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_câmara_municipal_de_maracanau_2000_agente_administrativo
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2000_ → Camara_câmara_municipal_de_maracanau_2000_agente_administrativo
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 3/27 corrigidas | 0 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 4/27: Camara__2003_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Petrópolis - Agente Legislativo.pdf
+[2026-11-19 15:17:41] [INFO]   - prova.pdf
+[2026-11-19 15:17:41] [INFO] ⚠️  Não foi possível extrair metadados dos PDFs
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 3/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 5/27: Camara__2004_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Ouro Preto D’oeste - RO - 2014 - Analista de Sistema.pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de Ouro Preto D’oeste – . - RO - 2004 - Analista de Sistema.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: ouro_preto_doeste
+[2026-11-19 15:17:41] [INFO]   Ano: 2014
+[2026-11-19 15:17:41] [INFO]   Cargo: analista_de_sistema
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_ouro_preto_doeste_2014_analista_de_sistema
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2004_ → Camara_ouro_preto_doeste_2014_analista_de_sistema
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 4/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 6/27: Camara__2005_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Quirinópolis - MA - 2012 - , Além.pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de Quirinópolis - MA - 2005 - , Além.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: quirinópolis
+[2026-11-19 15:17:41] [INFO]   Ano: 2012
+[2026-11-19 15:17:41] [INFO]   Cargo: além
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_quirinópolis_2012_além
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2005_ → Camara_quirinópolis_2012_além
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 5/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 7/27: Camara__2006_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Juiz de Fora - MG - 2018 - Das Vírgulas no Trecho “essa.pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de Juiz de Fora – Minas Gerais - CE - 2006 - Das Vírgulas no Trecho “essa.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: juiz_de_fora
+[2026-11-19 15:17:41] [INFO]   Ano: 2018
+[2026-11-19 15:17:41] [INFO]   Cargo: das_vírgulas_no_trecho_essa
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_juiz_de_fora_2018_das_vírgulas_no_trecho_essa
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2006_ → Camara_juiz_de_fora_2018_das_vírgulas_no_trecho_essa
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 6/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 8/27: Camara__2007_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 1
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Lagoa Salgada - RN - 2007 - – Digitador.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: lagoa_salgada
+[2026-11-19 15:17:41] [INFO]   Ano: 2007
+[2026-11-19 15:17:41] [INFO]   Cargo: digitador
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_lagoa_salgada_2007_digitador
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2007_ → Camara_lagoa_salgada_2007_digitador
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 7/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 9/27: Camara__2008_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 1
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Vereadores de Itapoá - 2008 - Agente Administrativo I.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: câmara_municipal_de_vereadores_de_itapoá
+[2026-11-19 15:17:41] [INFO]   Ano: 2008
+[2026-11-19 15:17:41] [INFO]   Cargo: agente_administrativo_i
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_câmara_municipal_de_vereadores_de_itapoá_2008_agente_administrativo_i
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2008_ → Camara_câmara_municipal_de_vereadores_de_itapoá_2008_agente_administrativo_i
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 8/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 10/27: Camara__2009_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 1
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Ibirité - 2009 - Agente Administrativo IV.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: câmara_municipal_de_ibirité
+[2026-11-19 15:17:41] [INFO]   Ano: 2009
+[2026-11-19 15:17:41] [INFO]   Cargo: agente_administrativo_iv
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_câmara_municipal_de_ibirité_2009_agente_administrativo_iv
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2009_ → Camara_câmara_municipal_de_ibirité_2009_agente_administrativo_iv
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 9/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 11/27: Camara__2010_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 1
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Ibiá - MG - 2010 - Agente Legislativo.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: ibiá
+[2026-11-19 15:17:41] [INFO]   Ano: 2010
+[2026-11-19 15:17:41] [INFO]   Cargo: agente_legislativo
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_ibiá_2010_agente_legislativo
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2010_ → Camara_ibiá_2010_agente_legislativo
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 10/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 12/27: Camara__2011_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Governador Nunes Freire - 2011 - Agente Administrativo.pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de Governador Nunes Freire - 2011 - Agente Administrativo.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: câmara_municipal_de_governador_nunes_freire
+[2026-11-19 15:17:41] [INFO]   Ano: 2011
+[2026-11-19 15:17:41] [INFO]   Cargo: agente_administrativo
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_câmara_municipal_de_governador_nunes_freire_2011_agente_administrativo
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2011_ → Camara_câmara_municipal_de_governador_nunes_freire_2011_agente_administrativo
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 11/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 13/27: Camara__2012_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 1
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Icapuí - - Agente Administrativo – 21 10 2012 - CE - 2012 - Agente Administrativo.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: icapuí_-_-_agente_administrativo__21_10_2012
+[2026-11-19 15:17:41] [INFO]   Ano: 2012
+[2026-11-19 15:17:41] [INFO]   Cargo: agente_administrativo
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_icapuí_-_-_agente_administrativo__21_10_2012_2012_agente_administrativo
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2012_ → Camara_icapuí_-_-_agente_administrativo__21_10_2012_2012_agente_administrativo
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 12/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 14/27: Camara__2013_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 1
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Glorinha - RS - 2013 - Agente.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: glorinha
+[2026-11-19 15:17:41] [INFO]   Ano: 2013
+[2026-11-19 15:17:41] [INFO]   Cargo: agente
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_glorinha_2013_agente
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2013_ → Camara_glorinha_2013_agente
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 13/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 15/27: Camara__2014_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Vereadores de Iguaracy - PE - 2022 - Agente Administrativo.pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de Iguaracy - PE - 2014 - Agente Administrativo.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: vereadores_de_iguaracy
+[2026-11-19 15:17:41] [INFO]   Ano: 2022
+[2026-11-19 15:17:41] [INFO]   Cargo: agente_administrativo
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_vereadores_de_iguaracy_2022_agente_administrativo
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2014_ → Camara_vereadores_de_iguaracy_2022_agente_administrativo
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 14/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 16/27: Camara__2015_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Marialva - PA - 2015 - Atendente Legislativo.pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de Marialva - PA - 2015 - Atendente Legislativo.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: marialva
+[2026-11-19 15:17:41] [INFO]   Ano: 2015
+[2026-11-19 15:17:41] [INFO]   Cargo: atendente_legislativo
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_marialva_2015_atendente_legislativo
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2015_ → Camara_marialva_2015_atendente_legislativo
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 15/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 17/27: Camara__2016_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Itumbiara - Goiás - GO - 2016 - Agente Administrativo.pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de Itumbiara - GO - 2016 - Agente Administrativo.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: itumbiara_-_goiás
+[2026-11-19 15:17:41] [INFO]   Ano: 2016
+[2026-11-19 15:17:41] [INFO]   Cargo: agente_administrativo
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_itumbiara_-_goiás_2016_agente_administrativo
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2016_ → Camara_itumbiara_-_goiás_2016_agente_administrativo
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 16/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 18/27: Camara__2017_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Vereadores de Lajeado Grande - SC - 2017 - Agente Administrativo.pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de Lajeado Grande - SC - 2017 - Agente Administrativo.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: vereadores_de_lajeado_grande
+[2026-11-19 15:17:41] [INFO]   Ano: 2017
+[2026-11-19 15:17:41] [INFO]   Cargo: agente_administrativo
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_vereadores_de_lajeado_grande_2017_agente_administrativo
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2017_ → Camara_vereadores_de_lajeado_grande_2017_agente_administrativo
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 17/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 19/27: Camara__2018_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Goiânia - 2018 - Administrador.pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de Goiânia - 2018 - Administrador.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: câmara_municipal_de_goiânia
+[2026-11-19 15:17:41] [INFO]   Ano: 2018
+[2026-11-19 15:17:41] [INFO]   Cargo: administrador
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_câmara_municipal_de_goiânia_2018_administrador
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2018_ → Camara_câmara_municipal_de_goiânia_2018_administrador
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 18/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 20/27: Camara__2019_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Princesa Isabel - PB - 2019 - Agente Administrativo 1.pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de Princesa Isabel - PB - 2019 - Agente Administrativo 1.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: princesa_isabel
+[2026-11-19 15:17:41] [INFO]   Ano: 2019
+[2026-11-19 15:17:41] [INFO]   Cargo: agente_administrativo_1
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_princesa_isabel_2019_agente_administrativo_1
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2019_ → Camara_princesa_isabel_2019_agente_administrativo_1
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 19/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 21/27: Camara__2020_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Camara de Mamanguape PB 2020 - Agente Administrativo (IDIB-qconcursos).pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de Mamanguape - PB - 2020 - Agente Administrativo.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: Gabarito
+[2026-11-19 15:17:41] [INFO]   Ano: 2020
+[2026-11-19 15:17:41] [INFO]   Cargo: Nao_Identificado
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_Gabarito_2020_Nao_Identificado
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2020_ → Camara_Gabarito_2020_Nao_Identificado
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 20/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 22/27: Camara__2021_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Pirapora - 2021 - Agente Administrativo Legislativo.pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de Pirapora - 2021 - Agente Administrativo Legislativo (2).pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: câmara_municipal_de_pirapora
+[2026-11-19 15:17:41] [INFO]   Ano: 2021
+[2026-11-19 15:17:41] [INFO]   Cargo: agente_administrativo_legislativo
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_câmara_municipal_de_pirapora_2021_agente_administrativo_legislativo
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2021_ → Camara_câmara_municipal_de_pirapora_2021_agente_administrativo_legislativo
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 21/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 23/27: Camara__2022_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 1
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Ibirité - 2022 - Agente de Serviços V) (2).pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: câmara_municipal_de_ibirité
+[2026-11-19 15:17:41] [INFO]   Ano: 2022
+[2026-11-19 15:17:41] [INFO]   Cargo: agente_de_serviços_v_2
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_câmara_municipal_de_ibirité_2022_agente_de_serviços_v_2
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2022_ → Camara_câmara_municipal_de_ibirité_2022_agente_de_serviços_v_2
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 22/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 24/27: Camara__2023_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de IPU – - CE - 2023 - Agente Administrativo.pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de IPU – – Agente Administrativo – 07 05 2023 - CE - 2023 - Agente Administrativo.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: ipu
+[2026-11-19 15:17:41] [INFO]   Ano: 2023
+[2026-11-19 15:17:41] [INFO]   Cargo: agente_administrativo
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_ipu_2023_agente_administrativo
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2023_ → Camara_ipu_2023_agente_administrativo
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 23/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 25/27: Camara__2024_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de Horizontina - RS - 2024 - Agente Legislativo.pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de Horizontina - RS - 2024 - Agente Legislativo.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: horizontina
+[2026-11-19 15:17:41] [INFO]   Ano: 2024
+[2026-11-19 15:17:41] [INFO]   Cargo: agente_legislativo
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_horizontina_2024_agente_legislativo
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2024_ → Camara_horizontina_2024_agente_legislativo
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 24/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 26/27: Camara__2025_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Camara de Lagoa do Carro PE 2025 - Agente Administrativo do Legislativo (Darwin-qconcursos).pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de Lagoa do Carro – - PE - 2025 - Agente Administrativo do Legislativo.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: Gabarito
+[2026-11-19 15:17:41] [INFO]   Ano: 2025
+[2026-11-19 15:17:41] [INFO]   Cargo: Nao_Identificado
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_Gabarito_2025_Nao_Identificado
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2025_ → Camara_Gabarito_2025_Nao_Identificado
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 25/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] Corrigindo pasta 27/27: Camara__2026_
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] PDFs encontrados: 2
+[2026-11-19 15:17:41] [INFO]   - Gabarito - Câmara Municipal de General Carneiro - MT - 2026 - Público Agente Administrativo.pdf
+[2026-11-19 15:17:41] [INFO]   - Prova - Câmara Municipal de General Carneiro - MT - 2026 - Público Agente Administrativo.pdf
+[2026-11-19 15:17:41] [INFO] Metadados extraídos:
+[2026-11-19 15:17:41] [INFO]   Orgão: Camara
+[2026-11-19 15:17:41] [INFO]   Cidade: general_carneiro
+[2026-11-19 15:17:41] [INFO]   Ano: 2026
+[2026-11-19 15:17:41] [INFO]   Cargo: público_agente_administrativo
+[2026-11-19 15:17:41] [INFO] Novo nome: Camara_general_carneiro_2026_público_agente_administrativo
+[2026-11-19 15:17:41] [INFO] ✅ Pasta renomeada: Camara__2026_ → Camara_general_carneiro_2026_público_agente_administrativo
+[2026-11-19 15:17:41] [INFO] 
+Progresso: 26/27 corrigidas | 1 erros
+[2026-11-19 15:17:41] [INFO] 
+================================================================================
+[2026-11-19 15:17:41] [INFO] RESUMO FINAL
+[2026-11-19 15:17:41] [INFO] ================================================================================
+[2026-11-19 15:17:41] [INFO] ✅ Pastas corrigidas: 26
+[2026-11-19 15:17:41] [INFO] ❌ Erros: 1

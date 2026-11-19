@@ -1,0 +1,6 @@
+Origem: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\Falta_fazer\remessa_02\135 ID
+Data de processamento: 2026-11-19 15:16:35
+Metadados originais:
+{
+  "ano": "2013"
+}

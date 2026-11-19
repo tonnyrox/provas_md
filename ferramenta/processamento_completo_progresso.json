@@ -1,0 +1,280 @@
+{
+  "inicio": "2026-11-19 15:20:38.920737",
+  "processados": {
+    "Camara_câmara_municipal_de_goiânia_2018_administrador": {
+      "nome": "Camara_câmara_municipal_de_goiânia_2018_administrador",
+      "pdf": "Prova - Câmara Municipal de Goiânia - 2018 - Administrador.pdf",
+      "data": "2026-11-19 15:21:06.522006",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "GOIÂNIA",
+        "ano": "2018",
+        "cargo": "TÉCNICO",
+        "quantidade_questoes": 226,
+        "tem_imagens": true,
+        "questoes_agrupadas": true
+      }
+    },
+    "Camara_câmara_municipal_de_governador_nunes_freire_2011_agente_administrativo": {
+      "nome": "Camara_câmara_municipal_de_governador_nunes_freire_2011_agente_administrativo",
+      "pdf": "Prova - Câmara Municipal de Governador Nunes Freire - 2011 - Agente Administrativo.pdf",
+      "data": "2026-11-19 15:21:07.694577",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Nao_Identificado",
+        "ano": "0000",
+        "cargo": "AGENTE",
+        "quantidade_questoes": 196,
+        "tem_imagens": true,
+        "questoes_agrupadas": false
+      }
+    },
+    "Camara_câmara_municipal_de_pirapora_2021_agente_administrativo_legislativo": {
+      "nome": "Camara_câmara_municipal_de_pirapora_2021_agente_administrativo_legislativo",
+      "pdf": "Prova - Câmara Municipal de Pirapora - 2021 - Agente Administrativo Legislativo (2).pdf",
+      "data": "2026-11-19 15:21:09.674430",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Nao_Identificado",
+        "ano": "0000",
+        "cargo": "AGENTE",
+        "quantidade_questoes": 290,
+        "tem_imagens": true,
+        "questoes_agrupadas": true
+      }
+    },
+    "Camara_Gabarito_2020_Camara_de_Mamanguape_PB_2020_-_Agente_Administrativo_IDIB-qconcursos": {
+      "nome": "Camara_Gabarito_2020_Camara_de_Mamanguape_PB_2020_-_Agente_Administrativo_IDIB-qconcursos",
+      "pdf": "Prova - Câmara Municipal de Mamanguape - PB - 2020 - Agente Administrativo.pdf",
+      "data": "2026-11-19 15:21:11.410085",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "MAMANGUAPE",
+        "ano": "0000",
+        "cargo": "Nao_Identificado",
+        "quantidade_questoes": 84,
+        "tem_imagens": true,
+        "questoes_agrupadas": true
+      }
+    },
+    "Camara_general_carneiro_2026_público_agente_administrativo": {
+      "nome": "Camara_general_carneiro_2026_público_agente_administrativo",
+      "pdf": "Prova - Câmara Municipal de General Carneiro - MT - 2026 - Público Agente Administrativo.pdf",
+      "data": "2026-11-19 15:21:13.571451",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Nao_Identificado",
+        "ano": "2026",
+        "cargo": "Agente",
+        "quantidade_questoes": 187,
+        "tem_imagens": true,
+        "questoes_agrupadas": false
+      }
+    },
+    "Camara_horizontina_2024_agente_legislativo": {
+      "nome": "Camara_horizontina_2024_agente_legislativo",
+      "pdf": "Prova - Câmara Municipal de Horizontina - RS - 2024 - Agente Legislativo.pdf",
+      "data": "2026-11-19 15:21:15.250202",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Nao_Identificado",
+        "ano": "2024",
+        "cargo": "Agente",
+        "quantidade_questoes": 128,
+        "tem_imagens": true,
+        "questoes_agrupadas": false
+      }
+    },
+    "Camara_ipu_2023_agente_administrativo": {
+      "nome": "Camara_ipu_2023_agente_administrativo",
+      "pdf": "Prova - Câmara Municipal de IPU – – Agente Administrativo – 07 05 2023 - CE - 2023 - Agente Administrativo.pdf",
+      "data": "2026-11-19 15:21:18.069891",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Nao_Identificado",
+        "ano": "2023",
+        "cargo": "AGENTE",
+        "quantidade_questoes": 192,
+        "tem_imagens": true,
+        "questoes_agrupadas": true
+      }
+    },
+    "Camara_itumbiara_-_goiás_2016_agente_administrativo": {
+      "nome": "Camara_itumbiara_-_goiás_2016_agente_administrativo",
+      "pdf": "Prova - Câmara Municipal de Itumbiara - GO - 2016 - Agente Administrativo.pdf",
+      "data": "2026-11-19 15:21:19.828944",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "ITUMBIARA",
+        "ano": "2016",
+        "cargo": "Agente",
+        "quantidade_questoes": 265,
+        "tem_imagens": true,
+        "questoes_agrupadas": true
+      }
+    },
+    "Camara_juiz_de_fora_2018_das_vírgulas_no_trecho_essa": {
+      "nome": "Camara_juiz_de_fora_2018_das_vírgulas_no_trecho_essa",
+      "pdf": "Prova - Câmara Municipal de Juiz de Fora – Minas Gerais - CE - 2006 - Das Vírgulas no Trecho “essa.pdf",
+      "data": "2026-11-19 15:21:22.006177",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Nao_Identificado",
+        "ano": "3224",
+        "cargo": "técnico",
+        "quantidade_questoes": 201,
+        "tem_imagens": true,
+        "questoes_agrupadas": true
+      }
+    },
+    "Camara_marialva_2015_atendente_legislativo": {
+      "nome": "Camara_marialva_2015_atendente_legislativo",
+      "pdf": "Prova - Câmara Municipal de Marialva - PA - 2015 - Atendente Legislativo.pdf",
+      "data": "2026-11-19 15:21:22.648876",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Nao_Identificado",
+        "ano": "2015",
+        "cargo": "LEGISLATIVO",
+        "quantidade_questoes": 160,
+        "tem_imagens": false,
+        "questoes_agrupadas": true
+      }
+    },
+    "Camara_mariana_1997_agente_legislativo": {
+      "nome": "Camara_mariana_1997_agente_legislativo",
+      "pdf": "Prova - Câmara Municipal de Mariana - MG - 1997 - Agente Legislativo.pdf",
+      "data": "2026-11-19 15:21:24.993345",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Nao_Identificado",
+        "ano": "1997",
+        "cargo": "Agente",
+        "quantidade_questoes": 219,
+        "tem_imagens": true,
+        "questoes_agrupadas": false
+      }
+    },
+    "Camara_nova_iguaçu_1992_analista_de_sistemas": {
+      "nome": "Camara_nova_iguaçu_1992_analista_de_sistemas",
+      "pdf": "Prova - Câmara Municipal de Nova Iguaçu - RJ - 1992 - Analista de Sistemas.pdf",
+      "data": "2026-11-19 15:21:26.144380",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Nao_Identificado",
+        "ano": "0000",
+        "cargo": "Analista",
+        "quantidade_questoes": 231,
+        "tem_imagens": true,
+        "questoes_agrupadas": false
+      }
+    },
+    "Camara_ouro_preto_doeste_2014_analista_de_sistema": {
+      "nome": "Camara_ouro_preto_doeste_2014_analista_de_sistema",
+      "pdf": "Prova - Câmara Municipal de Ouro Preto D’oeste – . - RO - 2004 - Analista de Sistema.pdf",
+      "data": "2026-11-19 15:21:27.314103",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "OURO_PRETO_DOESTE",
+        "ano": "0000",
+        "cargo": "ANALISTA",
+        "quantidade_questoes": 82,
+        "tem_imagens": true,
+        "questoes_agrupadas": false
+      }
+    },
+    "Camara_princesa_isabel_2019_agente_administrativo_1": {
+      "nome": "Camara_princesa_isabel_2019_agente_administrativo_1",
+      "pdf": "Prova - Câmara Municipal de Princesa Isabel - PB - 2019 - Agente Administrativo 1.pdf",
+      "data": "2026-11-19 15:21:28.483243",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Nao_Identificado",
+        "ano": "0000",
+        "cargo": "AGENTE",
+        "quantidade_questoes": 87,
+        "tem_imagens": true,
+        "questoes_agrupadas": true
+      }
+    },
+    "Camara_quirinópolis_2012_além": {
+      "nome": "Camara_quirinópolis_2012_além",
+      "pdf": "Prova - Câmara Municipal de Quirinópolis - MA - 2005 - , Além.pdf",
+      "data": "2026-11-19 15:21:29.762673",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Quirinópolis",
+        "ano": "2012",
+        "cargo": "Analista",
+        "quantidade_questoes": 180,
+        "tem_imagens": true,
+        "questoes_agrupadas": true
+      }
+    },
+    "Camara_vereadores_de_iguaracy_2022_agente_administrativo": {
+      "nome": "Camara_vereadores_de_iguaracy_2022_agente_administrativo",
+      "pdf": "Prova - Câmara Municipal de Iguaracy - PE - 2014 - Agente Administrativo.pdf",
+      "data": "2026-11-19 15:21:31.193918",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "IGUARACY",
+        "ano": "0000",
+        "cargo": "AGENTE",
+        "quantidade_questoes": 151,
+        "tem_imagens": true,
+        "questoes_agrupadas": false
+      }
+    },
+    "Camara_vereadores_de_lajeado_grande_2017_agente_administrativo": {
+      "nome": "Camara_vereadores_de_lajeado_grande_2017_agente_administrativo",
+      "pdf": "Prova - Câmara Municipal de Lajeado Grande - SC - 2017 - Agente Administrativo.pdf",
+      "data": "2026-11-19 15:21:32.380800",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Nao_Identificado",
+        "ano": "2017",
+        "cargo": "AGENTE",
+        "quantidade_questoes": 142,
+        "tem_imagens": true,
+        "questoes_agrupadas": false
+      }
+    },
+    "Camara__2003_": {
+      "nome": "Camara__2003_",
+      "pdf": "prova.pdf",
+      "data": "2026-11-19 15:21:33.394552",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Nao_Identificado",
+        "ano": "0000",
+        "cargo": "Agente",
+        "quantidade_questoes": 212,
+        "tem_imagens": false,
+        "questoes_agrupadas": true
+      }
+    },
+    "Nao_Identificado_243 ID_Prova": {
+      "nome": "Nao_Identificado_243 ID_Prova",
+      "pdf": "Prova - Câmara Municipal de Monte Santo de Minas – - MG - Agente Administrativo e Recepcionista.pdf",
+      "data": "2026-11-19 15:21:33.997292",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Nao_Identificado",
+        "ano": "0000",
+        "cargo": "AGENTE",
+        "quantidade_questoes": 55,
+        "tem_imagens": false,
+        "questoes_agrupadas": false
+      }
+    }
+  },
+  "erros": [
+    {
+      "pasta": "Camara_Gabarito_2025_Camara_de_Lagoa_do_Carro_PE_2025_-_Agente_Administrativo_do_Legislativo_Darwin-qconcursos",
+      "pdf": "Prova - Câmara Municipal de Lagoa do Carro – - PE - 2025 - Agente Administrativo do Legislativo.pdf",
+      "erro": "Extração de texto falhou"
+    }
+  ],
+  "contador": 28,
+  "ultima_atualizacao": "2026-11-19 15:21:33.997312"
+}
