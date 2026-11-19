@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 070 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\070 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de BOM Jesus do Itabapoana ­ - RJ - 2010 - Para o Qual Se.pdf
+      5 páginas, 208 KB — conteúdo: GABARITO
+  PDF 2. Prova - Câmara Municipal de BOM Jesus do Itabapoana ­ - RJ - 2007 - Para o Qual Se.pdf
+      8 páginas, 229 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA + GABARITO
+Órgão (capa, conferido): Bom Jesus do Itabapoana
+Ano: 2010
+Cargo (capa, conferido): Agente Legislativo
+Pasta publicada em Provas MD/: Camara_Bom_Jesus_do_Itabapoana_2010_Agente_Legislativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Bom_Jesus_do_Itabapoana_2010_Agente_Legislativo
+Situação: PUBLICADA (capa->banco)

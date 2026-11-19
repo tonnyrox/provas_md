@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 072 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\072 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Bonito de Minas - MG - 2009 - Da Forma.pdf
+      11 páginas, 130 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA
+Órgão (capa, conferido): BONITO DE MINAS
+Ano: -
+Cargo (capa, conferido): di-o com aquele garoto de que lhe falei antes.
+Pasta publicada em Provas MD/: Camara_Bonito_de_Minas_2009
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Bonito_de_Minas_2009
+Situação: PUBLICADA (conferida manualmente)
+
+Observações: Rotulo "Gabarito" no nome, conteudo e a prova de Bonito de Minas 2009; gabarito oficial ausente do acervo

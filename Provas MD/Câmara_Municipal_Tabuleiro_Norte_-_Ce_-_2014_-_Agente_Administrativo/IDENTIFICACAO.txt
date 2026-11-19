@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 348 ID (fila Falta_fazer / remessa_12)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Tabuleiro do - CE - 2014 - Agente Administrativo.pdf | Prova - Câmara Municipal de Tabuleiro do Norte - CE - 2014 - Agente Administrativo.pdf
+Detalhe: 3p, 377KB, GABARITO; 10p, 478KB, PROVA
+Cidade (provavel): Tabuleiro do Norte
+Ano: 2014
+Fonte da identificacao: pdf-inteiro (2 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 014 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\014 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara de Vereadores de Balneário Camboriú - 2010 - S1 Analista de Sistemas.pdf
+      2 páginas, 59 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara de Vereadores de Balneário Camboriú - 2010 - S1 Analista de Sistemas.pdf
+      16 páginas, 552 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Balneario Camboriu
+Ano: 2010
+Cargo (capa, conferido): Analista de Sistemas
+Pasta publicada em Provas MD/: Camara_Balneario_Camboriu_2010_Analista_de_Sistemas
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Balneario_Camboriu_2010_Analista_de_Sistemas
+Situação: PUBLICADA (capa->banco)

@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 356 ID (fila Falta_fazer / remessa_12)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Timbó - 2019 - Agente Administrativo.pdf | Prova - Câmara Municipal de Timbó - 2019 - Agente Administrativo.pdf
+Detalhe: 1p, 49KB, GABARITO; 21p, 429KB, PROVA
+Cidade (provavel): Timbó
+Ano: 2019
+Fonte da identificacao: pdf-inteiro (5 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

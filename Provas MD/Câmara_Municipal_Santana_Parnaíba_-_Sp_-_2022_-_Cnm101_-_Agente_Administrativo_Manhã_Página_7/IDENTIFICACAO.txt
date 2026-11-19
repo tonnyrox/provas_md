@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 319 ID (fila Falta_fazer / remessa_11)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Santana de Parnaíba - SP - 2022 - Cnm101 - Agente Administrativo (manhã) Página – 7.pdf | Prova - Câmara Municipal de Santana de Parnaíba - SP - 2022 - Cnm101 - Agente Administrativo (manhã) Página – 7.pdf
+Detalhe: 10p, 123KB, GABARITO; 4p, 3844KB, INDEFINIDO
+Cidade (provavel): Santana de Parnaíba
+Ano: 2022
+Fonte da identificacao: nome
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

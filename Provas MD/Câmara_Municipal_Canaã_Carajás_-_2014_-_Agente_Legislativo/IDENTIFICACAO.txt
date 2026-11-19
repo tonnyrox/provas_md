@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 079 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\079 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Canaã dos Carajás - 2014 - Agente Legislativo.pdf
+      5 páginas, 269 KB — conteúdo: GABARITO
+  PDF 2. Prova - Câmara Municipal de Canaã dos Carajás – - 2014 - Agente Legislativo.pdf
+      11 páginas, 323 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA + GABARITO
+Órgão (capa, conferido): Canaa dos Carajas
+Ano: 2014
+Cargo (capa, conferido): Agente Legislativo
+Pasta publicada em Provas MD/: Camara_Canaa_dos_Carajas_2014_Agente_Legislativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Canaa_dos_Carajas_2014_Agente_Legislativo
+Situação: PUBLICADA (capa->banco)

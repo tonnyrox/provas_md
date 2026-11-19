@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 333 ID (fila Falta_fazer / remessa_11)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de São João Batista do Glória - MG - 2023 - – Agente.pdf | prova.pdf
+Detalhe: 1p, 14KB, GABARITO; 8p, 563KB, PROVA
+Cidade (provavel): São João Batista do Glória
+Ano: 2023
+Fonte da identificacao: pdf-inteiro (1 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

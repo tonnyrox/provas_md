@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 086 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\086 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Carangola - MG - 2008 - Agente Administrativo IV (controle Interno).pdf
+      4 páginas, 39 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Carangola - MG - 2008 - Agente Administrativo IV (controle Interno).pdf
+      5 páginas, 180 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Carangola
+Ano: 2008
+Cargo (capa, conferido): Agente Administrativo IV Controle Interno
+Pasta publicada em Provas MD/: Camara_Carangola_2008_Agente_Administrativo_IV_Controle_Interno
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Carangola_2008_Agente_Administrativo_IV_Controle_Interno
+Situação: PUBLICADA (capa->banco)

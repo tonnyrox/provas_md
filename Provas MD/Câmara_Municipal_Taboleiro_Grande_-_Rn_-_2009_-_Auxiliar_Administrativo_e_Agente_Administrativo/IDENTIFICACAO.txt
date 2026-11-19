@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 347 ID (fila Falta_fazer / remessa_12)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Taboleiro Grande - RN - 2009 - Auxiliar Administrativo e Agente Administrativo.pdf
+Detalhe: 1p, 271KB, GABARITO
+Cidade (provavel): Taboleiro Grande
+Ano: 2009
+Fonte da identificacao: nome
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

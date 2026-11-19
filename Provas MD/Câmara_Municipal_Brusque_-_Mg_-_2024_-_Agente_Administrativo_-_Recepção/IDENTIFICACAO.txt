@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 074 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\074 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Brusque - MG - 2024 - Agente Administrativo - Recepção.pdf
+      1 páginas, 122 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Brusque - MG - 2024 - Agente Administrativo - Recepção.pdf
+      15 páginas, 665 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Brusque
+Ano: 2024
+Cargo (capa, conferido): Agente Administrativo Recepcao
+Pasta publicada em Provas MD/: Camara_Brusque_2024_Agente_Administrativo_Recepcao
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Brusque_2024_Agente_Administrativo_Recepcao
+Situação: PUBLICADA (conferida manualmente)

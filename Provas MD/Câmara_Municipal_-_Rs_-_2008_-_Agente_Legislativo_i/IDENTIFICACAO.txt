@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 031 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\031 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal - RS - 2008 - Agente Legislativo I.pdf
+      1 páginas, 108 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal - RS - 2008 - Agente Legislativo I.pdf
+      8 páginas, 297 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Sao Pedro do Sul
+Ano: 2008
+Cargo (capa, conferido): Agente Legislativo I
+Pasta publicada em Provas MD/: Camara_Sao_Pedro_do_Sul_2008_Agente_Legislativo_I
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Sao_Pedro_do_Sul_2008_Agente_Legislativo_I
+Situação: PUBLICADA (conferida manualmente)

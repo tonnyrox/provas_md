@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 223 ID (fila Falta_fazer / remessa_06)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Linhares - 2016 - F01 - Zeladoria (2).pdf
+Detalhe: 11p, 13895KB, GABARITO
+Cidade (provavel): Linhares
+Ano: 2016
+Fonte da identificacao: nome
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

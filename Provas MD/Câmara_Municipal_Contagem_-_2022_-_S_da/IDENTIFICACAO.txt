@@ -1,0 +1,22 @@
+IDENTIFICACAO DA REMESSA — 109 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\109 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Contagem - 2022 - S da.pdf
+      6 páginas, 130 KB — conteúdo: GABARITO
+  PDF 2. Prova - Câmara Municipal de Contagem - 2022 - S da.pdf
+      17 páginas, 5469 KB — conteúdo: INDEFINIDO
+
+Classificação geral da remessa: GABARITO + INDEFINIDO
+Órgão (capa, conferido): Contagem
+Ano: 2022
+Cargo (capa, conferido): Analista Tecnico Analista de Sistemas
+Pasta publicada em Provas MD/: Camara_Contagem_2022_Analista_Tecnico_Analista_de_Sistemas
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Contagem_2022_Analista_Tecnico_Analista_de_Sistemas
+Situação: PUBLICADA (capa->banco)
+
+Observações: conteudo repetido do mesmo concurso, remessa(s) 110

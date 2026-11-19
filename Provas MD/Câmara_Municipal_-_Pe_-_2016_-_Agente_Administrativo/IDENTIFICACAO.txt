@@ -1,0 +1,32 @@
+IDENTIFICACAO DA REMESSA — 026 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\026 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal - PE - 2016 - Agente Administrativo.pdf
+      10 páginas, 2104 KB — conteúdo: GABARITO (ADM&TEC, preliminar; capa do bloco 1 cita também o cargo Auxiliar de Serviços Gerais)
+  PDF 2. Prova - Câmara Municipal - PE - 2016 - Agente Administrativo.pdf
+      8 páginas, 197 KB — conteúdo: PROVA
+
+Classificação geral da remessa: GABARITO + PROVA
+Órgão (capa, conferido): Câmara Municipal de Brejo da Madre de Deus
+UF: PE (conferido na capa: "CONCURSO PÚBLICO PARA A CÂMARA DO BREJO DA MADRE DE DEUS (PE) - 2016")
+Ano: 2016
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Brejo_da_Madre_de_Deus_2016_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Brejo_da_Madre_de_Deus_2016_Agente_Administrativo
+Situação: PUBLICADA (conferida abrindo o PDF)
+
+Observações:
+- ATENÇÃO — retroativo (auditoria de conteúdo 19/11/2026): a identificação anterior desta
+  remessa ("Sao Jose dos Pinhais", apontando para a pasta Camara_Sao_Jose_dos_Pinhais_2016_Agente_Administrativo)
+  estava ERRADA — era cópia do registro da remessa 011. A capa da prova (pág. 1) e do gabarito
+  confirmam BREJO DA MADRE DE DEUS (PE) - 2016, proveniente da banca ADM&TEC/PCI Concursos.
+- Na capa do bloco 1 do gabarito (10 págs.) consta o cargo "Auxiliar de Serviços Gerais"; os
+  blocos seguintes do PDF trazem a tabela do cargo Agente Administrativo, usada no pareamento
+  da prova publicada. Texto da prova (EUTANÁSIA, GOVERNO etc.) íntegro e casado com a
+  prova publicada.
+- Prova publicada recebeu correções de auditoria (materiais das q5-7 e q9-10 repostos).

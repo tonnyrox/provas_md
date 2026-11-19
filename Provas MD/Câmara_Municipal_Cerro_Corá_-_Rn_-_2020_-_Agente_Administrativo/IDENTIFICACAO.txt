@@ -1,0 +1,22 @@
+IDENTIFICACAO DA REMESSA — 100 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\100 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Cerro Corá - PB - 2020 - Agente Administrativo.pdf
+      4 páginas, 213 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Cerro Corá - RN - 2020 - Agente Administrativo.pdf
+      15 páginas, 1341 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Cerro Cora
+Ano: 2020
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Cerro_Cora_2020_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Cerro_Cora_2020_Agente_Administrativo
+Situação: PUBLICADA (capa->banco)
+
+Atualizacao 19/11/2026 (auditoria estrutural): prova publicada recebeu correcao — texto 'O Peso do Mosquito' reposto integralmente na questao 11 (fonte: ESTE PDF; conferido nas pags. 6-7/8-10). Ver prova_organizada.md/relatorio.

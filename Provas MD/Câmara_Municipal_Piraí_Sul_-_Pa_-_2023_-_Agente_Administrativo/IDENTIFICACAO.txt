@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 284 ID (fila Falta_fazer / remessa_09)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Piraí do SUL - PA - 2024 - Agente Administrativo.pdf | Prova - Câmara Municipal de Piraí do SUL - PA - 2023 - Agente Administrativo.pdf
+Detalhe: 3p, 226KB, GABARITO; 11p, 328KB, PROVA
+Cidade (provavel): Pirai do Sul
+Ano: 2023
+Fonte da identificacao: pdf-inteiro (2 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

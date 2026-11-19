@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 366 ID (fila Falta_fazer / remessa_13)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Vassouras - 2016 - Motorista.pdf | Prova - Câmara Municipal de Vassouras - 2016 - Motorista.pdf
+Detalhe: 2p, 264KB, GABARITO; 8p, 421KB, INDEFINIDO
+Cidade (provavel): Vassouras
+Ano: 2016
+Fonte da identificacao: nome
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

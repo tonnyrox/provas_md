@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 239 ID (fila Falta_fazer / remessa_07)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Marituba – Atendente Legislativo - CE - 2006 - Porteiro Legislativo.pdf | Prova - Câmara Municipal de Marituba – Atendente Legislativo - CE - 2006 - Porteiro Legislativo.pdf
+Detalhe: 3p, 49KB, GABARITO; 6p, 136KB, GABARITO
+Cidade (provavel): Marituba
+Ano: 2006
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

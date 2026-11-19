@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 303 ID (fila Falta_fazer / remessa_10)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Rio Quente - GO - 2024 - Agente.pdf | Prova - Câmara Municipal de Rio Quente - GO - 2024 - Agente.pdf
+Detalhe: 4p, 215KB, GABARITO; 10p, 699KB, PROVA
+Cidade (provavel): Rio Quente
+Ano: 2024
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

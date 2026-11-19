@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 024 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\024 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal - PA - 2011 - Legislativo.pdf
+      5 páginas, 207 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal - PA - 2011 - Legislativo.pdf
+      5 páginas, 325 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Xinguara
+Ano: 2011
+Cargo (capa, conferido): Agente Administrativo Legislativo
+Pasta publicada em Provas MD/: Camara_Xinguara_2011_Agente_Administrativo_Legislativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Xinguara_2011_Agente_Administrativo_Legislativo
+Situação: PUBLICADA (conferida manualmente)

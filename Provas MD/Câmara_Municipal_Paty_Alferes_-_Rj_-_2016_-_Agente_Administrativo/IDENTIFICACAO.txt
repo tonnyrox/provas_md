@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 276 ID (fila Falta_fazer / remessa_08)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Camara de Paty do Alferes RJ 2016 - Agente Administrativo (IAN-qconcursos).pdf | Prova - Câmara Municipal de Paty do Alferes - RJ - 2016 - Agente Administrativo.pdf
+Detalhe: 12p, 229KB, GABARITO; 16p, 323KB, PROVA
+Cidade (provavel): Paty do Alferes
+Ano: 2016
+Fonte da identificacao: pdf-inteiro (4 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

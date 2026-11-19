@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 099 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\099 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Caçapava - SP - 2025 - Agente Administrativo.pdf
+      1 páginas, 102 KB — conteúdo: GABARITO
+  PDF 2. Prova - Câmara Municipal de Caçapava - SP - 2025 - Agente Administrativo.pdf
+      13 páginas, 711 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA + GABARITO
+Órgão (capa, conferido): Cacapava
+Ano: 2025
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Cacapava_2025_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Cacapava_2025_Agente_Administrativo
+Situação: PUBLICADA (capa->banco)

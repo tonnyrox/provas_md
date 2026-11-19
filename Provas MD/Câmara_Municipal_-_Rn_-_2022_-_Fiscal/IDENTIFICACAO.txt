@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 030 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\030 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal - RN - 2022 - Fiscal.pdf
+      29 páginas, 1860 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal - RN - 2022 - Fiscal.pdf
+      10 páginas, 410 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Bom Jesus e Camara Sao Tome
+Ano: 2022
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Prefeitura_Bom_Jesus_e_Camara_Sao_Tome_2022_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Prefeitura_Bom_Jesus_e_Camara_Sao_Tome_2022_Agente_Administrativo
+Situação: PUBLICADA (conferida manualmente)

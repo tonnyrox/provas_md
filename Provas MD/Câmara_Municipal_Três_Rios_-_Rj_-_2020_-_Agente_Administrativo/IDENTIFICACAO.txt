@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 360 ID (fila Falta_fazer / remessa_13)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Três Rios - RJ - 2020 - Agente Administrativo.pdf | Prova - Câmara Municipal de Três Rios, . - RJ - 2020 - Agente Administrativo.pdf
+Detalhe: 9p, 283KB, GABARITO; 13p, 741KB, PROVA
+Cidade (provavel): Três Rios
+Ano: 2020
+Fonte da identificacao: pdf-inteiro (3 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

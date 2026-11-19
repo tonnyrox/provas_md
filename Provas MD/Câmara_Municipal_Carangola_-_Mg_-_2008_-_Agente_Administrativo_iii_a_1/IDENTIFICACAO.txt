@@ -1,0 +1,22 @@
+IDENTIFICACAO DA REMESSA — 085 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\085 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Carangola - MG - 2008 - Agente Administrativo Iii, a.pdf
+      3 páginas, 112 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Carangola - MG - 2008 - Agente Administrativo Iii, a.pdf
+      6 páginas, 220 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Carangola
+Ano: 2008
+Cargo (capa, conferido): Agente Administrativo III
+Pasta publicada em Provas MD/: Camara_Carangola_2008_Agente_Administrativo_III
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Carangola_2008_Agente_Administrativo_III
+Situação: PUBLICADA (capa->banco)
+
+Observações: conteudo repetido do mesmo concurso, remessa(s) 083, 084, 089, 090, 091

@@ -1,0 +1,19 @@
+IDENTIFICACAO DA REMESSA — 094 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\094 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Casinhas - PE - 01 – Agente Administrativo.pdf
+      1 páginas, 23 KB — conteúdo: GABARITO
+
+Classificação geral da remessa: GABARITO
+Órgão (capa, conferido): Casinhas
+Ano: 2008
+Cargo (capa, conferido): -
+Pasta publicada em Provas MD/: -
+Foi enviado ao GitHub (origin/main): NAO
+Situação: PENDENTE
+
+Observações: PENDENTE: so gabarito de Casinhas/PE 2008 no acervo - a prova em si nunca chegou

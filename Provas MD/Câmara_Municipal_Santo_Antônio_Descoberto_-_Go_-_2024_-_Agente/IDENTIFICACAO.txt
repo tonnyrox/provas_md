@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 321 ID (fila Falta_fazer / remessa_11)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Santo Antônio do Descoberto - GO - 2024 - Agente.pdf | Prova - Câmara Municipal de Santo Antônio do Descoberto - GO - 2024 - Agente.pdf
+Detalhe: 10p, 419KB, GABARITO; 14p, 908KB, PROVA
+Cidade (provavel): Santo Antônio do Descoberto
+Ano: 2024
+Fonte da identificacao: pdf-inteiro (4 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

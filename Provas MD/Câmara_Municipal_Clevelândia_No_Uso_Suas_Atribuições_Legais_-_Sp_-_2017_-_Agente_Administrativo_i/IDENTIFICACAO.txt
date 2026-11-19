@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 103 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\103 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Clevelândia , no Uso de Suas Atribuições Legais - PR - 2017 - Agente Administrativo I.pdf
+      2 páginas, 171 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Clevelândia , no Uso de Suas Atribuições Legais - SP - 2017 - Agente Administrativo I.pdf
+      5 páginas, 459 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Clevelandia
+Ano: 2017
+Cargo (capa, conferido): Agente Administrativo I
+Pasta publicada em Provas MD/: Camara_Clevelandia_2017_Agente_Administrativo_I
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Clevelandia_2017_Agente_Administrativo_I
+Situação: PUBLICADA (capa->banco)

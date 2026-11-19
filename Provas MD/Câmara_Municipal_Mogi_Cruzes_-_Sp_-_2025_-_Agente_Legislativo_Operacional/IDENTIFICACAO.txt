@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 241 ID (fila Falta_fazer / remessa_07)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Mogi das Cruzes - SP - 2025 - Agente Legislativo Operacional.pdf | Prova - Câmara Municipal de Mogi das Cruzes - SP - 2025 - Agente Legislativo Operacional.pdf
+Detalhe: 4p, 465KB, PROVA; 12p, 683KB, PROVA
+Cidade (provavel): Mogi Das Cruzes
+Ano: 2025
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

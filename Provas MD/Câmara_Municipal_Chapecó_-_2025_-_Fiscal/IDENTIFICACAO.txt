@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 101 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\101 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Chapecó - 2025 - Fiscal.pdf
+      4 páginas, 60 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Chapecó - 2025 - Fiscal.pdf
+      14 páginas, 314 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Chapeco
+Ano: 2025
+Cargo (capa, conferido): Analista de Comunicacao
+Pasta publicada em Provas MD/: Camara_Chapeco_2025_Analista_de_Comunicacao
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Chapeco_2025_Analista_de_Comunicacao
+Situação: PUBLICADA (conferida manualmente)

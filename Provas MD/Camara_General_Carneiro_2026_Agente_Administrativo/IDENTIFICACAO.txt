@@ -1,0 +1,8 @@
+IDENTIFICACAO DA REMESSA — 133 ID (fila Falta_fazer / remessa_01)
+Identificacao pelo CONTEUDO dos PDFs (capa e gabarito abertos e conferidos).
+
+PDFs: Gabarito - Câmara Municipal de General Carneiro - MT - 2026 - Público Agente Administrativo.pdf | Prova - Câmara Municipal de General Carneiro - MT - 2026 - Público Agente Administrativo.pdf
+Prova: Camara_General_Carneiro_2026_Agente_Administrativo
+Pasta publicada (GitHub, provas_md/Provas MD): Camara_General_Carneiro_2026_Agente_Administrativo
+Status: PUBLICADA — commit/push em origin/main em 18/11/2026.
+Observacoes: Ano conforme capa/edital (2026).

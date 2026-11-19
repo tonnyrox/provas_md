@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 244 ID (fila Falta_fazer / remessa_07)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Vereadores do Moreno - PE - 2024 - De Com.pdf | Prova - Câmara Municipal de Moreno – - RJ - 2024 - De Com.pdf
+Detalhe: 1p, 225KB, GABARITO; 8p, 390KB, INDEFINIDO
+Cidade (provavel): Moreno
+Ano: 2024
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

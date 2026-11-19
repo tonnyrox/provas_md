@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 295 ID (fila Falta_fazer / remessa_09)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Raposa - MA - Agente Administrativo - Arquivista.pdf | Prova - Câmara Municipal de Raposa - MA - Agente Administrativo - Arquivista.pdf
+Detalhe: 2p, 252KB, GABARITO; 8p, 265KB, PROVA
+Cidade (provavel): Raposa
+Ano: 2007
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+Observacoes: Mesmo concurso da 294 (Raposa - MA)
+Status de trabalho: CONFERIDO-ABRINDO-O-PDF; INEDITA-PRONTA-PARA-PROCESSAR

@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 041 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\041 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal da Estância Turística de Barra Bonita - SP - 2012 - Agente Administrativo.pdf
+      1 páginas, 56 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal da Estância Turística de Barra Bonita - SP - 2012 - Agente Administrativo.pdf
+      7 páginas, 287 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Barra Bonita
+Ano: 2012
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Barra_Bonita_2012_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Barra_Bonita_2012_Agente_Administrativo
+Situação: PUBLICADA (conferida manualmente)

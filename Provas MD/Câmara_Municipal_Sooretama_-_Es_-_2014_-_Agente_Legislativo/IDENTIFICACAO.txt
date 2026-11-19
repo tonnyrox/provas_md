@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 327 ID (fila Falta_fazer / remessa_11)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Sooretama – Espírito Santo - ES - 2014 - Agente Legislativo.pdf | Prova - Câmara Municipal de Sooretama – - ES - 2014 - Agente Legislativo.pdf
+Detalhe: 4p, 241KB, GABARITO; 12p, 435KB, PROVA
+Cidade (provavel): Sooretama
+Ano: 2014
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

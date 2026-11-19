@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 258 ID (fila Falta_fazer / remessa_08)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Nova Iguaçu - RN - 2009 - Analista de Sistemas.pdf | Prova - Câmara Municipal de Nova Iguaçu - RN - 2009 - Analista de Sistemas.pdf
+Detalhe: 4p, 212KB, GABARITO; 12p, 388KB, PROVA
+Cidade (provavel): Nova Iguaçu
+Ano: 2009
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

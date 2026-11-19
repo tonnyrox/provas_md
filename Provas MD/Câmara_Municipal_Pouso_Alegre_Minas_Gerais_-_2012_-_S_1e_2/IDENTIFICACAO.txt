@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 289 ID (fila Falta_fazer / remessa_09)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Pouso Alegre – Minas Gerais - 2012 - S 1e 2.pdf
+Detalhe: 17p, 497KB, PROVA
+Cidade (provavel): Pouso Alegre
+Ano: 2012
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

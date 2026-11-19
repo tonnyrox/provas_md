@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 194 ID (fila Falta_fazer / remessa_04)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Ibiá - MG - 2010 - Agente Legislativo.pdf
+Detalhe: 7p, 221KB, GABARITO
+Cidade (provavel): IBIÁ
+Ano: 2010
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

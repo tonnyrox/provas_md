@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 253 ID (fila Falta_fazer / remessa_07)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Nova Iguaçu - 2012 - Agente Administrativo.pdf | Prova - Câmara Municipal de Nova Iguaçu - 2012 - Agente Administrativo.pdf
+Detalhe: 4p, 212KB, GABARITO; 10p, 384KB, PROVA
+Cidade (provavel): Nova Iguaçu
+Ano: 2012
+Fonte da identificacao: pdf-inteiro (7 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

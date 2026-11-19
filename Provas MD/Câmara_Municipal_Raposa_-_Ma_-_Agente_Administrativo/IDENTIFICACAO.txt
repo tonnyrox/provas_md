@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 294 ID (fila Falta_fazer / remessa_09)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Raposa - MA - Agente Administrativo.pdf | Prova - Câmara Municipal de Raposa - MA - Agente Administrativo.pdf
+Detalhe: 2p, 252KB, GABARITO; 9p, 1070KB, PROVA
+Cidade (provavel): Raposa
+Ano: 2010
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+Observacoes: Conferido abrindo o PDF: gabarito da Camara de Raposa - MA (vigia, auxiliar operacional, agente administrativo)
+Status de trabalho: CONFERIDO-ABRINDO-O-PDF; INEDITA-PRONTA-PARA-PROCESSAR

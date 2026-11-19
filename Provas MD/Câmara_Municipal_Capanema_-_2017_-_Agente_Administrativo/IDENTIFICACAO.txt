@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 081 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\081 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Capanema - 2017 - Agente Administrativo.pdf
+      6 páginas, 326 KB — conteúdo: GABARITO
+  PDF 2. Prova - Câmara Municipal de Capanema - 2017 - Agente Administrativo.pdf
+      9 páginas, 624 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA + GABARITO
+Órgão (capa, conferido): Capanema
+Ano: 2017
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Capanema_2017_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Capanema_2017_Agente_Administrativo
+Situação: PUBLICADA (capa->banco)

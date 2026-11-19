@@ -1,0 +1,22 @@
+IDENTIFICACAO DA REMESSA — 020 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\020 ID
+
+PDFs desta remessa:
+  PDF 1. gabarito.pdf
+      1 páginas, 279 KB — conteúdo: INDEFINIDO
+  PDF 2. prova.pdf
+      7 páginas, 1956 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): -
+Ano: -
+Cargo (capa, conferido): Municipio Nao Identificado Agente Legislativo Objetiva 298
+Pasta publicada em Provas MD/: Camara_Municipio_Nao_Identificado_Agente_Legislativo_Objetiva_298
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Municipio_Nao_Identificado_Agente_Legislativo_Objetiva_298
+Situação: PUBLICADA (conferida manualmente)
+
+Observações: Conferido abrindo o PDF: municipio nao identificado no acervo

@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 075 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\075 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Caeté - MG - 2015 - Agente Administrativo.pdf
+      6 páginas, 364 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Caeté, Minas Gerais - MG - 2015 - Agente Administrativo.pdf
+      11 páginas, 564 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Caete
+Ano: 2015
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Caete_2015_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Caete_2015_Agente_Administrativo
+Situação: PUBLICADA (capa->banco)

@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 249 ID (fila Falta_fazer / remessa_07)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Nerópolis - GO - 2014 - Eletivo, e a Véspera do.pdf | Prova - Câmara Municipal de Nerópolis - GO - 2014 - Eletivo, e a Véspera do.pdf
+Detalhe: 6p, 452KB, GABARITO; 8p, 365KB, PROVA
+Cidade (provavel): Nerópolis
+Ano: 2014
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

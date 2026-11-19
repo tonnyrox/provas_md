@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 271 ID (fila Falta_fazer / remessa_08)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Paraíso do Norte - PA - 2013 - Agente Administrativo (2).pdf
+Detalhe: 11p, 246KB, GABARITO
+Cidade (provavel): Paraíso do Norte
+Ano: 2013
+Fonte da identificacao: nome
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

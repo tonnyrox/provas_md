@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 066 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\066 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Belém do São Francisco - PE - 2016 - Agente.pdf
+      6 páginas, 522 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Belém do São Francisco - PE - 2009 - Agente.pdf
+      10 páginas, 1007 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Belem do Sao Francisco
+Ano: 2016
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Belem_do_Sao_Francisco_2016_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Belem_do_Sao_Francisco_2016_Agente_Administrativo
+Situação: PUBLICADA (capa->banco)

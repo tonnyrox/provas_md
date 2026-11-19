@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 206 ID (fila Falta_fazer / remessa_05)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Itumbiara - Goiás - GO - 2016 - Agente Administrativo.pdf | Prova - Câmara Municipal de Itumbiara - GO - 2016 - Agente Administrativo.pdf
+Detalhe: 7p, 320KB, PROVA; 14p, 495KB, PROVA
+Cidade (provavel): Itumbiara pretende celebrar convênio com
+Ano: 2016
+Fonte da identificacao: pdf-inteiro (1 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: CONFERIR-DUPLICATA de 204 ID

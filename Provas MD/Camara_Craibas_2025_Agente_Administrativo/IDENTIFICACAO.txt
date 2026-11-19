@@ -1,0 +1,7 @@
+IDENTIFICACAO DA REMESSA — 113 ID (fila Falta_fazer / remessa_01)
+Identificacao pelo CONTEUDO dos PDFs (capa e gabarito abertos e conferidos).
+
+PDFs: Gabarito - Câmara Municipal de Craíbas - AL - 2025 - Agente Administrativo.pdf | Prova - Câmara Municipal de Craíbas - AL - 2025 - Agente Administrativo.pdf
+Prova: Camara_Craibas_2025_Agente_Administrativo
+Pasta publicada (GitHub, provas_md/Provas MD): Camara_Craibas_2025_Agente_Administrativo
+Status: PUBLICADA — commit/push em origin/main em 18/11/2026.

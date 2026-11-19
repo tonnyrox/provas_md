@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 226 ID (fila Falta_fazer / remessa_06)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Macaparana - PE - 2022 - De Crase.pdf
+Detalhe: 2p, 428KB, GABARITO
+Cidade (provavel): Macaparana
+Ano: 2022
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

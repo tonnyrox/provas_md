@@ -1,0 +1,8 @@
+IDENTIFICACAO DA REMESSA — 120 ID (fila Falta_fazer / remessa_01)
+Identificacao pelo CONTEUDO dos PDFs (capa e gabarito abertos e conferidos).
+
+PDFs: Gabarito - Câmara Municipal de Estreito - MA - 2016 - Agente.pdf | Prova - Câmara Municipal de Estreito - MA - 1990 - Agente.pdf
+Prova: Camara_Estreito_2016_Agente_Administrativo
+Pasta publicada (GitHub, provas_md/Provas MD): Camara_Estreito_2016_Agente_Administrativo
+Status: PUBLICADA — commit/push em origin/main em 18/11/2026.
+Observacoes: Nome do arquivo da prova com 1990 esta errado; conteudo confirma Estreito-MA 2016.

@@ -1,0 +1,8 @@
+IDENTIFICACAO DA REMESSA — 132 ID (fila Falta_fazer / remessa_01)
+Identificacao pelo CONTEUDO dos PDFs (capa e gabarito abertos e conferidos).
+
+PDFs: Gabarito - Câmara Municipal de Garanhuns - 2014 - Agente Administrativo.pdf | Prova - Câmara Municipal de Garanhuns - 2014 - Agente Administrativo.pdf
+Prova: Camara_Garanhuns_2014_Agente_Administrativo
+Pasta publicada (GitHub, provas_md/Provas MD): Camara_Garanhuns_2014_Agente_Administrativo
+Status: PUBLICADA — commit/push em origin/main em 18/11/2026.
+Observacoes: Gabarito multi-cargo regravado do bloco AGENTE ADMINISTRATIVO; q05/13/16/35 anuladas; tabela da q20 reconstruida.

@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 304 ID (fila Falta_fazer / remessa_10)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Prova - Câmara Municipal de Rolim de Moura - 2010 - Agente Administrativo Tipo 1 – Página 2.pdf
+Detalhe: 11p, 289KB, PROVA
+Cidade (provavel): Rolim de Moura
+Ano: 2010
+Fonte da identificacao: pdf-inteiro (2 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

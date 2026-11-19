@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 063 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\063 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara de Barbalha - CE - 2020.pdf
+      1 páginas, 99 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Barbalha no Ano de 2020 - CE - 2019.pdf
+      9 páginas, 577 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Barbalha
+Ano: 2019
+Cargo (capa, conferido): Nivel Medio
+Pasta publicada em Provas MD/: Camara_Barbalha_2019_Nivel_Medio
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Barbalha_2019_Nivel_Medio
+Situação: PUBLICADA (capa->banco)

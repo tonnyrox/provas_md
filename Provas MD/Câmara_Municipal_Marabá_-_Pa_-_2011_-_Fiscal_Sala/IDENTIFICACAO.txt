@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 233 ID (fila Falta_fazer / remessa_06)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Marabá - PA - 2011 - Fiscal de Sala.pdf | Prova - Câmara Municipal de Marabá - PA - 2011 - Fiscal de Sala.pdf
+Detalhe: 9p, 200KB, GABARITO; 13p, 190KB, PROVA
+Cidade (provavel): Marabá
+Ano: 2011
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

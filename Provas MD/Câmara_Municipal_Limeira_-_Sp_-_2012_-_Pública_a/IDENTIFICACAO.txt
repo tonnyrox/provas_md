@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 222 ID (fila Falta_fazer / remessa_06)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Limeira – - SP - 2012 - Pública, a.pdf | Prova - Câmara Municipal de Limeira – - SP - 2012 - Pública, a.pdf
+Detalhe: 1p, 248KB, GABARITO; 6p, 223KB, INDEFINIDO
+Cidade (provavel): Limeira
+Ano: 2012
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

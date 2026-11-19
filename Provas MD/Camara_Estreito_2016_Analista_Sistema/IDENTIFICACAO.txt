@@ -1,0 +1,7 @@
+IDENTIFICACAO DA REMESSA — 121 ID (fila Falta_fazer / remessa_01)
+Identificacao pelo CONTEUDO dos PDFs (capa e gabarito abertos e conferidos).
+
+PDFs: Gabarito - Câmara Municipal de Estreito - MA - 2016 - Analista.pdf | Prova - Câmara Municipal de Estreito - MA - 2016 - Analista.pdf
+Prova: Camara_Estreito_2016_Analista_de_Sistema
+Pasta publicada (GitHub, provas_md/Provas MD): Camara_Estreito_2016_Analista_de_Sistema
+Status: PUBLICADA — commit/push em origin/main em 18/11/2026.

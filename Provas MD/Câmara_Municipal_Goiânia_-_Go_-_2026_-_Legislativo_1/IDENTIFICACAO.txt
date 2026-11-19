@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 170 ID (fila Falta_fazer / remessa_03)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Legislativo.pdf | Prova - Câmara Municipal de Goiânia - GO - 2026 - Legislativo.pdf
+Detalhe: 1p, 137KB, GABARITO; 14p, 675KB, PROVA
+Cidade (provavel): Goiânia
+Ano: 2026
+Fonte da identificacao: pdf-inteiro (4 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: CONFERIR-DUPLICATA de 169 ID

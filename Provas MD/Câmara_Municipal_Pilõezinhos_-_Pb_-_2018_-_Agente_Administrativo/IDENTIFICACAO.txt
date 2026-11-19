@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 282 ID (fila Falta_fazer / remessa_09)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Pilõezinhos - PB - 2018 - Agente Administrativo.pdf
+Detalhe: 16p, 1800KB, PROVA
+Cidade (provavel): Pilõezinhos
+Ano: 2018
+Fonte da identificacao: pdf-inteiro (1 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+Observacoes: Conferido abrindo o PDF: capa CMP2018 - Agente Administrativo (nivel medio); nome correto
+Status de trabalho: CONFERIDO-ABRINDO-O-PDF; INEDITA-PRONTA-PARA-PROCESSAR

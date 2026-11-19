@@ -1,0 +1,7 @@
+IDENTIFICACAO DA REMESSA — 124 ID (fila Falta_fazer / remessa_01)
+Identificacao pelo CONTEUDO dos PDFs (capa e gabarito abertos e conferidos).
+
+PDFs: Prova - Câmara Municipal de Flores - PE - 2019 - Agente Administrativo.pdf
+Prova: Camara_Flores_2019_Agente_Administrativo
+Pasta publicada (GitHub, provas_md/Provas MD): Camara_Flores_2019_Agente_Administrativo
+Status: PUBLICADA — commit/push em origin/main em 18/11/2026.

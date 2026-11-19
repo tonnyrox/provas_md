@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 382 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Vereadores de Xaxim - 2020 - Professor Jens Gaab.pdf | Prova - Câmara Municipal de Vereadores de Xaxim - 2019 - Professor Jens Gaab.pdf
+Detalhe: 1p, 196KB, GABARITO; 16p, 828KB, INDEFINIDO
+Cidade (provavel): Xaxim
+Ano: 2019
+Fonte da identificacao: pdf-inteiro (1 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

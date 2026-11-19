@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 021 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\021 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal - Fiscal no Final.pdf
+      1 páginas, 13 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal - Fiscal no Final.pdf
+      12 páginas, 335 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Itaborai
+Ano: 2011
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Itaborai_2011_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Itaborai_2011_Agente_Administrativo
+Situação: PUBLICADA (conferida manualmente)

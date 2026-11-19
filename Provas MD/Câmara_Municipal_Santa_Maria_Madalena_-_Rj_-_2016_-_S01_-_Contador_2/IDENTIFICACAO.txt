@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 315 ID (fila Falta_fazer / remessa_10)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Santa Maria Madalena - RJ - 2016 - S01 - Contador (2).pdf
+Detalhe: 10p, 2903KB, GABARITO
+Cidade (provavel): Santa Maria Madalena
+Ano: 2016
+Fonte da identificacao: nome
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

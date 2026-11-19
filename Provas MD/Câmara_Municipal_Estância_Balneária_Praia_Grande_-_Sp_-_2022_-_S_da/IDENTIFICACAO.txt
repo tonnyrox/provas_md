@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 038 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\038 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal da Estância Balneária de Praia Grande - SP - 2022 - S da.pdf
+      2 páginas, 99 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal da Estância Balneária de Praia Grande - SP - 2022 - S da.pdf
+      6 páginas, 221 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Praia Grande
+Ano: 2022
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Praia_Grande_2022_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Praia_Grande_2022_Agente_Administrativo
+Situação: PUBLICADA (conferida manualmente)

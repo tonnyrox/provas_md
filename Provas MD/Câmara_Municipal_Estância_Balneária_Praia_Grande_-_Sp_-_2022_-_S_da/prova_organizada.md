@@ -1,0 +1,88 @@
+# Câmara_Municipal_Estância_Balneária_Praia_Grande_-_Sp_-_2022_-_S_da
+
+## Identificação
+
+- **Instituição**: Câmara Municipal
+- **Cidade**: Desconhecida
+- **Ano**: 2022
+- **Cargo**: Agente
+- **Banca**: N/I
+- **Data**: N/I
+- **Número de Questões**: 0
+
+## Conteúdo da Prova
+
+
+
+--- Prova - Câmara Municipal da Estância Balneária de Praia Grande - SP - 2022 - S da.pdf ---
+
+pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YjFjYTo5YjRh:U2F0LCAwNyBOb3YgMjAyNiAxMjoxMDowOSAtMDMwMA==
+ 
+ 
+ 
+ 
+ 
+ 
+CÂMARA MUNICIPAL DA ESTÂNCIA BALNEÁRIA DE PRAIA GRANDE 
+ 
+ESTADO DE SÃO PAULO 
+ 
+CONCURSO PÚBLICO 
+EDITAL N.º 01/2022 
+ 
+201 – AGENTE ADMINISTRATIVO 
+  
+ 
+ 
+o VOCÊ RECEBEU SUA FOLHA DE RESPOSTAS E ESTE CADERNO CONTENDO 40 QUESTÕES OBJETIVAS. 
+o VERIFIQUE SE ESTE CADERNO CORRESPONDE AO CARGO PÚBLICO EFETIVO QUE VOCÊ SE INSCREVEU , HAVENDO 
+DIVERGÊNCIA, INFORME IMEDIATAMENTE AO FISCAL DA SALA. NÃO SERÃO ACEITAS RECLAMAÇÕES POSTERIORES. 
+o VERIFIQUE SE O CONTEÚDO DESTE CADERNO SE ENCONTRA COMPLETO E  LEGÍVEL, HAVENDO DIVERGÊNCIA , 
+INFORME IMEDIATAMENTE AO FISCAL DA SALA. NÃO SERÃO ACEITAS RECLAMAÇÕES POSTERIORES. 
+o PREENCHA COM SEU NOME E NÚMERO DE INSCRIÇÃO OS ESPAÇOS RESERVADOS NA CAPA DESTE CADERNO. 
+o LEIA CUIDADOSAMENTE AS QUESTÕES E ESCOLHA A RESPOSTA QUE VOCÊ CONSIDERA CORRETA. 
+o RESPONDA A TODAS AS QUESTÕES.  
+o TRANSCREVA PARA A FOLHA DE RESPOSTAS COM CANETA DE TINTA AZUL OU PRETA. 
+o A DURAÇÃO DA PROVA É DE 3 HORAS. 
+o A SAÍDA DO CANDIDATO DO PRÉDIO SERÁ PERMITIDA  APÓS TRANSCORRIDO O TEMPO  MÍNIMO ESTABELECIDO NO 
+EDITAL DO CONCURSO PÚBLICO. 
+o AO SAIR, VOCÊ ENTREGARÁ AO FISCAL A FOLHA DE RESPOSTAS.  
+ 
+É EXPRESSAMENTE PROIBIDO O USO DE CELULAR E OUTROS APARELHOS ELETRÔNICOS 
+NAS DEPENDÊNCIAS DO LOCAL DE PROVA 
+ 
+ 
+AGUARDE A ORDEM DO FISCAL PARA ABRIR ESTE CADERNO DE QUESTÕES 
+  
+                    
+ 
+ 
+NOME DO CANDIDATO 
+ NÚMERO DE INSCRIÇÃO 
+     
+ 
+    
+ 
+www.pciconcursos.com.br
+
+pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YjFjYTo5YjRh:U2F0LCAwNyBOb3YgMjAyNiAxMjoxMDowOSAtMDMwMA==
+ 
+Instituto Mais – Câmara Municipal da Estância Balneária de Praia Grande – 201 – Agente Administrativo.   2 
+ 
+ 
+LÍNGUA PORTUGUESA 
+ 
+Leia o texto abaixo para responder às questões de 1 a 4. 
+ 
+Sobre renascer 
+ 
+Com a queda dos casos e das mortes pela Co...
+
+## Observações
+
+- Prova processada automaticamente
+- Aguardando revisão manual
+
+---
+
+*Processado em: 2026-11-19 16:14:32*

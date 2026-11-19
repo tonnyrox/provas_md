@@ -1,0 +1,22 @@
+IDENTIFICACAO DA REMESSA — 036 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\036 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal - SP - 2019 - Agente Legislativo.pdf
+      1 páginas, 114 KB — conteúdo: GABARITO
+  PDF 2. Prova - Câmara Municipal - SP - 2019 - Agente Legislativo (2).pdf
+      20 páginas, 595 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA + GABARITO
+Órgão (capa, conferido): Praia Grande
+Ano: 2019
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Praia_Grande_2019_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Praia_Grande_2019_Agente_Administrativo
+Situação: PUBLICADA (conferida manualmente)
+
+Observações: Nome do arquivo diz "Agente Legislativo"; e o caderno VUNESP (codigo CPRC1801) da prova de Agente Administrativo publicada; conteudo repetido do mesmo concurso, remessa(s) 035, 037

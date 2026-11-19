@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 352 ID (fila Falta_fazer / remessa_12)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Tatuí - 2025 - Agente Legislativo de Serviços Operacionais – Motorista.pdf | Prova - Câmara Municipal de Tatuí - 2010 - Agente Legislativo de Serviços Operacionais – Motorista.pdf
+Detalhe: 3p, 186KB, PROVA; 16p, 461KB, PROVA
+Cidade (provavel): Tatuí
+Ano: 2010
+Fonte da identificacao: pdf-inteiro (2 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

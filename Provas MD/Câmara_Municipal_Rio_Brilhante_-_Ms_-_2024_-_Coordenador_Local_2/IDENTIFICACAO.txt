@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 301 ID (fila Falta_fazer / remessa_10)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de RIO Brilhante - MS - 2024 - Coordenador do Local.pdf | Prova - Câmara Municipal de RIO Brilhante - MS - 2024 - Coordenador do Local (2).pdf
+Detalhe: 2p, 88KB, GABARITO; 8p, 581KB, PROVA
+Cidade (provavel): Rio Brilhante
+Ano: 2024
+Fonte da identificacao: pdf-inteiro (5 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

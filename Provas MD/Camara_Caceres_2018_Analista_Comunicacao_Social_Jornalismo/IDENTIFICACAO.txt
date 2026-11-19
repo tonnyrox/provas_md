@@ -1,0 +1,8 @@
+IDENTIFICACAO DA REMESSA — 115 ID (fila Falta_fazer / remessa_01)
+Identificacao pelo CONTEUDO dos PDFs (capa e gabarito abertos e conferidos).
+
+PDFs: Gabarito - Câmara Municipal de Cáce Res – - Analista em.pdf | Prova - Câmara Municipal de Cáce Res – - Analista em.pdf
+Prova: Camara_Caceres_2018_Analista_em_Comunicacao_Social_Jornalismo
+Pasta publicada (GitHub, provas_md/Provas MD): Camara_Caceres_2018_Analista_em_Comunicacao_Social_Jornalismo
+Status: PUBLICADA — commit/push em origin/main em 18/11/2026.
+Observacoes: Gabarito multi-cargo conferido; figuras das questoes 11/12 extraidas do PDF; textos-base reconstituidos.

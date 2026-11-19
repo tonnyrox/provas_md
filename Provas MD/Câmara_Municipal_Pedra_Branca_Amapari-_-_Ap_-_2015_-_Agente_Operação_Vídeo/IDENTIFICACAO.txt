@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 280 ID (fila Falta_fazer / remessa_09)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Pedra Branca do Amapari-. - AP - 2015 - Agente de Operação de Vídeo.pdf | Prova - Câmara Municipal de Pedra Branca do Amapari-. - AP - 2015 - Agente de Operação de Vídeo.pdf
+Detalhe: 1p, 742KB, GABARITO; 6p, 251KB, PROVA
+Cidade (provavel): Pedra Branca do Amapari
+Ano: 2015
+Fonte da identificacao: pdf-inteiro (3 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

@@ -1,0 +1,24 @@
+IDENTIFICACAO DA REMESSA — 093 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\093 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Caroebe - 2014 - RR - 2014 - Diretor Executivo.pdf
+      2 páginas, 182 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Caroebe - RR - 2014 - Diretor Executivo.pdf
+      7 páginas, 2558 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Caroebe
+Ano: 2014
+Cargo (capa, conferido): Nivel Fundamental
+Pasta publicada em Provas MD/: Camara_Caroebe_2014_Nivel_Fundamental
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Caroebe_2014_Nivel_Fundamental
+Situação: PUBLICADA (conferida abrindo o PDF)
+
+Observações: Nome cita "Diretor Executivo", porem capa/prova e Nivel Fundamental (conferido abrindo o PDF); gabarito consolidado inclui tambem Diretor Executivo
+
+Atualizacao 19/11/2026 (auditoria estrutural): prova publicada recebeu correcao — poema 'Minha Terra' reposto integralmente nas questoes 1 a 5 (fonte: ESTE PDF) e artefato de pagina extraido removido. Ver prova_organizada.md/relatorio.

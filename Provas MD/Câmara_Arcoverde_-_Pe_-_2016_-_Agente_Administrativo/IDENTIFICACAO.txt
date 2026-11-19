@@ -1,0 +1,22 @@
+IDENTIFICACAO DA REMESSA — 003 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\003 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara de Arcoverde - - 2016 - PE - 2016 - Agente Administrativo.pdf
+      7 páginas, 1512 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara de Arcoverde - PE - 2016 - Agente Administrativo.pdf
+      8 páginas, 201 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Arcoverde
+Ano: 2016
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Arcoverde_2016_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Arcoverde_2016_Agente_Administrativo
+Situação: PUBLICADA (conferida abrindo o PDF)
+
+Observações: Conferido abrindo o PDF: Arcoverde/PE 2016 - Agente Administrativo (o pareamento automatico havia apontado Ouro Preto por engano)

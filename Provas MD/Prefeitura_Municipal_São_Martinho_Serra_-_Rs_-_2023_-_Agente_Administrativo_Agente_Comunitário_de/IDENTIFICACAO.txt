@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 399 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Prefeitura Municipal de São Martinho da - RS - 2024 - Agente Administrativo, Agente Comunitário de.pdf | Prova - Prefeitura Municipal de São Martinho da Serra - RS - 2023 - Agente Administrativo, Agente Comunitário de.pdf
+Detalhe: 96p, 4588KB, GABARITO; 13p, 1511KB, PROVA
+Cidade (provavel): São Martinho da Serra
+Ano: 2023
+Fonte da identificacao: pdf-inteiro (3 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

@@ -1,0 +1,22 @@
+IDENTIFICACAO DA REMESSA — 092 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\092 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Caroebe - 2014 - 2014 - , Onde Representa a.pdf
+      2 páginas, 182 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Caroebe - 2014 - , Onde Representa a.pdf
+      11 páginas, 2712 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Caroebe
+Ano: 2014
+Cargo (capa, conferido): Nivel Medio
+Pasta publicada em Provas MD/: Camara_Caroebe_2014_Nivel_Medio
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Caroebe_2014_Nivel_Medio
+Situação: PUBLICADA (conferida abrindo o PDF)
+
+Observações: Rotulos embaralhados no nome; capa: Caroebe 2014 - Nivel Medio (conferido abrindo o PDF)

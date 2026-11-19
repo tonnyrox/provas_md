@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 354 ID (fila Falta_fazer / remessa_12)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Teresina – - 2012 - Administrador.pdf | Prova - Câmara Municipal de Teresina - 2011 - 2012 - Administrador.pdf
+Detalhe: 11p, 123KB, GABARITO; 12p, 375KB, PROVA
+Cidade (provavel): Teresina
+Ano: 2012
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

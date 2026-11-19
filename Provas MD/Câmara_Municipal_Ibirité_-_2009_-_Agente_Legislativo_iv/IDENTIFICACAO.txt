@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 188 ID (fila Falta_fazer / remessa_04)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Ibirité - 2009 - Agente Legislativo IV.pdf
+Detalhe: 16p, 451KB, PROVA
+Cidade (provavel): Ibirité
+Ano: 2009
+Fonte da identificacao: pdf-inteiro (2 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

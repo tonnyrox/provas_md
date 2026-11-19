@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 274 ID (fila Falta_fazer / remessa_08)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Patos de Minas - Ed.01 2010 - 2010 - Dos Sinais de.pdf | Prova - Câmara Municipal de Patos de Minas[ Caderno 01 - 2000 - Dos Sinais de.pdf
+Detalhe: 7p, 1248KB, GABARITO; 7p, 257KB, PROVA
+Cidade (provavel): Patos de Minas
+Ano: 2000
+Fonte da identificacao: pdf-inteiro (2 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

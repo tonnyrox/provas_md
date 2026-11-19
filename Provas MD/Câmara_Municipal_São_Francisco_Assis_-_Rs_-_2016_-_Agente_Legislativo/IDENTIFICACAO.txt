@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 337 ID (fila Falta_fazer / remessa_11)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de São Francisco de Assis - RS - 2016 - Agente Legislativo.pdf | Prova - Câmara Municipal de São Francisco de Assis - RS - 2016 - Agente Legislativo.pdf
+Detalhe: 1p, 44KB, GABARITO; 8p, 260KB, PROVA
+Cidade (provavel): São Francisco de Assis
+Ano: 2016
+Fonte da identificacao: pdf-inteiro (1 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

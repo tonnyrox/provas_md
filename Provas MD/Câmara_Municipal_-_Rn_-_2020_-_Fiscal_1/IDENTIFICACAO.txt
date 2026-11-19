@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 029 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\029 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal - RN - 2020 - Fiscal.pdf
+      162 páginas, 8311 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal - RN - 2020 - Fiscal.pdf
+      11 páginas, 385 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Sao Jose de Mipibu
+Ano: 2020
+Cargo (capa, conferido): Assistente de Cerimonial
+Pasta publicada em Provas MD/: Camara_Sao_Jose_de_Mipibu_2020_Assistente_de_Cerimonial
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Sao_Jose_de_Mipibu_2020_Assistente_de_Cerimonial
+Situação: PUBLICADA (conferida manualmente)

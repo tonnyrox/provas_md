@@ -1,0 +1,18 @@
+IDENTIFICACAO DA REMESSA — 097 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\097 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Caucaia- – Agente Administrativo – 07 02 2010 - CE - 2010 - Agente Administrativo.pdf
+      12 páginas, 188 KB — conteúdo: GABARITO-E-PROVA
+
+Classificação geral da remessa: GABARITO-E-PROVA
+Órgão (capa, conferido): Caucaia
+Ano: 2010
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Caucaia_2010_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Caucaia_2010_Agente_Administrativo
+Situação: PUBLICADA (capa->banco)

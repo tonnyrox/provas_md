@@ -1,0 +1,8 @@
+IDENTIFICACAO DA REMESSA — 122 ID (fila Falta_fazer / remessa_01)
+Identificacao pelo CONTEUDO dos PDFs (capa e gabarito abertos e conferidos).
+
+PDFs: Gabarito - Câmara Municipal de Estância - SE - 2014 - Atenção do Garçom Com Discrição Se Eu Posso.pdf | Prova - Câmara Municipal de Estância Página 1 - SE - 2013 - Atenção do Garçom Com Discrição Se Eu Posso.pdf
+Prova: Camara_Estancia_2013_Agente_Administrativo_Agente_Legislativo
+Pasta publicada (GitHub, provas_md/Provas MD): Camara_Estancia_2013_Agente_Administrativo_Agente_Legislativo
+Status: PUBLICADA — commit/push em origin/main em 18/11/2026.
+Observacoes: Nome do arquivo truncado ('Atencao do Garcom...'); conteudo confirma Estancia-SE 2013.

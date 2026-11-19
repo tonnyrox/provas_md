@@ -1,0 +1,8 @@
+IDENTIFICACAO DA REMESSA — 123 ID (fila Falta_fazer / remessa_01)
+Identificacao pelo CONTEUDO dos PDFs (capa e gabarito abertos e conferidos).
+
+PDFs: Gabarito - Câmara Municipal de Feira de Santana - 2018 - Analista de Sistemas em Rede.pdf | Prova - Câmara Municipal de Feira de Santana - 2018 - Analista de Sistemas em Rede (2).pdf
+Prova: Camara_Feira_de_Santana_2018_Analista_de_Sistemas_em_Rede
+Pasta publicada (GitHub, provas_md/Provas MD): Camara_Feira_de_Santana_2018_Analista_de_Sistemas_em_Rede
+Status: PUBLICADA — commit/push em origin/main em 18/11/2026.
+Observacoes: Gabarito multi-cargo IBFC regravado do bloco Analista de Sistema em Redes (40/40).

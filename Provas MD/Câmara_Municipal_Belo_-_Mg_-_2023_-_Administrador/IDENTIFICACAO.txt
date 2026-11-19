@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 064 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\064 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Belo Horizonte - MG - 2023 - Administrador.pdf
+      68 páginas, 7772 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Belo - MG - 2023 - Administrador.pdf
+      24 páginas, 1127 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Belo Horizonte
+Ano: 2023
+Cargo (capa, conferido): Administrador
+Pasta publicada em Provas MD/: Camara_Belo_Horizonte_2023_Administrador
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Belo_Horizonte_2023_Administrador
+Situação: PUBLICADA (capa->banco)

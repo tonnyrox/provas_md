@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 055 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\055 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Araraquara - 2016 - Ibfc_04 - Assistente de Arquivo (2).pdf
+      10 páginas, 680 KB — conteúdo: INDEFINIDO
+  PDF 2. prova.pdf
+      10 páginas, 6727 KB — conteúdo: INDEFINIDO
+
+Classificação geral da remessa: INDEFINIDO
+Órgão (capa, conferido): Araraquara
+Ano: 2016
+Cargo (capa, conferido): Assistente de Cerimonial
+Pasta publicada em Provas MD/: Camara_Araraquara_2016_Assistente_de_Cerimonial
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Araraquara_2016_Assistente_de_Cerimonial
+Situação: PUBLICADA (conferida manualmente)

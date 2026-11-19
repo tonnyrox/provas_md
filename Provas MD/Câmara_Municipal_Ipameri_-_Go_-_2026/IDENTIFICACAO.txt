@@ -1,0 +1,18 @@
+IDENTIFICACAO DA REMESSA — 001 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\001 ID
+
+PDFs desta remessa:
+  PDF 1. prova - Câmara Municipal de Ipameri - GO - 2026.pdf
+      12 páginas, 1502 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA
+Órgão (capa, conferido): Ipameri
+Ano: 2026
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Ipameri_2026_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Ipameri_2026_Agente_Administrativo
+Situação: PUBLICADA (capa->banco)

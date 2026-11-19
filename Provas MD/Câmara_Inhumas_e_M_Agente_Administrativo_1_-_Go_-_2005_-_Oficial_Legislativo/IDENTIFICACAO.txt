@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 007 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\007 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Inhumas - GO - 2005 - Oficial Legislativo.pdf
+      2 páginas, 182 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara de Inhumas . E.m. Agente Administrativo. 1 - GO - 2005 - Oficial Legislativo.pdf
+      5 páginas, 334 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Inhumas
+Ano: 2005
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Inhumas_2005_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Inhumas_2005_Agente_Administrativo
+Situação: PUBLICADA (capa->banco)

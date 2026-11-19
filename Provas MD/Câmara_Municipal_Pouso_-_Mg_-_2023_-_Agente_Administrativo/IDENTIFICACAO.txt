@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 287 ID (fila Falta_fazer / remessa_09)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Pouso - MG - 2023 - Agente Administrativo.pdf | Prova - Câmara Municipal de Pouso - MG - 2023 - Agente Administrativo.pdf
+Detalhe: 13p, 172KB, GABARITO; 16p, 1698KB, PROVA
+Cidade (provavel): Pouso Alegre
+Ano: 2023
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

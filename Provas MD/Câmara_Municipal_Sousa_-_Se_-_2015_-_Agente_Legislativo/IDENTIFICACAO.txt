@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 330 ID (fila Falta_fazer / remessa_11)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Sousa - SE - 2015 - Agente Legislativo.pdf | Prova - Câmara Municipal de Sousa - SE - 2015 - Agente Legislativo.pdf
+Detalhe: 5p, 204KB, GABARITO; 8p, 597KB, INDEFINIDO
+Cidade (provavel): Sousa
+Ano: 2015
+Fonte da identificacao: pdf-inteiro (2 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

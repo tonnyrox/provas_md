@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 009 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\009 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara de Serra Talhada - PE - 2018 - Agente Administrativo(a).pdf
+      8 páginas, 158 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara de Serra Talhada - PE - 2018 - Agente Administrativo(a).pdf
+      9 páginas, 151 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Serra Talhada
+Ano: 2018
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Serra_Talhada_2018_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Serra_Talhada_2018_Agente_Administrativo
+Situação: PUBLICADA (capa->banco)

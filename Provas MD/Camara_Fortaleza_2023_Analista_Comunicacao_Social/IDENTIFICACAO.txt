@@ -1,0 +1,8 @@
+IDENTIFICACAO DA REMESSA — 126 ID (fila Falta_fazer / remessa_01)
+Identificacao pelo CONTEUDO dos PDFs (capa e gabarito abertos e conferidos).
+
+PDFs: Gabarito - Câmara Municipal de Fortaleza - 2024 - , Cor e.pdf | Prova - Câmara Municipal de Fortaleza - 2023 - , Cor e.pdf
+Prova: Camara_Fortaleza_2023_Analista_de_Comunicacao_Social
+Pasta publicada (GitHub, provas_md/Provas MD): Camara_Fortaleza_2023_Analista_de_Comunicacao_Social
+Status: PUBLICADA — commit/push em origin/main em 18/11/2026.
+Observacoes: Gabarito FGV (cabecalho so com numero); conferido 70/70.

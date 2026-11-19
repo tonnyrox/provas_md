@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 006 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\006 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara de Igarapé-açu - PA - 2024 - Agente Administrativo - Tarde.pdf
+      1 páginas, 119 KB — conteúdo: GABARITO
+  PDF 2. Prova - Câmara de Igarapé-açu - PA - 2024 - Agente Administrativo - Tarde.pdf
+      12 páginas, 409 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA + GABARITO
+Órgão (capa, conferido): Igarapeacu
+Ano: 2024
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Igarapeacu_2024_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Igarapeacu_2024_Agente_Administrativo
+Situação: PUBLICADA (conferida manualmente)

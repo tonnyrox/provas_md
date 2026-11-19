@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 095 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\095 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Caucaia – - CE - 2024 - Agente Administrativo do Legislativo.pdf
+      2 páginas, 145 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Caucaia - CE - 2024 - Agente Administrativo do Legislativo.pdf
+      8 páginas, 618 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Caucaia
+Ano: 2024
+Cargo (capa, conferido): Agente Administrativo do Legislativo
+Pasta publicada em Provas MD/: Camara_Caucaia_2024_Agente_Administrativo_do_Legislativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Caucaia_2024_Agente_Administrativo_do_Legislativo
+Situação: PUBLICADA (capa->banco)

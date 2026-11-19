@@ -1,0 +1,22 @@
+IDENTIFICACAO DA REMESSA — 018 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\018 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Catas Altas - MG.pdf
+      1 páginas, 234 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal.pdf
+      12 páginas, 245 KB — conteúdo: INDEFINIDO
+
+Classificação geral da remessa: INDEFINIDO
+Órgão (capa, conferido): Catas Altas da Noruega
+Ano: 2010
+Cargo (capa, conferido): Agente Legislativo
+Pasta publicada em Provas MD/: Camara_Catas_Altas_da_Noruega_2010_Agente_Legislativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Catas_Altas_da_Noruega_2010_Agente_Legislativo
+Situação: PUBLICADA (conferida manualmente)
+
+Observações: Conferido abrindo o PDF: Catas Altas da Noruega 2010

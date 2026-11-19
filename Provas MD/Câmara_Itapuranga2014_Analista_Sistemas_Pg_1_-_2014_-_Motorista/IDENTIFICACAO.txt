@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 008 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\008 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara de Itapuranga2014 analista de Sistemas Pg. 1 - 2014 - Motorista.pdf
+      3 páginas, 274 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara de Itapuranga2014 analista de Sistemas Pg. 1 - 2014 - Motorista.pdf
+      11 páginas, 672 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Itapuranga
+Ano: 2014
+Cargo (capa, conferido): Analista de Sistemas
+Pasta publicada em Provas MD/: Camara_Itapuranga_2014_Analista_de_Sistemas
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Itapuranga_2014_Analista_de_Sistemas
+Situação: PUBLICADA (capa->banco)

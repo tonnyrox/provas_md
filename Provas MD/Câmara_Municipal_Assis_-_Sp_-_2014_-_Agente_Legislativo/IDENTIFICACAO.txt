@@ -1,0 +1,22 @@
+IDENTIFICACAO DA REMESSA — 061 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\061 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Assis - SP - 2014 - Prova - Agente Legislativo.pdf
+      5 páginas, 218 KB — conteúdo: GABARITO
+  PDF 2. Prova - Câmara Municipal de Assis - SP - 2014 - Prova - Agente Legislativo.pdf
+      11 páginas, 1018 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA + GABARITO
+Órgão (capa, conferido): Assis (SP)
+Ano: 2014
+Cargo (capa, conferido): Agente Legislativo
+Pasta publicada em Provas MD/: Camara_Asis_2014_Agente_Legislativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Asis_2014_Agente_Legislativo
+Situação: PUBLICADA (conferida abrindo o PDF)
+
+Observações: Conferido abrindo o PDF: Camara de Assis/SP, Edital 008/2014 - Agente Legislativo. Publicada com a grafia ERRADA no nome da pasta: "Asis" (correto seria "Assis"); por isso o pareamento sofreu confusao com Bom Jesus/Sao Tome

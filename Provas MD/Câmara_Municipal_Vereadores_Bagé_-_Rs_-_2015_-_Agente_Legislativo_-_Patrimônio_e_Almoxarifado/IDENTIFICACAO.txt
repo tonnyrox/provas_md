@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 370 ID (fila Falta_fazer / remessa_13)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Vereadores de Bagé - RS - 2015 - Agente Legislativo - Patrimônio e Almoxarifado.pdf | Prova - Câmara Municipal de Vereadores de Bagé - RS - 2015 - Agente Legislativo - Patrimônio e Almoxarifado.pdf
+Detalhe: 9p, 141KB, GABARITO; 12p, 293KB, PROVA
+Cidade (provavel): Bagé
+Ano: 2015
+Fonte da identificacao: pdf-inteiro (3 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

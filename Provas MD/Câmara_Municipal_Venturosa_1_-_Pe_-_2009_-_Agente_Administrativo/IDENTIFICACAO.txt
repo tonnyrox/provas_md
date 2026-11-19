@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 367 ID (fila Falta_fazer / remessa_13)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara de Vereadores de Venturosa - PE - 2009 - Agente Administrativo.pdf | Prova - Câmara Municipal de Venturosa 1 - PE - 2009 - Agente Administrativo.pdf
+Detalhe: 1p, 17KB, GABARITO; 5p, 258KB, PROVA
+Cidade (provavel): Venturosa
+Ano: 2009
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

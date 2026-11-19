@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 049 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\049 ID
+
+PDFs desta remessa:
+  PDF 1. gabarito.pdf
+      1 páginas, 970 KB — conteúdo: GABARITO
+  PDF 2. prova.pdf
+      12 páginas, 11645 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA + GABARITO
+Órgão (capa, conferido): Alvorada
+Ano: 2008
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Alvorada_2008_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Alvorada_2008_Agente_Administrativo
+Situação: PUBLICADA (conferida manualmente)

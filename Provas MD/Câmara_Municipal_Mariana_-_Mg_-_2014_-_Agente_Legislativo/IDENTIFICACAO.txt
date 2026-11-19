@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 238 ID (fila Falta_fazer / remessa_07)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Mariana - MG - 2013 -  Agente Legislativo.pdf | Prova - Câmara Municipal de Mariana – - MG - 2014 -  Agente Legislativo.pdf
+Detalhe: 6p, 174KB, GABARITO; 20p, 524KB, PROVA
+Cidade (provavel): Mariana
+Ano: 2014
+Fonte da identificacao: pdf-inteiro (1 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

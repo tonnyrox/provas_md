@@ -1,0 +1,22 @@
+IDENTIFICACAO DA REMESSA — 104 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\104 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Clevelândia - Paraná - PA - 2011 - Agente Administrativo II.pdf
+      1 páginas, 63 KB — conteúdo: GABARITO
+  PDF 2. Prova - Câmara Municipal de Clevelândia - PA - 2010 - Agente Administrativo II.pdf
+      10 páginas, 107 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA + GABARITO
+Órgão (capa, conferido): Clevelandia
+Ano: 2011
+Cargo (capa, conferido): Agente Administrativo II
+Pasta publicada em Provas MD/: Camara_Clevelandia_2011_Agente_Administrativo_II
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Clevelandia_2011_Agente_Administrativo_II
+Situação: PUBLICADA (capa->banco)
+
+Observações: Nome diz "PA - 2010"; capa: Edital 001/2011, Clevelandia - Agente Administrativo II (conferido abrindo o PDF)

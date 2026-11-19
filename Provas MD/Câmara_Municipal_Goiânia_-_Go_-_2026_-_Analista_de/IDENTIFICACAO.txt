@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 148 ID (fila Falta_fazer / remessa_02)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Analista de.pdf | Prova - Câmara Municipal de Goiânia - GO - 2026 - Analista de.pdf
+Detalhe: 1p, 137KB, GABARITO; 16p, 734KB, PROVA
+Cidade (provavel): Goiânia
+Ano: 2026
+Fonte da identificacao: pdf-inteiro (5 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

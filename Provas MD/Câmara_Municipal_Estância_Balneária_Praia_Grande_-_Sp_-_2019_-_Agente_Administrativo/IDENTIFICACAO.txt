@@ -1,0 +1,22 @@
+IDENTIFICACAO DA REMESSA — 037 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\037 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal da Estância Balneária de Praia Grande - SP - 2019 - Agente Administrativo.pdf
+      1 páginas, 66 KB — conteúdo: GABARITO
+  PDF 2. Prova - Câmara Municipal da Estância Balneária de Praia Grande - SP - 2019 - Agente Administrativo.pdf
+      8 páginas, 288 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA + GABARITO
+Órgão (capa, conferido): Praia Grande
+Ano: 2019
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Praia_Grande_2019_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Praia_Grande_2019_Agente_Administrativo
+Situação: PUBLICADA (conferida manualmente)
+
+Observações: conteudo repetido do mesmo concurso, remessa(s) 035, 036

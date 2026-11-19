@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 275 ID (fila Falta_fazer / remessa_08)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Patos de Minas - Ed.01 2010 - 2010 - Agente Administrativo.pdf | Prova - Câmara Municipal de Patos de Minas[ Caderno 07 - 2004 - Agente Administrativo.pdf
+Detalhe: 7p, 1248KB, GABARITO; 8p, 257KB, PROVA
+Cidade (provavel): Patos de Minas
+Ano: 2004
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

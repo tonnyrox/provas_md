@@ -1,0 +1,22 @@
+IDENTIFICACAO DA REMESSA — 002 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\002 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Araripina - PE - 2024 - 'modo Deus' Permite aos.pdf
+      2 páginas, 122 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara de Araripina () - Grupo 02 - PE - 2020 - 'modo Deus' Permite aos.pdf
+      8 páginas, 258 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Araripina
+Ano: 2020
+Cargo (capa, conferido): Agente Administrativo Grupo 02
+Pasta publicada em Provas MD/: Camara_Araripina_2020_Agente_Administrativo_Grupo_02
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Araripina_2020_Agente_Administrativo_Grupo_02
+Situação: PUBLICADA (conferida manualmente)
+
+Observações: Gabarito oficial ausente do acervo (publicada sem gabarito)

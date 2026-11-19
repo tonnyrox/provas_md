@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 224 ID (fila Falta_fazer / remessa_06)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Lorena - SP - 2023 - Assistente de Cerimonial (2).pdf
+Detalhe: 9p, 337KB, PROVA
+Cidade (provavel): Lorena
+Ano: 2023
+Fonte da identificacao: pdf-inteiro (1 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

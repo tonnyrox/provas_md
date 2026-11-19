@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 388 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Viçosa - SE - 2025 - Contador.pdf | provas.pdf
+Detalhe: 6p, 152KB, GABARITO; 26p, 1009KB, PROVA
+Cidade (provavel): Viçosa-MG
+Ano: 2025
+Fonte da identificacao: pdf-inteiro (5 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

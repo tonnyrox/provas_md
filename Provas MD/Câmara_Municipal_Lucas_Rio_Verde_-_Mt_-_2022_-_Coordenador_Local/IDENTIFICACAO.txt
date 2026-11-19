@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 225 ID (fila Falta_fazer / remessa_06)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Lucas do RIO Verde - MT - 2022 - Coordenador do Local.pdf | Prova - Câmara Municipal de Lucas do RIO Verde – - MT - 2022 - Coordenador do Local.pdf
+Detalhe: 5p, 571KB, GABARITO; 7p, 728KB, PROVA
+Cidade (provavel): Lucas do Rio Verde (MT)
+Ano: 2022
+Fonte da identificacao: pdf-inteiro (4 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+Observacoes: Conferido abrindo o PDF: Camara de Lucas do Rio Verde/MT, Edital 001/2022 (gabarito Vigia/Zelador + prova Agente Administrativo, q18 anulada). "SAPEZAL" no cabecalho e marca d agua da banca, ignorado
+Status de trabalho: CONFERIDO-ABRINDO-O-PDF; INEDITA-PRONTA-PARA-PROCESSAR

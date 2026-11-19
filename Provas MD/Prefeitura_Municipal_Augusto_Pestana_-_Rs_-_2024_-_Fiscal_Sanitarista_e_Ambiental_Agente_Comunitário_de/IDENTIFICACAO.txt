@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 396 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Augusto Pestana - RS - 2024 - Fiscal Sanitarista e Ambiental, Agente Comunitário de.pdf | Prova - Prefeitura Municipal de Augusto Pestana - RS - 2024 - Fiscal Sanitarista e Ambiental, Agente Comunitário de.pdf
+Detalhe: 58p, 2786KB, GABARITO; 12p, 1195KB, PROVA
+Cidade (provavel): Augusto Pestana
+Ano: 2024
+Fonte da identificacao: pdf-inteiro (3 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+Observacoes: Augusto Pestana/RS 2024: Fiscal Sanitarista e Ambiental + Agente Comunitario
+Status de trabalho: CONFERIDO-ABRINDO-O-PDF; INEDITA-PRONTA-PARA-PROCESSAR

@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 210 ID (fila Falta_fazer / remessa_05)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Jambeiro 01 2014 - AC - 2014 - Agente Administrativo.pdf | Prova - Câmara Municipal de Jambeiro 01 2014 - AC - 2013 - Agente Administrativo.pdf
+Detalhe: 7p, 102KB, GABARITO; 4p, 1301KB, GABARITO
+Cidade (provavel): Jambeiro
+Ano: 2014
+Fonte da identificacao: pdf-inteiro (1 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

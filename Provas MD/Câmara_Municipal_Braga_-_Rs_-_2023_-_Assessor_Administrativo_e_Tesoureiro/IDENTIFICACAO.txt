@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 073 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\073 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Braga - RS - 2023 - Assessor Administrativo e Tesoureiro.pdf
+      64 páginas, 2928 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Braga - RS - 2023 - Assessor Administrativo e Tesoureiro.pdf
+      13 páginas, 1726 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Braga
+Ano: 2023
+Cargo (capa, conferido): Assessor Administrativo e Tesoureiro
+Pasta publicada em Provas MD/: Camara_Braga_2023_Assessor_Administrativo_e_Tesoureiro
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Braga_2023_Assessor_Administrativo_e_Tesoureiro
+Situação: PUBLICADA (capa->banco)

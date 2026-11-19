@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 372 ID (fila Falta_fazer / remessa_13)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Ermo - SC - 2023 - Agente Legislativo.pdf | Prova - Câmara Municipal de Vereadores de Ermo - SC - 2023 - Agente Legislativo.pdf
+Detalhe: 1p, 50KB, GABARITO; 7p, 121KB, PROVA
+Cidade (provavel): Vereadores De Ermo
+Ano: 2023
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

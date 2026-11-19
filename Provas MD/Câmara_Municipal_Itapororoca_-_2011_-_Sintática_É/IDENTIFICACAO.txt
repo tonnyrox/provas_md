@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 203 ID (fila Falta_fazer / remessa_05)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Itapororoca - 2011 - Sintática É.pdf | Prova - Câmara Municipal de Itapororoca - 2011 - Sintática É.pdf
+Detalhe: 2p, 76KB, GABARITO; 8p, 2779KB, PROVA
+Cidade (provavel): Itapororoca-PB
+Ano: 2011
+Fonte da identificacao: pdf-inteiro (5 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

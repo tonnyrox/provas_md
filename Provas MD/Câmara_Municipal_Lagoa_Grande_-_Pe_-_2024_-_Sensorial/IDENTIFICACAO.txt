@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 218 ID (fila Falta_fazer / remessa_06)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Lagoa Grande - PE - 2024 - Sensorial.pdf | Prova - Câmara Municipal de Lagoa Grande – - PE - 2024 - Sensorial.pdf
+Detalhe: 1p, 140KB, GABARITO; 7p, 292KB, GABARITO
+Cidade (provavel): Lagoa Grande
+Ano: 2024
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

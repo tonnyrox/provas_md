@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 381 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Camara de Tramandai RS 2023 - Agente Administrativo e Financeiro (Objetiva-qconcursos).pdf | Prova - Câmara Municipal de Vereadores de Tramandaí - RS - 2023 - Agente Administrativo e Financeiro.pdf
+Detalhe: 2p, 229KB, PROVA; 8p, 286KB, PROVA
+Cidade (provavel): Tramandaí (RS)
+Ano: 2023
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+Observacoes: Conferido abrindo o PDF: Camara Municipal de Vereadores de Tramandai/RS, CP 001/2023 Edital 006/2023 (Agente Administrativo e Financeiro + Auxiliar Legislativo); gabarito preliminar + resultado
+Status de trabalho: CONFERIDO-ABRINDO-O-PDF; INEDITA-PRONTA-PARA-PROCESSAR

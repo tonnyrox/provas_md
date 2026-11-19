@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 106 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\106 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Conde - PB - 2030 - Agente Administrativo - Agente de Segurança.pdf
+      15 páginas, 1582 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA
+Órgão (capa, conferido): Conde
+Ano: 2022
+Cargo (capa, conferido): Nivel Fundamental Completo
+Pasta publicada em Provas MD/: Camara_Conde_2022_Nivel_Fundamental_Completo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Conde_2022_Nivel_Fundamental_Completo
+Situação: PUBLICADA (conferida manualmente)
+
+Observações: Nome diz ano "2030"; capa: Conde 2022 - Nivel Fundamental Completo; gabarito oficial ausente do acervo

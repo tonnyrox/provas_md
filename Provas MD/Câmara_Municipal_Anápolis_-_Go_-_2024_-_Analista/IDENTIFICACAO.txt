@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 051 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\051 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Anápolis – - GO - 2024 - Analista.pdf
+      17 páginas, 5975 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Anápolis – - GO - 2024 - Analista.pdf
+      17 páginas, 886 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Anapolis
+Ano: 2024
+Cargo (capa, conferido): Analista de Sistemas
+Pasta publicada em Provas MD/: Camara_Anapolis_2024_Analista_de_Sistemas
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Anapolis_2024_Analista_de_Sistemas
+Situação: PUBLICADA (capa->banco)

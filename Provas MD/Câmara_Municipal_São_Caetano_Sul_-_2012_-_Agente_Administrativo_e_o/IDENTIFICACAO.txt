@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 334 ID (fila Falta_fazer / remessa_11)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de São Caetano do Sul - 2012 - Agente Administrativo e o.pdf | Prova - Câmara Municipal de São Caetano do SUL - 2012 - Agente Administrativo e o.pdf
+Detalhe: 3p, 90KB, GABARITO; 7p, 101KB, PROVA
+Cidade (provavel): São Caetano Do Sul
+Ano: 2012
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

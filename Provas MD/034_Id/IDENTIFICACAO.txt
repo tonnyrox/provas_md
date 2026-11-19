@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 034 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\034 ID
+
+PDFs desta remessa:
+  PDF 1. gabarito.pdf
+      1 páginas, 135 KB — conteúdo: GABARITO
+  PDF 2. prova.pdf
+      18 páginas, 2441 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA + GABARITO
+Órgão (capa, conferido): -
+Ano: -
+Cargo (capa, conferido): Ouro Preto Agente Legislativo II
+Pasta publicada em Provas MD/: Camara_Ouro_Preto_Agente_Legislativo_II
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Ouro_Preto_Agente_Legislativo_II
+Situação: PUBLICADA (conferida manualmente)

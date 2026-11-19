@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 368 ID (fila Falta_fazer / remessa_13)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Vereadores - SC - 2023 - Agente Legislativo.pdf | Prova - Câmara Municipal de Vereadores Concórdia – - SC - 2023 - Agente Legislativo.pdf
+Detalhe: 2p, 250KB, GABARITO; 11p, 209KB, PROVA
+Cidade (provavel): Concórdia
+Ano: 2023
+Fonte da identificacao: pdf-inteiro (7 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

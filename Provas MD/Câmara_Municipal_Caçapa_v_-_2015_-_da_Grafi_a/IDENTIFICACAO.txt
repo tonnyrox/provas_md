@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 098 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\098 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Caçapava, Divulga o - 2015 - Da Grafi a.pdf
+      1 páginas, 161 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Caçapa V a - 2015 - Da Grafi a.pdf
+      16 páginas, 1322 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Cacapava
+Ano: 2015
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Cacapava_2015_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Cacapava_2015_Agente_Administrativo
+Situação: PUBLICADA (capa->banco)

@@ -1,0 +1,8 @@
+IDENTIFICACAO DA REMESSA — 131 ID (fila Falta_fazer / remessa_01)
+Identificacao pelo CONTEUDO dos PDFs (capa e gabarito abertos e conferidos).
+
+PDFs: Gabarito - Câmara Municipal de Gameleira de Goiás - GO - 2026 - Agente.pdf | Prova - Câmara Municipal de Gameleira de Goiás - GO - 2026 - Agente.pdf
+Prova: Prefeitura_e_Camara_Gameleira_de_Goias_2026_Agente_Administrativo
+Pasta publicada (GitHub, provas_md/Provas MD): Prefeitura_e_Camara_Gameleira_de_Goias_2026_Agente_Administrativo
+Status: PUBLICADA — commit/push em origin/main em 18/11/2026.
+Observacoes: Ano conforme capa/edital (2026).

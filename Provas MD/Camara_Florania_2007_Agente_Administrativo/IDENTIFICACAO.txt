@@ -1,0 +1,12 @@
+IDENTIFICACAO DA REMESSA — 125 ID (fila Falta_fazer / remessa_01)
+Identificacao pelo CONTEUDO dos PDFs (capa e gabarito abertos e conferidos).
+
+PDFs: Gabarito - Câmara Municipal de Florânia - RN - 2007 - Agente Administrativo (2).pdf
+Prova: Camara_Florania_2007_Agente_Administrativo
+Pasta publicada (GitHub, provas_md/Provas MD): Camara_Florania_2007_Agente_Administrativo
+Status: PUBLICADA — commit/push em origin/main em 18/11/2026.
+
+Atualização 19/11/2026 (auditoria estrutural): prova reconstruída conforme ESTE PDF —
+questões 31-40 restabelecidas, materiais religados, figura da q18 extraída
+(imagens/imagem_001.png), q18/q20/q22/q28/q29/q30 recompostas pela digitalização.
+Relatório em prova_organizada.md (seção 4) e relatorio_analise.md.

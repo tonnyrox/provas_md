@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 069 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\069 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de BOA Viagem – – Agente Administrativo – 31 01 2016 - CE - 2016 - Agente Administrativo.pdf
+      9 páginas, 756 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA
+Órgão (capa, conferido): Boa Viagem
+Ano: 2016
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Boa_Viagem_2016_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Boa_Viagem_2016_Agente_Administrativo
+Situação: PUBLICADA (conferida manualmente)
+
+Observações: Rotulo "Gabarito" no nome, conteudo e a prova de Boa Viagem 2016; gabarito oficial ausente do acervo

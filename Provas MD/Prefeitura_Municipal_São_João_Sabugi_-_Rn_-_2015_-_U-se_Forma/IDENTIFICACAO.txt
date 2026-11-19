@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 398 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Prefeitura Municipal de São João do Sabugi - RN - 2015 - U-se a Forma.pdf
+Detalhe: 44p, 971KB, GABARITO
+Cidade (provavel): São João do Sabugi Gabarito Advogado www
+Ano: 2015
+Fonte da identificacao: pdf-inteiro (14 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

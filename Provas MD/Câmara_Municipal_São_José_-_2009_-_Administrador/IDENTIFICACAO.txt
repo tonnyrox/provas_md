@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 339 ID (fila Falta_fazer / remessa_12)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Prova - Câmara Municipal de São José - 2009 - – Administrador.pdf
+Detalhe: 15p, 280KB, PROVA
+Cidade (provavel): São José Dos Pinhais
+Ano: 2009
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

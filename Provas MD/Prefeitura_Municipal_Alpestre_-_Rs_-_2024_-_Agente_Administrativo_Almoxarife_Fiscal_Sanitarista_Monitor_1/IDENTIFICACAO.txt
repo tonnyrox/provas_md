@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 395 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Prefeitura Municipal de Alpestre - RS - 2024 - Agente Administrativo, Almoxarife, Fiscal Sanitarista, Monitor.pdf | Prova - Prefeitura Municipal de Alpestre - RS - 2024 - Agente Administrativo, Almoxarife, Fiscal Sanitarista, Monitor.pdf
+Detalhe: 60p, 2860KB, GABARITO; 12p, 1035KB, PROVA
+Cidade (provavel): Alpestre
+Ano: 2024
+Fonte da identificacao: pdf-inteiro (5 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+Observacoes: Duplicata do concurso unificado Alpestre/RS 2024 (idem 394)
+Status de trabalho: CONFERIDO-ABRINDO-O-PDF; CONFERIR-DUPLICATA de 394 ID

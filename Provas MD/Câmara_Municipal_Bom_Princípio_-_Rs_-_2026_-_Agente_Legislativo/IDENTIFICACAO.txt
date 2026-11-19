@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 071 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\071 ID
+
+PDFs desta remessa:
+  PDF 1. Prova - Câmara Municipal de Bom Princípio - RS - 2026 - Agente Legislativo.pdf
+      9 páginas, 8370 KB — conteúdo: GABARITO
+
+Classificação geral da remessa: GABARITO
+Órgão (capa, conferido): Bom Principio
+Ano: 2026
+Cargo (capa, conferido): Agente Legislativo
+Pasta publicada em Provas MD/: Camara_Bom_Principio_2026_Agente_Legislativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Bom_Principio_2026_Agente_Legislativo
+Situação: PUBLICADA (conferida manualmente)
+
+Observações: Prova de Bom Principio 2026; gabarito oficial ausente do acervo

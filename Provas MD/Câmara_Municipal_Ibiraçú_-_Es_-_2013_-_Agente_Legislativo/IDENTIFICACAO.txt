@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 185 ID (fila Falta_fazer / remessa_04)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Ibiraçu - ES - 2013 - Agente Legislativo.pdf | Prova - Câmara Municipal de Ibiraçú - ES - 2013 - Agente Legislativo.pdf
+Detalhe: 2p, 68KB, GABARITO; 8p, 182KB, PROVA
+Cidade (provavel): Ibiraçu
+Ano: 2013
+Fonte da identificacao: pdf-inteiro (3 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

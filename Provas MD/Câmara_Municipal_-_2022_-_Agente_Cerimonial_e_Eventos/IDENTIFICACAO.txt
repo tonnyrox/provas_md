@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 019 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\019 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal - 2022 - Agente de Cerimonial e Eventos.pdf
+      20 páginas, 149 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal - 2022 - Agente de Cerimonial e Eventos.pdf
+      12 páginas, 270 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Goiana
+Ano: 2022
+Cargo (capa, conferido): Agente de Cerimonial e Eventos
+Pasta publicada em Provas MD/: Camara_Goiana_2022_Agente_de_Cerimonial_e_Eventos
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Goiana_2022_Agente_de_Cerimonial_e_Eventos
+Situação: PUBLICADA (conferida manualmente)

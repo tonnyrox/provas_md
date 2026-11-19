@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 077 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\077 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Campina Grande - PB - 2019 - Assessor Técnico Legislativo I.pdf
+      6 páginas, 513 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Campina Grande - PB - 2018 - Assessor Técnico Legislativo I.pdf
+      18 páginas, 2092 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Campina Grande
+Ano: 2018
+Cargo (capa, conferido): Assessor Tecnico Legislativo I
+Pasta publicada em Provas MD/: Camara_Campina_Grande_2018_Assessor_Tecnico_Legislativo_I
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Campina_Grande_2018_Assessor_Tecnico_Legislativo_I
+Situação: PUBLICADA (capa->banco)

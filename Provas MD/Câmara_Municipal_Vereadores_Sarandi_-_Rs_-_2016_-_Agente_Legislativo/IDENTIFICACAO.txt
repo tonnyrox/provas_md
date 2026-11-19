@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 379 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Sarandi - RS - 2020 - Agente Legislativo.pdf | Prova - Câmara Municipal de Vereadores de Sarandi - RS - 2016 - Agente Legislativo.pdf
+Detalhe: 6p, 278KB, GABARITO; 11p, 1155KB, PROVA
+Cidade (provavel): Sarandi
+Ano: 2016
+Fonte da identificacao: pdf-inteiro (5 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

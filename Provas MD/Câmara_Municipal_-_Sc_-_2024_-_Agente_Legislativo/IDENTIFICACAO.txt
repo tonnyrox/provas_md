@@ -1,0 +1,22 @@
+IDENTIFICACAO DA REMESSA — 032 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\032 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal - SC - 2024 - Agente Legislativo.pdf
+      2 páginas, 273 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal - SC - 2024 - Agente Legislativo.pdf
+      12 páginas, 849 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Carmo do Rio Verde
+Ano: 2024
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Prefeitura_Carmo_do_Rio_Verde_2024_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Prefeitura_Carmo_do_Rio_Verde_2024_Agente_Administrativo
+Situação: PUBLICADA (conferida manualmente)
+
+Observações: conteudo repetido do mesmo concurso, remessa(s) 023

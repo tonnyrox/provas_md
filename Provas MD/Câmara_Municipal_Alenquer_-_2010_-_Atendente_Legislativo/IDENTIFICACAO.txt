@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 046 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\046 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Alenquer - 2010 - Atendente Legislativo.pdf
+      7 páginas, 197 KB — conteúdo: GABARITO
+  PDF 2. Prova - Câmara Municipal de Alenquer - 2010 - Atendente Legislativo.pdf
+      11 páginas, 207 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA + GABARITO
+Órgão (capa, conferido): Alenquer
+Ano: 2010
+Cargo (capa, conferido): Atendente Legislativo
+Pasta publicada em Provas MD/: Camara_Alenquer_2010_Atendente_Legislativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Alenquer_2010_Atendente_Legislativo
+Situação: PUBLICADA (capa->banco)

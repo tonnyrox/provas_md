@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 272 ID (fila Falta_fazer / remessa_08)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Pará de Minas - 2017 - Agente Legislativo.pdf | Prova - Câmara Municipal de Pará de Minas - 2016 - Agente Legislativo.pdf
+Detalhe: 5p, 125KB, GABARITO; 28p, 833KB, GABARITO
+Cidade (provavel): Pará de Minas (MG)
+Ano: 2016
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

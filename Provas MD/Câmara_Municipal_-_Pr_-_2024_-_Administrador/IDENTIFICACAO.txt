@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 027 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\027 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal - PR - 2024 - Administrador.pdf
+      3 páginas, 176 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal - PR - 2024 - Administrador.pdf
+      9 páginas, 296 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Sao Joao do Triunfo
+Ano: 2024
+Cargo (capa, conferido): Administrador
+Pasta publicada em Provas MD/: Camara_Sao_Joao_do_Triunfo_2024_Administrador
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Sao_Joao_do_Triunfo_2024_Administrador
+Situação: PUBLICADA (conferida manualmente)

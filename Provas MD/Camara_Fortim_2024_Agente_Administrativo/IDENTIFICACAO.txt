@@ -1,0 +1,8 @@
+IDENTIFICACAO DA REMESSA — 128 ID (fila Falta_fazer / remessa_01)
+Identificacao pelo CONTEUDO dos PDFs (capa e gabarito abertos e conferidos).
+
+PDFs: Gabarito - Câmara Municipal de Fortim – - CE - 2024 - Agente Administrativo.pdf | Prova - Câmara Municipal de Fortim – - RS - 2023 - Agente Administrativo.pdf
+Prova: Camara_Fortim_2024_Agente_Administrativo
+Pasta publicada (GitHub, provas_md/Provas MD): Camara_Fortim_2024_Agente_Administrativo
+Status: PUBLICADA — commit/push em origin/main em 18/11/2026.
+Observacoes: Identificado abrindo o PDF: Camara Municipal de FORTIM-CE, edital 001/2024 (ICECE); o nome do arquivo da prova com 'RS - 2023' esta errado; gabarito definitivo de 15/10/2024; gabarito multi-cargo regravado do bloco AGENTE ADMINISTRATIVO (40/40).

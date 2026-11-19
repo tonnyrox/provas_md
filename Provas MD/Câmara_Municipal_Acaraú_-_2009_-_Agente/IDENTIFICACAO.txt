@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 045 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\045 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Acaraú - 2009 - Agente.pdf
+      2 páginas, 137 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Acaraú - 2009 - Agente.pdf
+      8 páginas, 181 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Acarau
+Ano: 2009
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Acarau_2009_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Acarau_2009_Agente_Administrativo
+Situação: PUBLICADA (conferida manualmente)

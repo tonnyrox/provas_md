@@ -1,0 +1,22 @@
+IDENTIFICACAO DA REMESSA — 078 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\078 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Campo Mourão - PA - 2000 - S Públicos.pdf
+      2 páginas, 51 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Campo Mourão - PA - 2000 - S Públicos.pdf
+      6 páginas, 133 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Campo Mourao
+Ano: 2006
+Cargo (capa, conferido): Agente Administrativo
+Pasta publicada em Provas MD/: Camara_Campo_Mourao_2006_Agente_Administrativo
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Campo_Mourao_2006_Agente_Administrativo
+Situação: PUBLICADA (conferida manualmente)
+
+Observações: Nome antigo do site; capa: Edital 2006, Campo Mourao

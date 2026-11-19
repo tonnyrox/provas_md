@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 235 ID (fila Falta_fazer / remessa_06)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Marialva - PA - 2015 - Atendente Legislativo.pdf | Prova - Câmara Municipal de Marialva - PA - 2015 - Atendente Legislativo.pdf
+Detalhe: 4p, 181KB, GABARITO; 7p, 308KB, PROVA
+Cidade (provavel): Marialva
+Ano: 2015
+Fonte da identificacao: pdf-inteiro (3 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 387 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Vitória do - ES - 2008 - Analista em Gestão Pública Administrador.pdf | Prova - Câmara Municipal de Vitória do - ES - 2008 - Analista em Gestão Pública Administrador.pdf
+Detalhe: 4p, 73KB, PROVA; 10p, 472KB, PROVA
+Cidade (provavel): Vitória (ES)
+Ano: 2008
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+Observacoes: Conferido abrindo o PDF: CMVES - Camara Municipal de Vitoria/ES 2008 (UFRJ), multi-cargo: ACOM, AGAD, ARQU, ATIN, níveis medio/superior/fundamental
+Status de trabalho: CONFERIDO-ABRINDO-O-PDF; INEDITA-PRONTA-PARA-PROCESSAR

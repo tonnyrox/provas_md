@@ -1,0 +1,8 @@
+IDENTIFICACAO DA REMESSA — 119 ID (fila Falta_fazer / remessa_01)
+Identificacao pelo CONTEUDO dos PDFs (capa e gabarito abertos e conferidos).
+
+PDFs: Gabarito - Câmara Municipal de Erechim e Instituto Erechinense de Previdência - RS - 2023 - Administrador.pdf | Prova - Câmara Municipal de Erechim e - RS - 2022 - Administrador.pdf
+Prova: Prefeitura_e_Camara_Erechim_e_Instituto_Erechinense_de_Previdencia_2022_Administrador
+Pasta publicada (GitHub, provas_md/Provas MD): Prefeitura_e_Camara_Erechim_e_Instituto_Erechinense_de_Previdencia_2022_Administrador
+Status: PUBLICADA — commit/push em origin/main em 18/11/2026.
+Observacoes: q18 anulada (gabarito definitivo Fundatec '*'); figura PDCA vinculada a questao 31.

@@ -1,0 +1,22 @@
+IDENTIFICACAO DA REMESSA — 016 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\016 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara de Vereadores. - AC - Analista de Sistemas.pdf
+      2 páginas, 26 KB — conteúdo: GABARITO
+  PDF 2. Prova - Câmara de Vereadores. - AC - Analista de Sistemas.pdf
+      14 páginas, 242 KB — conteúdo: PROVA
+
+Classificação geral da remessa: PROVA + GABARITO
+Órgão (capa, conferido): Curitiba
+Ano: 2007
+Cargo (capa, conferido): Analista de Sistemas
+Pasta publicada em Provas MD/: Camara_Curitiba_2007_Analista_de_Sistemas
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Curitiba_2007_Analista_de_Sistemas
+Situação: PUBLICADA (conferida manualmente)
+
+Observações: Conferido abrindo o PDF: Curitiba 2007, Analista de Sistemas

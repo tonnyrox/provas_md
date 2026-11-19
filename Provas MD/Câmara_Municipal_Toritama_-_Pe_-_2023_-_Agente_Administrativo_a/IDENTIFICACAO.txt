@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 358 ID (fila Falta_fazer / remessa_13)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Toritama - PE - 2023 - Agente Administrativo(a).pdf | Prova - Câmara Municipal de Toritama () - PE - 2023 - Agente Administrativo(a).pdf
+Detalhe: 5p, 271KB, GABARITO; 8p, 209KB, PROVA
+Cidade (provavel): Toritama
+Ano: 2023
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

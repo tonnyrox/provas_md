@@ -1,0 +1,7 @@
+IDENTIFICACAO DA REMESSA — 129 ID (fila Falta_fazer / remessa_01)
+Identificacao pelo CONTEUDO dos PDFs (capa e gabarito abertos e conferidos).
+
+PDFs: Gabarito - Câmara Municipal de FOZ do Iguaçu - PA - 2011 - Agente Administrativo I.pdf | Prova - Câmara Municipal de FOZ do Iguaçu - PA - 2011 - Agente Administrativo I.pdf
+Prova: Camara_Foz_do_Iguacu_2012_Agente_Administrativo_I
+Pasta publicada (GitHub, provas_md/Provas MD): Camara_Foz_do_Iguacu_2012_Agente_Administrativo_I
+Status: PUBLICADA — commit/push em origin/main em 18/11/2026.

@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 267 ID (fila Falta_fazer / remessa_08)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Paranavaí - PA - Fiscal (2).pdf | Prova - Câmara Municipal de Paranavaí - PA - Fiscal.pdf
+Detalhe: 2p, 77KB, GABARITO; 11p, 191KB, PROVA
+Cidade (provavel): Paranavaí
+Ano: 2010
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

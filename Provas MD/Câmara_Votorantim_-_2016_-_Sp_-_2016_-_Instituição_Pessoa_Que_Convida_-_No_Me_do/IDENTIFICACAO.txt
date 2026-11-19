@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 017 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\017 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Votorantim - SP - 2016 - , Instituição da Pessoa Que Convida; - no Me do.pdf
+      3 páginas, 102 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara de Votorantim - 2016 - SP - 2016 - , Instituição da Pessoa Que Convida; - no Me do.pdf
+      4 páginas, 141 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Votorantim
+Ano: 2016
+Cargo (capa, conferido): Cerimonialista
+Pasta publicada em Provas MD/: Camara_Votorantim_2016_Cerimonialista
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Votorantim_2016_Cerimonialista
+Situação: PUBLICADA (capa->banco)

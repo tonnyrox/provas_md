@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 232 ID (fila Falta_fazer / remessa_06)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Marabá - 2021 - Agente Administrativo.pdf | Prova - Câmara Municipal de Marabá - 2020 - Agente Administrativo.pdf
+Detalhe: 11p, 2274KB, GABARITO; 13p, 554KB, GABARITO
+Cidade (provavel): Marabá
+Ano: 2020
+Fonte da identificacao: pdf-inteiro (1 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

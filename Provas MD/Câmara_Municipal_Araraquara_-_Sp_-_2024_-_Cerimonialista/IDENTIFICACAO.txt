@@ -1,0 +1,20 @@
+IDENTIFICACAO DA REMESSA — 059 ID
+Nome da pasta no computador é o IDENTIFICADOR estável usado no INDICE_REMESSAS.md/indice_remessas.csv do nível acima.
+Os nomes dos PDFs abaixo podem estar errados; a classificação foi feita abrindo a CAPA/conteúdo de cada um.
+
+Local no computador: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\059 ID
+
+PDFs desta remessa:
+  PDF 1. Gabarito - Câmara Municipal de Araraquara - SP - 2024 - Cerimonialista.pdf
+      20 páginas, 303 KB — conteúdo: INDEFINIDO
+  PDF 2. Prova - Câmara Municipal de Araraquara - SP - 2024 - Cerimonialista.pdf
+      20 páginas, 980 KB — conteúdo: PROVA
+
+Classificação geral da remessa: INDEFINIDO + PROVA
+Órgão (capa, conferido): Araraquara
+Ano: 2024
+Cargo (capa, conferido): Cerimonialista
+Pasta publicada em Provas MD/: Camara_Araraquara_2024_Cerimonialista
+Foi enviado ao GitHub (origin/main): SIM
+Link no GitHub: https://github.com/tonnyrox/provas_md/tree/main/Provas%20MD/Camara_Araraquara_2024_Cerimonialista
+Situação: PUBLICADA (capa->banco)
