@@ -2254,7 +2254,7 @@ PARA VIRAR O CADERNO DE PROVA.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.png)
 
 ---
 

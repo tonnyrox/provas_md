@@ -84,6 +84,8 @@ Nenhum grupo de questões compartilhando material foi identificado automaticamen
 
 #### QUESTÃO 01
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Uma das principais funcionalidades do Windows 10 é a
@@ -101,6 +103,8 @@ Nenhuma.
 
 #### QUESTÃO 02
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Em um regime de juros compostos, os juros de cada
@@ -115,6 +119,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 03
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -133,6 +139,8 @@ Nenhuma.
 
 #### QUESTÃO 04
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 No balanço patrimonial, o ativo circulante sempre deve
@@ -146,6 +154,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 05
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -165,6 +175,8 @@ Nenhuma.
 
 #### QUESTÃO 06
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Em um ambiente de gerenciamento de projetos
@@ -182,6 +194,8 @@ Nenhuma.
 
 #### QUESTÃO 07
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Na prática da redação oficial, o servidor público deve
@@ -198,6 +212,8 @@ Nenhuma.
 
 #### QUESTÃO 08
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Na gestão de qualidade de uma prefeitura, o foco
@@ -213,6 +229,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 09
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -233,6 +251,8 @@ Nenhuma.
 
 #### QUESTÃO 10
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Para garantir a segurança na internet para servidores
@@ -248,6 +268,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 11
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -265,6 +287,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 12
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -285,6 +309,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 13
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -308,6 +334,8 @@ Nenhuma.
 
 #### QUESTÃO 14
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Para garantir a qualidade dos serviços públicos, é
@@ -324,6 +352,8 @@ Nenhuma.
 
 #### QUESTÃO 15
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Calcular a média aritmética dos valores de vendas de
@@ -338,6 +368,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 16
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -354,6 +386,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 17
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -374,6 +408,8 @@ Nenhuma.
 
 #### QUESTÃO 18
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Para o conjunto de dados de idades {18, 22, 25, 30, 35, 40,
@@ -386,6 +422,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 19
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -401,6 +439,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 20
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -418,6 +458,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 21
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -441,6 +483,8 @@ Nenhuma.
 
 #### QUESTÃO 22
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 A descontinuação do suporte oficial ao Windows 7 em
@@ -459,6 +503,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 23
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -481,6 +527,8 @@ Nenhuma.
 
 #### QUESTÃO 24
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 O poder disciplinar dos órgãos públicos é ilimitado e pode
@@ -496,6 +544,8 @@ Nenhuma.
 
 #### QUESTÃO 25
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Em um conjunto de dados de temperatura diária {22, 25,
@@ -508,6 +558,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 26
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -525,6 +577,8 @@ Nenhuma.
 
 #### QUESTÃO 27
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Em um projeto de construção de infraestrutura urbana, a
@@ -539,6 +593,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 28
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -564,6 +620,8 @@ Nenhuma.
 
 #### QUESTÃO 29
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 No Excel, a função 'CONTA.SE' é utilizada para calcular a
@@ -578,6 +636,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 30
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -598,6 +658,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 31
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -620,6 +682,8 @@ Nenhuma.
 
 #### QUESTÃO 32
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Segundo a tradição contabilística pré constitucional ainda
@@ -636,6 +700,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 33
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -655,6 +721,8 @@ Nenhuma.
 
 #### QUESTÃO 34
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 A elaboração da Demonstração do Resultado do
@@ -673,6 +741,8 @@ Nenhuma.
 
 #### QUESTÃO 35
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 O Google Chrome não oferece suporte para extensões
@@ -686,6 +756,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 36
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -703,6 +775,8 @@ Nenhuma.
 
 #### QUESTÃO 37
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Segundo as normas de reuniões no setor público, é
@@ -719,6 +793,8 @@ Nenhuma.
 
 #### QUESTÃO 38
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 A funcionalidade de Revisão de Texto no Microsoft Word
@@ -733,6 +809,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 39
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -752,6 +830,8 @@ Nenhuma.
 
 #### QUESTÃO 40
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 A utilização de abreviações e siglas é altamente
@@ -769,6 +849,8 @@ Nenhuma.
 
 #### QUESTÃO 41
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 No programa 5S, a etapa de 'seiketsu' visa promover a
@@ -784,6 +866,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 42
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -807,6 +891,8 @@ Nenhuma.
 
 #### QUESTÃO 43
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 No programa 5S, a etapa de 'seiton' tem como objetivo
@@ -821,6 +907,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 44
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -843,6 +931,8 @@ Nenhuma.
 
 #### QUESTÃO 45
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 De acordo com as diretrizes de reuniões no setor público,
@@ -860,6 +950,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 46
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -880,6 +972,8 @@ Nenhuma.
 
 #### QUESTÃO 47
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 O prefeito e sua equipe podem elaborar um plano de
@@ -899,6 +993,8 @@ Nenhuma.
 
 #### QUESTÃO 48
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Segundo a teoria da administração pública, a corrupção é
@@ -914,6 +1010,8 @@ Nenhuma.
 
 #### QUESTÃO 49
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Em um empréstimo de R$5.000,00, a uma taxa de juros
@@ -927,6 +1025,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 50
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -950,6 +1050,8 @@ Nenhuma.
 
 #### QUESTÃO 51
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 A correta identificação e diagnóstico de problemas de
@@ -967,6 +1069,8 @@ Nenhuma.
 
 #### QUESTÃO 52
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Custos variáveis são aqueles que se alteram de acordo
@@ -982,6 +1086,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 53
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1004,6 +1110,8 @@ Nenhuma.
 
 #### QUESTÃO 54
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Na Demonstração do Resultado do Exercício, os custos
@@ -1017,6 +1125,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 55
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1042,6 +1152,8 @@ Nenhuma.
 
 #### QUESTÃO 56
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Segundo as normas de redação oficial do Governo
@@ -1058,6 +1170,8 @@ Nenhuma.
 
 #### QUESTÃO 57
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 A memória RAM é responsável pela capacidade de
@@ -1071,6 +1185,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 58
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1093,6 +1209,8 @@ Nenhuma.
 
 #### QUESTÃO 59
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 A utilização avançada de recursos de privacidade e
@@ -1110,6 +1228,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 60
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1133,6 +1253,8 @@ Nenhuma.
 
 #### QUESTÃO 61
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Os custos fixos são aqueles que permanecem
@@ -1151,6 +1273,8 @@ Nenhuma.
 
 #### QUESTÃO 62
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 No Excel, a ferramenta 'Tabela Dinâmica' é empregada
@@ -1166,6 +1290,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 63
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1183,6 +1309,8 @@ Nenhuma.
 
 #### QUESTÃO 64
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Os custos fixos são variáveis que se mantêm constantes
@@ -1199,6 +1327,8 @@ Nenhuma.
 
 #### QUESTÃO 65
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Se um investimento de R$10.000,00 rende a uma taxa de
@@ -1212,6 +1342,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 66
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1231,6 +1363,8 @@ Nenhuma.
 
 #### QUESTÃO 67
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Os processadores de múltiplos núcleos têm a capacidade
@@ -1245,6 +1379,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 68
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1261,6 +1397,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 69
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1282,6 +1420,8 @@ Nenhuma.
 
 #### QUESTÃO 70
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 É recomendável a utilização de sistemas de segurança
@@ -1301,6 +1441,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 71
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1325,6 +1467,8 @@ Nenhuma.
 
 #### QUESTÃO 72
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 A área de trabalho ou desktop do Windows XP é um
@@ -1348,6 +1492,8 @@ Nenhuma.
 
 #### QUESTÃO 73
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Segundo o Novo Acordo Ortográfico, as palavras
@@ -1364,6 +1510,8 @@ Nenhuma.
 
 #### QUESTÃO 74
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Na frase "Ele se referiu aos documentos que estavam na
@@ -1377,6 +1525,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 75
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1392,6 +1542,8 @@ Nenhuma.
 
 #### QUESTÃO 76
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 A expressão "Por do sol" é uma locução que se escreve
@@ -1405,6 +1557,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 77
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1436,6 +1590,8 @@ Nenhuma.
 
 #### QUESTÃO 78
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 A internet é uma rede global de computadores
@@ -1461,6 +1617,8 @@ Nenhuma.
 
 #### QUESTÃO 79
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 No Calc, é viável criar planilhas eficientes utilizando suas
@@ -1481,6 +1639,8 @@ Nenhuma.
 
 #### QUESTÃO 80
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Nas palavras "tem" e "têm", o acento diferencial é utilizado
@@ -1494,6 +1654,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 81
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1516,6 +1678,8 @@ Nenhuma.
 
 #### QUESTÃO 82
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Na frase "O estudo dos fenômenos naturais é fascinante",
@@ -1534,6 +1698,8 @@ Nenhuma.
 
 #### QUESTÃO 83
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 A extranet é uma extensão da intranet que permite
@@ -1551,6 +1717,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 84
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1572,6 +1740,8 @@ Nenhuma.
 
 #### QUESTÃO 85
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 De acordo com as regras de acentuação do português, os
@@ -1586,6 +1756,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 86
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1602,6 +1774,8 @@ Nenhuma.
 
 #### QUESTÃO 87
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 De acordo com o Novo Acordo Ortográfico, o uso do
@@ -1616,6 +1790,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 88
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1635,6 +1811,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 89
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1661,6 +1839,8 @@ Nenhuma.
 
 #### QUESTÃO 90
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 O Calc trabalha com documentos chamados planilhas,
@@ -1681,6 +1861,8 @@ Nenhuma.
 
 #### QUESTÃO 91
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 O Firefox armazena nomes de usuário e senhas para
@@ -1700,6 +1882,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 92
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1722,6 +1906,8 @@ Nenhuma.
 
 #### QUESTÃO 93
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Na frase "Ela deu um presente para mim", a expressão
@@ -1734,6 +1920,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 94
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1748,6 +1936,8 @@ Nenhuma.
 
 #### QUESTÃO 95
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 Na frase "A criança brincava alegremente no parque", a
@@ -1761,6 +1951,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 96
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1777,6 +1969,8 @@ Nenhuma.
 
 #### QUESTÃO 97
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
+
 **Enunciado:**
 
 A palavra "infelizmente" é um exemplo de derivação
@@ -1790,6 +1984,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 98
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1812,6 +2008,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 99
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 
@@ -1836,6 +2034,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 100
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF de gabarito existente, ID 002, é do concurso 001/2024 — prova de ano diferente; por regra, não aproveitado))
 
 **Enunciado:**
 

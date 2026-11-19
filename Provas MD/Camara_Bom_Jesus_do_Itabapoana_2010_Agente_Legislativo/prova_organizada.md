@@ -222,7 +222,6 @@ A) Correta, pois o verbo “crescem” está de acordo com sujeito posposto “o
 B) Incorreta, pois o verbo “crescem” está em desacordo com sujeito posposto “os americanos”.
 C) Correta, pois o verbo “crescem” está de acordo com sujeito posposto “os sinais de desespero”.
 D) Incorreta, pois o verbo “crescem” está em desacordo com sujeito anteposto “os sinais de desespero”.
-INFORMÁTICA
 
 **Referências visuais:**
 
@@ -335,7 +334,6 @@ A) Estilo de gráfico, Opções e Tipo.
 B) Layout, Inserção e Tipo.
 C) Tipo, Inserção e Estilo de gráfico.
 D) Tipo, Layout e Estilo de gráfico.
-LEGISLAÇÃO
 
 **Referências visuais:**
 
@@ -471,7 +469,6 @@ despesas, decorrente de isenções, anistias, remissões, subsídios e benefíci
 creditícia.
 D) O plano plurianual, as diretrizes orçamentárias e o orçamento anual serão estabelecidos mediante leis de
 iniciativa do Poder Executivo.
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 

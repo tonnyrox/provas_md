@@ -650,7 +650,6 @@ D) Existem caracteres que não podem ser usados em nomes de arquivos, como o pon
 
 E) A caixa de entrada de um correio eletrônico armazena as mensagens ainda não enviadas pelo usuário.
 ---
-# A3 — MATEMÁTICA (ASSISTENTES)
 
 **Referências visuais:**
 
@@ -912,7 +911,6 @@ D) Mariana vendeu suas joias e recebeu por elas a quantia de 25.680,00. Contudo,
 
 E) Alisson tem 16 maçãs e 26 peras. Seu amigo André tem o dobro do que Alisson tem. Pode-se dizer que os dois possuem juntos 63 frutas.
 ---
-# A2 — PORTUGUÊS
 
 **Referências visuais:**
 

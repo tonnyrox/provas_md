@@ -100,6 +100,8 @@ Nenhum grupo de questões compartilhando material foi identificado automaticamen
 
 #### QUESTÃO 01
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 Pode-se firmar sobre o texto que:
@@ -125,6 +127,8 @@ Nenhuma.
 
 #### QUESTÃO 02
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 O texto apresenta características marcadamente da tipologia:
@@ -144,6 +148,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 03
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -167,6 +173,8 @@ Nenhuma.
 
 #### QUESTÃO 04
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 O adjetivo “lacustre” (4º parágrafo) se refere àquilo que é próprio:
@@ -186,6 +194,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 05
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -209,6 +219,8 @@ Nenhuma.
 
 #### QUESTÃO 06
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 Assinale a opção com informação INCORRETA sobre a pontuação do 2º parágrafo:
@@ -228,6 +240,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 07
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -250,6 +264,8 @@ Nenhuma.
 
 #### QUESTÃO 08
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 O vocábulo “inato” (1º parágrafo) apresenta uma relação sinonímica com o seguinte vocábulo da opção:
@@ -269,6 +285,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 09
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -290,6 +308,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 10
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -314,6 +334,8 @@ Nenhuma.
 
 #### QUESTÃO 11
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 Em todas as alternativas abaixo, há elementos coesivos destacados que se referem a termos
@@ -337,6 +359,8 @@ Nenhuma.
 
 #### QUESTÃO 12
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 Como o vocábulo “papéis” (1º parágrafo), acentua-se o vocábulo da alternativa:
@@ -348,7 +372,6 @@ B) armazém
 C) vocês
 D) pés
 E) céu
-RACIOCÍNIO LÓGICO – QUESTÕES 13 – 16 (02 PONTOS)
 
 **Referências visuais:**
 
@@ -357,6 +380,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 13
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -390,6 +415,8 @@ Nenhuma.
 
 #### QUESTÃO 14
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 Considere a seguinte frase: “Se hoje é sábado, então ontem eu estudei”. Todas as afirmações estão
@@ -410,6 +437,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 15
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -442,6 +471,8 @@ E) 85,3 km
 
 #### QUESTÃO 16
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 Dois sanduíches e três refrigerantes custam R$ 20,00. Três sanduíches e dois refrigerantes custam R$
@@ -454,7 +485,6 @@ B) R$ 2,40
 C) R$ 12,80
 D) R$ 8,80
 E) R$ 7,20
-ATUALIDADES – QUESTÕES 17 – 20 (02 PONTOS)
 
 **Referências visuais:**
 
@@ -463,6 +493,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 17
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -489,6 +521,8 @@ Nenhuma.
 
 #### QUESTÃO 18
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 Os chamados “Objetivos para o Desenvolvimento Sustentável” são um conjunto de dezessete metas
@@ -510,6 +544,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 19
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -533,6 +569,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 20
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -560,6 +598,8 @@ Nenhuma.
 
 #### QUESTÃO 21
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 O antigo distrito de Flores teve a sua criação registrada em um alvará de 1783. Assinale a alternativa
@@ -580,6 +620,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 22
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -602,6 +644,8 @@ Nenhuma.
 
 #### QUESTÃO 23
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 De acordo com o disposto no Regimento Interno da Câmara Municipal de Flores, a Legislatura terá a
@@ -622,6 +666,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 24
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -647,6 +693,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 25
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -676,6 +724,8 @@ Nenhuma.
 
 #### QUESTÃO 26
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 No atendimento telefônico, a linguagem é o fator principal para garantir a qualidade da comunicação.
@@ -701,6 +751,8 @@ Nenhuma.
 
 #### QUESTÃO 27
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 Complete corretamente a lacuna, acerca da Estrutura Organizacional.
@@ -724,6 +776,8 @@ Nenhuma.
 
 #### QUESTÃO 28
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 A representação gráfica da estrutura organizacional é chamada de
@@ -743,6 +797,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 29
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -764,6 +820,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 30
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -807,6 +865,8 @@ Nenhuma.
 
 #### QUESTÃO 31
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 De acordo com José Cretella Júnior (1998, p. 195): “ato administrativo perfeito é aquele que preenche
@@ -829,6 +889,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 32
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -853,6 +915,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 33
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -888,6 +952,8 @@ Nenhuma.
 
 #### QUESTÃO 34
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 Assinale a alternativa CORRETA que apresente uma formula que possibilite o calculo da SOMA de
@@ -908,6 +974,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 35
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -930,6 +998,8 @@ Nenhuma.
 
 #### QUESTÃO 36
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 Qual atalho é usado para imprimir um arquivo:
@@ -949,6 +1019,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 37
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -978,6 +1050,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 38
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1026,6 +1100,8 @@ Nenhuma.
 
 #### QUESTÃO 39
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
+
 **Enunciado:**
 
 O PowerPoint é, sem dúvida, um dos programas mais usados do pacote Office. Trabalhos de faculdade,
@@ -1063,6 +1139,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 40
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 124 contém apenas a prova))
 
 **Enunciado:**
 

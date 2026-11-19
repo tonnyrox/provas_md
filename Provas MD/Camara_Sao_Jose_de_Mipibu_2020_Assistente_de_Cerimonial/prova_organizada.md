@@ -431,7 +431,6 @@ D) estão flexionadas no pretérito imperfeito e encadeiam-se estabelecendo uma 
 
 ## 3. Questões independentes
 
-**QUESTÕES DE MÚLTIPLA ESCOLHA – INFORMÁTICA – NÍVEL MÉDIO**
 
 #### QUESTÃO 11
 
@@ -585,7 +584,6 @@ D) Gmail.com.
 
 ---
 
-**QUESTÕES DE MÚLTIPLA ESCOLHA – CONHECIMENTOS GERAIS DO MUNICÍPIO**
 
 #### QUESTÃO 19
 

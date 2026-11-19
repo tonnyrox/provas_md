@@ -446,9 +446,6 @@ meio de informação.
 45.
 46.
 47.
-FAURGS – CÂMARA DE ALVORADA – Edital 01/2008
-CARGO 3 - AGENTE ADMINISTRATIVO
-Pág. 4
 
 **Referências visuais:**
 
@@ -908,9 +905,6 @@ B) V – F – F.
 C) F – F – V.
 D) F – V – F.
 E) V – V – V.
-FAURGS – CÂMARA DE ALVORADA – Edital 01/2008
-CARGO 3 - AGENTE ADMINISTRATIVO
-Pág. 5
 Instrução: As questões 09 a 15 referem-se ao texto
 abaixo.
 Luzes que obscurecem
@@ -1369,9 +1363,6 @@ E) Apenas II e III.
 44.
 45.
 46.
-FAURGS – CÂMARA DE ALVORADA – Edital 01/2008
-CARGO 3 - AGENTE ADMINISTRATIVO
-Pág. 6
 
 **Referências visuais:**
 
@@ -1916,9 +1907,6 @@ promulgá-lo, ou silenciar sobre o projeto.
 E) o Prefeito e o Presidente da Câmara Municipal
 podem promulgar um projeto de lei aprovado pela
 Câmara Municipal, sendo que a competência desse
-FAURGS – CÂMARA DE ALVORADA – Edital 01/2008
-CARGO 3 - AGENTE ADMINISTRATIVO
-Pág. 7
 último se dá na hipótese de derrubada do veto e
 não promulgação pelo Prefeito.
 
@@ -2281,9 +2269,6 @@ D) Remover spywares que enviam dados pessoais do
 usuário para servidores na Internet.
 E) Solicitar permissão ao usuário para aceitar, ou
 não, determinados pedidos de conexões de rede.
-FAURGS – CÂMARA DE ALVORADA – Edital 01/2008
-CARGO 3 - AGENTE ADMINISTRATIVO
-Pág. 9
 
 **Referências visuais:**
 
@@ -2652,9 +2637,6 @@ D) balanço financeiro – arquivados – ser comunicado
 ao órgão corregedor
 E) inventário – mantidos junto ao Tribunal de Contas –
 ser comunicado ao órgão corregedor
-FAURGS – CÂMARA DE ALVORADA – Edital 01/2008
-CARGO 3 - AGENTE ADMINISTRATIVO
-Pág. 11
 
 **Referências visuais:**
 
@@ -2854,9 +2836,6 @@ B) bom relacionamento inicial – bom atendimento
 C) relacionamento adequado – questionamento
 D) bom relacionamento inicial – relação
 E) relacionamento favorável – bom atendimento
-FAURGS – CÂMARA DE ALVORADA – Edital 01/2008
-CARGO 3 - AGENTE ADMINISTRATIVO
-Pág. 12
 
 **Referências visuais:**
 

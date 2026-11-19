@@ -310,7 +310,6 @@ A) Se fizer a lição, poderá ir brincar na praça.
 B) Foi em uma época de conflitos onde pessoas se alternavam no poder.
 C) Embora o trabalho pareça fácil, ele exige dedicação e paciência.
 D) Se fizesse o relatório, teria sido dispensado.
-# MATEMÁTICA
 
 **Referências visuais:**
 
@@ -530,7 +529,6 @@ A) R$ 5,40.
 B) R$ 5,80.
 C) R$ 6,00.
 D) R$ 6,10.
-# CONHECIMENTOS GERAIS E ESPECÍFICOS
 
 **Referências visuais:**
 

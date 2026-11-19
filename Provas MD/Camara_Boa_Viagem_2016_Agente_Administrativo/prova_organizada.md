@@ -190,6 +190,8 @@
 
 #### QUESTÃO 01
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Material de apoio:**
 
 Tragédia em Mariana: "É a maior catástrofe ambiental do
@@ -251,6 +253,8 @@ Nenhuma.
 
 #### QUESTÃO 02
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Material de apoio:**
 
 Tragédia em Mariana: "É a maior catástrofe ambiental do
@@ -310,6 +314,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 03
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Material de apoio:**
 
@@ -372,6 +378,8 @@ Nenhuma.
 
 #### QUESTÃO 04
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Material de apoio:**
 
 Tragédia em Mariana: "É a maior catástrofe ambiental do
@@ -432,6 +440,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 05
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Material de apoio:**
 
@@ -497,6 +507,8 @@ Nenhuma.
 
 #### QUESTÃO 06
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 A palavra “academia” ´é coletivo de
@@ -516,6 +528,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 07
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -542,6 +556,8 @@ Nenhuma.
 
 #### QUESTÃO 08
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 Nas opções a seguir, há apenas um substantivo feminino.
@@ -562,6 +578,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 09
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -584,6 +602,8 @@ Nenhuma.
 
 #### QUESTÃO 10
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 Indique a alternativa em que o sinal indicativo de crase
@@ -604,6 +624,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 11
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -627,6 +649,8 @@ Nenhuma.
 
 #### QUESTÃO 12
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 Transpondo para a voz ativa a frase “As frutas estavam
@@ -647,6 +671,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 13
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -670,6 +696,8 @@ Nenhuma.
 
 #### QUESTÃO 14
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 No período “Deixei-os sair, mas procurei orientá-los
@@ -691,6 +719,8 @@ Nenhuma.
 
 #### QUESTÃO 15
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 A palavra DEBATE é formada por derivação
@@ -711,6 +741,8 @@ Nenhuma.
 
 #### QUESTÃO 16
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 Marque a alternativa em que a palavra apresenta hiato.
@@ -730,6 +762,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 17
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -752,6 +786,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 18
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -776,6 +812,8 @@ Nenhuma.
 
 #### QUESTÃO 19
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 A soma de dois números é 3.333, a quinta parte de um
@@ -796,6 +834,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 20
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -819,6 +859,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 21
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -845,6 +887,8 @@ Nenhuma.
 
 #### QUESTÃO 22
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 Dividindo o número 360 em duas partes inversamente
@@ -865,6 +909,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 23
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -889,6 +935,8 @@ Nenhuma.
 
 #### QUESTÃO 24
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 Aplicando todo meu dinheiro com uma taxa de juros
@@ -910,6 +958,8 @@ Nenhuma.
 
 #### QUESTÃO 25
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 As raízes que satisfazem a equação 2x² + 3x - 2 = 0 são
@@ -929,6 +979,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 26
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -952,6 +1004,8 @@ Nenhuma.
 
 #### QUESTÃO 27
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 Vendi um carro por R$ 18.900,00, com prejuízo de 10%
@@ -973,6 +1027,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 28
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -997,6 +1053,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 29
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -1040,6 +1098,8 @@ Nenhuma.
 
 #### QUESTÃO 30
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 A captação de água da chuva è
@@ -1064,6 +1124,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 31
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -1096,6 +1158,8 @@ Nenhuma.
 
 #### QUESTÃO 32
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 O que é o meteorologista?
@@ -1120,6 +1184,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 33
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -1167,6 +1233,8 @@ Nenhuma.
 
 #### QUESTÃO 34
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 Os
@@ -1205,6 +1273,8 @@ Nenhuma.
 
 #### QUESTÃO 35
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 Leia a seguinte reportagem:
@@ -1240,11 +1310,13 @@ CÂMARA MUNICIPAL DE BOA VIAGEM – CE – AGENTE ADMINISTRATIVO – 31/01/2016
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
 #### QUESTÃO 36
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -1294,6 +1366,8 @@ Nenhuma.
 
 #### QUESTÃO 37
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 Quais são os principais fatores componentes da ética
@@ -1323,6 +1397,8 @@ Nenhuma.
 
 #### QUESTÃO 38
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 João Paulo é funcionário de uma empresa de grande
@@ -1347,6 +1423,8 @@ Nenhuma.
 
 #### QUESTÃO 39
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 Ao chegar a casa, João Paulo contou à esposa o que
@@ -1369,6 +1447,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 40
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -1396,7 +1476,6 @@ B) Dengue Hemorrágica.
 C) Febre Chikungunya.
 D) Microcefalia.
 E) Malária.
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 
@@ -1405,6 +1484,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 41
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -1431,6 +1512,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 42
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -1462,6 +1545,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 43
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -1510,6 +1595,8 @@ E) I – II – III.
 
 #### QUESTÃO 44
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 O agente administrativo pode contribuir de forma
@@ -1536,6 +1623,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 45
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -1567,6 +1656,8 @@ Nenhuma.
 
 #### QUESTÃO 46
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 Antônio atua no setor de protocolo de uma instituição
@@ -1595,6 +1686,8 @@ Nenhuma.
 
 #### QUESTÃO 47
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 O Setor de Protocolo Geral da Câmara de Vereadores de
@@ -1619,6 +1712,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 48
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -1656,6 +1751,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 49
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -1701,6 +1798,8 @@ Nenhuma.
 
 #### QUESTÃO 50
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 Nas redações oficiais, quanto à forma de diagramação,
@@ -1732,6 +1831,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 51
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -1766,6 +1867,8 @@ Nenhuma.
 
 #### QUESTÃO 52
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 A elaboração correta de uma ata, exige a observação de
@@ -1791,6 +1894,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 53
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -1818,6 +1923,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 54
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -1857,6 +1964,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 55
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -1900,6 +2009,8 @@ Nenhuma.
 
 #### QUESTÃO 56
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 A Câmara de vereadores de Boa Viagem adquiriu 200
@@ -1935,6 +2046,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 57
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 
@@ -1976,6 +2089,8 @@ Nenhuma.
 
 #### QUESTÃO 58
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 Antônio
@@ -2008,6 +2123,8 @@ Nenhuma.
 
 #### QUESTÃO 59
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
+
 **Enunciado:**
 
 Os dispositivos periféricos de um computador podem
@@ -2038,6 +2155,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 60
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 069, contém a prova com o quadro de gabarito em branco))
 
 **Enunciado:**
 

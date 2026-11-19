@@ -97,6 +97,8 @@
 
 #### QUESTÃO 01
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
+
 **Material de apoio:**
 
 Texto I
@@ -158,11 +160,13 @@ E) I e III.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
 #### QUESTÃO 02
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Material de apoio:**
 
@@ -217,11 +221,13 @@ resina, ambiental e de energia.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
 #### QUESTÃO 03
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Material de apoio:**
 
@@ -276,11 +282,13 @@ E) Artigo e adjetivo.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
 #### QUESTÃO 04
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Material de apoio:**
 
@@ -335,11 +343,13 @@ E) Locução adverbial, podendo ser substituído, sem prejuízo de função e de
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
 #### QUESTÃO 05
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Material de apoio:**
 
@@ -399,11 +409,13 @@ PÁGINA 05
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
 #### QUESTÃO 06
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Material de apoio:**
 
@@ -458,11 +470,13 @@ E) verbo, adjetivo, preposição, substantivo, substantivo.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
 #### QUESTÃO 07
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Material de apoio:**
 
@@ -516,11 +530,13 @@ d) Inexistente.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
 #### QUESTÃO 08
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Material de apoio:**
 
@@ -594,11 +610,13 @@ E) F, V, F, V, V.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
 #### QUESTÃO 09
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Material de apoio:**
 
@@ -652,11 +670,13 @@ E) Todos os vocábulos são paroxítonos.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
 #### QUESTÃO 10
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Material de apoio:**
 
@@ -735,7 +755,7 @@ Disponível em: https://super.abril.com.br/cultura/manual-como-ter-uma-colecao-d
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
@@ -744,6 +764,8 @@ Nenhuma.
 **Questões relacionadas:** 11, 12, 13, 14, 15.
 
 #### QUESTÃO 11
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Material de apoio:**
 
@@ -809,6 +831,8 @@ Nenhuma.
 
 #### QUESTÃO 12
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
+
 **Material de apoio:**
 
 10ª QUESTÃO
@@ -867,6 +891,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 13
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Material de apoio:**
 
@@ -930,6 +956,8 @@ Nenhuma.
 
 #### QUESTÃO 14
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
+
 **Material de apoio:**
 
 10ª QUESTÃO
@@ -987,6 +1015,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 15
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Material de apoio:**
 
@@ -1052,6 +1082,8 @@ Nenhuma.
 
 #### QUESTÃO 16
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
+
 **Material de apoio:**
 
 15ª QUESTÃO
@@ -1081,11 +1113,13 @@ E) Manifestação de desinteresse do pai de Mafalda em relação ao comportament
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.png)
 
 ---
 
 #### QUESTÃO 17
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Material de apoio:**
 
@@ -1120,11 +1154,13 @@ PÁGINA 08
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.png)
 
 ---
 
 #### QUESTÃO 18
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Material de apoio:**
 
@@ -1159,7 +1195,7 @@ Data do acesso: 25/09/22.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.png)
 
 ---
 
@@ -1168,6 +1204,8 @@ Nenhuma.
 **Questões relacionadas:** 19, 20.
 
 #### QUESTÃO 19
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Material de apoio:**
 
@@ -1202,11 +1240,13 @@ E) Há um desvio de acentuação gráﬁca e um desvio de ortograﬁa na palavra
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_003.png)
 
 ---
 
 #### QUESTÃO 20
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Material de apoio:**
 
@@ -1237,17 +1277,18 @@ E) O sujeito é “todos os produtos desta mesa”, classiﬁcado como simples, 
 ![Imagem da questão](imagens/imagem_003.png)
 CMC 2 0 2 2 - F UND COMPL ET O
 PÁGINA 09
-MATEMÁTICA
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_003.png)
 
 ---
 
 ## 3. Questões independentes
 
 #### QUESTÃO 21
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Enunciado:**
 
@@ -1275,6 +1316,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 22
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Enunciado:**
 
@@ -1304,6 +1347,8 @@ Nenhuma.
 
 #### QUESTÃO 23
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
+
 **Enunciado:**
 
 Um aplicativo de celular possui um serviço de entrega de comida em domicílio, conectando restaurantes e consumidores. Com o
@@ -1326,6 +1371,8 @@ Nenhuma.
 
 #### QUESTÃO 24
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
+
 **Enunciado:**
 
 Para calcular a média de gols por partida de um time de futebol, divide-se a quantidade total de gols marcados pelo número de partidas
@@ -1347,6 +1394,8 @@ Nenhuma.
 
 #### QUESTÃO 25
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
+
 **Enunciado:**
 
 Na ﬁgura, ABC é um triângulo retângulo e seus ângulos agudos medem 3x - 10° e 2x + 40°, respectivamente. Qual
@@ -1366,11 +1415,13 @@ E) 58°
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_004.jpg)
 
 ---
 
 #### QUESTÃO 26
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Enunciado:**
 
@@ -1398,6 +1449,8 @@ PÁGINA 10
 
 #### QUESTÃO 27
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
+
 **Enunciado:**
 
 Hoje, a idade de Rui é o triplo da idade de seu ﬁlho e daqui a 12 anos será o dobro. A idade que Rui tinha quando seu ﬁlho nasceu era de:
@@ -1420,6 +1473,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 28
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Enunciado:**
 
@@ -1445,11 +1500,13 @@ I e III.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_005.png)
 
----![Imagem da questão](imagens/imagem_005.png)
+---
 
 #### QUESTÃO 29
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Enunciado:**
 
@@ -1479,6 +1536,8 @@ Nenhuma.
 
 #### QUESTÃO 30
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
+
 **Enunciado:**
 
 Um reservatório de água tem um formato de bloco retangular com as seguintes dimensões: 2 de comprimento, 2 de largura e 1,5
@@ -1506,7 +1565,6 @@ Tipo 2
 R$ 3,00
 CMC 2 0 2 2 - F UND COMPL ET O
 PÁGINA 11
-CONHECIMENTOS GERAIS
 
 **Referências visuais:**
 
@@ -1515,6 +1573,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 31
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Enunciado:**
 
@@ -1538,6 +1598,8 @@ Nenhuma.
 
 #### QUESTÃO 32
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
+
 **Enunciado:**
 
 O Petróleo é a mais importante fonte de energia do mundo atual e é fundamental para o funcionamento da economia global. O petróleo
@@ -1559,6 +1621,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 33
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Enunciado:**
 
@@ -1582,6 +1646,8 @@ Nenhuma.
 
 #### QUESTÃO 34
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
+
 **Enunciado:**
 
 Observe a ﬁgura abaixo sobre alguns impactos provocados pelo coronavírus.
@@ -1604,11 +1670,13 @@ PÁGINA 12
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_006.png)
 
 ---
 
 #### QUESTÃO 35
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Enunciado:**
 
@@ -1630,11 +1698,13 @@ E) Energia mecânica, fonte não renovável.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_007.png)
 
 ---
 
 #### QUESTÃO 36
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Enunciado:**
 
@@ -1658,6 +1728,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 37
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Enunciado:**
 
@@ -1685,6 +1757,8 @@ Nenhuma.
 
 #### QUESTÃO 38
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
+
 **Enunciado:**
 
 Observe a charge abaixo, que retrata aspectos da realidade social brasileira:
@@ -1707,11 +1781,13 @@ região Nordeste.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_008.png)
 
 ---
 
 #### QUESTÃO 39
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
 
 **Enunciado:**
 
@@ -1741,6 +1817,8 @@ Nenhuma.
 
 #### QUESTÃO 40
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 106, contém a prova; quadro de gabarito rascunho não preenchido))
+
 **Enunciado:**
 
 Observe o quadro abaixo, com alguns dados e estatísticas dos crimes contra as mulheres no Brasil, e, em seguida, leia o texto acerca da
@@ -1762,7 +1840,7 @@ E) A maioria dos crimes contra a mulher ocorrem no local de trabalho, devido ao 
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_009.png)
 
 ---
 

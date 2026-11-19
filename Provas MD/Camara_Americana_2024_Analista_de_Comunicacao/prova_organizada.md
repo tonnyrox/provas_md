@@ -426,7 +426,6 @@ E) são escrituras em hieróglifos raros que
 contam histórias que contrariam o que já se sabia
 sobre Tikal e Teotihuacan.
 Câmara Municipal De Americana/SP– Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO
-ANALISTA DE COMUNICAÇÃO Página 3 de 12
 
 **Referências visuais:**
 
@@ -932,7 +931,6 @@ C) superlativo relativo.
 D) superlativo absoluto sintético.
 E) superlativo absoluto analítico.
 Câmara Municipal De Americana/SP– Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO
-ANALISTA DE COMUNICAÇÃO Página 4 de 12
 
 **Referências visuais:**
 
@@ -1018,7 +1016,6 @@ B) I. conserto; II. assentos; III. cessaram.
 C) I. conserto; II. acentos; III. cessaram.
 D) I. concerto; II. assentos; III. sessaram.
 E) I. conserto; II. acentos; III. sessaram.
-MATEMÁTICA E RACIOCÍNIO LÓGICO
 
 **Referências visuais:**
 
@@ -1085,11 +1082,10 @@ E) 3 √3
 .
 ![Imagem da questão](imagens/imagem_001.png)
 Câmara Municipal De Americana/SP– Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO
-ANALISTA DE COMUNICAÇÃO Página 5 de 12
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
@@ -1173,11 +1169,11 @@ E) 112,9°.
 ![Imagem da questão](imagens/imagem_002.png)
 ![Imagem da questão](imagens/imagem_003.png)
 Câmara Municipal De Americana/SP– Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO
-ANALISTA DE COMUNICAÇÃO Página 6 de 12
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.png)
+![Imagem da questão](imagens/imagem_003.png)
 
 ---
 
@@ -1330,8 +1326,6 @@ C) 8.
 D) 12.
 E) 16.
 Câmara Municipal De Americana/SP– Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO
-ANALISTA DE COMUNICAÇÃO Página 7 de 12
-NOÇÕES DE INFORMÁTICA
 
 **Referências visuais:**
 
@@ -1477,7 +1471,6 @@ incluindo
 cálculos
 complexos,
 através de scripts no VBA.
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 
@@ -1507,7 +1500,6 @@ C) Locatário.
 D) Canal.
 E) Atencioso.
 Câmara Municipal De Americana/SP– Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO
-ANALISTA DE COMUNICAÇÃO Página 8 de 12
 
 **Referências visuais:**
 
@@ -1688,7 +1680,6 @@ C) Copyright.
 D) Diagramação.
 E) Codificação.
 Câmara Municipal De Americana/SP– Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO
-ANALISTA DE COMUNICAÇÃO Página 9 de 12
 
 **Referências visuais:**
 
@@ -1884,7 +1875,6 @@ C) Mídia training.
 D) Mídia Fake.
 E) Mídia Copy.
 Câmara Municipal De Americana/SP– Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO
-ANALISTA DE COMUNICAÇÃO Página 10 de 12
 
 **Referências visuais:**
 
@@ -2069,7 +2059,6 @@ C) 9 meses.
 D) 1 ano.
 E) 2 anos.
 Câmara Municipal De Americana/SP– Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO
-ANALISTA DE COMUNICAÇÃO Página 11 de 12
 
 **Referências visuais:**
 
@@ -2229,7 +2218,6 @@ C) Presidente do Tribunal de Contas.
 D) Presidente da Câmara Legislativa.
 E) Presidente do Tribunal de Justiça.
 Câmara Municipal De Americana/SP– Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO
-ANALISTA DE COMUNICAÇÃO Página 12 de 12
 
 **Referências visuais:**
 

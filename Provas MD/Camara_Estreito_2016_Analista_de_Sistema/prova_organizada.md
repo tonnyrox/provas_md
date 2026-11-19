@@ -383,10 +383,7 @@ ornamentais" (L.14/15).
 D) O termo "solavancos" (L.6) conota agressão,
 assim como "incompetências" (L.6) equivale
 a "trapalhadas" (L.9).
-Página 5 de 10
 CONCURSO CÂMARA MUNICIPAL DE ESTREITO-MA
-CARGO: ANALISTA DE SISTEMA
-INSTITUTO MACHADO DE ASSIS - IMA
 
 **Referências visuais:**
 
@@ -508,14 +505,11 @@ C) a falta de solidariedade, tornando o mundo cada vez mais violento.
 D) as tensões cotidianas, gerando alienação.
 ![Imagem da questão](imagens/imagem_001.jpg)
 A QUESTÃO 10 ESTÁ RELACIONADA À TIRINHA ABAIXO
-Página 6 de 10
 CONCURSO CÂMARA MUNICIPAL DE ESTREITO-MA
-CARGO: ANALISTA DE SISTEMA
-INSTITUTO MACHADO DE ASSIS - IMA
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
@@ -640,12 +634,7 @@ A) 115
 B) 112
 C) 114
 D) 111
-Cálculos
-MATEMÁTICA QUESTÕES DE 11 A 15
-Página 7 de 10
 CONCURSO CÂMARA MUNICIPAL DE ESTREITO-MA
-CARGO: ANALISTA DE SISTEMA
-INSTITUTO MACHADO DE ASSIS - IMA
 
 **Referências visuais:**
 
@@ -785,15 +774,11 @@ B) 20
 C) 25
 D) 19
 ![Imagem da questão](imagens/imagem_002.png)
-INFORMÁTICA QUESTÕES DE 16 A 20
-Página 8 de 10
 CONCURSO CÂMARA MUNICIPAL DE ESTREITO-MA
-CARGO: ANALISTA DE SISTEMA
-INSTITUTO MACHADO DE ASSIS - IMA
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.png)
 
 ---
 
@@ -1032,11 +1017,7 @@ A) Apenas a afirmativa I está correta.
 B) Apenas a afirmativa II está correta.
 C) As afirmativas I e II estão corretas.
 D) As afirmativas I e II são falsas.
-CONHECIMENTOS ESPECÍFICOS QUESTÕES DE 21 A 40
-Página 9 de 10
 CONCURSO CÂMARA MUNICIPAL DE ESTREITO-MA
-CARGO: ANALISTA DE SISTEMA
-INSTITUTO MACHADO DE ASSIS - IMA
 
 **Referências visuais:**
 

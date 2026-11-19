@@ -357,7 +357,7 @@ B) Almocei e fui dormir no meu quarto.
 
 C) Fui bem na prova, apesar de ter estudado pouco.
 
-D) Alguém lhe deu bom dia; seu sorriso finalmente apareceu. @SEC_MAT@
+D) Alguém lhe deu bom dia; seu sorriso finalmente apareceu.
 
 ---
 
@@ -437,7 +437,7 @@ B) Apenas no item II.
 
 C) Apenas nos itens II e III.
 
-D) Em todos os itens. @SEC_INFO@
+D) Em todos os itens.
 
 ---
 
@@ -541,7 +541,7 @@ B) Código-fonte do aplicativo está fechado para modificação.
 
 C) Desenvolvedor do aplicativo detém todos os direitos sobre o código-fonte.
 
-D) Código-fonte do aplicativo está disponível para visualização e modificação. @SEC_LEG@
+D) Código-fonte do aplicativo está disponível para visualização e modificação.
 
 ---
 
@@ -621,7 +621,7 @@ B) C - E - C - E.
 
 C) E - C - C - E.
 
-D) C - E - E - C. @SEC_DADM@
+D) C - E - E - C.
 
 ---
 
@@ -721,7 +721,7 @@ B) Desconcentração.
 
 C) Concentração.
 
-D) Descentralização. @SEC_DCON@
+D) Descentralização.
 
 ---
 
@@ -821,7 +821,7 @@ B) trinta e cinco | setenta
 
 C) trinta e quatro |setenta
 
-D) trinta e cinco | sessenta @SEC_CE@
+D) trinta e cinco | sessenta
 
 ---
 

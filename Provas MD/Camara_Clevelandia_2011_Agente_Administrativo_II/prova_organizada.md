@@ -384,7 +384,6 @@ B) conte__to; me__er; en__er.
 C) comple__o; __inelo ; e__clusivo.
 D) cai__a; e__alar; __ute.
 E) e__ercício; e__istir; e__tratégico.
-Página 3
 
 **Referências visuais:**
 
@@ -500,7 +499,6 @@ B) Assistimos ao filme em casa.
 C) A enfermeira assistiu ao doente.
 D) Assisto a Rua Sílvio Vidal.
 E) Assisti o jogo do Grêmio ontem.
-Página 4
 
 **Referências visuais:**
 
@@ -523,7 +521,6 @@ B) mergulha – Letras = 8; Fonemas = 8.
 C) violência – Letras = 9; Fonemas = 7.
 D) descobertas – Letras = 11; Fonemas = 12.
 E) fixo – Letras = 4; Fonemas = 5.
-CONHECIMENTOS GERAIS
 
 **Referências visuais:**
 
@@ -618,7 +615,6 @@ B) Destituição da função.
 C) Demissão.
 D) Suspensão.
 E) Repreensão.
-Página 5
 
 **Referências visuais:**
 
@@ -770,7 +766,6 @@ D) Via Principal, Vias Locais e Ciclovia, dentre outras, compõem o Sistema Viá
 Clevelândia.
 E) A Política de Mobilidade que inclui a circulação e transporte coletivo de passageiros, objetiva assegurar à
 população condições adequadas de acessibilidade a todas as regiões da cidade.
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 
@@ -831,7 +826,6 @@ B) É restrito a um setor.
 C) Tem maior flexibilidade.
 D) Apresenta prazo de execução mais curto.
 E) Envolve, normalmente, a alta direção da empresa em sua formulação.
-Página 7
 
 **Referências visuais:**
 
@@ -935,7 +929,6 @@ B) Apenas I e II estão corretas.
 C) Todas as afirmações estão corretas.
 D) Apenas I e III estão corretas.
 E) Apenas II e III estão corretas.
-Página 8
 
 **Referências visuais:**
 
@@ -1055,7 +1048,6 @@ B) II e III.
 C) I, II e III.
 D) I, III e IV.
 E) I, II e IV.
-Página 9
 
 **Referências visuais:**
 
@@ -1161,7 +1153,6 @@ B) I, II e III.
 C) III e IV.
 D) I, II, III e IV.
 E) II e IV.
-Página 10
 
 **Referências visuais:**
 

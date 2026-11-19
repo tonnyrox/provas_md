@@ -370,7 +370,6 @@ A) Complemento nominal.
 B) Objeto indireto.
 C) Agente da passiva.
 D) Objeto direto.
-RACIOCÍNIO LÓGICO MATEMÁTICO
 
 **Referências visuais:**
 
@@ -613,7 +612,6 @@ A) Chiquinha Gonzaga.
 B) Joaquim Osório Duque-Estrada.
 C) José Prophyrio da Paz.
 D) Aldenízia Barbosa de Lima.
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 

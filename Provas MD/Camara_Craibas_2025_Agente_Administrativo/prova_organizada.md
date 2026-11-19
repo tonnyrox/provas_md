@@ -7515,7 +7515,6 @@ D) F,
 F,
 V,
 V.
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 

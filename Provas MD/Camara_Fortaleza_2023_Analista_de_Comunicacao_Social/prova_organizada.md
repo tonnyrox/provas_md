@@ -1247,7 +1247,6 @@ Casa Legislativa.
 E) pressupõe que a Comissão de Negociação tenha esgotado,
 junto ao Poder Executivo municipal, a possibilidade de
 pagamento espontâneo da dívida.
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 

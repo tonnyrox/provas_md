@@ -1715,7 +1715,6 @@ B) exclusão.
 C) acessibilidade.
 D) liberação.
 E) integração.
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 
@@ -1933,7 +1932,7 @@ CÂMARA MUNICIPAL DE CAUCAIA – CE – AGENTE ADMINISTRATIVO – 31/07/2016
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_005.jpg)
 
 ---
 
@@ -2393,7 +2392,9 @@ RASCUNHO DA PRODUÇÃO TEXTUAL
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_006.jpg)
+![Imagem da questão](imagens/imagem_007.jpg)
+![Imagem da questão](imagens/imagem_008.jpg)
 
 ---
 

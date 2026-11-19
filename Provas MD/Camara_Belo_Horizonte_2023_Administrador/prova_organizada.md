@@ -226,7 +226,6 @@ A) R$ 3.340,00; R$ 3.090,00.
 B) R$ 4.840,00; R$ 4.140,00.
 C) R$ 5.260,00; R$ 5.240,00.
 D) R$ 5.290,00; R$ 3.690,00.
-CARGO: ADMINISTRADOR – TIPO 1 – BRANCA (M)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 Ძ
 
@@ -369,7 +368,6 @@ C) “No contexto atual, é alarmante constatar que muitas mulheres ainda descon
 [...]” (1º§)
 D) “Dentro dessa realidade preocupante, destacam-se diversos tipos de violência feminina, cada um com suas características e impactos
 específicos.” (1º§)
-CARGO: ADMINISTRADOR – TIPO 1 – BRANCA (M)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 Ძ
 
@@ -527,7 +525,6 @@ A) A forma verbal deve concordar com o sujeito composto apresentado.
 B) A forma verbal deve concordar com o sujeito que também está no plural.
 C) O verbo impessoal não apresenta variação, apenas uma única forma: terceira pessoa do plural.
 D) A forma na terceira pessoa do plural é característica do sujeito indeterminado conforme é visto no período.
-CARGO: ADMINISTRADOR – TIPO 1 – BRANCA (M)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 Ძ
 
@@ -666,7 +663,6 @@ A) “As escolas desempenham um papel fundamental nesse processo, [...]” (6º�
 B) “Conversas abertas sobre questões relacionadas à violência de gênero [...]” (7º§)
 C) “Ao incluir em suas grades curriculares conteúdos relacionados à violência de gênero, [...]” (6º§)
 D) “Além disso, é crucial que o papel da mulher como mãe seja valorizado e discutido dentro das famílias.” (7º§)
-CARGO: ADMINISTRADOR – TIPO 1 – BRANCA (M)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 Ძ
 CONHECIMENTOS DE DIREITO PÚBLICO
@@ -771,7 +767,6 @@ A) I e II.
 B) I e III.
 C) II e IV.
 D) III e IV.
-CARGO: ADMINISTRADOR – TIPO 1 – BRANCA (M)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 Ძ
 
@@ -887,7 +882,6 @@ C) receber petições, reclamações, representações ou queixas de sindicatos 
 dades ou entidades públicas.
 D) discutir e votar projeto de lei que dispensar, na forma do regimento, a competência do Plenário, salvo se houver recurso de
 um terço dos membros da Casa.
-CARGO: ADMINISTRADOR – TIPO 1 – BRANCA (M)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 Ძ
 
@@ -967,7 +961,6 @@ A) Colaborar para a adequada prestação do serviço.
 B) Utilizar adequadamente os serviços, procedendo com urbanidade e boa-fé.
 C) Prestar as informações pertinentes ao serviço efetuado quando solicitadas.
 D) Manter atuação integrada e sistêmica na expedição de atestados, certidões e documentos comprobatórios de regularidade.
-CONHECIMENTOS ESPECÍFICOS DO CARGO
 
 **Referências visuais:**
 
@@ -1001,7 +994,6 @@ A) F, F, V, V.
 B) F, V, F, F.
 C) V, F, V, V.
 D) V, V, F, F.
-CARGO: ADMINISTRADOR – TIPO 1 – BRANCA (M)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 Ძ
 
@@ -1121,7 +1113,6 @@ A) Unidade; anualidade; universalidade; e, publicidade.
 B) Legalidade; impessoalidade; moralidade; e, eficiência.
 C) Celeridade; competitividade; economicidade; e, igualdade.
 D) Planejamento; transparência; controle; e, responsabilização.
-CARGO: ADMINISTRADOR – TIPO 1 – BRANCA (M)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 Ძ
 
@@ -1224,7 +1215,6 @@ A) A primeira afirmativa está correta; a segunda, incorreta.
 B) A primeira afirmativa está incorreta; a segunda, correta.
 C) Ambas as afirmativas estão corretas e a segunda justifica a primeira.
 D) Ambas as afirmativas estão corretas, mas a segunda não justifica a primeira.
-CARGO: ADMINISTRADOR – TIPO 1 – BRANCA (M)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 Ძ
 
@@ -1310,7 +1300,6 @@ A) F, F, V, V.
 B) F, V, F, F.
 C) V, F, V, F.
 D) V, F, V, V.
-CARGO: ADMINISTRADOR – TIPO 1 – BRANCA (M)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 Ძ
 
@@ -1430,7 +1419,6 @@ A) A primeira afirmativa é falsa; a segunda, verdadeira.
 B) A primeira afirmativa é verdadeira; a segunda, falsa.
 C) As duas afirmativas são verdadeiras e a segunda completa a primeira.
 D) As duas afirmativas são verdadeiras, mas a segunda não completa a primeira.
-CARGO: ADMINISTRADOR – TIPO 1 – BRANCA (M)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 Ძ
 
@@ -1585,7 +1573,6 @@ A) V, V, V, V, F.
 B) F, F, F, V, V.
 C) F, V, V, F, F.
 D) V, F, F, V, F.
-CARGO: ADMINISTRADOR – TIPO 1 – BRANCA (M)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 Ძ
 
@@ -1704,7 +1691,6 @@ A) Socialização
 B) Pressuposto básico
 C) Clima organizacional
 D) Norma de comportamento
-CARGO: ADMINISTRADOR – TIPO 1 – BRANCA (M)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 Ძ
 
@@ -1825,7 +1811,6 @@ A) Mudança.
 B) Transformação.
 C) Recongelamento.
 D) Descongelamento.
-CARGO: ADMINISTRADOR – TIPO 1 – BRANCA (M)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 Ძ
 
@@ -1945,7 +1930,6 @@ comunicação constante e colaborativa com as partes interessadas ao longo do ci
 D) Destacam a importância de planejar todo o projeto antes de iniciá-lo, com foco no estabelecimento do escopo do projeto para
 garantir uma visão abrangente de todos os entregáveis. Essa abordagem busca antecipar e definir de forma precisa os requisitos e
 etapas do projeto desde o início, proporcionando uma base sólida para a execução das atividades planejadas.
-CARGO: ADMINISTRADOR – TIPO 1 – BRANCA (M)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 Ძ
 
@@ -2061,7 +2045,6 @@ C) Informação contida em registros ou documentos, produzidos ou acumulados por
 arquivos públicos.
 D) Informação produzida ou custodiada por pessoa física ou entidade privada decorrente de qualquer vínculo com seus órgãos
 ou entidades, mesmo que esse vínculo já tenha cessado.
-CARGO: ADMINISTRADOR – TIPO 1 – BRANCA (M)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 Ძ
 
@@ -2139,7 +2122,6 @@ Nenhuma.
 > CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BELO HORIZONTE/MG
 > Ძ
 > PROVA DISCURSIVA
-> ORIENTAÇÕES GERAIS
 > ➢ A Prova Discursiva terá caráter eliminatório e classificatório; é constituída de 2 (duas) dissertações sobre temas específicos da área
 > respectiva do cargo. Será avaliada em 100 (cem) pontos, sendo 50 (cinquenta) pontos para cada dissertação.
 > ➢ A resposta deverá ser manuscrita em letra legível, com caneta esferográfica de corpo transparente e de tinta azul ou preta, não sendo

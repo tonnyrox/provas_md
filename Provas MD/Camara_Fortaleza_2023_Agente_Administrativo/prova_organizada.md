@@ -1169,7 +1169,6 @@ aquiescência indispensável a esse fim.
 E) as deliberações da CPI, para adquirirem imperatividade,
 devem ser chanceladas pelo Plenário da Câmara Municipal de
 Fortaleza, o que não ocorreu no caso concreto.
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 

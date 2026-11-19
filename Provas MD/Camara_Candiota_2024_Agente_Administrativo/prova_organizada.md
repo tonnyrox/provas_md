@@ -182,7 +182,6 @@ D) Elogiar o trabalho da polícia, que prendeu diversas pessoas de uma rede de e
 E) Descrever o passo a passo dos golpes aplicados na internet para que os leitores se protejam.
 961_BASE_NM_DM
 14/02/2025 12:26:59
-Execução: Fundatec
 NÍVEL MÉDIO
 
 **Referências visuais:**
@@ -305,7 +304,6 @@ D) Descabidas.
 E) Incontestáveis.
 961_BASE_NM_DM
 14/02/2025 12:26:59
-Execução: Fundatec
 NÍVEL MÉDIO
 
 **Referências visuais:**
@@ -400,7 +398,6 @@ D) Apenas II e III.
 E) I, II e III.
 961_BASE_NM_DM
 14/02/2025 12:26:59
-Execução: Fundatec
 NÍVEL MÉDIO
 
 **Referências visuais:**
@@ -521,9 +518,7 @@ D) Verbo.
 E) Pronome.
 961_BASE_NM_DM
 14/02/2025 12:26:59
-Execução: Fundatec
 NÍVEL MÉDIO
-LEGISLAÇÃO
 
 **Referências visuais:**
 
@@ -712,7 +707,6 @@ D) Apenas II e III.
 E) I, II e III.
 961_BASE_NM_DM
 14/02/2025 12:26:59
-Execução: Fundatec
 NÍVEL MÉDIO
 
 **Referências visuais:**
@@ -809,7 +803,6 @@ D) Apenas II e III.
 E) I, II e III.
 961_BASE_NM_DM
 14/02/2025 12:26:59
-Execução: Fundatec
 NÍVEL MÉDIO
 
 **Referências visuais:**
@@ -843,7 +836,6 @@ B) Apenas III.
 C) Apenas I e II.
 D) Apenas II e III.
 E) I, II e III.
-CONHECIMENTOS GERAIS
 
 **Referências visuais:**
 
@@ -924,7 +916,6 @@ D) O Brasil é o país com a menor biodiversidade da América do Sul.
 E) A Floresta Amazônica, um dos maiores biomas brasileiros, não apresenta ecossistemas marinhos.
 961_BASE_NM_DM
 14/02/2025 12:26:59
-Execução: Fundatec
 NÍVEL MÉDIO
 
 **Referências visuais:**
@@ -973,7 +964,6 @@ C) Concurso de Miss Universo é realizado no México, e a dinamarquesa Victoria 
 coroa, a primeira da Dinamarca na história do concurso.
 D) Fernanda Torres faz história no Globo de Ouro, ganhando o prêmio de Melhor Atriz.
 E) Morre Silvio Santos, apresentador e empresário brasileiro.
-MATEMÁTICA/RACIOCÍNIO LÓGICO
 
 **Referências visuais:**
 
@@ -1070,7 +1060,6 @@ D) Possui todos os lados com medidas diferentes.
 E) Apresenta um dos ângulos internos maior que 90°.
 961_BASE_NM_DM
 14/02/2025 12:26:59
-Execução: Fundatec
 NÍVEL MÉDIO
 
 **Referências visuais:**
@@ -1191,7 +1180,6 @@ D) 18.
 E) 252.
 961_BASE_NM_DM
 14/02/2025 12:26:59
-Execução: Fundatec
 NÍVEL MÉDIO
 
 **Referências visuais:**
@@ -1219,7 +1207,7 @@ E) ![Imagem da questão](imagens/imagem_004.png)
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_004.png)
 
 ---
 

@@ -489,7 +489,7 @@ B) Somente os itens I e II.
 
 C) Somente os itens I e III.
 
-D) Somente os itens II e III. @SEC_MATEMATICA@
+D) Somente os itens II e III.
 
 ---
 

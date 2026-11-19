@@ -371,7 +371,6 @@ A) “vida lenta” (l. 9).
 B) “certa mulher” (l. 31).
 C) “coisas humildes” (l. 2).
 D) “pequeno açude” (l. 18).
-MATEMÁTICA E RACIOCÍNIO LÓGICO
 
 **Referências visuais:**
 
@@ -502,7 +501,6 @@ A) 85 pessoas.
 B) 80 pessoas.
 C) 68 pessoas.
 D) 60 pessoas.
-NOÇÕES DE INFORMÁTICA
 
 **Referências visuais:**
 

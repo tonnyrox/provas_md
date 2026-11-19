@@ -79,6 +79,8 @@ Nenhum grupo de questões compartilhando material foi identificado automaticamen
 
 #### QUESTÃO 01
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 01- Nesta tirinha, a personagem faz referência a uma das mais conhecidas figuras de linguagem para:
@@ -98,6 +100,8 @@ D) problematizar a questão do diálogo entre gerações.
 ---
 
 #### QUESTÃO 02
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Material de apoio:**
 
@@ -131,6 +135,8 @@ Nenhuma.
 
 #### QUESTÃO 03
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 03- Assinale a alternativa em que ocorre o maior número de pronomes:
@@ -152,6 +158,8 @@ Nenhuma.
 
 #### QUESTÃO 04
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 04- Indique a alternativa em que não ocorre concordância segundo a norma culta
@@ -172,6 +180,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 05
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Enunciado:**
 
@@ -195,6 +205,8 @@ Nenhuma.
 
 #### QUESTÃO 06
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 06- Em que alternativa todas as palavras são escritas com j ?
@@ -213,6 +225,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 07
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Enunciado:**
 
@@ -236,6 +250,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 08
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Enunciado:**
 
@@ -264,6 +280,8 @@ Nenhuma.
 
 #### QUESTÃO 09
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 09- Assinale a alternativa em que há incorreção quanto ao emprego da forma
@@ -285,6 +303,8 @@ Nenhuma.
 
 #### QUESTÃO 10
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 10- “Os suicidas se realizam porque, na hora do desespero, falta o vizinho que lhe deseje
@@ -297,7 +317,6 @@ A) modo
 B) desejo
 C) afirmação
 D) dúvida
-MATEMÁTICA
 
 **Referências visuais:**
 
@@ -306,6 +325,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 11
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Enunciado:**
 
@@ -330,6 +351,8 @@ Nenhuma.
 
 #### QUESTÃO 12
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 12- Um fusca com a velocidade média de 50km/h, rodando 12 horas por dia, leva 14
@@ -352,6 +375,8 @@ Nenhuma.
 
 #### QUESTÃO 13
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 13- No ano de 1935, no dia do aniversário de suas duas filhas gêmeas, Nini fez
@@ -373,6 +398,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 14
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Enunciado:**
 
@@ -397,6 +424,8 @@ Nenhuma.
 
 #### QUESTÃO 15
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 15- Maria Cecília gasta 4 minutos para digitar um terço de página de um texto de
@@ -419,6 +448,8 @@ Nenhuma.
 
 #### QUESTÃO 16
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 16- Juquinha passou todos os dias de suas férias em Salvador. Quando ia à praia
@@ -439,6 +470,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 17
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Enunciado:**
 
@@ -461,6 +494,8 @@ Nenhuma.
 
 #### QUESTÃO 18
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 18- Mateus aplicou a quantia de R$ 250.000,00 à taxa de juro composto de 6% ao
@@ -480,6 +515,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 19
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Enunciado:**
 
@@ -501,6 +538,8 @@ Nenhuma.
 
 #### QUESTÃO 20
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 20- Calcular 6% de R$ 15.500,00 e marcar a alternativa correta:
@@ -520,6 +559,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 21
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Enunciado:**
 
@@ -546,6 +587,8 @@ Nenhuma.
 
 #### QUESTÃO 22
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 22-Existem vários tipos de correspondências. Assinale a alternativa abaixo que descreve
@@ -565,6 +608,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 23
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Enunciado:**
 
@@ -601,6 +646,8 @@ Nenhuma.
 
 #### QUESTÃO 24
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 24- Dentre outras formas, os cargos públicos são providos por:
@@ -620,6 +667,8 @@ Nenhuma.
 
 #### QUESTÃO 25
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 25-De todas as reuniões são lavradas atas. As atas se destinam a:
@@ -638,6 +687,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 26
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Enunciado:**
 
@@ -674,6 +725,8 @@ Nenhuma.
 
 #### QUESTÃO 27
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 27- As afirmativas abaixo dizem respeito ao sistema arrecadatório do Município. Todas
@@ -703,6 +756,8 @@ Nenhuma.
 
 #### QUESTÃO 28
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 28-Tendo sido extinto o cargo no qual estava lotado o servidor público ele será colocado
@@ -722,6 +777,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 29
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Enunciado:**
 
@@ -744,6 +801,8 @@ Nenhuma.
 
 #### QUESTÃO 30
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 30- De acordo com a legislação vigente, é vedado o recebimento de proventos de
@@ -763,6 +822,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 31
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Enunciado:**
 
@@ -785,6 +846,8 @@ Nenhuma.
 
 #### QUESTÃO 32
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 32-Analise as afirmativas abaixo e assinale no gabarito a que está correta:
@@ -803,6 +866,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 33
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Enunciado:**
 
@@ -829,6 +894,8 @@ Nenhuma.
 
 #### QUESTÃO 34
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 34-Com referência à elaboração de correspondências e atos oficiais estão corretas
@@ -849,6 +916,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 35
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Enunciado:**
 
@@ -879,6 +948,8 @@ Nenhuma.
 
 #### QUESTÃO 36
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 36-Considerando que o usuário do Internet Explorer pressiona simultaneamente as
@@ -899,6 +970,8 @@ Nenhuma.
 
 #### QUESTÃO 37
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 37-A expressão baixar um arquivo da Internet significa:
@@ -917,6 +990,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 38
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Enunciado:**
 
@@ -940,6 +1015,8 @@ Nenhuma.
 
 #### QUESTÃO 39
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
+
 **Enunciado:**
 
 39-Para abrir o menu INICIAR no Windows, utilizando o teclado, pressiona a seguinte
@@ -959,6 +1036,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 40
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 072, contém a prova; quadro de respostas não localizado))
 
 **Enunciado:**
 

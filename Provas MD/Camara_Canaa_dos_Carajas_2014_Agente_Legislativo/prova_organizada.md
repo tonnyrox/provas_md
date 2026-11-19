@@ -395,7 +395,6 @@ A) “quase um bilhão” (linha 2).
 B) “pessoas com desnutrição” (linha 4).
 C) “Organização das Nações Unidas” (linha 3).
 D) “60 milhões de pessoas passavam fome” (linha 2).
-MATEMÁTICA
 
 **Referências visuais:**
 
@@ -492,7 +491,7 @@ ANALISE O QUADRO ABAIXO PARA A PRÓXIMA QUESTÃO.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
@@ -510,7 +509,6 @@ A) superada pela soma das despesas com Cultura e Saúde.
 B) inferior à soma das despesas orçamentárias com Urbanismo e Saúde.
 C) equivalente a 25% do Total Geral das despesas orçamentárias.
 D) o dobro das despesas orçamentárias com Urbanismo.
-INFORMÁTICA
 
 **Referências visuais:**
 

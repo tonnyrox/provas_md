@@ -260,7 +260,6 @@ E) Necessitamos de outras fontes para ter uma informação segura e confiável.
 
 ## 3. Questões independentes
 
-**MATEMÁTICA/RACIOCÍNIO LÓGICO**
 
 #### QUESTÃO 6
 
@@ -363,7 +362,6 @@ E) 300 m².
 
 ---
 
-**CONHECIMENTOS GERAIS/ATUALIDADES**
 
 #### QUESTÃO 11
 
@@ -471,7 +469,6 @@ E) Apenas I e III.
 
 ---
 
-**CONHECIMENTOS DE INFORMÁTICA**
 
 #### QUESTÃO 16
 
@@ -581,7 +578,6 @@ E) Autenticação.
 
 ---
 
-**CONHECIMENTOS ESPECÍFICOS**
 
 #### QUESTÃO 21
 

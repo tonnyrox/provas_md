@@ -453,7 +453,6 @@ D) polissêmica.
 
 ## 3. Questões independentes
 
-**QUESTÕES DE MÚLTIPLA ESCOLHA – INFORMÁTICA**
 
 #### QUESTÃO 11
 

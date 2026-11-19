@@ -708,7 +708,7 @@ B) Composto
 
 C) Pleonástico
 
-D) Inexistente # MATEMÁTICA
+D) Inexistente
 
 **Referências visuais:**
 
@@ -830,7 +830,7 @@ B) $5x - y - 13 = 0$
 
 C) $x + 5y - 13 = 0$
 
-D) $5x - 5y - 5 = 0$ # NOÇÕES DE INFORMÁTICA
+D) $5x - 5y - 5 = 0$
 
 **Referências visuais:**
 
@@ -1082,7 +1082,7 @@ B) browser
 
 C) repetidor
 
-D) modem # CONHECIMENTOS ESPECÍFICOS
+D) modem
 
 **Referências visuais:**
 

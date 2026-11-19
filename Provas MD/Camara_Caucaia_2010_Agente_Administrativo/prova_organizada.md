@@ -246,6 +246,8 @@
 
 #### QUESTÃO 01
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Material de apoio:**
 
 CÉTICOS AINDA TENTAM DERRUBAR "FARSA" DA JORNADA À LUA
@@ -366,6 +368,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 02
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Material de apoio:**
 
@@ -491,6 +495,8 @@ Nenhuma.
 
 #### QUESTÃO 03
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Material de apoio:**
 
 CÉTICOS AINDA TENTAM DERRUBAR "FARSA" DA JORNADA À LUA
@@ -609,6 +615,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 04
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Material de apoio:**
 
@@ -731,6 +739,8 @@ Nenhuma.
 
 #### QUESTÃO 05
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Assinale a alternativa em que a palavra em
@@ -760,6 +770,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 06
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -799,6 +811,8 @@ Nenhuma.
 
 #### QUESTÃO 07
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Assinale a alternativa em que na frase existe um
@@ -821,6 +835,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 08
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -845,6 +861,8 @@ Nenhuma.
 
 #### QUESTÃO 09
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Qual alternativa em que a grafia das palavras
@@ -866,6 +884,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 10
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -901,6 +921,8 @@ Nenhuma.
 
 #### QUESTÃO 11
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Marque a opção CORRETA em relação ao
@@ -922,6 +944,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 12
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -957,6 +981,8 @@ Nenhuma.
 
 #### QUESTÃO 13
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Quanto à concordância verbal e nominal, marque
@@ -981,6 +1007,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 14
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1010,6 +1038,8 @@ Nenhuma.
 
 #### QUESTÃO 15
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Marque a opção cujos vocábulos da sequência
@@ -1032,6 +1062,8 @@ Nenhuma.
 
 #### QUESTÃO 16
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Se x = [1, 8[ e y = ]2, 6], x ∩ y será:
@@ -1051,6 +1083,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 17
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1079,6 +1113,8 @@ Nenhuma.
 
 #### QUESTÃO 18
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Numa empresa de construção civil, 20 homens
@@ -1102,6 +1138,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 19
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1127,6 +1165,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 20
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1156,6 +1196,8 @@ Nenhuma.
 
 #### QUESTÃO 21
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Um automóvel que se desloca com a velocidade
@@ -1178,6 +1220,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 22
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1202,6 +1246,8 @@ Nenhuma.
 
 #### QUESTÃO 23
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 João aplicou R$ 13.000,00 pelo tempo de um ano
@@ -1224,6 +1270,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 24
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1248,6 +1296,8 @@ Nenhuma.
 
 #### QUESTÃO 25
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Qual o diâmetro de uma circunferência cuja
@@ -1268,6 +1318,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 26
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1293,6 +1345,8 @@ Nenhuma.
 
 #### QUESTÃO 27
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 A aresta da base de um prisma hexagonal
@@ -1316,6 +1370,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 28
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1341,6 +1397,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 29
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1369,6 +1427,8 @@ Nenhuma.
 
 #### QUESTÃO 30
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Se “P” é o mínimo múltiplo comum de 12 e 16 e
@@ -1391,6 +1451,8 @@ Nenhuma.
 
 #### QUESTÃO 31
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 A bandeira de Caucaia foi criada por inspiração:
@@ -1410,6 +1472,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 32
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1439,6 +1503,8 @@ Nenhuma.
 
 #### QUESTÃO 33
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Todo começo de ano, os impostos nos
@@ -1462,6 +1528,8 @@ Nenhuma.
 
 #### QUESTÃO 34
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Dois países continuarão em destaque em 2010
@@ -1484,6 +1552,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 35
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1509,6 +1579,8 @@ Nenhuma.
 
 #### QUESTÃO 36
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Sobre o Haiti é correto afirma, EXCETO:
@@ -1531,6 +1603,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 37
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1568,6 +1642,8 @@ Nenhuma.
 
 #### QUESTÃO 38
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 “O empresário ____________ foi eleito novo
@@ -1591,6 +1667,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 39
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1617,6 +1695,8 @@ Nenhuma.
 
 #### QUESTÃO 40
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 “As ações da ____________, fundada pela Dra.
@@ -1638,7 +1718,6 @@ D) Pastoral do Órfão, da adoção, família, acolhimento,
 orfandade, marginalidade.
 E) Pastoral da Fraternidade, infantil, solidariedade,
 amor, prostituição, violência.
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 
@@ -1647,6 +1726,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 41
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1672,6 +1753,8 @@ Nenhuma.
 
 #### QUESTÃO 42
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 O servidor nomeado para cargo efetivo estará
@@ -1693,6 +1776,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 43
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1725,6 +1810,8 @@ Nenhuma.
 
 #### QUESTÃO 44
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Considera-se como Ética no Setor Público:
@@ -1751,6 +1838,8 @@ Nenhuma.
 
 #### QUESTÃO 45
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 A qualidade no serviço público é obtida quando
@@ -1771,6 +1860,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 46
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1794,6 +1885,8 @@ Nenhuma.
 
 #### QUESTÃO 47
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Qual das alternativas abaixo apresenta uma
@@ -1816,6 +1909,8 @@ Nenhuma.
 
 #### QUESTÃO 48
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 No Microsoft Word qual a extensão de um
@@ -1837,6 +1932,8 @@ Nenhuma.
 
 #### QUESTÃO 49
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Quando executamos o comando Salvar, no
@@ -1857,6 +1954,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 50
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1884,6 +1983,8 @@ Nenhuma.
 
 #### QUESTÃO 51
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Segundo a Lei 8.112/90, a vacância do cargo
@@ -1905,6 +2006,8 @@ Nenhuma.
 
 #### QUESTÃO 52
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Não é considerada hipótese de vacância o
@@ -1925,6 +2028,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 53
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -1949,6 +2054,8 @@ Nenhuma.
 
 #### QUESTÃO 54
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 O Servidor Público Federal, no uso das suas
@@ -1970,6 +2077,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 55
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -2002,6 +2111,8 @@ Nenhuma.
 
 #### QUESTÃO 56
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 Não é forma de provimento do cargo público:
@@ -2021,6 +2132,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 57
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -2042,6 +2155,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 58
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 
@@ -2065,6 +2180,8 @@ Nenhuma.
 
 #### QUESTÃO 59
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
+
 **Enunciado:**
 
 O licitante somente pode desistir da proposta,
@@ -2086,6 +2203,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 60
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 097, contém a prova com 'CÓPIA DO GABARITO' em branco))
 
 **Enunciado:**
 

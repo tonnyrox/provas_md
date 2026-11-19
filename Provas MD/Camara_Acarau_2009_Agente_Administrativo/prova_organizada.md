@@ -723,7 +723,6 @@ imaginou
 D) Baseia-­‐se numa evolução de acontecimentos
 E) Por meio da apresentação de ideias, dados e
 conceitos, busca-­‐se chegar a conclusões
-MATEMÁTICA
 
 **Referências visuais:**
 
@@ -1096,7 +1095,6 @@ B) 11
 C) 12
 D) 13
 E) 14
-ATUALIDADES E CONVIVÊNCIA SOCIETÁRIA
 
 **Referências visuais:**
 
@@ -1373,7 +1371,6 @@ B) Transmitida pelo ar
 C) Transmitida por secreções
 D) Não transmissível
 E) Doença Hepática
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 

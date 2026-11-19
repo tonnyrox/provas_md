@@ -323,7 +323,6 @@ B) Surpreender o leitor.
 C) Validar a opinião da autora.
 D) Marcar uma pausa de curta duração.
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BARBACENA/MG
-CARGO: AGENTE ADMINISTRATIVO (T)
 – TIPO 4 – AZUL
 Џ
 
@@ -468,7 +467,6 @@ A) Todavia.
 B) Entretanto.
 C) Ainda assim.
 D) Em vista disso.
-RACIOCÍNIO LÓGICO MATEMÁTICO
 
 **Referências visuais:**
 
@@ -577,13 +575,12 @@ C) Adriana é professora de português.
 D) Cléo não é professora de matemática.
 ![Imagem da questão](imagens/imagem_001.png)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BARBACENA/MG
-CARGO: AGENTE ADMINISTRATIVO (T)
 – TIPO 4 – AZUL
 Џ
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
@@ -605,7 +602,6 @@ A) 588
 B) 630
 C) 1.218
 D) 1.260
-CONHECIMENTOS GERAIS
 
 **Referências visuais:**
 
@@ -770,7 +766,6 @@ B) F, F, F.
 C) F, F, V.
 D) V, V, F.
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BARBACENA/MG
-CARGO: AGENTE ADMINISTRATIVO (T)
 – TIPO 4 – AZUL
 Џ
 
@@ -948,7 +943,6 @@ B) F, V, F.
 C) V, V, V.
 D) F, F, F.
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BARBACENA/MG
-CARGO: AGENTE ADMINISTRATIVO (T)
 – TIPO 4 – AZUL
 Џ
 
@@ -1017,8 +1011,6 @@ D) O governo, apesar do regime autoritário, tinha uma parti-
 cularidade notável; ele matinha livre as emissoras de
 rádio e de televisão, exigindo apenas a vinculação de
 propagandas de Hitler.
-CONHECIMENTOS ESPECÍFICOS
-LEGISLAÇÃO ESPECÍFICA
 
 **Referências visuais:**
 
@@ -1179,7 +1171,6 @@ quecimento ilícito.
 D) Será punida apenas se o ilícito for descoberto em até três
 anos de sua prática.
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BARBACENA/MG
-CARGO: AGENTE ADMINISTRATIVO (T)
 – TIPO 4 – AZUL
 Џ
 
@@ -1396,13 +1387,12 @@ D) A falta de espaço, ventilação ou iluminação inadequada
 são exemplos desse referem a atos inseguros.
 ![Imagem da questão](imagens/imagem_002.png)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BARBACENA/MG
-CARGO: AGENTE ADMINISTRATIVO (T)
 – TIPO 4 – AZUL
 Џ
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.png)
 
 ---
 
@@ -1573,13 +1563,15 @@ D) =TRUNCAR
 ![Imagem da questão](imagens/imagem_005.jpg)
 ![Imagem da questão](imagens/imagem_006.jpg)
 CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE BARBACENA/MG
-CARGO: AGENTE ADMINISTRATIVO (T)
 – TIPO 4 – AZUL
 Џ
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_003.jpg)
+![Imagem da questão](imagens/imagem_004.jpg)
+![Imagem da questão](imagens/imagem_005.jpg)
+![Imagem da questão](imagens/imagem_006.jpg)
 
 ---
 
@@ -1677,7 +1669,8 @@ endereço eletrônico www.institutoconsulplan.org.br, no link correspondente ao 
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_007.jpg)
+![Imagem da questão](imagens/imagem_008.png)
 
 ---
 

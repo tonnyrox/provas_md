@@ -285,7 +285,7 @@ C) 9 letras e 4 fonemas.
 
 D) 9 letras e 8 fonemas.
 
-E) 9 letras e 9 fonemas. Execução: Fundatec NÍVEL MÉDIO www.pciconcursos.com.br
+E) 9 letras e 9 fonemas.
 
 **Referências visuais:**
 
@@ -657,7 +657,7 @@ C) A grande vantagem do jogo é aquela que os guris levam.
 
 D) Grande vantagem seria levada neste jogo pelos guris.
 
-E) Os guris, neste jogo, podem levar grande vantagem. Execução: Fundatec NÍVEL MÉDIO www.pciconcursos.com.br
+E) Os guris, neste jogo, podem levar grande vantagem.
 
 **Referências visuais:**
 
@@ -894,7 +894,7 @@ C) Apenas I e II.
 
 D) Apenas I e III.
 
-E) Apenas II e III. Execução: Fundatec NÍVEL MÉDIO www.pciconcursos.com.br
+E) Apenas II e III.
 
 **Referências visuais:**
 
@@ -1274,7 +1274,7 @@ C) Apenas I e II.
 
 D) Apenas I e III.
 
-E) Apenas II e III. Execução: Fundatec NÍVEL MÉDIO www.pciconcursos.com.br LEGISLAÇÃO
+E) Apenas II e III.
 
 **Referências visuais:**
 
@@ -1397,7 +1397,7 @@ C) Apenas I e III.
 
 D) Apenas II e III.
 
-E) I, II e III. Execução: Fundatec NÍVEL MÉDIO www.pciconcursos.com.br
+E) I, II e III.
 
 **Referências visuais:**
 
@@ -1544,7 +1544,7 @@ C) Desigualdade.
 
 D) Prisão perpétua.
 
-E) Tratamento desumano. Execução: Fundatec NÍVEL MÉDIO www.pciconcursos.com.br
+E) Tratamento desumano.
 
 **Referências visuais:**
 
@@ -1650,7 +1650,7 @@ C) 3 – 4 – 1 – 2.
 
 D) 3 – 4 – 2 – 1.
 
-E) 4 – 2 – 1 – 3. Execução: Fundatec NÍVEL MÉDIO www.pciconcursos.com.br
+E) 4 – 2 – 1 – 3.
 
 **Referências visuais:**
 
@@ -1740,7 +1740,7 @@ C) Rosina Becker do Valle.
 
 D) Di Cavalcanti.
 
-E) Tarsila do Amaral. MATEMÁTICA/RACIOCÍNIO LÓGICO
+E) Tarsila do Amaral
 
 **Referências visuais:**
 
@@ -1796,7 +1796,7 @@ C) 996.
 
 D) 1992.
 
-E) 2012. Execução: Fundatec NÍVEL MÉDIO www.pciconcursos.com.br
+E) 2012.
 
 **Referências visuais:**
 
@@ -1868,6 +1868,12 @@ E)
 
 **Referências visuais:**
 
+![Imagem da questão](imagens/imagem_005.png)
+![Imagem da questão](imagens/imagem_006.png)
+![Imagem da questão](imagens/imagem_007.png)
+![Imagem da questão](imagens/imagem_008.png)
+
+
 As cinco alternativas desta questão são gráficos, reproduzidos acima (imagens/imagem_004.png a imagem_008.png).
 
 ---
@@ -1893,7 +1899,7 @@ C) Racional e menor do que dois.
 
 D) Inteiro e maior do que dois.
 
-E) Racional e maior do que três. Execução: Fundatec NÍVEL MÉDIO www.pciconcursos.com.br
+E) Racional e maior do que três.
 
 **Referências visuais:**
 
@@ -2045,7 +2051,7 @@ C) 18.
 
 D) 18,5.
 
-E) 20,4. Execução: Fundatec NÍVEL MÉDIO www.pciconcursos.com.br
+E) 20,4.
 
 **Referências visuais:**
 

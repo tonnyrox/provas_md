@@ -484,7 +484,6 @@ A) elemento que compõe uma sequência enumerativa.
 B) aposto que explica, na oração, a noção de tempo.
 C) adjunto adverbial deslocado da ordem direta da oração.
 D) termo de caráter expletivo com a noção de intensidade.
-RACIOCÍNIO LÓGICO
 
 **Referências visuais:**
 
@@ -735,7 +734,6 @@ B) Calc - OneDrive
 C) Math - Access
 D) Base - OneDrive
 IBFC_06
-LEGISLAÇÃO
 
 **Referências visuais:**
 
@@ -1015,7 +1013,6 @@ ou a execução do contrato
 C) aumentando os preços ou valores
 D) vendendo, como verdadeira ou perfeita, mercadoria
 falsificada ou deteriorada
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 

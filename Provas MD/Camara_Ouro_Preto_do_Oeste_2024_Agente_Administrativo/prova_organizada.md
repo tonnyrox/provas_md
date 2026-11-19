@@ -449,7 +449,7 @@ C) Fui a escola e encontrei meu irmão.
 
 D) A professora entregou os cadernos as alunas.
 
-E) Cheguei à uma conclusão importante. RACIOCÍNIO LÓGICO
+E) Cheguei à uma conclusão importante
 
 ---
 
@@ -559,7 +559,7 @@ C) Um círculo de animais e um retângulo de aves.
 
 D) Dois círculos sobrepostos.
 
-E) Um círculo de animais dentro de um círculo de aves. NOÇÕES DE INFORMÁTICA
+E) Um círculo de animais dentro de um círculo de aves
 
 ---
 
@@ -669,7 +669,7 @@ C) IPv6.
 
 D) criptografia de dados.
 
-E) roteamento estático. CONHECIMENTOS ESPECÍFICOS
+E) roteamento estático
 
 ---
 

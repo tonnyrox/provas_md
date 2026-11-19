@@ -144,7 +144,7 @@ E) a mulher bancária, em seu momento de aflição, era bastante comunicativa e 
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
@@ -216,7 +216,7 @@ E) A solidariedade deve ser sempre cultivada, pois o homem não foi feito para v
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
@@ -294,7 +294,7 @@ E) V - V - F - V
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
@@ -375,7 +375,7 @@ E) I, II, III e IV.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
@@ -453,7 +453,7 @@ seria facultativa, pois separa a oração reduzida de gerúndio.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
@@ -534,7 +534,7 @@ E) III, apenas.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
@@ -609,7 +609,7 @@ Texto 03 (questão 10)
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
@@ -691,7 +691,7 @@ Disponível em: http://essenciacriativa.blogspot.com.br/
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
@@ -710,7 +710,6 @@ B) Permite que as pessoas permaneçam com os mesmos hábitos.
 C) Possibilita haver isolamento entre pessoas que ocupam um mesmo espaço.
 D) Há mais comunicação entre os que estão em um mesmo local do que os que se encontram em locais distantes.
 E) O novo modo de as pessoas se comunicarem revela uma mudança benéfica de comportamento.
-RACIOCÍNIO LÓGICO
 
 **Referências visuais:**
 
@@ -794,7 +793,8 @@ AGENTE ADMINISTRATIVO
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.jpg)
+![Imagem da questão](imagens/imagem_003.png)
 
 ---
 
@@ -1526,7 +1526,23 @@ Número de
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_004.png)
+![Imagem da questão](imagens/imagem_005.png)
+![Imagem da questão](imagens/imagem_006.png)
+![Imagem da questão](imagens/imagem_007.png)
+![Imagem da questão](imagens/imagem_008.png)
+![Imagem da questão](imagens/imagem_009.png)
+![Imagem da questão](imagens/imagem_010.png)
+![Imagem da questão](imagens/imagem_011.png)
+![Imagem da questão](imagens/imagem_012.png)
+![Imagem da questão](imagens/imagem_013.png)
+![Imagem da questão](imagens/imagem_014.png)
+![Imagem da questão](imagens/imagem_015.png)
+![Imagem da questão](imagens/imagem_016.png)
+![Imagem da questão](imagens/imagem_017.png)
+![Imagem da questão](imagens/imagem_018.jpg)
+![Imagem da questão](imagens/imagem_019.png)
+![Imagem da questão](imagens/imagem_020.png)
 
 ---
 

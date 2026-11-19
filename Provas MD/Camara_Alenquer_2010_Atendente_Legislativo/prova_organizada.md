@@ -228,7 +228,7 @@ D) elementos que revelam sua irreverência em relação à gramática.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
@@ -290,7 +290,7 @@ D) explicar o papel das classes gramaticais: verbo, substantivo, adjetivo, inter
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
@@ -359,7 +359,7 @@ D) I, II e III.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
@@ -421,7 +421,7 @@ D) incontrolável.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
@@ -488,7 +488,7 @@ Pinheiro Machado, com as editoras Fernanda Veríssimo e Jó Saldanha tomaram par
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
@@ -550,7 +550,7 @@ D) “Morrem quando contraem o câncer do significado definitivo” (linhas 14-1
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
@@ -619,7 +619,7 @@ maioria de mulheres”.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
@@ -681,7 +681,7 @@ D) “Quando os eruditos descobriram a língua” (linha 1) expressa uma circuns
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
@@ -743,7 +743,7 @@ D) “elas” (linha 7) refere-se às “editoras Fernanda Veríssimo e Jó Sald
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
@@ -764,7 +764,6 @@ A) Meritíssimo Senhor X.
 B) Digníssimo Senhor X.
 C) Sua Senhoria, Senhor X.
 D) Excelentíssimo Senhor X.
-MATEMÁTICA
 Utilize a informação abaixo para a próxima questão.
 A carreira artística do cantor alenquerense Waldomiro Patrício “iniciou-se no dia 17 de julho de 1970.
 Seu primeiro conjunto musical foi Os Paqueras, logo passando a compor os grupos Os Líderes, depois
@@ -886,7 +885,6 @@ A) Antônio.
 B) Bruno.
 C) Cid.
 D) Daniel.
-NOÇÕES DE INFORMÁTICA
 
 **Referências visuais:**
 
@@ -999,7 +997,6 @@ A) Telnet.
 B) Imap4.
 C) Plug-In.
 D) Cookie.
-LEGISLAÇÃO
 
 **Referências visuais:**
 
@@ -1261,7 +1258,6 @@ A) Emenda à Lei Orgânica.
 B) Leis Complementares à Lei Orgânica.
 C) Leis Ordinárias e Medidas Provisórias.
 D) Resoluções e Decretos Legislativos.
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 

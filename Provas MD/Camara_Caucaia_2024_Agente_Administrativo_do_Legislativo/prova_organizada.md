@@ -1944,7 +1944,7 @@ CÂMARA MUNICIPAL DE CAUCAIA – CE – AGENTE ADMINISTRATIVO DO LEGISLATIVO –
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.png)
 
 ---
 
@@ -2312,7 +2312,6 @@ C) Equatorial.
 D) Monções.
 E) Tropical semiárido.
 CÂMARA MUNICIPAL DE CAUCAIA – CE – AGENTE ADMINISTRATIVO DO LEGISLATIVO – 28/07/2024
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 
@@ -2602,7 +2601,7 @@ CÂMARA MUNICIPAL DE CAUCAIA – CE – AGENTE ADMINISTRATIVO DO LEGISLATIVO –
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_003.png)
 
 ---
 

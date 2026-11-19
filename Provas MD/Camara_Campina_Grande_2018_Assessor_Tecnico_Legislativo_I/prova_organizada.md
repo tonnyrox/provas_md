@@ -142,7 +142,7 @@ CMCG2 0 1 8 - AS S . T E C. L E GI S L AT I V O I
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_003.png)
 
 ---
 
@@ -319,7 +319,7 @@ CMCG2 0 1 8 - AS S . T E C. L E GI S L AT I V O I
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_004.png)
 
 ---
 
@@ -582,7 +582,7 @@ Com base na leitura do texto a seguir, que faz uma reﬂexão sobre a formação
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_006.png)
 
 ---
 
@@ -925,11 +925,10 @@ E) II.
 PÁGINA 10
 CMCG2 0 1 8 - AS S . T E C. L E GI S L AT I V O I
 PÁGINA 11
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_007.png)
 
 ---
 
@@ -1434,7 +1433,8 @@ CMCG2 0 1 8 - AS S . T E C. L E GI S L AT I V O I
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_008.png)
+![Imagem da questão](imagens/imagem_009.png)
 
 ---
 

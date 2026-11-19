@@ -99,7 +99,7 @@ B) =A$7
 
 C) =$A$7
 
-D) =$A7 @SEC_INFO@
+D) =$A7
 
 **Referências visuais:**
 
@@ -175,7 +175,7 @@ B) surpreza / palidez / friesa
 
 C) alizar / vulgarizar / amenisar
 
-D) burguez / proesa / holandesa @SEC_LP@
+D) burguez / proesa / holandesa
 
 ---
 
@@ -631,7 +631,7 @@ A formalidade de tratamento na comunicação oficial diz respeito aos seguintes 
 
 A) polidez no próprio enfoque dado ao assunto tratado na comunicação.
 
-B) emprego do pronome de tratamento apropriado ao destinatário da comu- nicação. @SEC_RED@
+B) emprego do pronome de tratamento apropriado ao destinatário da comu- nicação.
 
 C) uniformidade da comunicação, mediante a observância de normas espe- cíficas para cada tipo de expediente.
 

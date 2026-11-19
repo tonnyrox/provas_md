@@ -2225,7 +2225,10 @@ D) ![Consulta SQL da alternativa D da questão 57](imagens/imagem_011.png)
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_008.png)
+![Imagem da questão](imagens/imagem_009.png)
+![Imagem da questão](imagens/imagem_010.png)
+![Imagem da questão](imagens/imagem_011.png)
 
 ---
 

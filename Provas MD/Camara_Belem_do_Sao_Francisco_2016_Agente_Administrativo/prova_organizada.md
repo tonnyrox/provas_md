@@ -532,7 +532,6 @@ pessoas e para os outros seres vivos, tendo
 em conta a habitabilidade, a beleza do
 ambiente e a sua função como fonte de
 energias renováveis.
-ATUALIDADES
 CÂMARA MUNICIPAL DE BELÉM DO SÃO FRANCISCO
 Instituto Machado de Assis
 Cargo: AGENTE ADMINISTRATIVO
@@ -738,7 +737,6 @@ A) Todos os itens estão corretos.
 B) Todos os itens são falsos.
 C) Apenas o item I é falso.
 D) Apenas o item II é falso.
-INFORMÁTICA BÁSICA
 CÂMARA MUNICIPAL DE BELÉM DO SÃO FRANCISCO
 Instituto Machado de Assis
 Cargo: AGENTE ADMINISTRATIVO
@@ -920,7 +918,6 @@ conduta ele se vale da publicidade oficial para
 realizar promoção pessoal assim ele atenta
 contra os princípios da impessoalidade e
 moralidade.
-CONHECIMENTOS ESPECÍFICOS
 CÂMARA MUNICIPAL DE BELÉM DO SÃO FRANCISCO
 Instituto Machado de Assis
 Cargo: AGENTE ADMINISTRATIVO

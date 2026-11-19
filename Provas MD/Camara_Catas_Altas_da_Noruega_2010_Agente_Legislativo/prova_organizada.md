@@ -91,6 +91,8 @@
 
 #### QUESTÃO 01
 
+✅ **Gabarito: D** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: D**
 **Material de apoio:**
 
@@ -130,6 +132,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 02
+
+✅ **Gabarito: A** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: A**
 **Material de apoio:**
@@ -171,6 +175,8 @@ Nenhuma.
 
 #### QUESTÃO 03
 
+✅ **Gabarito: C** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: C**
 **Material de apoio:**
 
@@ -211,6 +217,8 @@ Nenhuma.
 
 #### QUESTÃO 04
 
+✅ **Gabarito: D** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: D**
 **Material de apoio:**
 
@@ -250,6 +258,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 05
+
+✅ **Gabarito: B** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: B**
 **Material de apoio:**
@@ -294,6 +304,8 @@ Nenhuma.
 
 #### QUESTÃO 06
 
+✅ **Gabarito: B** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: B**
 **Enunciado:**
 
@@ -321,6 +333,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 07
+
+✅ **Gabarito: D** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: D**
 **Enunciado:**
@@ -350,6 +364,8 @@ Nenhuma.
 
 #### QUESTÃO 08
 
+✅ **Gabarito: C** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: C**
 **Enunciado:**
 
@@ -373,6 +389,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 09
+
+✅ **Gabarito: B** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: B**
 **Enunciado:**
@@ -398,6 +416,8 @@ Nenhuma.
 
 #### QUESTÃO 10
 
+✅ **Gabarito: D** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: D**
 **Enunciado:**
 
@@ -420,6 +440,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 11
+
+✅ **Gabarito: C** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: C**
 **Enunciado:**
@@ -444,6 +466,8 @@ Nenhuma.
 
 #### QUESTÃO 12
 
+✅ **Gabarito: B** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: B**
 **Enunciado:**
 
@@ -466,6 +490,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 13
+
+✅ **Gabarito: C** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: C**
 **Enunciado:**
@@ -490,6 +516,8 @@ Nenhuma.
 
 #### QUESTÃO 14
 
+✅ **Gabarito: B** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: B**
 **Enunciado:**
 
@@ -512,6 +540,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 15
+
+✅ **Gabarito: D** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: D**
 **Enunciado:**
@@ -536,6 +566,8 @@ Nenhuma.
 
 #### QUESTÃO 16
 
+✅ **Gabarito: B** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: B**
 **Enunciado:**
 
@@ -558,6 +590,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 17
+
+✅ **Gabarito: D** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: D**
 **Enunciado:**
@@ -582,6 +616,8 @@ Nenhuma.
 
 #### QUESTÃO 18
 
+✅ **Gabarito: C** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: C**
 **Enunciado:**
 
@@ -605,6 +641,8 @@ Nenhuma.
 
 #### QUESTÃO 19
 
+✅ **Gabarito: A** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: A**
 **Enunciado:**
 
@@ -627,6 +665,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 20
+
+✅ **Gabarito: A** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: A**
 **Enunciado:**
@@ -654,6 +694,8 @@ D) 400cm²
 
 #### QUESTÃO 21
 
+✅ **Gabarito: C** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: C**
 
 **Enunciado:**
@@ -677,6 +719,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 22
+
+✅ **Gabarito: C** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: C**
 
@@ -703,6 +747,8 @@ Nenhuma.
 
 #### QUESTÃO 23
 
+✅ **Gabarito: A** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: A**
 
 **Enunciado:**
@@ -727,6 +773,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 24
+
+✅ **Gabarito: B** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: B**
 
@@ -753,6 +801,8 @@ Nenhuma.
 
 #### QUESTÃO 25
 
+✅ **Gabarito: D** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: D**
 
 **Enunciado:**
@@ -777,6 +827,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 26
+
+✅ **Gabarito: C** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: C**
 
@@ -803,6 +855,8 @@ Nenhuma.
 
 #### QUESTÃO 27
 
+✅ **Gabarito: D** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: D**
 
 **Enunciado:**
@@ -826,6 +880,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 28
+
+✅ **Gabarito: D** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: D**
 
@@ -856,6 +912,8 @@ Nenhuma.
 
 #### QUESTÃO 29
 
+✅ **Gabarito: B** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: B**
 
 **Enunciado:**
@@ -880,6 +938,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 30
+
+✅ **Gabarito: B** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: B**
 
@@ -910,6 +970,8 @@ Nenhuma.
 
 #### QUESTÃO 31
 
+✅ **Gabarito: A** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: A**
 
 **Enunciado:**
@@ -934,6 +996,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 32
+
+✅ **Gabarito: D** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: D**
 
@@ -965,6 +1029,8 @@ Nenhuma.
 
 #### QUESTÃO 33
 
+✅ **Gabarito: C** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: C**
 
 **Enunciado:**
@@ -988,6 +1054,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 34
+
+✅ **Gabarito: B** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: B**
 
@@ -1013,6 +1081,8 @@ Nenhuma.
 
 #### QUESTÃO 35
 
+✅ **Gabarito: C** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: B**
 
 **Enunciado:**
@@ -1036,6 +1106,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 36
+
+✅ **Gabarito: B** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: D**
 
@@ -1061,6 +1133,8 @@ Nenhuma.
 
 #### QUESTÃO 37
 
+✅ **Gabarito: B** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: B**
 
 **Enunciado:**
@@ -1085,6 +1159,8 @@ Nenhuma.
 
 #### QUESTÃO 38
 
+✅ **Gabarito: A** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
+
 ✅ **Gabarito preliminar: A**
 
 **Enunciado:**
@@ -1108,6 +1184,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 39
+
+✅ **Gabarito: D** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: D**
 
@@ -1137,6 +1215,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 40
+
+✅ **Gabarito: A** (gabarito oficial preliminar — Impellizieri, concurso 01/2009/2010 (PDF do acervo, ID 018; coluna Agente Legislativo))
 
 ✅ **Gabarito preliminar: A**
 

@@ -264,7 +264,6 @@ C) Autoimagem.
 D) Coautor.
 E) Ultrassom.
 669_LP_CG_NS_DM_3/8/202211:50:18
-Execução: Fundatec
 NÍVEL SUPERIOR
 
 **Referências visuais:**
@@ -388,9 +387,7 @@ C) Adjunto Adnominal.
 D) Adjunto Adverbial.
 E) Complemento Nominal.
 669_LP_CG_NS_DM_3/8/202211:50:18
-Execução: Fundatec
 NÍVEL SUPERIOR
-CONHECIMENTOS GERAIS
 
 **Referências visuais:**
 
@@ -521,9 +518,7 @@ C) Ministro da Economia da Coreia do Sul, enquanto estava em viagem nos Estados 
 D) Primeiro Ministro chinês, durante visita à ilha de Taiwan.
 E) General japonês, durante inspeção de tropas nas Filipinas.
 669_INF_NS_DM_4/8/202206:35:53
-Execução: Fundatec
 NÍVEL SUPERIOR
-INFORMÁTICA
 
 **Referências visuais:**
 
@@ -648,9 +643,7 @@ C) Imagens.
 D) Programas.
 E) Vídeos.
 669_LEG_NS_DM_4/8/202210:15:15
-Execução: Fundatec
 NÍVEL SUPERIOR
-LEGISLAÇÃO
 
 **Referências visuais:**
 
@@ -741,7 +734,6 @@ C) V – F – V.
 D) F – V – V.
 E) F – F – F.
 669_LEG_NS_DM_4/8/202210:15:15
-Execução: Fundatec
 NÍVEL SUPERIOR
 
 **Referências visuais:**
@@ -837,7 +829,6 @@ C) V – V – V.
 D) F – V – V.
 E) F – F – V.
 669_LEG_NS_DM_4/8/202210:15:15
-Execução: Fundatec
 NÍVEL SUPERIOR
 
 **Referências visuais:**
@@ -959,9 +950,7 @@ C) Judiciário e Legislativo, somente
 D) Legislativo e Executivo, somente
 E) Executivo, Legislativo e Judiciário
 669_CE_01_NS_DM_4/8/202206:38:35
-Execução: Fundatec
 ADMINISTRADOR
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 
@@ -1133,7 +1122,6 @@ C) Apenas I, II e IV.
 D) Apenas II, III e IV.
 E) I, II, III e IV.
 669_CE_01_NS_DM_4/8/202206:38:35
-Execução: Fundatec
 ADMINISTRADOR
 
 **Referências visuais:**

@@ -30,6 +30,8 @@
 
 #### QUESTÃO 01
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Material de apoio:**
 
 **A casa do futuro**
@@ -63,6 +65,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 02
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Material de apoio:**
 
@@ -98,6 +102,8 @@ Nenhuma.
 
 #### QUESTÃO 03
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Material de apoio:**
 
 **A casa do futuro**
@@ -131,6 +137,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 04
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Material de apoio:**
 
@@ -166,6 +174,8 @@ Nenhuma.
 
 #### QUESTÃO 05
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Material de apoio:**
 
 **A casa do futuro**
@@ -200,6 +210,8 @@ Nenhuma.
 
 #### QUESTÃO 06
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Material de apoio:**
 
 **A casa do futuro**
@@ -233,6 +245,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 07
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Material de apoio:**
 
@@ -274,6 +288,8 @@ Nenhuma.
 
 #### QUESTÃO 08
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Material de apoio:**
 
 **A casa do futuro**
@@ -307,6 +323,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 09
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Material de apoio:**
 
@@ -344,6 +362,8 @@ Nenhuma.
 
 #### QUESTÃO 10
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Material de apoio:**
 
 **A casa do futuro**
@@ -380,6 +400,8 @@ Nenhuma.
 
 #### QUESTÃO 11
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Enunciado:**
 
 Na ferramenta Microsoft Office Excel 2007 (configuração padrão), uma forma de selecionar uma célula específica é digitar o seu endereço na
@@ -399,6 +421,8 @@ Nenhuma.
 
 #### QUESTÃO 12
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Enunciado:**
 
 Na ferramenta Microsoft Office Excel 2007 (configuração padrão), o botão pode ser utilizado para inserir
@@ -417,6 +441,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 13
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Enunciado:**
 
@@ -440,6 +466,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 14
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Enunciado:**
 
@@ -471,6 +499,8 @@ Nenhuma.
 
 #### QUESTÃO 15
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Enunciado:**
 
 Se na ferramenta Microsoft Office Excel 2007 (configuração padrão) for inserida a fórmula =MÉDIA(SE(10>2;10;5);2), o resultado será
@@ -489,6 +519,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 16
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Enunciado:**
 
@@ -509,6 +541,8 @@ Nenhuma.
 
 #### QUESTÃO 17
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Enunciado:**
 
 No Sistema Operacional Microsoft Windows 7 (configuração padrão – idioma português Brasil), o Windows Explorer é utilizado para gerenciar os arquivos existentes no computador. As teclas de atalho que acessam este recurso são:
@@ -527,6 +561,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 18
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Enunciado:**
 
@@ -547,6 +583,8 @@ Nenhuma.
 
 #### QUESTÃO 19
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Enunciado:**
 
 Na ferramenta Microsoft Office Word 2007 (configuração padrão), os recursos de revisão de texto como ortografia e gramática, dicionário de sinônimos e contar palavras estão localizados na guia:
@@ -565,6 +603,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 20
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Enunciado:**
 
@@ -587,6 +627,8 @@ Nenhuma.
 
 #### QUESTÃO 21
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Enunciado:**
 
 “Pode-se afirmar que complexos metropolitanos são macrorregiões em que duas ou mais regiões metropolitanas estão altamente integradas em suas dinâmicas econômicas, como na prestação de serviços, circulação de mercadorias, bem como na produção e consumo. No Brasil, pode-se destacar o complexo metropolitano do Sudeste que é composto pela grande _______________ e grande _______________.” Assinale a alternativa que completa correta e sequencialmente a afirmativa anterior.
@@ -605,6 +647,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 22
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Enunciado:**
 
@@ -634,6 +678,8 @@ Nenhuma.
 
 #### QUESTÃO 23
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Enunciado:**
 
 Na organização política do Brasil, os poderes de Estado nunca estão nas mãos de uma pessoa só, pois são divididos em: poder executivo, que executa as leis e administra o Estado; poder legislativo, que fiscaliza e cria as leis; e, poder judiciário, que julga o cumprimento da lei. Cada um dos poderes é organizado em três esferas: federal, estadual e municipal. No caso do poder executivo, são cargos exercidos pelos chefes desse poder em cada esfera administrativa do país na respectiva ordem: federal, estadual e municipal.
@@ -652,6 +698,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 24
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Enunciado:**
 
@@ -700,6 +748,8 @@ D) III, apenas.
 
 #### QUESTÃO 25
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Enunciado:**
 
 A terra, há muito tempo, é motivo de conflitos em todo o Brasil, mas, principalmente, nas regiões Norte e Centro-Oeste, onde atualmente essa questão se intensifica e é motivo de grande quantidade de homicídios. Mas, antes disso, terra é fonte de vida e de recursos para a sobrevivência humana. É um bem natural que deve cumprir uma função social constitucional ao ser usada pelo homem. De acordo com a Constituição Federal de 1988, essa função é alcançada quando respeita os seguintes requisitos, EXCETO:
@@ -718,6 +768,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 26
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Enunciado:**
 
@@ -760,6 +812,8 @@ D) II e III, apenas.
 
 #### QUESTÃO 27
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Enunciado:**
 
 A energia, sem dúvida, é um setor estratégico para o desenvolvimento de uma economia e o consequente crescimento de um país e da qualidade de vida de sua população. Sobre a infraestrutura de energia no Brasil, marque V para as afirmativas verdadeiras e F para as falsas.
@@ -786,6 +840,8 @@ Nenhuma.
 
 #### QUESTÃO 28
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Enunciado:**
 
 A palavra “transporte” vem do latim trans (de um lado a outro) e portare (carregar). Podemos dizer que, em síntese, transporte é o movimento de pessoas ou coisas de um lugar para outro. Os transportes podem se distinguir pela possessão, onde o transporte público é destinado a qualquer pessoa e o privado é restringido somente a quem os adquiriu. Os transportes contêm três elementos: infraestrutura, veículos e operações comerciais. Infraestrutura é a malha de transporte: rodoviária, férrea, aérea, fluvial, tubular etc. Os veículos são automóveis, bicicletas, ônibus, trens e aeronaves, que utilizam essa malha. As operações são as formas como esses veículos utilizam a rede, como leis, diretrizes, códigos etc.
@@ -811,6 +867,8 @@ Nenhuma.
 
 #### QUESTÃO 29
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Enunciado:**
 
 ![Imagem da questão](imagens/imagem_004.jpg)
@@ -833,6 +891,8 @@ D) Conflito Árabe-Israelense.
 ---
 
 #### QUESTÃO 30
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Enunciado:**
 
@@ -910,6 +970,8 @@ Nenhuma.
 
 #### QUESTÃO 31
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Enunciado:**
 
 A Constituição Federal estabelece procedimento específico para sua reforma. Assim, é correto afirmar que a proposta de emenda constitucional será discutida e votada em cada Casa do Congresso Nacional em
@@ -928,6 +990,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 32
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Enunciado:**
 
@@ -948,6 +1012,8 @@ Nenhuma.
 
 #### QUESTÃO 33
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Enunciado:**
 
 Acerca dos poderes do Estado e das respectivas funções, é correto afirmar que o Poder Legislativo atua em
@@ -966,6 +1032,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 34
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Enunciado:**
 
@@ -986,6 +1054,8 @@ Nenhuma.
 
 #### QUESTÃO 35
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Enunciado:**
 
 De acordo com a Constituição Federal, NÃO indica um dos fundamentos da República Federativa do Brasil:
@@ -1005,6 +1075,8 @@ Nenhuma.
 
 #### QUESTÃO 36
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Enunciado:**
 
 Considere os direitos e as garantias fundamentais previstos no texto constitucional e assinale a afirmativa INCORRETA.
@@ -1023,6 +1095,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 37
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Enunciado:**
 
@@ -1047,6 +1121,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 38
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Enunciado:**
 
@@ -1078,6 +1154,8 @@ Nenhuma.
 
 #### QUESTÃO 39
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
+
 **Enunciado:**
 
 Empenho, segundo o art. 58 da Lei nº 4.320/1964, é o ato emanado de autoridade competente que cria para o Estado obrigação de pagamento pendente ou não de implemento de condição. Em relação ao empenho, é INCORRETO afirmar que
@@ -1096,6 +1174,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 40
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' IDECAN, ID 042, é a folha de instruções; 20 imagens sem marcas de resposta))
 
 **Enunciado:**
 

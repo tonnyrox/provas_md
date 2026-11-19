@@ -937,7 +937,6 @@ B) Coordenar orações sindéticas aditivas de
 sujeitos diferentes.
 C) Isolar uma estrutura de aposto explicativo.
 D) Coordenar orações assindéticas.
-MATEMÁTICA
 
 **Referências visuais:**
 
@@ -1067,7 +1066,6 @@ A) R$10.064,00.
 B) R$11.025,00.
 C) R$12.012,00.
 D) R$13.055,00.
-CONHECIMENTOS GERAIS
 
 **Referências visuais:**
 
@@ -1184,7 +1182,6 @@ A) Getúlio Vargas.
 B) João Pessoa.
 C) Júlio Prestes.
 D) Washington Luiz.
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 

@@ -1051,7 +1051,7 @@ D) o adulto representa o futuro do menino caso não tenha cuidado com a saúde.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_006.jpg)
 
 ---
 
@@ -1083,7 +1083,7 @@ D) índice de indeterminação do sujeito.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_006.jpg)
 
 ---
 
@@ -1114,7 +1114,7 @@ D) estimular a importância da prevenção.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_006.jpg)
 
 ---
 
@@ -1146,7 +1146,7 @@ D) pronome indefinido. O homem vive em média sete anos a menos que a mulher. A 
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_006.jpg)
 
 ---
 

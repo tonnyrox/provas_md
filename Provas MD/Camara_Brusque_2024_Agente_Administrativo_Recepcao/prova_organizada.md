@@ -35,6 +35,8 @@
 
 #### QUESTÃO 01
 
+✅ **Gabarito: C** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: C** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -87,6 +89,8 @@ Nenhuma.
 
 #### QUESTÃO 02
 
+✅ **Gabarito: D** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -135,6 +139,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 03
+
+✅ **Gabarito: D** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
 
 ✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
@@ -190,6 +196,8 @@ Nenhuma.
 
 #### QUESTÃO 04
 
+✅ **Gabarito: D** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -233,6 +241,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 05
+
+✅ **Gabarito: C** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
 
 ✅ **Gabarito preliminar: C** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
@@ -278,6 +288,8 @@ Nenhuma.
 
 #### QUESTÃO 06
 
+✅ **Gabarito: D** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -321,6 +333,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 07
+
+✅ **Gabarito: C** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
 
 ✅ **Gabarito preliminar: C** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
@@ -373,6 +387,8 @@ Nenhuma.
 
 #### QUESTÃO 08
 
+✅ **Gabarito: A** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: A** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -419,6 +435,8 @@ Nenhuma.
 
 #### QUESTÃO 09
 
+✅ **Gabarito: B** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -458,6 +476,8 @@ E) II, apenas.
 ---
 
 #### QUESTÃO 10
+
+✅ **Gabarito: D** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
 
 ✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
@@ -501,6 +521,8 @@ E) A pesquisa revela que 10% da população não sabe se existe machismo no Bras
 
 #### QUESTÃO 11
 
+✅ **Gabarito: E** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: E** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -539,6 +561,8 @@ Nenhuma.
 
 #### QUESTÃO 12
 
+✅ **Gabarito: E** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: E** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -565,6 +589,8 @@ Nenhuma.
 
 #### QUESTÃO 13
 
+✅ **Gabarito: B** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -590,6 +616,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 14
+
+✅ **Gabarito: D** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
 
 ✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
@@ -627,6 +655,8 @@ Nenhuma.
 
 #### QUESTÃO 15
 
+✅ **Gabarito: B** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -663,6 +693,8 @@ Nenhuma.
 
 #### QUESTÃO 16
 
+✅ **Gabarito: E** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: E** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -688,6 +720,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 17
+
+✅ **Gabarito: D** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
 
 ✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
@@ -718,6 +752,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 18
+
+✅ **Gabarito: C** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
 
 ✅ **Gabarito preliminar: C** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
@@ -753,6 +789,8 @@ Nenhuma.
 
 #### QUESTÃO 19
 
+✅ **Gabarito: A** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: A** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -787,6 +825,8 @@ Nenhuma.
 
 #### QUESTÃO 20
 
+✅ **Gabarito: E** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: E** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -819,6 +859,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 21
+
+✅ **Gabarito: B** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
 
 ✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
@@ -853,6 +895,8 @@ Nenhuma.
 
 #### QUESTÃO 22
 
+✅ **Gabarito: B** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -886,6 +930,8 @@ Nenhuma.
 
 #### QUESTÃO 23
 
+✅ **Gabarito: D** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -911,6 +957,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 24
+
+✅ **Gabarito: B** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
 
 ✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
@@ -944,6 +992,8 @@ Nenhuma.
 
 #### QUESTÃO 25
 
+✅ **Gabarito: A** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: A** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -976,6 +1026,8 @@ Nenhuma.
 
 #### QUESTÃO 26
 
+✅ **Gabarito: B** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -1001,6 +1053,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 27
+
+✅ **Gabarito: E** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
 
 ✅ **Gabarito preliminar: E** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
@@ -1034,6 +1088,8 @@ Nenhuma.
 
 #### QUESTÃO 28
 
+✅ **Gabarito: E** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: E** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -1066,6 +1122,8 @@ Nenhuma.
 
 #### QUESTÃO 29
 
+✅ **Gabarito: E** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: E** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -1092,6 +1150,8 @@ Nenhuma.
 
 #### QUESTÃO 30
 
+✅ **Gabarito: C** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: C** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -1117,6 +1177,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 31
+
+✅ **Gabarito: B** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
 
 ✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
@@ -1150,6 +1212,8 @@ Nenhuma.
 
 #### QUESTÃO 32
 
+✅ **Gabarito: B** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -1181,6 +1245,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 33
+
+✅ **Gabarito: B** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
 
 ✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
@@ -1215,6 +1281,8 @@ Nenhuma.
 
 #### QUESTÃO 34
 
+✅ **Gabarito: D** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -1248,6 +1316,8 @@ Nenhuma.
 
 #### QUESTÃO 35
 
+✅ **Gabarito: B** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: B** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -1273,6 +1343,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 36
+
+✅ **Gabarito: C** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
 
 ✅ **Gabarito preliminar: C** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
@@ -1307,6 +1379,8 @@ Nenhuma.
 
 #### QUESTÃO 37
 
+✅ **Gabarito: A** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: A** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -1339,6 +1413,8 @@ Nenhuma.
 
 #### QUESTÃO 38
 
+✅ **Gabarito: D** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: D** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -1365,6 +1441,8 @@ Nenhuma.
 
 #### QUESTÃO 39
 
+✅ **Gabarito: A** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
+
 ✅ **Gabarito preliminar: A** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 
 **Enunciado:**
@@ -1390,6 +1468,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 40
+
+✅ **Gabarito: A** (gabarito oficial preliminar — FURB (PDF do acervo, ID 074))
 
 ✅ **Gabarito preliminar: A** (gabarito oficial pareado — FURB, Concurso Edital n.º 001/2024)
 

@@ -294,7 +294,7 @@ D) futuro do pretérito do indicativo.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.jpg)
 
 ---
 
@@ -321,7 +321,7 @@ D) correto, porque expressa ideia de incerteza.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.jpg)
 
 ---
 

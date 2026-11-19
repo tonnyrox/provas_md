@@ -451,7 +451,6 @@ D) Enviou-nos uma mensagem muito mal-
 educada como resposta à nossa solicitação.
 E) Ela saiu usando o relógio, perdeu-o na rua e
 depois pensou que havia esquecido em casa.
-MATEMÁTICA E RACIOCÍNIO LÓGICO
 
 **Referências visuais:**
 
@@ -783,7 +782,6 @@ o símbolo e a fonte desejada e clique em OK.
 E) Na guia Layout, selecione Marcadores,
 escolha o símbolo e defina a fonte diretamente na
 caixa de diálogo.
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 

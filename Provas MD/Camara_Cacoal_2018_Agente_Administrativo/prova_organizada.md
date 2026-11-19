@@ -1091,7 +1091,6 @@ E) A imposição de uma nova Constituição por meio da outorga não é admitida
 
 ---
 
-### INFORMÁTICA BÁSICA
 
 #### QUESTÃO 31
 
@@ -1203,7 +1202,6 @@ E) autenticação.
 
 ---
 
-### CONHECIMENTOS ESPECÍFICOS
 
 #### QUESTÃO 36
 

@@ -278,7 +278,7 @@ www.idespem.org.br atendimento@idespem.org.br
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
@@ -345,7 +345,6 @@ B) Dó.
 C) Formicida.
 D) Cal.
 E) Champanha.
-LEGISLAÇÃO BÁSICA
 
 **Referências visuais:**
 
@@ -480,7 +479,6 @@ B) Ao Município é permitido estabelecer cultos religiosos ou igrejas.
 C) O Poder Judiciário do município é exercido pela Câmara Municipal.
 D) Ao município é permitido recusar fé aos documentos públicos.
 E) Cada legislatura terá a duração de quatro anos, compreendendo cada ano uma sessão legislativa.
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 

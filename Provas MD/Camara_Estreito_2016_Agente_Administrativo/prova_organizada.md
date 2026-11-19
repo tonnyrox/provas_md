@@ -403,9 +403,6 @@ A) “países” (L.16).
 B) “igualitário” (L.17).
 C) “técnicas” (L.3).
 D) “porém” (L.8).
-Página 5 de 11
-CARGO: AGENTE ADMINISTRATIVO
-INSTITUTO MACHADO DE ASSIS - IMA
 
 **Referências visuais:**
 
@@ -452,13 +449,10 @@ B) crítico-irônica.
 C) inadequada ao contexto
 D) desprovida de bom senso.
 ![Imagem da questão](imagens/imagem_001.jpg)
-Página 6 de 11
-CARGO: AGENTE ADMINISTRATIVO
-INSTITUTO MACHADO DE ASSIS - IMA
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
@@ -577,11 +571,6 @@ A) (2, 0)
 B) (3, 5)
 C) ( − 1, −6)
 D) (4, 4)
-Cálculos
-MATEMÁTICA QUESTÕES DE 11 A 15
-Página 7 de 11
-CARGO: AGENTE ADMINISTRATIVO
-INSTITUTO MACHADO DE ASSIS - IMA
 
 **Referências visuais:**
 
@@ -703,14 +692,10 @@ B) F3
 C) F4
 D) F5
 ![Imagem da questão](imagens/imagem_002.png)
-INFORMÁTICA QUESTÕES DE 16 A 20
-Página 8 de 11
-CARGO: AGENTE ADMINISTRATIVO
-INSTITUTO MACHADO DE ASSIS - IMA
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.png)
 
 ---
 
@@ -916,10 +901,6 @@ A) I e II
 B) I, II, III e IV
 C) I, II e III
 D) III e IV
-CONHECIMENTOS ESPECÍFICOS QUESTÕES DE 21 A 40
-Página 9 de 11
-CARGO: AGENTE ADMINISTRATIVO
-INSTITUTO MACHADO DE ASSIS - IMA
 
 **Referências visuais:**
 
@@ -1146,9 +1127,6 @@ A) I
 B) I, II e III
 C) I e III
 D) II
-Página 10 de 11
-CARGO: AGENTE ADMINISTRATIVO
-INSTITUTO MACHADO DE ASSIS - IMA
 
 **Referências visuais:**
 
@@ -1359,9 +1337,6 @@ A) 2
 B) 1
 C) 3
 D) 4
-Página 11 de 11
-CARGO: AGENTE ADMINISTRATIVO
-INSTITUTO MACHADO DE ASSIS - IMA
 
 **Referências visuais:**
 

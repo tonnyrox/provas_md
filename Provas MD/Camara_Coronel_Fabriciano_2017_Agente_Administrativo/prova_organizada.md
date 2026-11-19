@@ -690,6 +690,8 @@
 
 #### QUESTÃO 01
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 112, contém a prova/perguntas sem quadro de respostas))
+
 **Material de apoio:**
 
 Brasil gasta mais de 20 bilhões de reais para tratar doenças relacionadas ao tabaco
@@ -1344,11 +1346,16 @@ desligado e devidamente identificado.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
+![Imagem da questão](imagens/imagem_002.png)
+![Imagem da questão](imagens/imagem_003.jpg)
+![Imagem da questão](imagens/imagem_004.png)
 
 ---
 
 #### QUESTÃO 02
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 112, contém a prova/perguntas sem quadro de respostas))
 
 **Material de apoio:**
 
@@ -2009,11 +2016,16 @@ suas respostas no comprovante de inscrição ou em qualquer outro meio.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
+![Imagem da questão](imagens/imagem_002.png)
+![Imagem da questão](imagens/imagem_003.jpg)
+![Imagem da questão](imagens/imagem_004.png)
 
 ---
 
 #### QUESTÃO 03
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 112, contém a prova/perguntas sem quadro de respostas))
 
 **Material de apoio:**
 
@@ -2669,11 +2681,16 @@ decorrer da prova – e ao preenchimento do Cartão de Respostas (Gabarito).
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
+![Imagem da questão](imagens/imagem_002.png)
+![Imagem da questão](imagens/imagem_003.jpg)
+![Imagem da questão](imagens/imagem_004.png)
 
 ---
 
 #### QUESTÃO 04
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 112, contém a prova/perguntas sem quadro de respostas))
 
 **Material de apoio:**
 
@@ -3330,11 +3347,16 @@ candidato deverá se retirar do recinto de aplicação, não lhe sendo mais perm
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
+![Imagem da questão](imagens/imagem_002.png)
+![Imagem da questão](imagens/imagem_003.jpg)
+![Imagem da questão](imagens/imagem_004.png)
 
 ---
 
 #### QUESTÃO 05
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 112, contém a prova/perguntas sem quadro de respostas))
 
 **Material de apoio:**
 
@@ -3990,11 +4012,16 @@ atentamente.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
+![Imagem da questão](imagens/imagem_002.png)
+![Imagem da questão](imagens/imagem_003.jpg)
+![Imagem da questão](imagens/imagem_004.png)
 
 ---
 
 #### QUESTÃO 06
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 112, contém a prova/perguntas sem quadro de respostas))
 
 **Material de apoio:**
 
@@ -4649,11 +4676,16 @@ resposta correta.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
+![Imagem da questão](imagens/imagem_002.png)
+![Imagem da questão](imagens/imagem_003.jpg)
+![Imagem da questão](imagens/imagem_004.png)
 
 ---
 
 #### QUESTÃO 07
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 112, contém a prova/perguntas sem quadro de respostas))
 
 **Material de apoio:**
 
@@ -5310,13 +5342,18 @@ qualquer imperfeição, o candidato deverá informar tal ocorrência ao fiscal.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
+![Imagem da questão](imagens/imagem_002.png)
+![Imagem da questão](imagens/imagem_003.jpg)
+![Imagem da questão](imagens/imagem_004.png)
 
 ---
 
 ## 3. Questões independentes
 
 #### QUESTÃO 08
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 112, contém a prova/perguntas sem quadro de respostas))
 
 **Enunciado:**
 
@@ -5330,6 +5367,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 09
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 112, contém a prova/perguntas sem quadro de respostas))
 
 **Enunciado:**
 
@@ -5345,6 +5384,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 10
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (o PDF 'Gabarito', ID 112, contém a prova/perguntas sem quadro de respostas))
 
 **Enunciado:**
 

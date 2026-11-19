@@ -364,7 +364,6 @@ A) Vocativo.
 B) Objeto direto.
 C) Aposto.
 D) Objeto indireto.
-www.objetivas.com.br
 
 **Referências visuais:**
 
@@ -434,7 +433,6 @@ B) Estudamos bastante, Maria. Por isso, merecemos
 férias.
 C) Esforçou-se muito porém não conseguiu o prêmio.
 D) Daniel ficou alegre; eu, triste.
-CONHECIMENTOS ESPECÍFICOS
 Atenção! Nas questões de legislação, serão consideradas
 as leis e suas alterações até a data do início das
 inscrições deste concurso.
@@ -563,7 +561,6 @@ A) Os itens I e II estão corretos.
 B) Somente o item I está correto.
 C) Somente o item II está correto.
 D) Os itens I e II estão incorretos.
-www.objetivas.com.br
 
 **Referências visuais:**
 
@@ -775,7 +772,6 @@ B) Incompatibiliza o responsável para retorno à vida
 política.
 C) Terá duração de oito a dez anos.
 D) Terá duração de, no máximo, dois anos.
-www.objetivas.com.br
 
 **Referências visuais:**
 
@@ -999,7 +995,6 @@ Avaliação a realização de novos levantamentos,
 entrevistas ou mesmo solicitação de informações por
 escrito, que visem à justa e isenta avaliação dos
 servidores públicos municipais.
-www.objetivas.com.br
 
 **Referências visuais:**
 
@@ -1173,7 +1168,6 @@ conversas mais informais.
 D) O uso de pronomes possessivos (seu, sua, seus e
 suas) são normas para quem acompanha o noticiário
 jornalístico.
-www.objetivas.com.br
 
 **Referências visuais:**
 
@@ -1402,7 +1396,6 @@ A) Somente os itens I e IV.
 B) Somente os itens I, II e IV.
 C) Somente os itens II e IV.
 D) Somente os itens I, II e III.
-www.objetivas.com.br
 
 **Referências visuais:**
 
@@ -1591,7 +1584,6 @@ A) idealização
 B) despolitização
 C) pluralização
 D) separação
-www.objetivas.com.br
 
 **Referências visuais:**
 
@@ -1774,7 +1766,6 @@ B) Três caminhos simples, caminho composto, forma
 composta.
 C) Forma composta, caminho simples, caminho composto.
 D) Caminho composto, forma simples, forma composta.
-www.objetivas.com.br
 
 **Referências visuais:**
 

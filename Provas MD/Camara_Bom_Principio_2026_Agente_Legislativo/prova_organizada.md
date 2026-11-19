@@ -166,6 +166,8 @@
 
 #### QUESTÃO 01
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Material de apoio:**
 
 Implementação de políticas públicas
@@ -266,6 +268,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 02
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Material de apoio:**
 
@@ -370,6 +374,8 @@ Nenhuma.
 
 #### QUESTÃO 03
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Material de apoio:**
 
 Implementação de políticas públicas
@@ -473,6 +479,8 @@ Nenhuma.
 
 #### QUESTÃO 04
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Material de apoio:**
 
 Implementação de políticas públicas
@@ -574,6 +582,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 05
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Material de apoio:**
 
@@ -680,6 +690,8 @@ Nenhuma.
 
 #### QUESTÃO 06
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Material de apoio:**
 
 Implementação de políticas públicas
@@ -783,6 +795,8 @@ Nenhuma.
 
 #### QUESTÃO 07
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Material de apoio:**
 
 Implementação de políticas públicas
@@ -882,6 +896,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 08
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Material de apoio:**
 
@@ -986,6 +1002,8 @@ Nenhuma.
 
 #### QUESTÃO 09
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Material de apoio:**
 
 Implementação de políticas públicas
@@ -1088,6 +1106,8 @@ Nenhuma.
 
 #### QUESTÃO 10
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Material de apoio:**
 
 Implementação de políticas públicas
@@ -1175,7 +1195,6 @@ A) Pronome e adjetivo.
 B) Preposição e advérbio.
 C) Conjunção e pronome.
 D) Adverbio e substantivo
-MATEMÁTICA/RACTOCÍ].|IO t ÓCICO
 
 **Referências visuais:**
 
@@ -1186,6 +1205,8 @@ Nenhuma.
 ## 3. Questões independentes
 
 #### QUESTÃO 11
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1215,6 +1236,8 @@ Nenhuma.
 
 #### QUESTÃO 12
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Enunciado:**
 
 Questão 12- Uma Câmara Municipal possui doze
@@ -1242,6 +1265,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 13
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1271,6 +1296,8 @@ Nenhuma.
 
 #### QUESTÃO 14
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Enunciado:**
 
 Questão 14. Considere as seguintes afirmações sobre o
@@ -1291,6 +1318,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 15
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1323,6 +1352,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 16
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1365,6 +1396,8 @@ Nenhuma.
 
 #### QUESTÃO 17
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Enunciado:**
 
 Questão 17. O Estreito de Ormuz e uma das passagens
@@ -1396,6 +1429,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 18
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1432,6 +1467,8 @@ Nenhuma.
 
 #### QUESTÃO 19
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Enunciado:**
 
 Questão 19. No tocante às interações entre o microclima
@@ -1459,6 +1496,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 20
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1500,6 +1539,8 @@ Nenhuma.
 
 #### QUESTÃO 21
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Enunciado:**
 
 Questão 21. A Lei Orgânica traz que o Município pode,
@@ -1528,6 +1569,8 @@ Nenhuma.
 
 #### QUESTÃO 22
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Enunciado:**
 
 Questão 22. O Vereador que deixar de comparecer, em
@@ -1555,6 +1598,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 23
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1589,6 +1634,8 @@ Nenhuma.
 
 #### QUESTÃO 24
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Enunciado:**
 
 Questão 24. A Lei Orgânica trouxe que a Tribuna Popular
@@ -1617,6 +1664,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 25
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1649,6 +1698,8 @@ Nenhuma.
 
 #### QUESTÃO 26
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Enunciado:**
 
 Questão 26. Dar posse ao PreÍeito e Vice-Prefeito, bem
@@ -1677,6 +1728,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 27
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1718,6 +1771,8 @@ Nenhuma.
 
 #### QUESTÃO 28
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Enunciado:**
 
 Questão 28. Sabe-se que, salvo por imposição legal,
@@ -1747,6 +1802,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 29
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1778,6 +1835,8 @@ Nenhuma.
 
 #### QUESTÃO 30
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Enunciado:**
 
 Questão 30. A Sessão de Eleição da Mesa Diretora para o
@@ -1801,7 +1860,6 @@ Diretora.
 D) É permitida a recondução, com relação ao mandato
 dos membros da Mesa Diretora, para o mesmo cargo
 na elei ão imediatamente subse uente
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 
@@ -1810,6 +1868,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 31
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1846,6 +1906,8 @@ Nenhuma.
 
 #### QUESTÃO 32
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Enunciado:**
 
 Questão 32. Em uma Câmara Municipal, as prerrogativas
@@ -1878,6 +1940,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 33
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1914,6 +1978,8 @@ Nenhuma.
 
 #### QUESTÃO 34
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Enunciado:**
 
 Questão 34. A fim de serem evitadas nulidades no
@@ -1945,6 +2011,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 35
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1982,6 +2050,8 @@ Nenhuma.
 
 #### QUESTÃO 36
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Enunciado:**
 
 Questão 36. Suponha que a chefia do Departamento de
@@ -2014,6 +2084,8 @@ Nenhuma.
 
 #### QUESTÃO 37
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Enunciado:**
 
 Questão 37. Uma Câmara Municipal contratou, por meio
@@ -2044,6 +2116,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 38
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Enunciado:**
 
@@ -2080,6 +2154,8 @@ Nenhuma.
 
 #### QUESTÃO 39
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
+
 **Enunciado:**
 
 Questão 39. As Câmaras Municipais frequentemente
@@ -2110,6 +2186,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 40
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 071 contém apenas a prova))
 
 **Enunciado:**
 

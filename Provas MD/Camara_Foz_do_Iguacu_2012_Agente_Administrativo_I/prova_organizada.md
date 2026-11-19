@@ -435,7 +435,6 @@ B) objeto direto.
 C) sujeito.
 D) objeto indireto.
 E) complemento nominal.
-CARGO: AGENTE ADMINISTRATIVO I
 - 4 -
 
 **Referências visuais:**
@@ -719,7 +718,6 @@ B) partícula expletiva.
 C) pronome relativo.
 D) interjeição.
 E) pronome indefinido.
-CARGO: AGENTE ADMINISTRATIVO I
 - 5 -
 
 **Referências visuais:**
@@ -923,7 +921,6 @@ B) Própriedade
 C) Prioritário
 D) Cálcular
 E) Impossíbilidade
-MATEMÁTICA
 
 **Referências visuais:**
 
@@ -1037,7 +1034,6 @@ B) Uma hora.
 C) Uma hora e meia.
 D) Duas horas.
 E) Duas horas e meia.
-CARGO: AGENTE ADMINISTRATIVO I
 - 6 -
 
 **Referências visuais:**
@@ -1245,13 +1241,11 @@ D) R$ 960,00
 E) R$ 1.020,00
 RASCUNHO
 ![Imagem da questão](imagens/imagem_001.png)
-CARGO: AGENTE ADMINISTRATIVO I
 - 7 -
-INFORMÁTICA
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.png)
 
 ---
 
@@ -1392,12 +1386,11 @@ E) O Word Pad é o editor de texto do Windows XP
 Professional que possibilita destacar um texto com
 diversas cores.
 ![Imagem da questão](imagens/imagem_002.png)
-CARGO: AGENTE ADMINISTRATIVO I
 - 8 -
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.png)
 
 ---
 
@@ -1688,7 +1681,6 @@ B) Apenas I e II.
 C) Apenas I e III.
 D) Apenas I, II e III.
 E) I, II, III e IV.
-CARGO: AGENTE ADMINISTRATIVO I
 - 9 -
 
 **Referências visuais:**
@@ -1922,7 +1914,6 @@ condições fixados em Lei Municipal.
 C) realizar programas de alfabetização.
 D) fomentar o turismo e demais atividades econômicas.
 E) a delegação recíproca de atribuições.
-CARGO: AGENTE ADMINISTRATIVO I
 - 10 -
 
 **Referências visuais:**
@@ -2203,7 +2194,6 @@ B) Apenas I e II.
 C) Apenas I e III.
 D) Apenas I, III e IV.
 E) I, II, III e IV.
-CARGO: AGENTE ADMINISTRATIVO I
 - 11 -
 
 **Referências visuais:**
@@ -2468,7 +2458,6 @@ membros da Câmara.
 D) quando ocorrer empate em qualquer votação no
 Plenário.
 E) nos casos de escrutínio secreto.
-CARGO: AGENTE ADMINISTRATIVO I
 - 12 -
 
 **Referências visuais:**
@@ -2721,7 +2710,6 @@ D) unilateralmente pela Administração em caso de
 interesse público ou conveniência.
 E) em caso de ilegalidade da licitação, em procedimento
 administrativo onde seja assegurada ampla defesa.
-CARGO: AGENTE ADMINISTRATIVO I
 - 13 -
 
 **Referências visuais:**
@@ -3018,7 +3006,6 @@ D) tem como modalidades de ordenação as ordens
 alfabética e alfanumérica.
 E) o arquivamento de nomes obedece a regras de
 alfabetação e regras de ordenação.
-CARGO: AGENTE ADMINISTRATIVO I
 - 14 -
 
 **Referências visuais:**

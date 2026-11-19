@@ -450,7 +450,6 @@ C) Não pode sair cedo, mas pode acordar para ver TV.
 D) Tenho três momentos: a entrada, a saída e o final.
 E) Dentro da casa de praia, lugar onde ficam todos os
 meus segredos, eu pude me ver pela primeira vez.
-INFORMÁTICA
 
 **Referências visuais:**
 
@@ -535,6 +534,8 @@ Nenhuma.
 
 #### QUESTÃO 13
 
+⚠️ **Gabarito: oficial não disponível** (sem resposta no gabarito oficial pareado (traço na tabela interna do arquivo))
+
 **Enunciado:**
 
 Analise as informações enunciadas. Após análise,
@@ -607,6 +608,8 @@ Nenhuma.
 
 #### QUESTÃO 15
 
+⚠️ **Gabarito: oficial não disponível** (sem resposta no gabarito oficial pareado (traço na tabela interna do arquivo))
+
 **Enunciado:**
 
 Programa de computador que habilita seus
@@ -628,7 +631,6 @@ B) Mozila.
 C) WWW.
 D) Browser.
 E) Firefox.
-CONHECIMENTOS GERAIS DE ESTÂNCIA
 
 **Referências visuais:**
 
@@ -764,7 +766,6 @@ CÂMARA MUNICIPAL DE ESTÂNCIA
 PÁGINA 4
 CONCURSO PÚBLICO 01/2013 AGENTE ADMINISTRATIVO / AGENTE LEGISLATIVO
 SEPROD – Serviço de Processamento de Dados
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 

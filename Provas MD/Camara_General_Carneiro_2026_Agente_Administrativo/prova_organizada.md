@@ -398,7 +398,6 @@ A) Se a matéria não vai a plenário, então a Comissão de Justiça rejeita o 
 B) A Comissão de Justiça aprova o parecer e o quórum qualificado é atingido e a matéria vai a plenário.
 C) Se a matéria vai a plenário, então a Comissão de Justiça aprova o parecer ou o quórum qualificado é
 atingido.
-RACIOCÍNIO LÓGICO MATEMÁTICO
 CÂMARA MUNICIPAL DE GENERAL CARNEIRO – MT INSTITUTO IASPE
 CARGO PÚBLICO: AGENTE ADMINISTRATIVO
 D) A Comissão de Justiça não aprova o parecer ou o quórum qualificado não é atingido ou a matéria vai a
@@ -486,8 +485,6 @@ RASCUNHO
 RASCUNHO
 RASCUNHO
 CÂMARA MUNICIPAL DE GENERAL CARNEIRO – MT INSTITUTO IASPE
-CARGO PÚBLICO: AGENTE ADMINISTRATIVO
-NOÇÕES BÁSICAS DE INFORMÁTICA
 
 **Referências visuais:**
 
@@ -596,7 +593,6 @@ C) Caixas de Som, Mouse e Monitor de Vídeo
 D) Impressora, Scanner e Projetor de Vídeo
 E) Teclado, Caixas de Som e Webcam
 CÂMARA MUNICIPAL DE GENERAL CARNEIRO – MT INSTITUTO IASPE
-CARGO PÚBLICO: AGENTE ADMINISTRATIVO
 
 **Referências visuais:**
 
@@ -722,9 +718,7 @@ B) Xavante.
 C) Ticuna.
 D) Bororó.
 E) Barreiro.
-CONHECIMENTOS GERAIS
 CÂMARA MUNICIPAL DE GENERAL CARNEIRO – MT INSTITUTO IASPE
-CARGO PÚBLICO: AGENTE ADMINISTRATIVO
 REDAÇÃO OFICIAL E TÉCNICA LEGISLATIVA
 
 **Referências visuais:**
@@ -749,7 +743,6 @@ B) Amaro Leite pelo Rio das Mortes.
 C) General Peixoto Carneiro.
 D) Antônio Ernesto Gomes Carneiro.
 E) General Mato Grosso Carneiro.
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 
@@ -834,7 +827,6 @@ C) Portaria da Presidência.
 D) Lei complementar.
 E) Resolução.
 CÂMARA MUNICIPAL DE GENERAL CARNEIRO – MT INSTITUTO IASPE
-CARGO PÚBLICO: AGENTE ADMINISTRATIVO
 
 **Referências visuais:**
 
@@ -1071,7 +1063,6 @@ C) Antrópica.
 D) Biológica
 E) Física.
 CÂMARA MUNICIPAL DE GENERAL CARNEIRO – MT INSTITUTO IASPE
-CARGO PÚBLICO: AGENTE ADMINISTRATIVO
 
 **Referências visuais:**
 
@@ -1161,7 +1152,6 @@ D) É um documento apenas se a fotografia for impressa em papel fotográfico e a
 E) É um documento apenas se tiver sido produzido exclusivamente no âmbito do processo legislativo da
 Câmara.
 CÂMARA MUNICIPAL DE GENERAL CARNEIRO – MT INSTITUTO IASPE
-CARGO PÚBLICO: AGENTE ADMINISTRATIVO
 ATENDIMENTO AO PÚBLICO E RELAÇÕES HUMANAS
 
 **Referências visuais:**
@@ -1257,7 +1247,6 @@ linguagem simples, sem prejuízo do rigor das informações prestadas.
 E) O atendimento presencial prioritário previsto em lei autoriza o servidor a suspender sumariamente o
 atendimento de um cidadão em andamento para absorver a nova demanda.
 CÂMARA MUNICIPAL DE GENERAL CARNEIRO – MT INSTITUTO IASPE
-CARGO PÚBLICO: AGENTE ADMINISTRATIVO
 
 **Referências visuais:**
 
@@ -1316,7 +1305,7 @@ Realização
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 

@@ -1145,7 +1145,7 @@ C O N H E C I M E N T O S G E R A I S
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_003.jpg)
 
 ---
 

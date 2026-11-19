@@ -299,7 +299,8 @@ ORGANIZAÇÃO: FUNDAÇÃO DE ENSINO DE CONTAGEM – FUNEC 3
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.jpg)
+![Imagem da questão](imagens/imagem_003.jpg)
 
 ---
 
@@ -455,7 +456,6 @@ deveriam mesmo existir há muito tempo.
 C) Entretanto, procure não mudar a cada mês.
 D) Aplique os exemplos acima em todos os itens
 que forem pertinentes às despesas de sua família.
-MATEMÁTICA
 
 **Referências visuais:**
 
@@ -744,7 +744,6 @@ A) Se a razão é q = 3, o terceiro termo é 162.
 B) Se a razão é q = 4, o terceiro termo é 384.
 C) Se a razão é q = 5, o quinto termo é 750.
 D) Se a razão é q = 3, o quinto termo é 486.
-CONHECIMENTOS EM INFORMÁTICA
 
 **Referências visuais:**
 
@@ -838,7 +837,10 @@ ORGANIZAÇÃO: FUNDAÇÃO DE ENSINO DE CONTAGEM – FUNEC 6
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_004.png)
+![Imagem da questão](imagens/imagem_005.png)
+![Imagem da questão](imagens/imagem_006.png)
+![Imagem da questão](imagens/imagem_007.png)
 
 ---
 
@@ -1020,7 +1022,6 @@ C) O Internet Explorer destaca-se pela habilidade
 de integração com o sistema operacional Linux.
 D) Nenhum dos navegadores web permite a
 navegação em modo privado.
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 
@@ -1461,7 +1462,8 @@ portuguesa escrita ou em idioma diverso do português;
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_008.jpg)
+![Imagem da questão](imagens/imagem_009.jpg)
 
 ---
 

@@ -545,7 +545,6 @@ B) Apenas quebra de página e de linha.
 C) Apenas quebra de página e de coluna.
 D) Quebras de página, linha e coluna.
 E) Apenas quebra de página.
-PARTE II - PORTUGUÊS
 As questões de 21 a 23 referem-se ao texto seguinte:
 O que é cultura?
 Estamos entrando no mundo da cultura indígena. Mas o
@@ -860,11 +859,11 @@ Tira 1:
 ![Imagem da questão](imagens/imagem_002.jpg)
 Tira 2:
 ![Imagem da questão](imagens/imagem_003.jpg)
-PARTE III - MATEMÁTICA
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.jpg)
+![Imagem da questão](imagens/imagem_003.jpg)
 
 ---
 
@@ -1008,7 +1007,6 @@ B) 1 32
 C) 1 16
 D) 1 64
 E) 1 32
-PARTE IV – LEGISLAÇÃO MUNICIPAL
 
 **Referências visuais:**
 

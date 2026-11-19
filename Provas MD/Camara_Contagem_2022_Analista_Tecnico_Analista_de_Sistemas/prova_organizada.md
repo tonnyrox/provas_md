@@ -1564,7 +1564,6 @@ Nenhuma.
 > [!NOTE]
 > Proposta de Redação integral (instruções, critérios de correção e textos motivadores), conforme o PDF original.
 
-### INSTRUÇÕES GERAIS
 
 1. A redação elaborada deve conter, no mínimo 15 (quinze) linhas para que seja corrigida e no máximo 30 (trinta) linhas. Se o candidato não atingir esse número mínimo de linhas, a ele será atribuída nota zero na Redação.
 2. O que for escrito além do espaço destinado ao candidato para a Redação (30 linhas) não será corrigido, sendo penalizado pelos problemas de compreensão de seu texto (PO, M, SV, CC e / ou CP).

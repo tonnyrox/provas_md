@@ -65,6 +65,8 @@
 
 #### QUESTÃO 01
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Material de apoio:**
 
 **Texto de apoio (reproduzido integralmente da prova original):**
@@ -98,6 +100,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 02
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Material de apoio:**
 
@@ -138,6 +142,8 @@ Nenhuma.
 
 #### QUESTÃO 21
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Material de apoio:**
 
 **Instrução original da prova (bloco Informática):**
@@ -168,6 +174,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 22
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Material de apoio:**
 
@@ -201,6 +209,8 @@ Nenhuma.
 
 #### QUESTÃO 23
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Material de apoio:**
 
 **Instrução original da prova (bloco Informática):**
@@ -232,6 +242,8 @@ D) Esquecer uma parte de seus dados pessoais.
 ---
 
 #### QUESTÃO 24
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Material de apoio:**
 
@@ -267,6 +279,8 @@ Nenhuma.
 
 #### QUESTÃO 25
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Material de apoio:**
 
 **Instrução original da prova (bloco Informática):**
@@ -296,6 +310,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 26
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Material de apoio:**
 
@@ -331,6 +347,8 @@ Nenhuma.
 
 #### QUESTÃO 27
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Material de apoio:**
 
 **Instrução original da prova (bloco Legislação, Conhecimentos Gerais e Específicos):**
@@ -360,6 +378,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 28
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Material de apoio:**
 
@@ -393,6 +413,8 @@ Nenhuma.
 
 #### QUESTÃO 29
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Material de apoio:**
 
 **Instrução original da prova (bloco Legislação, Conhecimentos Gerais e Específicos):**
@@ -424,6 +446,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 30
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Material de apoio:**
 
@@ -458,6 +482,8 @@ Nenhuma.
 
 #### QUESTÃO 31
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Material de apoio:**
 
 **Instrução original da prova (bloco Legislação, Conhecimentos Gerais e Específicos):**
@@ -488,6 +514,8 @@ Nenhuma.
 
 #### QUESTÃO 32
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Material de apoio:**
 
 **Instrução original da prova (bloco Legislação, Conhecimentos Gerais e Específicos):**
@@ -517,6 +545,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 33
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Material de apoio:**
 
@@ -551,6 +581,8 @@ Nenhuma.
 
 #### QUESTÃO 34
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Material de apoio:**
 
 **Instrução original da prova (bloco Legislação, Conhecimentos Gerais e Específicos):**
@@ -580,6 +612,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 35
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Material de apoio:**
 
@@ -615,6 +649,8 @@ Nenhuma.
 
 #### QUESTÃO 36
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Material de apoio:**
 
 **Instrução original da prova (bloco Legislação, Conhecimentos Gerais e Específicos):**
@@ -648,6 +684,8 @@ Nenhuma.
 
 #### QUESTÃO 37
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Material de apoio:**
 
 **Instrução original da prova (bloco Legislação, Conhecimentos Gerais e Específicos):**
@@ -679,6 +717,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 38
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Material de apoio:**
 
@@ -716,6 +756,8 @@ Nenhuma.
 
 #### QUESTÃO 39
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Material de apoio:**
 
 **Instrução original da prova (bloco Legislação, Conhecimentos Gerais e Específicos):**
@@ -747,6 +789,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 40
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Material de apoio:**
 
@@ -783,6 +827,8 @@ Nenhuma.
 
 #### QUESTÃO 03
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Enunciado:**
 
 Assinalar a alternativa em que a grafia da palavra está CORRETA:
@@ -806,6 +852,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 04
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Enunciado:**
 
@@ -834,6 +882,8 @@ Nenhuma.
 
 #### QUESTÃO 05
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Enunciado:**
 
 Quanto ao significado do termo sublinhado em "O órgão não estabelece uma data para que essa interface homem-máquina seja criada.", assinalar a alternativa INCORRETA:
@@ -857,6 +907,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 06
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Enunciado:**
 
@@ -888,6 +940,8 @@ Nenhuma.
 
 #### QUESTÃO 07
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Enunciado:**
 
 O termo sublinhado em “A alteração seria ínfima, mas o suficiente para que conseguíssemos estudar a força gravitacional e colocar em cheque a teoria da relatividade.” pode ser substituído, sem causar alteração de sentido, por:
@@ -911,6 +965,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 08
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Enunciado:**
 
@@ -936,6 +992,8 @@ Nenhuma.
 
 #### QUESTÃO 09
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Enunciado:**
 
 A palavra “idiotice” é formada pelo processo denominado derivação:
@@ -959,6 +1017,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 10
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Enunciado:**
 
@@ -987,6 +1047,8 @@ Nenhuma.
 
 #### QUESTÃO 11
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Enunciado:**
 
 Considerando-se o conjunto A = {3, 4, 5, 7, 9} e o conjunto B = {4, 5, 6, 7}, assinalar a alternativa que apresenta A ∩ B:
@@ -1010,6 +1072,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 12
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Enunciado:**
 
@@ -1036,6 +1100,8 @@ Nenhuma.
 
 #### QUESTÃO 13
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Enunciado:**
 
 Qual é a soma dos termos de uma progressão aritmética de 4 termos que possui o primeiro termo igual a 5 e o terceiro termo igual a 11?
@@ -1059,6 +1125,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 14
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Enunciado:**
 
@@ -1084,6 +1152,8 @@ Nenhuma.
 
 #### QUESTÃO 15
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Enunciado:**
 
 A turma A, que tem 20 alunos, teve média 6 na prova de matemática e a turma B que tem 25 alunos teve média 8. Com base nessas informações, assinalar a alternativa que apresenta a média aproximada de todos os alunos:
@@ -1107,6 +1177,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 16
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Enunciado:**
 
@@ -1132,6 +1204,8 @@ Nenhuma.
 
 #### QUESTÃO 17
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Enunciado:**
 
 A metade de 40% mais o quadrado de 10% é igual a:
@@ -1155,6 +1229,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 18
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Enunciado:**
 
@@ -1180,6 +1256,8 @@ Nenhuma.
 
 #### QUESTÃO 19
 
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
+
 **Enunciado:**
 
 A razão entre o número de pessoas aprovadas e o de reprovadas em um concurso público é de 1 para 3. Com base nessa informação, assinalar a alternativa que apresenta o número total de aprovados, sabendo-se que 40 candidatos fizeram esse concurso:
@@ -1203,6 +1281,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 20
+
+⚠️ **Gabarito: oficial não disponível** (sem respostas no acervo (o 'gabarito.pdf' da Objetiva, ID 020, é o cartão-resposta em branco/instruções))
 
 **Enunciado:**
 

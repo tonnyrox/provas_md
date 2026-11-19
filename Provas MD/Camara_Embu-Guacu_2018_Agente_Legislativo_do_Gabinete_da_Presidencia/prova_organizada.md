@@ -47,6 +47,8 @@
 
 #### QUESTÃO 31
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Material de apoio:**
 
 Leia o texto abaixo e responda as questões de 31 a 36.
@@ -113,6 +115,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 32
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Material de apoio:**
 
@@ -183,6 +187,8 @@ Nenhuma.
 
 #### QUESTÃO 33
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Material de apoio:**
 
 Leia o texto abaixo e responda as questões de 31 a 36.
@@ -249,6 +255,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 34
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Material de apoio:**
 
@@ -321,6 +329,8 @@ Nenhuma.
 
 #### QUESTÃO 35
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Material de apoio:**
 
 Leia o texto abaixo e responda as questões de 31 a 36.
@@ -390,6 +400,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 36
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Material de apoio:**
 
@@ -478,6 +490,8 @@ Nenhuma.
 
 #### QUESTÃO 37
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Material de apoio:**
 
 Observe a tirinha de Calvin e responda às questões 37 a 40.
@@ -504,6 +518,8 @@ D) Pronome relativo.
 
 #### QUESTÃO 38
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Material de apoio:**
 
 Observe a tirinha de Calvin e responda às questões 37 a 40.
@@ -528,6 +544,8 @@ D) O que os seus pais disseram?
 ---
 
 #### QUESTÃO 39
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Material de apoio:**
 
@@ -554,6 +572,8 @@ D) A professora não entendeu o trabalho de Calvin.
 ---
 
 #### QUESTÃO 40
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Material de apoio:**
 
@@ -582,6 +602,8 @@ D) O tigre ajudou Kalvin a fazer o trabalho.
 
 #### QUESTÃO 01
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 De acordo com a Lei Orgânica de Embu-Guaçu/SP, são símbolos do Município:
@@ -606,6 +628,8 @@ Nenhuma.
 
 #### QUESTÃO 02
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 Segundo consta o artigo 2º da Lei Orgânica de Embu-Guaçu/SP, o Governo Municipal é
@@ -625,6 +649,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 03
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -650,6 +676,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 04
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -677,6 +705,8 @@ Nenhuma.
 
 #### QUESTÃO 05
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 De acordo com o artigo 1 da Lei Complementar nº 88 de 05/01/2012 de Embu-Guaçu/SP, a
@@ -703,6 +733,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 06
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -732,6 +764,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 07
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -768,6 +802,8 @@ Nenhuma.
 
 #### QUESTÃO 08
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 Art. 159 - A União entregará do produto da arrecadação dos impostos sobre renda e
@@ -802,6 +838,8 @@ Nenhuma.
 
 #### QUESTÃO 09
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 De acordo com a Lei Complementar nº 88 de 05/01/2012 de Embu-Guaçu/SP, assinale a
@@ -821,6 +859,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 10
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -843,6 +883,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 11
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -871,6 +913,8 @@ Nenhuma.
 
 #### QUESTÃO 12
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 Segundo o documento do Instituto Brasileiro de Administração Municipal – O vereador e a
@@ -890,6 +934,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 13
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -911,6 +957,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 14
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -934,6 +982,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 15
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -962,6 +1012,8 @@ Nenhuma.
 
 #### QUESTÃO 16
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 Segundo o documento intitulado O poder legislativo municipal no Brasil: papel institucional,
@@ -984,6 +1036,8 @@ Nenhuma.
 
 #### QUESTÃO 17
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 De acordo com artigo 133 da Lei Orgânica de Embu-Guaçu/SP, licença à gestante, sem
@@ -1003,6 +1057,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 18
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1031,6 +1087,8 @@ Nenhuma.
 
 #### QUESTÃO 19
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 Art. 13 - Para os fins da Lei nº 8.666, de 21 de junho de 1993, que institui normas para
@@ -1057,6 +1115,8 @@ Nenhuma.
 
 #### QUESTÃO 20
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 Em conformidade com a Lei Orgânica de Embu-Guaçu/SP, assinale a alternativa que
@@ -1080,6 +1140,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 21
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1106,6 +1168,8 @@ Nenhuma.
 
 #### QUESTÃO 22
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 Baseado nos padrões de energia USB, um dispositivo certificado na especificação Power
@@ -1125,6 +1189,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 23
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1149,6 +1215,8 @@ D) Type-D.
 
 #### QUESTÃO 24
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 O padrão 1000BASE‑T de cabos de par trançado para ethernet possui taxas máximas de
@@ -1169,6 +1237,8 @@ Nenhuma.
 
 #### QUESTÃO 25
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 Das opções abaixo, assinale qual não é um navegador de Internet:
@@ -1188,6 +1258,8 @@ Nenhuma.
 
 #### QUESTÃO 26
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 O BitTorrent é um protocolo de comunicação que tem como objetivo:
@@ -1206,6 +1278,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 27
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1228,6 +1302,8 @@ Nenhuma.
 
 #### QUESTÃO 28
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 Assinale abaixo o nome do programa geralmente utilizado para atacar computadores de
@@ -1249,6 +1325,8 @@ Nenhuma.
 
 #### QUESTÃO 29
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 O Firewall tem como objetivo:
@@ -1267,6 +1345,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 30
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1329,6 +1409,8 @@ Nenhuma.
 
 #### QUESTÃO 41
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 Para consertar o telhado da Igreja, foram compradas 50 telhas, porém, somente 20% dessas
@@ -1348,6 +1430,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 42
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1370,6 +1454,8 @@ Nenhuma.
 
 #### QUESTÃO 43
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 Joaquim comprou uma bicicleta a prazo, pois não tinha como comprar o produto à vista.
@@ -1391,6 +1477,8 @@ Nenhuma.
 
 #### QUESTÃO 44
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 Qual montante teremos em 5 meses se aplicarmos um capital inicial de $6000,00 com juros
@@ -1411,6 +1499,8 @@ Nenhuma.
 
 #### QUESTÃO 45
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 Um investidor aplica $ 2000,00 a juros simples de 5% ao mês. Qual o valor recebido após um
@@ -1430,6 +1520,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 46
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1452,6 +1544,8 @@ Nenhuma.
 
 #### QUESTÃO 47
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 Uma usina produz 600 litros de álcool com 10 000Kg de cana. Quantos litros de álcool são
@@ -1471,6 +1565,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 48
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 
@@ -1492,6 +1588,8 @@ Nenhuma.
 
 #### QUESTÃO 49
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
+
 **Enunciado:**
 
 Resolva a equação: 4x - 5 = 2x - 3
@@ -1510,6 +1608,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 50
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito no acervo (ID 118 contém apenas a prova))
 
 **Enunciado:**
 

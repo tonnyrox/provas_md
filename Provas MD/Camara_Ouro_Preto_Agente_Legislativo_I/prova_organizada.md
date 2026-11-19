@@ -99,7 +99,7 @@ B) =A$7
 
 C) =$A$7
 
-D) =$A7 @SEC_INFO@
+D) =$A7
 
 **Referências visuais:**
 
@@ -175,7 +175,7 @@ B) surpreza / palidez / friesa
 
 C) alizar / vulgarizar / amenisar
 
-D) burguez / proesa / holandesa @SEC_LP@
+D) burguez / proesa / holandesa
 
 ---
 
@@ -635,7 +635,7 @@ B) não contém palavras inúteis ou redundâncias.
 
 C) preserva as idéias fundamentais, omitindo as secundárias consideradas dispensáveis.
 
-D) transmite um máximo de informações em um mínimo de palavras. @SEC_RED@
+D) transmite um máximo de informações em um mínimo de palavras.
 
 ---
 

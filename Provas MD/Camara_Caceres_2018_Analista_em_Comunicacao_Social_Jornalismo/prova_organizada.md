@@ -1605,7 +1605,7 @@ Concurso Público
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_002.jpg)
 
 ---
 

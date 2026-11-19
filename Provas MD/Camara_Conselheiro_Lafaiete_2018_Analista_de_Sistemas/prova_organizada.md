@@ -206,7 +206,7 @@ ponto de vista.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
@@ -306,7 +306,7 @@ E) I, IV e V.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
@@ -403,7 +403,7 @@ CONCURSO DA CÂMARA MUNICIPAL DE CONSELHEIRO LAFAIETE • 2018 • ANALISTA DE S
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
@@ -495,7 +495,7 @@ ao qual a mensagem se refere.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
@@ -583,7 +583,7 @@ a constituem são compostas por aglutinação.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_001.jpg)
 
 ---
 
@@ -1144,7 +1144,11 @@ E) ![Imagem da questão](imagens/imagem_014.png)
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_010.jpg)
+![Imagem da questão](imagens/imagem_011.jpg)
+![Imagem da questão](imagens/imagem_012.jpg)
+![Imagem da questão](imagens/imagem_013.jpg)
+![Imagem da questão](imagens/imagem_014.png)
 
 ---
 
@@ -1269,7 +1273,7 @@ Concurso da Câmara Municipal de Conselheiro Lafaiete • 2018 • analista de s
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_015.png)
 
 ---
 
@@ -1497,6 +1501,7 @@ CONCURSO DA CÂMARA MUNICIPAL DE CONSELHEIRO LAFAIETE • 2018 • ANALISTA DE S
 **Referências visuais:**
 
 ![Imagem da questão](imagens/imagem_016.png)
+![Imagem da questão](imagens/imagem_017.png)
 
 ---
 
@@ -1692,7 +1697,7 @@ Concurso da Câmara Municipal de Conselheiro Lafaiete • 2018 • analista de s
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_018.jpg)
 
 ---
 
@@ -1884,7 +1889,7 @@ Concurso da Câmara municipal de Conselheiro Lafaiete • 2018 • Analista de s
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_019.png)
 
 ---
 
@@ -2075,7 +2080,7 @@ Concurso da Câmara municipal de Conselheiro Lafaiete • 2018 • Analista de s
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão](imagens/imagem_020.png)
 
 ---
 

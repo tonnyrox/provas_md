@@ -108,6 +108,8 @@ Nenhum grupo de questões compartilhando material foi identificado automaticamen
 
 #### QUESTÃO 01
 
+⚠️ **Gabarito: oficial não disponível** (sem resposta no gabarito oficial pareado (traço na tabela interna do arquivo))
+
 **Enunciado:**
 
 O fragmento trata de
@@ -346,7 +348,6 @@ B) vocativo.
 C) aposto.
 D) complemento nominal.
 E) complemento verbal.
-MATEMÁTICA
 
 **Referências visuais:**
 
@@ -549,7 +550,6 @@ E) 11 dias.
 AGENTE ADMINISTRATIVO - 5
 CONTINUA NA PÁGINA SEGUINTE
 CONHECIMENTOS
-GERAIS
 
 **Referências visuais:**
 
@@ -558,6 +558,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 16
+
+⚠️ **Gabarito: oficial não disponível** (sem resposta no gabarito oficial pareado (traço na tabela interna do arquivo))
 
 **Enunciado:**
 
@@ -610,7 +612,6 @@ C) na nota obtida pelo candidato no vestibular.
 D) no desempenho do candidato durante o Ensi-
 no Fundamental.
 E) no perfil socioeconômico do candidato.
-INFORMÁTICA
 
 **Referências visuais:**
 
@@ -701,7 +702,6 @@ D) Google Crome.
 E) Adobe Photoshop CS5.
 6 - Câmara Municipal de Cornélio Procópio - Concurso Público 001/2012
 CONHECIMENTOS
-ESPECÍFICOS
 
 **Referências visuais:**
 
@@ -1017,6 +1017,8 @@ Nenhuma.
 ---
 
 #### QUESTÃO 31
+
+⚠️ **Gabarito: oficial não disponível** (sem resposta no gabarito oficial pareado (traço na tabela interna do arquivo))
 
 **Enunciado:**
 
