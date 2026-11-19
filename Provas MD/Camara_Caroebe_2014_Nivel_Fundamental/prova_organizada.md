@@ -118,6 +118,35 @@
 
 ✅ **Gabarito: B** (Gabarito oficial — anexo do Edital Nº 091/2014, publicado em 22/12/2014 (Fundação AJURI))
 
+
+**Material de apoio:**
+
+Leia com atenção a seguinte paródia elaborada por dois adolescentes a partir do poema "Canção do Exílio" de Gonçalves Dias.
+
+**Minha Terra**
+
+Minha terra tem jambeiro
+Onde canta o bem-te-vi
+Enquanto o sabiá
+Come o meu fubá.
+
+O céu é poluído
+Como as ruas que tem lá
+Praças esculhambadas
+Que não dá nem pra sentar.
+
+De noite as ruas são escuras
+E a galera passa lá
+Quando a PM chega
+As ruas começam a esvaziar.
+
+Deus não permita a essa terra
+Ficar do jeito que está
+Que o senhor a abençoe
+E deixe a paz reinar.
+
+(Manoel e Lucas — Alunos do 9º ano do Ensino Fundamental de escola pública de BV-RR)
+
 **Enunciado:**
 
 O poema original, de Gonçalves Dias, exalta as
@@ -148,6 +177,35 @@ Nenhuma.
 
 ✅ **Gabarito: C** (Gabarito oficial — anexo do Edital Nº 091/2014, publicado em 22/12/2014 (Fundação AJURI))
 
+
+**Material de apoio:**
+
+Leia com atenção a seguinte paródia elaborada por dois adolescentes a partir do poema "Canção do Exílio" de Gonçalves Dias.
+
+**Minha Terra**
+
+Minha terra tem jambeiro
+Onde canta o bem-te-vi
+Enquanto o sabiá
+Come o meu fubá.
+
+O céu é poluído
+Como as ruas que tem lá
+Praças esculhambadas
+Que não dá nem pra sentar.
+
+De noite as ruas são escuras
+E a galera passa lá
+Quando a PM chega
+As ruas começam a esvaziar.
+
+Deus não permita a essa terra
+Ficar do jeito que está
+Que o senhor a abençoe
+E deixe a paz reinar.
+
+(Manoel e Lucas — Alunos do 9º ano do Ensino Fundamental de escola pública de BV-RR)
+
 **Enunciado:**
 
 Os versos: “Enquanto o sabiá” “Come o meu fubá.”
@@ -174,6 +232,35 @@ Nenhuma.
 #### QUESTÃO 03
 
 ✅ **Gabarito: A** (Gabarito oficial — anexo do Edital Nº 091/2014, publicado em 22/12/2014 (Fundação AJURI))
+
+
+**Material de apoio:**
+
+Leia com atenção a seguinte paródia elaborada por dois adolescentes a partir do poema "Canção do Exílio" de Gonçalves Dias.
+
+**Minha Terra**
+
+Minha terra tem jambeiro
+Onde canta o bem-te-vi
+Enquanto o sabiá
+Come o meu fubá.
+
+O céu é poluído
+Como as ruas que tem lá
+Praças esculhambadas
+Que não dá nem pra sentar.
+
+De noite as ruas são escuras
+E a galera passa lá
+Quando a PM chega
+As ruas começam a esvaziar.
+
+Deus não permita a essa terra
+Ficar do jeito que está
+Que o senhor a abençoe
+E deixe a paz reinar.
+
+(Manoel e Lucas — Alunos do 9º ano do Ensino Fundamental de escola pública de BV-RR)
 
 **Enunciado:**
 
@@ -202,6 +289,35 @@ Nenhuma.
 
 ✅ **Gabarito: A** (Gabarito oficial — anexo do Edital Nº 091/2014, publicado em 22/12/2014 (Fundação AJURI))
 
+
+**Material de apoio:**
+
+Leia com atenção a seguinte paródia elaborada por dois adolescentes a partir do poema "Canção do Exílio" de Gonçalves Dias.
+
+**Minha Terra**
+
+Minha terra tem jambeiro
+Onde canta o bem-te-vi
+Enquanto o sabiá
+Come o meu fubá.
+
+O céu é poluído
+Como as ruas que tem lá
+Praças esculhambadas
+Que não dá nem pra sentar.
+
+De noite as ruas são escuras
+E a galera passa lá
+Quando a PM chega
+As ruas começam a esvaziar.
+
+Deus não permita a essa terra
+Ficar do jeito que está
+Que o senhor a abençoe
+E deixe a paz reinar.
+
+(Manoel e Lucas — Alunos do 9º ano do Ensino Fundamental de escola pública de BV-RR)
+
 **Enunciado:**
 
 Em “O céu é poluído”, a palavra destacada é
@@ -229,6 +345,35 @@ Nenhuma.
 
 ✅ **Gabarito: C** (Gabarito oficial — anexo do Edital Nº 091/2014, publicado em 22/12/2014 (Fundação AJURI))
 
+
+**Material de apoio:**
+
+Leia com atenção a seguinte paródia elaborada por dois adolescentes a partir do poema "Canção do Exílio" de Gonçalves Dias.
+
+**Minha Terra**
+
+Minha terra tem jambeiro
+Onde canta o bem-te-vi
+Enquanto o sabiá
+Come o meu fubá.
+
+O céu é poluído
+Como as ruas que tem lá
+Praças esculhambadas
+Que não dá nem pra sentar.
+
+De noite as ruas são escuras
+E a galera passa lá
+Quando a PM chega
+As ruas começam a esvaziar.
+
+Deus não permita a essa terra
+Ficar do jeito que está
+Que o senhor a abençoe
+E deixe a paz reinar.
+
+(Manoel e Lucas — Alunos do 9º ano do Ensino Fundamental de escola pública de BV-RR)
+
 **Enunciado:**
 
 Assinale a ÚNICA alternativa INCORRETA
@@ -244,7 +389,7 @@ C) Já fazem muitos anos que as praças da nossa cidade não são reformadas;
 
 D) Um bando de passarinhos comeu todos os jambos;
 
-E) A galera correu quando a polícia chegou. ===== PAGE 4 =====
+E) A galera correu quando a polícia chegou.
 
 **Referências visuais:**
 

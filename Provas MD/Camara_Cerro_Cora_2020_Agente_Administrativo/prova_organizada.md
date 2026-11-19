@@ -618,6 +618,45 @@ Tu me desse zero?
 
 Leia atentamente o texto abaixo, extraído do jornal O TEMPO - 16/02/20, de modo a responder às questões de (11) a (13):
 
+O PESO DO MOSQUITO (LAURA MEDIOLE)
+"Convidei meu vizinho para fazer um mutirão da limpeza em seu quintal, e ele só me enrola. Já
+denunciei, e nada. Ele só aparece a cada 15 dias. Mato e entulho tomaram conta de tudo."
+"Por que o jornal não vem filmar o criadouro dos mosquitos aqui, no vizinho? As calhas da sua casa
+estão todas entupidas, e a água da chuva desce em cima do muro, que vai cair a qualquer momento. Já
+denunciei aí no jornal a proliferação do mosquito da dengue, e ninguém faz nada..."
+Pois é; as internautas têm razão, é o fim da picada!!! Ou melhor, o início, quando os vizinhos ignoram
+um dos maiores problemas enfrentados pela população nos últimos anos. Impressionante a falta de
+consciência (ou de vergonha na cara mesmo) dessas pessoas (felizmente, uma minoria), que põem em
+risco a saúde e até a vida dos moradores.
+Custa dar uma olhada nos seus quintais? Não entendem que uma simples tampinha de Coca-Cola com
+água pode vir a ser um criadouro de larvas do Aedes aegypti? Que, ao crescerem, viram mosquitos
+capazes de causar danos enormes às pessoas? Quem já teve dengue sabe disso. [...] Como se não bastasse
+a incapacidade de reação, correm o risco de sofrer a dengue hemorrágica, que pode ser fatal.
+Explico isso em pormenores acreditando que algum leitor menos esclarecido, que ainda não se deu conta
+da situação, se atente ao problema. E, antes de fazer pouco-caso das campanhas, mutirões ou pedidos
+dos vizinhos, pense nisso, pense num filho seu acometido pela doença. Se para um adulto já é pesado,
+imagina para uma criança?
+Pesquisas confirmam que 80% dos focos são residenciais. Ou seja, estão no lixo acumulado nos quintais,
+na latinha com água de chuva, na calha entupida, e por aí vai. Como exemplo da irresponsabilidade, cito
+as caixas-d'água. O fiscal chega na casa, vasculha o terreno minuciosamente, explica os riscos, deixa
+um panfleto sobre o tema, notifica quando necessário e, para finalizar, pergunta sobre a caixa-d'água. O
+morador, já sem muita paciência com aquela "invasão domiciliar", diz que a caixa está ok, que se
+encontra fechada. O fiscal sai, e entra o drone, que, do alto, mostra que aquela caixa-d'água, além de
+não ter tampa, é um criadouro de mosquitos.
+Há vários meses a Prefeitura de Betim (cito ela porque é a que estou mais próxima) vem fazendo
+campanhas e mutirões de casa em casa, envolvendo escolas, pais de alunos, moradores de modo geral,
+além de um trabalho intensivo de capina e retirada de lixo e entulhos, espalhados pela população. [...]
+Vejo que, além do lixo, temos aí um problema educacional. Talvez o país ainda demore décadas para
+que a população se conscientize disso. [...] Em cada regional há um local destinado aos entulhos, o que
+muitos caminhões clandestinos, vindos até de cidades vizinhas, ignoram. Mesmo com o risco de serem
+multados, na calada da noite, continuam descarregando materiais nas calçadas ou em locais indevidos,
+apesar de a prefeitura disponibilizar caçambas próprias para isso, distribuídas em pontos estratégicos da
+cidade. Nas escolas, as crianças desde cedo são conscientizadas sobre a importância da reciclagem. E,
+numa espécie de gincana ecológica, envolvendo também os pais, elas cumprem o que lhes é ensinado.
+Um trabalho de formiguinha, até chegar o dia em que não serão mais necessários fiscais e tantos outros
+custos para o município, que poderiam ser evitados. Até chegar o dia em que não morrerão mais pessoas
+de dengue.
+
 **Referências visuais:**
 
 Nenhuma.
@@ -935,7 +974,6 @@ encontra fechada.
 um criadouro de mosquitos.
 / MCC 2 0 2 0 - AGENT E ADMI NI ST RAT
 PÁGINA 10
-INFORMÁTICA
 
 **Referências visuais:**
 
@@ -1249,7 +1287,6 @@ relacionamentos. Esse modelo adota alguma tecnologia, pode ser: relacional, orie
 E) São exemplos de SGBD: Oracle, SQL Server, PostgreSQL, MySQL, Microsoft Edge e MongoDB.
 CMCC 2 0 2 0 - AGENT E ADMI NI ST RAT
 PÁGINA 12
-CONHECIMENTOS ESPECÍFICOS
 
 **Referências visuais:**
 

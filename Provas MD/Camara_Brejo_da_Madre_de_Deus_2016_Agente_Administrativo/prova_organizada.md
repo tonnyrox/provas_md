@@ -91,6 +91,15 @@ E) As palavras “óbito” e “prática” são acentuadas pelo mesmo motivo.
 
 #### QUESTÃO 5
 
+
+**Material de apoio:**
+
+**EUTANÁSIA**
+
+Todos aqueles que acham a eutanásia um ato necessário em situações extremas apresentam algumas argumentos a favor dessa prática. Eles acham que a eutanásia é um modo de fugir ao sofrimento quando há falta de qualidade de vida em fase terminal. Também pensam que morrer de uma forma pouco dolorosa é significado de morte digna. Segundo os defensores, cada pessoa tem autonomia para decidir por si próprio, estando na base da escolha a prática
+ou não da eutanásia. Nessa perspectiva, vale dizer que não se apoia nem se defende a morte em si, mas se convidam os seres humanos a uma reflexão sobre uma morte mais suave e menos dolorosa, que algumas pessoas optam por ter, em vez de viverem uma batalha lenta e sofrida até o óbito.
+(Adaptado. Disponível em: https://eutanasia11a.wordpress.com/argumentos-a-favorcontra/)
+
 **Enunciado:**
 
 Com base no texto 'EUTANÁSIA', marque a opção CORRETA
@@ -111,6 +120,15 @@ E) Em: “... favor dessa prática.”, o ponto final encerra o terceiro períod
 
 #### QUESTÃO 6
 
+
+**Material de apoio:**
+
+**EUTANÁSIA**
+
+Todos aqueles que acham a eutanásia um ato necessário em situações extremas apresentam algumas argumentos a favor dessa prática. Eles acham que a eutanásia é um modo de fugir ao sofrimento quando há falta de qualidade de vida em fase terminal. Também pensam que morrer de uma forma pouco dolorosa é significado de morte digna. Segundo os defensores, cada pessoa tem autonomia para decidir por si próprio, estando na base da escolha a prática
+ou não da eutanásia. Nessa perspectiva, vale dizer que não se apoia nem se defende a morte em si, mas se convidam os seres humanos a uma reflexão sobre uma morte mais suave e menos dolorosa, que algumas pessoas optam por ter, em vez de viverem uma batalha lenta e sofrida até o óbito.
+(Adaptado. Disponível em: https://eutanasia11a.wordpress.com/argumentos-a-favorcontra/)
+
 **Enunciado:**
 
 Com base no texto 'EUTANÁSIA', marque a opção CORRETA
@@ -130,6 +148,15 @@ E) De acordo com o texto, os defensores da eutanásia apoiam a banalização da 
 ---
 
 #### QUESTÃO 7
+
+
+**Material de apoio:**
+
+**EUTANÁSIA**
+
+Todos aqueles que acham a eutanásia um ato necessário em situações extremas apresentam algumas argumentos a favor dessa prática. Eles acham que a eutanásia é um modo de fugir ao sofrimento quando há falta de qualidade de vida em fase terminal. Também pensam que morrer de uma forma pouco dolorosa é significado de morte digna. Segundo os defensores, cada pessoa tem autonomia para decidir por si próprio, estando na base da escolha a prática
+ou não da eutanásia. Nessa perspectiva, vale dizer que não se apoia nem se defende a morte em si, mas se convidam os seres humanos a uma reflexão sobre uma morte mais suave e menos dolorosa, que algumas pessoas optam por ter, em vez de viverem uma batalha lenta e sofrida até o óbito.
+(Adaptado. Disponível em: https://eutanasia11a.wordpress.com/argumentos-a-favorcontra/)
 
 **Enunciado:**
 
@@ -184,6 +211,16 @@ E) No trecho: “... o governo busca também...”, o verbo “buscar” apresen
 
 #### QUESTÃO 9
 
+
+**Material de apoio:**
+
+**GOVERNO VAI APERFEIÇOAR AÇÕES DE PREVENÇÃO À VIOLÊNCIA CONTRA A MULHER**
+
+O Ministério da Justiça criou um grupo de trabalho para desenvolver ações de proteção às mulheres vítimas de violência em todo o País. O órgão também estuda um projeto pedagógico nacional para capacitar profissionais de policiamento preventivo.
+Segundo a secretária nacional de Segurança Pública, Regina Miki, o governo federal quer trabalhar com profissionais dos Estados para implementar esse policiamento preventivo, que será voltado para a realização de visitas comunitárias: “queremos ampliar e fortalecer essa política de enfrentamento à violência de gênero”.
+Além de fortalecer o trabalho preventivo das polícias, o governo busca também qualificar a investigação de crimes de violência contra mulheres. O objetivo é a redução do feminicídio, definido como a meta para 2016 da Estratégia Nacional de Justiça e Segurança Pública (Enasp).
+(Adapta do. Disponível em: http://www.brasil.gov.br/cidadania-e-justica/2016/02/governo-vai-aperfeicoar-acoes-de-prevencao-a-violencia-contra-a-mulher)
+
 **Enunciado:**
 
 Com base no texto 'GOVERNO VAI APERFEIÇOAR AÇÕES DE PREVENÇÃO À VIOLÊNCIA CONTRA A MULHER', leia as afirmativas a seguir:
@@ -210,6 +247,16 @@ E) Todas as afirmativas estão corretas.
 
 #### QUESTÃO 10
 
+
+**Material de apoio:**
+
+**GOVERNO VAI APERFEIÇOAR AÇÕES DE PREVENÇÃO À VIOLÊNCIA CONTRA A MULHER**
+
+O Ministério da Justiça criou um grupo de trabalho para desenvolver ações de proteção às mulheres vítimas de violência em todo o País. O órgão também estuda um projeto pedagógico nacional para capacitar profissionais de policiamento preventivo.
+Segundo a secretária nacional de Segurança Pública, Regina Miki, o governo federal quer trabalhar com profissionais dos Estados para implementar esse policiamento preventivo, que será voltado para a realização de visitas comunitárias: “queremos ampliar e fortalecer essa política de enfrentamento à violência de gênero”.
+Além de fortalecer o trabalho preventivo das polícias, o governo busca também qualificar a investigação de crimes de violência contra mulheres. O objetivo é a redução do feminicídio, definido como a meta para 2016 da Estratégia Nacional de Justiça e Segurança Pública (Enasp).
+(Adapta do. Disponível em: http://www.brasil.gov.br/cidadania-e-justica/2016/02/governo-vai-aperfeicoar-acoes-de-prevencao-a-violencia-contra-a-mulher)
+
 **Enunciado:**
 
 Com base no texto 'GOVERNO VAI APERFEIÇOAR AÇÕES DE PREVENÇÃO À VIOLÊNCIA CONTRA A MULHER', marque a opção CORRETA
@@ -230,7 +277,6 @@ E) É explicitado, no texto, que o Ministério da Justiça estuda um projeto ped
 
 ## 3. Questões independentes
 
-**A3 - PORTUGUÊS**
 
 #### QUESTÃO 1
 
@@ -297,7 +343,6 @@ E) As palavras seguintes estão grafadas corretamente: sutilesa; belesa; nobreza
 
 ---
 
-**A1 - ADMINISTRAÇÃO E INFORMÁTICA**
 
 #### QUESTÃO 11
 
@@ -499,7 +544,6 @@ E) O planejamento estratégico é uma forma da organização atuar de forma inov
 
 ---
 
-**A2 - MATEMÁTICA FINANCEIRA**
 
 #### QUESTÃO 21
 

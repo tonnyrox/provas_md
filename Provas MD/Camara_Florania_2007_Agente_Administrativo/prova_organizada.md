@@ -3,13 +3,13 @@
 ## 1. Análise geral da prova
 
 - **Identificação:** Camara_Florania_2007_Agente_Administrativo
-- **Quantidade total de questões:** 30
-- **Quantidade de textos de apoio (grupos):** 4
-- **Quantidade de imagens:** 0
+- **Quantidade total de questões:** 40
+- **Quantidade de textos de apoio (grupos):** 3
+- **Quantidade de imagens:** 1
 - **Quantidade de gráficos e tabelas:** incluídos nas imagens e no texto extraído, quando presentes no PDF original
-- **Quantidade de grupos identificados:** 4
-- **Quantidade de questões independentes:** 0
-- **Questões que compartilham materiais:** texto-base das questões 01 a 15 → questões 01, 02, 03, 04, 05, 06, 14, 15; texto-base das questões 07 a 10 → questões 07, 08, 09, 10; texto-base das questões 11 a 13 → questões 11, 12, 13; texto-base das questões 16 a 30 → questões 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30
+- **Quantidade de grupos identificados:** 3
+- **Quantidade de questões independentes:** 25
+- **Questões que compartilham materiais:** texto-base das questões 01 a 15 → questões 01, 02, 03, 04, 05, 06, 14, 15; texto-base das questões 07 a 10 → questões 07, 08, 09, 10; texto-base das questões 11 a 13 → questões 11, 12, 13
 
 ### Transcrição integral da capa/instruções (conforme extraída do PDF)
 
@@ -72,16 +72,23 @@
 
 ## 2. Questões agrupadas
 
-### GRUPO 01 — Texto-base compartilhado pelas questões 01 a 15
+### GRUPO 01 — Texto-base principal (editorial da VEJA sobre censura e televisão), compartilhado
 
 **Questões relacionadas:** 01, 02, 03, 04, 05, 06, 14, 15.
 
 #### QUESTÃO 01
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
 **Material de apoio:**
 
- Leia o texto abaixo, com atenção para responder às
-questões propostas.
+Leia o texto abaixo, com atenção para responder às questões propostas.
+
+Num país como o Brasil, onde a pobreza faz com que a televisão seja a principal fonte de informação e entretenimento, ela desempenha um papel fundamental na vida de milhões e milhões de pessoas. A televisão não é um espelho neutro, objetivo, do que se passa na sociedade. Ela também contribui para divulgar modelos de comportamento, orientar atitudes e impor padrões de moralidade. Novelas, noticiários, filmes, programas humorísticos entram nas casas e seus personagens, conflitos e problemas passam a fazer parte da vida das pessoas. É um poder formidável que, exercido com sabedoria, além de divertir e entreter, serviria para melhorar o país.
+
+O passado já ensinou que a censura não é, nem de longe, a maneira mais adequada de se ter uma programação melhor. A censura serviu tão-somente para desinformar a população, acobertar crimes e manter no poder políticos que chegaram a ele sem ter sido eleitos. A boa televisão só pode existir com liberdade. Entretanto, nos últimos tempos, diversas vozes vêm protestando contra os excessos cometidos pelas emissoras de televisão. Não é preciso ser um **extremista** puritano para perceber que, muitas vezes, cenas de violência gratuita, erotismo e grotesca vulgaridade são mostradas em profusão, bem cedo na noite. A alternativa do telespectador pode ser a de mudar de canal, mas quando a concorrência entre as emissoras se acirra, o nível mais baixo costuma se tornar **norma**. Se a censura não é o **caminho**, o que fazer diante
+
+*(Nota: a última linha do texto está fisicamente cortada no PDF original do acervo e torna-se ilegível a partir daqui — o texto termina em “… o que fazer diante”. Nada foi inventado ou completado.)*
 
 **Enunciado:**
 
@@ -103,10 +110,17 @@ Nenhuma.
 
 #### QUESTÃO 02
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
 **Material de apoio:**
 
- Leia o texto abaixo, com atenção para responder às
-questões propostas.
+Leia o texto abaixo, com atenção para responder às questões propostas.
+
+Num país como o Brasil, onde a pobreza faz com que a televisão seja a principal fonte de informação e entretenimento, ela desempenha um papel fundamental na vida de milhões e milhões de pessoas. A televisão não é um espelho neutro, objetivo, do que se passa na sociedade. Ela também contribui para divulgar modelos de comportamento, orientar atitudes e impor padrões de moralidade. Novelas, noticiários, filmes, programas humorísticos entram nas casas e seus personagens, conflitos e problemas passam a fazer parte da vida das pessoas. É um poder formidável que, exercido com sabedoria, além de divertir e entreter, serviria para melhorar o país.
+
+O passado já ensinou que a censura não é, nem de longe, a maneira mais adequada de se ter uma programação melhor. A censura serviu tão-somente para desinformar a população, acobertar crimes e manter no poder políticos que chegaram a ele sem ter sido eleitos. A boa televisão só pode existir com liberdade. Entretanto, nos últimos tempos, diversas vozes vêm protestando contra os excessos cometidos pelas emissoras de televisão. Não é preciso ser um **extremista** puritano para perceber que, muitas vezes, cenas de violência gratuita, erotismo e grotesca vulgaridade são mostradas em profusão, bem cedo na noite. A alternativa do telespectador pode ser a de mudar de canal, mas quando a concorrência entre as emissoras se acirra, o nível mais baixo costuma se tornar **norma**. Se a censura não é o **caminho**, o que fazer diante
+
+*(Nota: a última linha do texto está fisicamente cortada no PDF original do acervo e torna-se ilegível a partir daqui — o texto termina em “… o que fazer diante”. Nada foi inventado ou completado.)*
 
 **Enunciado:**
 
@@ -131,10 +145,17 @@ Nenhuma.
 
 #### QUESTÃO 03
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
 **Material de apoio:**
 
- Leia o texto abaixo, com atenção para responder às
-questões propostas.
+Leia o texto abaixo, com atenção para responder às questões propostas.
+
+Num país como o Brasil, onde a pobreza faz com que a televisão seja a principal fonte de informação e entretenimento, ela desempenha um papel fundamental na vida de milhões e milhões de pessoas. A televisão não é um espelho neutro, objetivo, do que se passa na sociedade. Ela também contribui para divulgar modelos de comportamento, orientar atitudes e impor padrões de moralidade. Novelas, noticiários, filmes, programas humorísticos entram nas casas e seus personagens, conflitos e problemas passam a fazer parte da vida das pessoas. É um poder formidável que, exercido com sabedoria, além de divertir e entreter, serviria para melhorar o país.
+
+O passado já ensinou que a censura não é, nem de longe, a maneira mais adequada de se ter uma programação melhor. A censura serviu tão-somente para desinformar a população, acobertar crimes e manter no poder políticos que chegaram a ele sem ter sido eleitos. A boa televisão só pode existir com liberdade. Entretanto, nos últimos tempos, diversas vozes vêm protestando contra os excessos cometidos pelas emissoras de televisão. Não é preciso ser um **extremista** puritano para perceber que, muitas vezes, cenas de violência gratuita, erotismo e grotesca vulgaridade são mostradas em profusão, bem cedo na noite. A alternativa do telespectador pode ser a de mudar de canal, mas quando a concorrência entre as emissoras se acirra, o nível mais baixo costuma se tornar **norma**. Se a censura não é o **caminho**, o que fazer diante
+
+*(Nota: a última linha do texto está fisicamente cortada no PDF original do acervo e torna-se ilegível a partir daqui — o texto termina em “… o que fazer diante”. Nada foi inventado ou completado.)*
 
 **Enunciado:**
 
@@ -151,6 +172,19 @@ C) menção a fatos históricos que supõe ainda presentes na
 memória do leitor;
 D) proposta de uma solução definitiva e consensual para o
 problema.
+
+**Referências visuais:**
+
+Nenhuma.
+
+---
+
+#### QUESTÃO 04
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
+**Material de apoio:**
+
 I – A importância da TV, como fonte de informação e
 entretenimento, é proporcional ao grau de desenvolvimento
 do país.
@@ -161,19 +195,6 @@ vulgaridade de certos programas televisivos.
 IV – Diante dos abusos cometidos pelas emissoras, o
 telespectador que se sentir ferido deve simplesmente mudar
 de canal ou desligar a TV.
-
-**Referências visuais:**
-
-Nenhuma.
-
----
-
-#### QUESTÃO 04
-
-**Material de apoio:**
-
- Leia o texto abaixo, com atenção para responder às
-questões propostas.
 
 **Enunciado:**
 
@@ -195,10 +216,17 @@ Nenhuma.
 
 #### QUESTÃO 05
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
 **Material de apoio:**
 
- Leia o texto abaixo, com atenção para responder às
-questões propostas.
+Leia o texto abaixo, com atenção para responder às questões propostas.
+
+Num país como o Brasil, onde a pobreza faz com que a televisão seja a principal fonte de informação e entretenimento, ela desempenha um papel fundamental na vida de milhões e milhões de pessoas. A televisão não é um espelho neutro, objetivo, do que se passa na sociedade. Ela também contribui para divulgar modelos de comportamento, orientar atitudes e impor padrões de moralidade. Novelas, noticiários, filmes, programas humorísticos entram nas casas e seus personagens, conflitos e problemas passam a fazer parte da vida das pessoas. É um poder formidável que, exercido com sabedoria, além de divertir e entreter, serviria para melhorar o país.
+
+O passado já ensinou que a censura não é, nem de longe, a maneira mais adequada de se ter uma programação melhor. A censura serviu tão-somente para desinformar a população, acobertar crimes e manter no poder políticos que chegaram a ele sem ter sido eleitos. A boa televisão só pode existir com liberdade. Entretanto, nos últimos tempos, diversas vozes vêm protestando contra os excessos cometidos pelas emissoras de televisão. Não é preciso ser um **extremista** puritano para perceber que, muitas vezes, cenas de violência gratuita, erotismo e grotesca vulgaridade são mostradas em profusão, bem cedo na noite. A alternativa do telespectador pode ser a de mudar de canal, mas quando a concorrência entre as emissoras se acirra, o nível mais baixo costuma se tornar **norma**. Se a censura não é o **caminho**, o que fazer diante
+
+*(Nota: a última linha do texto está fisicamente cortada no PDF original do acervo e torna-se ilegível a partir daqui — o texto termina em “… o que fazer diante”. Nada foi inventado ou completado.)*
 
 **Enunciado:**
 
@@ -222,10 +250,17 @@ Nenhuma.
 
 #### QUESTÃO 06
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
 **Material de apoio:**
 
- Leia o texto abaixo, com atenção para responder às
-questões propostas.
+Leia o texto abaixo, com atenção para responder às questões propostas.
+
+Num país como o Brasil, onde a pobreza faz com que a televisão seja a principal fonte de informação e entretenimento, ela desempenha um papel fundamental na vida de milhões e milhões de pessoas. A televisão não é um espelho neutro, objetivo, do que se passa na sociedade. Ela também contribui para divulgar modelos de comportamento, orientar atitudes e impor padrões de moralidade. Novelas, noticiários, filmes, programas humorísticos entram nas casas e seus personagens, conflitos e problemas passam a fazer parte da vida das pessoas. É um poder formidável que, exercido com sabedoria, além de divertir e entreter, serviria para melhorar o país.
+
+O passado já ensinou que a censura não é, nem de longe, a maneira mais adequada de se ter uma programação melhor. A censura serviu tão-somente para desinformar a população, acobertar crimes e manter no poder políticos que chegaram a ele sem ter sido eleitos. A boa televisão só pode existir com liberdade. Entretanto, nos últimos tempos, diversas vozes vêm protestando contra os excessos cometidos pelas emissoras de televisão. Não é preciso ser um **extremista** puritano para perceber que, muitas vezes, cenas de violência gratuita, erotismo e grotesca vulgaridade são mostradas em profusão, bem cedo na noite. A alternativa do telespectador pode ser a de mudar de canal, mas quando a concorrência entre as emissoras se acirra, o nível mais baixo costuma se tornar **norma**. Se a censura não é o **caminho**, o que fazer diante
+
+*(Nota: a última linha do texto está fisicamente cortada no PDF original do acervo e torna-se ilegível a partir daqui — o texto termina em “… o que fazer diante”. Nada foi inventado ou completado.)*
 
 **Enunciado:**
 
@@ -240,11 +275,6 @@ A) “quando for exercido com sabedoria”;
 B) “caso seja exercido com sabedoria”;
 C) ” por ser exercido com sabedoria”;
 D) “porque é exercido com sabedoria”.
-Leia o trecho, transcrito do texto, para responder às questões
-de 07 a 10:
-“O passado já ensinou que a censura não é, nem de
-longe, a maneira mais adequada de se ter uma programação
-melhor.”
 
 **Referências visuais:**
 
@@ -254,10 +284,17 @@ Nenhuma.
 
 #### QUESTÃO 14
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
 **Material de apoio:**
 
- Leia o texto abaixo, com atenção para responder às
-questões propostas.
+Leia o texto abaixo, com atenção para responder às questões propostas.
+
+Num país como o Brasil, onde a pobreza faz com que a televisão seja a principal fonte de informação e entretenimento, ela desempenha um papel fundamental na vida de milhões e milhões de pessoas. A televisão não é um espelho neutro, objetivo, do que se passa na sociedade. Ela também contribui para divulgar modelos de comportamento, orientar atitudes e impor padrões de moralidade. Novelas, noticiários, filmes, programas humorísticos entram nas casas e seus personagens, conflitos e problemas passam a fazer parte da vida das pessoas. É um poder formidável que, exercido com sabedoria, além de divertir e entreter, serviria para melhorar o país.
+
+O passado já ensinou que a censura não é, nem de longe, a maneira mais adequada de se ter uma programação melhor. A censura serviu tão-somente para desinformar a população, acobertar crimes e manter no poder políticos que chegaram a ele sem ter sido eleitos. A boa televisão só pode existir com liberdade. Entretanto, nos últimos tempos, diversas vozes vêm protestando contra os excessos cometidos pelas emissoras de televisão. Não é preciso ser um **extremista** puritano para perceber que, muitas vezes, cenas de violência gratuita, erotismo e grotesca vulgaridade são mostradas em profusão, bem cedo na noite. A alternativa do telespectador pode ser a de mudar de canal, mas quando a concorrência entre as emissoras se acirra, o nível mais baixo costuma se tornar **norma**. Se a censura não é o **caminho**, o que fazer diante
+
+*(Nota: a última linha do texto está fisicamente cortada no PDF original do acervo e torna-se ilegível a partir daqui — o texto termina em “… o que fazer diante”. Nada foi inventado ou completado.)*
 
 **Enunciado:**
 
@@ -279,10 +316,17 @@ Nenhuma.
 
 #### QUESTÃO 15
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
 **Material de apoio:**
 
- Leia o texto abaixo, com atenção para responder às
-questões propostas.
+Leia o texto abaixo, com atenção para responder às questões propostas.
+
+Num país como o Brasil, onde a pobreza faz com que a televisão seja a principal fonte de informação e entretenimento, ela desempenha um papel fundamental na vida de milhões e milhões de pessoas. A televisão não é um espelho neutro, objetivo, do que se passa na sociedade. Ela também contribui para divulgar modelos de comportamento, orientar atitudes e impor padrões de moralidade. Novelas, noticiários, filmes, programas humorísticos entram nas casas e seus personagens, conflitos e problemas passam a fazer parte da vida das pessoas. É um poder formidável que, exercido com sabedoria, além de divertir e entreter, serviria para melhorar o país.
+
+O passado já ensinou que a censura não é, nem de longe, a maneira mais adequada de se ter uma programação melhor. A censura serviu tão-somente para desinformar a população, acobertar crimes e manter no poder políticos que chegaram a ele sem ter sido eleitos. A boa televisão só pode existir com liberdade. Entretanto, nos últimos tempos, diversas vozes vêm protestando contra os excessos cometidos pelas emissoras de televisão. Não é preciso ser um **extremista** puritano para perceber que, muitas vezes, cenas de violência gratuita, erotismo e grotesca vulgaridade são mostradas em profusão, bem cedo na noite. A alternativa do telespectador pode ser a de mudar de canal, mas quando a concorrência entre as emissoras se acirra, o nível mais baixo costuma se tornar **norma**. Se a censura não é o **caminho**, o que fazer diante
+
+*(Nota: a última linha do texto está fisicamente cortada no PDF original do acervo e torna-se ilegível a partir daqui — o texto termina em “… o que fazer diante”. Nada foi inventado ou completado.)*
 
 **Enunciado:**
 
@@ -300,7 +344,6 @@ A) sinônimas;
 B) antônimas;
 C) homônimas;
 D) parônimas.
-Questões de 16 a 30 = Matemática.
 
 **Referências visuais:**
 
@@ -314,24 +357,13 @@ Nenhuma.
 
 #### QUESTÃO 07
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
 **Material de apoio:**
 
-06- A construção que pode substituir “exercido com
-sabedoria”, no final do primeiro parágrafo, sem prejuízo
-para a relação com as demais formas verbais presentes na
-frase é:
-A) “quando for exercido com sabedoria”;
-B) “caso seja exercido com sabedoria”;
-C)” por ser exercido com sabedoria”;
-D) “porque é exercido com sabedoria”.
+Leia o trecho, transcrito do texto, para responder às questões de 07 a 10:
 
-Leia o trecho, transcrito do texto, para responder às questões
-de 07 a 10:
-
-
-“O passado já ensinou que a censura não é, nem de
-longe, a maneira mais adequada de se ter uma programação
-melhor.”
+“O **passado** já ensinou **que** a censura não é, nem de longe, a maneira **mais** adequada de se ter uma programação **melhor**.”
 
 **Enunciado:**
 
@@ -359,24 +391,13 @@ Nenhuma.
 
 #### QUESTÃO 08
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
 **Material de apoio:**
 
-06- A construção que pode substituir “exercido com
-sabedoria”, no final do primeiro parágrafo, sem prejuízo
-para a relação com as demais formas verbais presentes na
-frase é:
-A) “quando for exercido com sabedoria”;
-B) “caso seja exercido com sabedoria”;
-C)” por ser exercido com sabedoria”;
-D) “porque é exercido com sabedoria”.
+Leia o trecho, transcrito do texto, para responder às questões de 07 a 10:
 
-Leia o trecho, transcrito do texto, para responder às questões
-de 07 a 10:
-
-
-“O passado já ensinou que a censura não é, nem de
-longe, a maneira mais adequada de se ter uma programação
-melhor.”
+“O **passado** já ensinou **que** a censura não é, nem de longe, a maneira **mais** adequada de se ter uma programação **melhor**.”
 
 **Enunciado:**
 
@@ -398,24 +419,13 @@ Nenhuma.
 
 #### QUESTÃO 09
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
 **Material de apoio:**
 
-06- A construção que pode substituir “exercido com
-sabedoria”, no final do primeiro parágrafo, sem prejuízo
-para a relação com as demais formas verbais presentes na
-frase é:
-A) “quando for exercido com sabedoria”;
-B) “caso seja exercido com sabedoria”;
-C)” por ser exercido com sabedoria”;
-D) “porque é exercido com sabedoria”.
+Leia o trecho, transcrito do texto, para responder às questões de 07 a 10:
 
-Leia o trecho, transcrito do texto, para responder às questões
-de 07 a 10:
-
-
-“O passado já ensinou que a censura não é, nem de
-longe, a maneira mais adequada de se ter uma programação
-melhor.”
+“O **passado** já ensinou **que** a censura não é, nem de longe, a maneira **mais** adequada de se ter uma programação **melhor**.”
 
 **Enunciado:**
 
@@ -436,24 +446,13 @@ Nenhuma.
 
 #### QUESTÃO 10
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
 **Material de apoio:**
 
-06- A construção que pode substituir “exercido com
-sabedoria”, no final do primeiro parágrafo, sem prejuízo
-para a relação com as demais formas verbais presentes na
-frase é:
-A) “quando for exercido com sabedoria”;
-B) “caso seja exercido com sabedoria”;
-C)” por ser exercido com sabedoria”;
-D) “porque é exercido com sabedoria”.
+Leia o trecho, transcrito do texto, para responder às questões de 07 a 10:
 
-Leia o trecho, transcrito do texto, para responder às questões
-de 07 a 10:
-
-
-“O passado já ensinou que a censura não é, nem de
-longe, a maneira mais adequada de se ter uma programação
-melhor.”
+“O **passado** já ensinou **que** a censura não é, nem de longe, a maneira **mais** adequada de se ter uma programação **melhor**.”
 
 **Enunciado:**
 
@@ -465,40 +464,6 @@ A) é formado por 2 orações;
 B) é formado por 3 orações;
 C) é formado por 4 orações;
 D) trata-se de um período simples.
-Num país como o Brasil, onde a pobreza faz com
-que a televisão seja a principal fonte de informação e
-entretenimento, ela desempenha um papel fundamental na
-vida de milhões e milhões de pessoas. A televisão não é
-um espelho neutro, objetivo, do que se passa na sociedade.
-Ela também contribui para divulgar modelos de
-comportamento, orientar atitudes e impor padrões de
-moralidade. Novelas, noticiários, filmes, programas
-humorísticos entram nas casas e seus personagens,
-conflitos e problemas passam a fazer parte da vida das
-pessoas. É um poder formidável que, exercido com
-sabedoria, além de divertir e entreter, serviria para
-melhorar o país.
-O passado já ensinou que a censura não é, nem de
-longe, a maneira mais adequada de se ter uma
-programação melhor. A censura serviu tão-somente para
-desinformar a população, acobertar crimes e manter no
-poder políticos que chegaram a ele sem ter sido eleitos. A
-boa televisão só pode existir com liberdade. Entretanto,
-nos últimos tempos, diversas vozes vêm protestando
-contra os excessos cometidos pelas emissoras de televisão.
-Não é preciso ser um extremista puritano para perceber
-que, muitas vezes, cenas de violência gratuita, erotismo e
-grotesca vulgaridade são mostradas em profusão, bem
-cedo na noite. A alternativa do telespectador pode ser a de
-mudar de canal, mas quando a concorrência entre as
-emissoras se acirra, o nível mais baixo costuma se tornar
-norma. Se a censura não é o caminho, o que fazer diante
-d
-l
-ã ?
-O período abaixo, transcrito do texto, servirá de base para as
-questões de 11 a 13:
-“A televisão não é um espelho neutro, objetivo.”
 
 **Referências visuais:**
 
@@ -512,51 +477,11 @@ Nenhuma.
 
 #### QUESTÃO 11
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
 **Material de apoio:**
 
-10- O período em questão no trecho:
-A) é formado por 2 orações;
-B) é formado por 3 orações;
-C) é formado por 4 orações;
-D) trata-se de um período simples.
-Num país como o Brasil, onde a pobreza faz com
-que a televisão seja a principal fonte de informação e
-entretenimento, ela desempenha um papel fundamental na
-vida de milhões e milhões de pessoas. A televisão não é
-um espelho neutro, objetivo, do que se passa na sociedade.
-Ela também contribui para divulgar modelos de
-comportamento, orientar atitudes e impor padrões de
-moralidade. Novelas, noticiários, filmes, programas
-humorísticos entram nas casas e seus personagens,
-conflitos e problemas passam a fazer parte da vida das
-pessoas. É um poder formidável que, exercido com
-sabedoria, além de divertir e entreter, serviria para
-melhorar o país.
-
-O passado já ensinou que a censura não é, nem de
-longe, a maneira mais adequada de se ter uma
-programação melhor. A censura serviu tão-somente para
-desinformar a população, acobertar crimes e manter no
-poder políticos que chegaram a ele sem ter sido eleitos. A
-boa televisão só pode existir com liberdade. Entretanto,
-nos últimos tempos, diversas vozes vêm protestando
-contra os excessos cometidos pelas emissoras de televisão.
-Não é preciso ser um extremista puritano para perceber
-que, muitas vezes, cenas de violência gratuita, erotismo e
-grotesca vulgaridade são mostradas em profusão, bem
-cedo na noite. A alternativa do telespectador pode ser a de
-mudar de canal, mas quando a concorrência entre as
-emissoras se acirra, o nível mais baixo costuma se tornar
-norma. Se a censura não é o caminho, o que fazer diante
-d
-l
-ã ?
-
-
-
-O período abaixo, transcrito do texto, servirá de base para as
-:
-
+O período abaixo, transcrito do texto, servirá de base para as questões de 11 a 13:
 
 “A televisão não é um espelho neutro, objetivo.”
 
@@ -579,51 +504,11 @@ Nenhuma.
 
 #### QUESTÃO 12
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
 **Material de apoio:**
 
-10- O período em questão no trecho:
-A) é formado por 2 orações;
-B) é formado por 3 orações;
-C) é formado por 4 orações;
-D) trata-se de um período simples.
-Num país como o Brasil, onde a pobreza faz com
-que a televisão seja a principal fonte de informação e
-entretenimento, ela desempenha um papel fundamental na
-vida de milhões e milhões de pessoas. A televisão não é
-um espelho neutro, objetivo, do que se passa na sociedade.
-Ela também contribui para divulgar modelos de
-comportamento, orientar atitudes e impor padrões de
-moralidade. Novelas, noticiários, filmes, programas
-humorísticos entram nas casas e seus personagens,
-conflitos e problemas passam a fazer parte da vida das
-pessoas. É um poder formidável que, exercido com
-sabedoria, além de divertir e entreter, serviria para
-melhorar o país.
-
-O passado já ensinou que a censura não é, nem de
-longe, a maneira mais adequada de se ter uma
-programação melhor. A censura serviu tão-somente para
-desinformar a população, acobertar crimes e manter no
-poder políticos que chegaram a ele sem ter sido eleitos. A
-boa televisão só pode existir com liberdade. Entretanto,
-nos últimos tempos, diversas vozes vêm protestando
-contra os excessos cometidos pelas emissoras de televisão.
-Não é preciso ser um extremista puritano para perceber
-que, muitas vezes, cenas de violência gratuita, erotismo e
-grotesca vulgaridade são mostradas em profusão, bem
-cedo na noite. A alternativa do telespectador pode ser a de
-mudar de canal, mas quando a concorrência entre as
-emissoras se acirra, o nível mais baixo costuma se tornar
-norma. Se a censura não é o caminho, o que fazer diante
-d
-l
-ã ?
-
-
-
-O período abaixo, transcrito do texto, servirá de base para as
-:
-
+O período abaixo, transcrito do texto, servirá de base para as questões de 11 a 13:
 
 “A televisão não é um espelho neutro, objetivo.”
 
@@ -647,51 +532,11 @@ Nenhuma.
 
 #### QUESTÃO 13
 
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
 **Material de apoio:**
 
-10- O período em questão no trecho:
-A) é formado por 2 orações;
-B) é formado por 3 orações;
-C) é formado por 4 orações;
-D) trata-se de um período simples.
-Num país como o Brasil, onde a pobreza faz com
-que a televisão seja a principal fonte de informação e
-entretenimento, ela desempenha um papel fundamental na
-vida de milhões e milhões de pessoas. A televisão não é
-um espelho neutro, objetivo, do que se passa na sociedade.
-Ela também contribui para divulgar modelos de
-comportamento, orientar atitudes e impor padrões de
-moralidade. Novelas, noticiários, filmes, programas
-humorísticos entram nas casas e seus personagens,
-conflitos e problemas passam a fazer parte da vida das
-pessoas. É um poder formidável que, exercido com
-sabedoria, além de divertir e entreter, serviria para
-melhorar o país.
-
-O passado já ensinou que a censura não é, nem de
-longe, a maneira mais adequada de se ter uma
-programação melhor. A censura serviu tão-somente para
-desinformar a população, acobertar crimes e manter no
-poder políticos que chegaram a ele sem ter sido eleitos. A
-boa televisão só pode existir com liberdade. Entretanto,
-nos últimos tempos, diversas vozes vêm protestando
-contra os excessos cometidos pelas emissoras de televisão.
-Não é preciso ser um extremista puritano para perceber
-que, muitas vezes, cenas de violência gratuita, erotismo e
-grotesca vulgaridade são mostradas em profusão, bem
-cedo na noite. A alternativa do telespectador pode ser a de
-mudar de canal, mas quando a concorrência entre as
-emissoras se acirra, o nível mais baixo costuma se tornar
-norma. Se a censura não é o caminho, o que fazer diante
-d
-l
-ã ?
-
-
-
-O período abaixo, transcrito do texto, servirá de base para as
-:
-
+O período abaixo, transcrito do texto, servirá de base para as questões de 11 a 13:
 
 “A televisão não é um espelho neutro, objetivo.”
 
@@ -713,30 +558,11 @@ Nenhuma.
 
 ---
 
-### GRUPO 04 — Texto-base compartilhado pelas questões 16 a 30
-
-**Questões relacionadas:** 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30.
+## 3. Questões independentes
 
 #### QUESTÃO 16
 
-**Material de apoio:**
-
-15-Em:
-I – “A censura serviu tão-somente para desinformar a
-população”.
-II – “A ditadura militar censura as informações naquele
-período”.
- Verificamos que, nos dois períodos acima, as palavras
-CENSURA são:
-A) sinônimas;
-
-
-B) antônimas;
-C) homônimas;
-
-D) parônimas.
-
- = Matemática.
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
 
 **Enunciado:**
 
@@ -758,24 +584,7 @@ Nenhuma.
 
 #### QUESTÃO 17
 
-**Material de apoio:**
-
-15-Em:
-I – “A censura serviu tão-somente para desinformar a
-população”.
-II – “A ditadura militar censura as informações naquele
-período”.
- Verificamos que, nos dois períodos acima, as palavras
-CENSURA são:
-A) sinônimas;
-
-
-B) antônimas;
-C) homônimas;
-
-D) parônimas.
-
- = Matemática.
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
 
 **Enunciado:**
 
@@ -798,57 +607,30 @@ Nenhuma.
 
 #### QUESTÃO 18
 
-**Material de apoio:**
-
-15-Em:
-I – “A censura serviu tão-somente para desinformar a
-população”.
-II – “A ditadura militar censura as informações naquele
-período”.
- Verificamos que, nos dois períodos acima, as palavras
-CENSURA são:
-A) sinônimas;
-
-
-B) antônimas;
-C) homônimas;
-
-D) parônimas.
-
- = Matemática.
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
 
 **Enunciado:**
 
-18- Na figura, marcamos 4 pontos distintos em m e 5 pontos
-distintos em n.
+18- Na figura, marcamos 4 pontos distintos em **m** e 5 pontos
+distintos em **n**.
 - O número de triângulos com vértices nesses pontos é igual a:
+
+**Alternativas:**
+
+A) 20;
+B) 50;
+C) 60;
+D) 70.
 
 **Referências visuais:**
 
-Nenhuma.
+![Imagem da questão — retas m (4 pontos) e n (5 pontos)](imagens/imagem_001.png)
 
 ---
 
 #### QUESTÃO 19
 
-**Material de apoio:**
-
-15-Em:
-I – “A censura serviu tão-somente para desinformar a
-população”.
-II – “A ditadura militar censura as informações naquele
-período”.
- Verificamos que, nos dois períodos acima, as palavras
-CENSURA são:
-A) sinônimas;
-
-
-B) antônimas;
-C) homônimas;
-
-D) parônimas.
-
- = Matemática.
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
 
 **Enunciado:**
 
@@ -870,40 +652,19 @@ Nenhuma.
 
 #### QUESTÃO 20
 
-**Material de apoio:**
-
-15-Em:
-I – “A censura serviu tão-somente para desinformar a
-população”.
-II – “A ditadura militar censura as informações naquele
-período”.
- Verificamos que, nos dois períodos acima, as palavras
-CENSURA são:
-A) sinônimas;
-
-
-B) antônimas;
-C) homônimas;
-
-D) parônimas.
-
- = Matemática.
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
 
 **Enunciado:**
 
-20- Seja uma matriz: A =
-
-
-
-
-
-
-
-
-
-
-, o valor do seu
-determinante é igual a:
+20- Seja uma matriz A =
+
+```
+    ⎡ 2   3   4 ⎤
+A = ⎢ 4   9  16 ⎥
+    ⎣ 8  27  64 ⎦
+```
+
+o valor do seu determinante é igual a:
 
 **Alternativas:**
 
@@ -920,24 +681,7 @@ Nenhuma.
 
 #### QUESTÃO 21
 
-**Material de apoio:**
-
-15-Em:
-I – “A censura serviu tão-somente para desinformar a
-população”.
-II – “A ditadura militar censura as informações naquele
-período”.
- Verificamos que, nos dois períodos acima, as palavras
-CENSURA são:
-A) sinônimas;
-
-
-B) antônimas;
-C) homônimas;
-
-D) parônimas.
-
- = Matemática.
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
 
 **Enunciado:**
 
@@ -958,39 +702,21 @@ Nenhuma.
 
 #### QUESTÃO 22
 
-**Material de apoio:**
-
-15-Em:
-I – “A censura serviu tão-somente para desinformar a
-população”.
-II – “A ditadura militar censura as informações naquele
-período”.
- Verificamos que, nos dois períodos acima, as palavras
-CENSURA são:
-A) sinônimas;
-
-
-B) antônimas;
-C) homônimas;
-
-D) parônimas.
-
- = Matemática.
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
 
 **Enunciado:**
 
 22- Uma bola elástica cai de uma altura de h metros,
-elevando- se, em cada pulo, a altura igual a 4
-3 da que caiu
+elevando-se, em cada pulo, a altura igual a 3/4 da que caiu
 anteriormente. O espaço percorrido pela bola ao bater no
 solo pela quarta vez é:
 
 **Alternativas:**
 
-A) 45h ;
-B) 55h ;
-C) 207h ;
-D) 217h .
+A) 45h/8;
+B) 55h/8;
+C) 207h/32;
+D) 217h/32.
 
 **Referências visuais:**
 
@@ -1000,24 +726,7 @@ Nenhuma.
 
 #### QUESTÃO 23
 
-**Material de apoio:**
-
-15-Em:
-I – “A censura serviu tão-somente para desinformar a
-população”.
-II – “A ditadura militar censura as informações naquele
-período”.
- Verificamos que, nos dois períodos acima, as palavras
-CENSURA são:
-A) sinônimas;
-
-
-B) antônimas;
-C) homônimas;
-
-D) parônimas.
-
- = Matemática.
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
 
 **Enunciado:**
 
@@ -1028,10 +737,10 @@ de área?
 
 **Alternativas:**
 
-A) 75 cm 2
-B) 84 cm 2
-C) 91 cm 2
-D) 100 cm 2
+A) 75 cm²
+B) 84 cm²
+C) 91 cm²
+D) 100 cm²
 
 **Referências visuais:**
 
@@ -1041,24 +750,7 @@ Nenhuma.
 
 #### QUESTÃO 24
 
-**Material de apoio:**
-
-15-Em:
-I – “A censura serviu tão-somente para desinformar a
-população”.
-II – “A ditadura militar censura as informações naquele
-período”.
- Verificamos que, nos dois períodos acima, as palavras
-CENSURA são:
-A) sinônimas;
-
-
-B) antônimas;
-C) homônimas;
-
-D) parônimas.
-
- = Matemática.
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
 
 **Enunciado:**
 
@@ -1080,37 +772,20 @@ Nenhuma.
 
 #### QUESTÃO 25
 
-**Material de apoio:**
-
-15-Em:
-I – “A censura serviu tão-somente para desinformar a
-população”.
-II – “A ditadura militar censura as informações naquele
-período”.
- Verificamos que, nos dois períodos acima, as palavras
-CENSURA são:
-A) sinônimas;
-
-
-B) antônimas;
-C) homônimas;
-
-D) parônimas.
-
- = Matemática.
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
 
 **Enunciado:**
 
 25- As dimensões de um paralelepípedo reto – retângulo, de
-área total 376m 2 , são proporcionais a 3, 4 e 5. O seu volume
+área total 376m², são proporcionais a 3, 4 e 5. O seu volume
 é de:
 
 **Alternativas:**
 
-A) 480 m 3
-B) 1.620 m 3
-C) 960 m 3
-D) 3.340 m 3
+A) 480 m³
+B) 1.620 m³
+C) 960 m³
+D) 3.340 m³
 
 **Referências visuais:**
 
@@ -1120,24 +795,7 @@ Nenhuma.
 
 #### QUESTÃO 26
 
-**Material de apoio:**
-
-15-Em:
-I – “A censura serviu tão-somente para desinformar a
-população”.
-II – “A ditadura militar censura as informações naquele
-período”.
- Verificamos que, nos dois períodos acima, as palavras
-CENSURA são:
-A) sinônimas;
-
-
-B) antônimas;
-C) homônimas;
-
-D) parônimas.
-
- = Matemática.
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
 
 **Enunciado:**
 
@@ -1159,30 +817,13 @@ Nenhuma.
 
 #### QUESTÃO 27
 
-**Material de apoio:**
-
-15-Em:
-I – “A censura serviu tão-somente para desinformar a
-população”.
-II – “A ditadura militar censura as informações naquele
-período”.
- Verificamos que, nos dois períodos acima, as palavras
-CENSURA são:
-A) sinônimas;
-
-
-B) antônimas;
-C) homônimas;
-
-D) parônimas.
-
- = Matemática.
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
 
 **Enunciado:**
 
-27- Num cilindro circular reto, a área lateral é 30π m 2 e a
-área total vale 48π m 2 . Adotando π = 3, o seu volume em
-m 3 é equivalente a:
+27- Num cilindro circular reto, a área lateral é 30π m² e a
+área total vale 48π m² . Adotando π = 3, o seu volume em
+m³ é equivalente a:
 
 **Alternativas:**
 
@@ -1199,31 +840,19 @@ Nenhuma.
 
 #### QUESTÃO 28
 
-**Material de apoio:**
-
-15-Em:
-I – “A censura serviu tão-somente para desinformar a
-população”.
-II – “A ditadura militar censura as informações naquele
-período”.
- Verificamos que, nos dois períodos acima, as palavras
-CENSURA são:
-A) sinônimas;
-
-
-B) antônimas;
-C) homônimas;
-
-D) parônimas.
-
- = Matemática.
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
 
 **Enunciado:**
 
 28- Observe a seqüência:
+
+1
+11
+21
 1211
 111221
-Μ
+*(linha seguinte do original: caractere degradado/ilegível na digitalização do PDF)*
+
 O próximo número da seqüência será:
 
 **Alternativas:**
@@ -1241,38 +870,18 @@ Nenhuma.
 
 #### QUESTÃO 29
 
-**Material de apoio:**
-
-15-Em:
-I – “A censura serviu tão-somente para desinformar a
-população”.
-II – “A ditadura militar censura as informações naquele
-período”.
- Verificamos que, nos dois períodos acima, as palavras
-CENSURA são:
-A) sinônimas;
-
-
-B) antônimas;
-C) homônimas;
-
-D) parônimas.
-
- = Matemática.
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
 
 **Enunciado:**
 
-29- Se
-o valor de aa . b
-− + c é
-igual a:
+29- Se a = 0,666…; b = 1,333…; c = 0,1414…, o valor de a · b⁻¹ + c é igual a:
 
 **Alternativas:**
 
-A) 67 ;
-B) 123 ;
-C) 127 ;
-D) 117 .
+A) 67/99;
+B) 123/199;
+C) 127/198;
+D) 117/198.
 
 **Referências visuais:**
 
@@ -1282,56 +891,18 @@ Nenhuma.
 
 #### QUESTÃO 30
 
-**Material de apoio:**
-
-15-Em:
-I – “A censura serviu tão-somente para desinformar a
-população”.
-II – “A ditadura militar censura as informações naquele
-período”.
- Verificamos que, nos dois períodos acima, as palavras
-CENSURA são:
-A) sinônimas;
-
-
-B) antônimas;
-C) homônimas;
-
-D) parônimas.
-
- = Matemática.
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
 
 **Enunciado:**
 
-30- O conjugado do número complexo z =
-(
-)
-i
-i
-−
-+
-é:
+30- O conjugado do número complexo z = (1 + i)² / (1 − i⁴³) é:
 
 **Alternativas:**
 
-A) i
-−
-B) i
-−
-−1
-C) i
-+
-−1
-D) i
-+
-Questões de 31 a 40 = Conhecimentos Gerais.
-31– De conformidade com os limites do município de
-Florânia, assinale a alternativa correta:
-1.1 - ao Norte com Santana do Matos e Jucurutu;
-1.2 - ao Sul com Cruzeta e São Vicente;
-1.3 - ao Leste com Jucurutu e Caicó;
-1.4 - ao Oeste com Tenente Laurentino Cruz e São
-Vicente.
+A) 1 − i
+B) −1 − i
+C) −1 + i
+D) 1 + i
 
 **Referências visuais:**
 
@@ -1341,7 +912,234 @@ Nenhuma.
 
 ## 3. Questões independentes
 
+#### QUESTÃO 31
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
+**Enunciado:**
+
+31– De conformidade com os limites do município de Flórânia, assinale a alternativa correta:
+
+1.1 - ao Norte com Santana do Matos e Jucurutu;
+1.2 - ao Sul com Cruzeta e São Vicente;
+1.3 - ao Leste com Jucurutu e Caicó;
+1.4 - ao Oeste com Tenente Laurentino Cruz e São Vicente.
+
+**Alternativas:**
+
+A) todas as afirmativas estão corretas;
+B) apenas as afirmativas 1.1 e 1.2 estão corretas;
+C) apenas as afirmativas 1.3 e 1.4 estão corretas;
+D) apenas as afirmativas 1.2 e 1.4 estão corretas.
+
+**Referências visuais:**
+
+Nenhuma.
+
+---
+
+#### QUESTÃO 32
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
+**Enunciado:**
+
+32– Segundo dados do IDEMA a distância da sede do município de Flórânia em relação à Capital do Estado é de ______ Km.
+
+**Alternativas:**
+
+A) 216;
+B) 220;
+C) 225;
+D) 230.
+
+**Referências visuais:**
+
+Nenhuma.
+
+---
+
+#### QUESTÃO 33
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
+**Enunciado:**
+
+33– Antes de ser denominado de Flores de Vossurubu, Flórânia era chamado de:
+
+**Alternativas:**
+
+A) Flores;
+B) Roça do Urubu;
+C) Roça do Vossurubu;
+D) Flores do Urubu.
+
+**Referências visuais:**
+
+Nenhuma.
+
+---
+
+#### QUESTÃO 34
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
+**Enunciado:**
+
+34– A mídia divulgou em peso e o país ficou chocado com o caso de dois homens que queimaram vivos, dentro de um carro, um casal, seu filho de cinco anos e mais uma pessoa, tendo o crime ocorrido no Estado de São Paulo, na Cidade de:
+
+**Alternativas:**
+
+A) Uberaba;
+B) Bragança;
+C) Santo André;
+D) Itu.
+
+**Referências visuais:**
+
+Nenhuma.
+
+---
+
+#### QUESTÃO 35
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
+**Enunciado:**
+
+35– Era território nacional e passou a ser Distrito Estadual de Pernambuco. O Enunciado está se referindo:
+
+**Alternativas:**
+
+A) a Ilha do Mel;
+B) Ilha de Marajó;
+C) Arquipélago de Abrolhos;
+D) Arquipélago de Fernando de Noronha.
+
+**Referências visuais:**
+
+Nenhuma.
+
+---
+
+#### QUESTÃO 36
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
+**Enunciado:**
+
+36– Dos Nomes abaixo, qual NÃO é Ministro de Estado do Governo Lula?
+
+**Alternativas:**
+
+A) Fernando Freire;
+B) Marina Silva;
+C) Gilberto Gil;
+D) Tarso Genro.
+
+**Referências visuais:**
+
+Nenhuma.
+
+---
+
+#### QUESTÃO 37
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
+**Enunciado:**
+
+37– A sua capital é Rio Branco:
+
+**Alternativas:**
+
+A) Rondônia;
+B) Roraima;
+C) Acre;
+D) Tocantins.
+
+**Referências visuais:**
+
+Nenhuma.
+
+---
+
+#### QUESTÃO 38
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
+**Enunciado:**
+
+38– Conforme noticiado pela mídia em geral, a Cúpula do Mercosul se reuniu em janeiro com a presença de diversos chefes de Estado do nosso continente, sendo a reunião realizada na cidade de:
+
+**Alternativas:**
+
+A) Porto Alegre;
+B) Natal;
+C) Rio de Janeiro;
+D) Fortaleza.
+
+**Referências visuais:**
+
+Nenhuma.
+
+---
+
+#### QUESTÃO 39
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
+**Enunciado:**
+
+39– Após o regime militar, foi convocada a Assembléia Nacional Constituinte, que teve como presidente:
+
+**Alternativas:**
+
+A) Ulysses Guimarães;
+B) Tancredo Neves;
+C) José Sarney;
+D) Antônio Carlos Magalhães.
+
+**Referências visuais:**
+
+Nenhuma.
+
+---
+
+#### QUESTÃO 40
+
+⚠️ **Gabarito: oficial não disponível** (sem gabarito do acervo conferível (o PDF 'Gabarito (2)', ID 125, contém a prova sem quadro de respostas))
+
+**Enunciado:**
+
+40– A Constituição de 1988 trouxe algumas conquistas para o trabalhador. Das alternativas abaixo, assinale a que NÃO faz parte de algumas conquistas:
+
+**Alternativas:**
+
+A) Licença paternidade de cinco dias;
+B) Licença Gestante de cento e vinte dias;
+C) Férias remuneradas com um terço (1/3) a mais que o salário normal;
+D) Jornada de Trabalho de quarenta horas semanais.
+
+**Referências visuais:**
+
+Nenhuma.
+
+---
+
 ## 4. Observações e limitações da extração
+
+### Auditoria estrutural — reconstrução conforme PDF original do acervo (ID 125)
+
+- QUESTÕES 31 A 40 (Conhecimentos Gerais) estavam ausentes nesta versão — transcritas integralmente do PDF do acervo (ID 125, páginas 3–4), incluindo o enunciado integral de cada uma.
+- Materiais de apoio religados às questões corretas: a extração automática original desalinhava os blocos e o conteúdo da questão anterior vazava para a questão seguinte.
+- As questões 16 a 30 (Matemática) não possuem texto-base compartilhado no PDF original (o rótulo “Questões de 16 a 30 = Matemática” é apenas divisão de seção da prova); foram movidas para “Questões independentes”.
+- Q18: figura das retas m e n recortada do PDF original (`imagens/imagem_001.png`) e alternativas (A) 20 B) 50 C) 60 D) 70) recompostas — faltavam nesta versão.
+- Q20: matriz 3×3 recomposta (camada de texto ilegível no original). Q22: fração 3/4 recomposta. Q29/Q30: enunciados e alternativas com frações recompostos.
+- Q28: a linha seguinte da sequência aparece degradada/ilegível na digitalização do PDF original — transcritas apenas as linhas legíveis; nada foi inventado.
+- A última linha do texto principal está fisicamente cortada no PDF original (termina em “… o que fazer diante”) — limitação registrada no material.
+- Superscritos (cm², m², m³) normalizados conforme o original impresso.
+
 
 - Extração automática (texto selecionável do PDF via PyMuPDF), sem OCR: PDFs escaneados podem perder texto.
 - Imagens repetidas (logos/marcas d'água) foram descartadas; as imagens de conteúdo foram salvas em `imagens/` com nomenclatura `imagem_00N`.
