@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 242 ID (fila Falta_fazer / remessa_07)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Monte Alegre - 2016 - Agente Administrativo.pdf | Prova - Câmara Municipal de Monte Alegre - 2016 - Agente Administrativo.pdf
+Detalhe: 3p, 148KB, GABARITO; 10p, 267KB, PROVA
+Cidade (provavel): São Paulo
+Ano: 2016
+Fonte da identificacao: pdf-inteiro (1 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

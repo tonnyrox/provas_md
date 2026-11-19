@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 182 ID (fila Falta_fazer / remessa_04)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Guarulhos - SP - 2012 - Agente Legislativo G.pdf | Prova - Câmara Municipal de Guarulhos - SP - 2012 - Agente Legislativo G.pdf
+Detalhe: 3p, 147KB, GABARITO; 7p, 2362KB, PROVA
+Cidade (provavel): Guarulhos
+Ano: 2011
+Fonte da identificacao: pdf-inteiro (5 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 236 ID (fila Falta_fazer / remessa_06)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Mariana - MG - 1997 - Agente Legislativo.pdf | Prova - Câmara Municipal de Mariana - MG - 1997 - Agente Legislativo.pdf
+Detalhe: 15p, 206KB, GABARITO; 16p, 982KB, PROVA
+Cidade (provavel): Mariana
+Ano: 1997
+Fonte da identificacao: pdf-inteiro (2 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

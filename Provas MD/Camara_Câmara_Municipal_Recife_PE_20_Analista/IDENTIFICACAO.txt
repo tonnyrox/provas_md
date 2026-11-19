@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 393 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal do Recife - PE - 2014 - Analista de Sistemas.pdf | Prova - Câmara Municipal do Recife - PE - 2014 - Analista de Sistemas.pdf
+Detalhe: 33p, 398KB, GABARITO; 16p, 795KB, PROVA
+Cidade (provavel): Recife
+Ano: 2014
+Fonte da identificacao: pdf-inteiro (11 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: CONFERIR-DUPLICATA de 392 ID

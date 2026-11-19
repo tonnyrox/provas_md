@@ -1,0 +1,558 @@
+{
+  "inicio": "2026-11-19 15:31:45.157735",
+  "processados": {
+    "135 ID": {
+      "nome": "Camara_Glorinha_2013_Agente_v1",
+      "remessa": "remessa_02",
+      "data": "2026-11-19 15:31:46.105053",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "glorinha",
+        "ano": "2013",
+        "cargo": "agente"
+      }
+    },
+    "136 ID": {
+      "nome": "Camara_Gabarito_2018_Câmara_Municipal_De_Goiânia_-_-_Administrador",
+      "remessa": "remessa_02",
+      "data": "2026-11-19 15:31:48.272040",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Gabarito",
+        "ano": "2018",
+        "cargo": "Câmara_Municipal_de_Goiânia_-_-_Administrador"
+      }
+    },
+    "137 ID": {
+      "nome": "Camara_Gabarito_2018_Câmara_Municipal_De_Goiânia_-_-_Agente_Administrativo",
+      "remessa": "remessa_02",
+      "data": "2026-11-19 15:31:49.486375",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Gabarito",
+        "ano": "2018",
+        "cargo": "Câmara_Municipal_de_Goiânia_-_-_Agente_Administrativo"
+      }
+    },
+    "138 ID": {
+      "nome": "Camara_Gabarito_2018_Câmara_Municipal_De_Goiânia_-_-_Analista_De_Sistemas",
+      "remessa": "remessa_02",
+      "data": "2026-11-19 15:31:50.849957",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Gabarito",
+        "ano": "2018",
+        "cargo": "Câmara_Municipal_de_Goiânia_-_-_Analista_de_Sistemas"
+      }
+    },
+    "139 ID": {
+      "nome": "Camara_Gabarito_2018_Câmara_Municipal_De_Goiânia_-_-_Cerimonialista",
+      "remessa": "remessa_02",
+      "data": "2026-11-19 15:31:52.309214",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Gabarito",
+        "ano": "2018",
+        "cargo": "Câmara_Municipal_de_Goiânia_-_-_Cerimonialista"
+      }
+    },
+    "140 ID": {
+      "nome": "Camara_Goiânia_2026_Administrador",
+      "remessa": "remessa_02",
+      "data": "2026-11-19 15:31:53.400745",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "administrador"
+      }
+    },
+    "142 ID": {
+      "nome": "Camara_Goiânia_2026_Agente",
+      "remessa": "remessa_02",
+      "data": "2026-11-19 15:31:54.268683",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "agente"
+      }
+    },
+    "144 ID": {
+      "nome": "Camara_Goiânia_2026_Agente_De",
+      "remessa": "remessa_02",
+      "data": "2026-11-19 15:31:55.277479",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "agente_de"
+      }
+    },
+    "146 ID": {
+      "nome": "Camara_Goiânia_2026_Agente_Para",
+      "remessa": "remessa_02",
+      "data": "2026-11-19 15:31:56.113232",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "agente_para"
+      }
+    },
+    "148 ID": {
+      "nome": "Camara_Goiânia_2026_Analista_De",
+      "remessa": "remessa_02",
+      "data": "2026-11-19 15:31:57.363547",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "analista_de"
+      }
+    },
+    "150 ID": {
+      "nome": "Camara_Goiânia_2026_Arquivista",
+      "remessa": "remessa_02",
+      "data": "2026-11-19 15:31:58.410056",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "arquivista"
+      }
+    },
+    "151 ID": {
+      "nome": "Camara_Goiânia_2026_Cerimonial",
+      "remessa": "remessa_02",
+      "data": "2026-11-19 15:31:59.219920",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "cerimonial"
+      }
+    },
+    "153 ID": {
+      "nome": "Camara_Goiânia_2026_Cinegrafista",
+      "remessa": "remessa_02",
+      "data": "2026-11-19 15:32:00.078798",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "cinegrafista"
+      }
+    },
+    "154 ID": {
+      "nome": "Camara_Goiânia_2026_Contador",
+      "remessa": "remessa_03",
+      "data": "2026-11-19 15:32:01.215459",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "contador"
+      }
+    },
+    "155 ID": {
+      "nome": "Camara_Goiânia_2026_Economista",
+      "remessa": "remessa_03",
+      "data": "2026-11-19 15:32:02.329835",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "economista"
+      }
+    },
+    "156 ID": {
+      "nome": "Camara_Goiânia_2026_Fiscal_De_Sala",
+      "remessa": "remessa_03",
+      "data": "2026-11-19 15:32:03.176964",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "fiscal_de_sala"
+      }
+    },
+    "168 ID": {
+      "nome": "Camara_Goiânia_2026_Fotógrafo",
+      "remessa": "remessa_03",
+      "data": "2026-11-19 15:32:04.107395",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "fotógrafo"
+      }
+    },
+    "169 ID": {
+      "nome": "Camara_Goiânia_2026_Legislativo",
+      "remessa": "remessa_03",
+      "data": "2026-11-19 15:32:05.144066",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "legislativo"
+      }
+    },
+    "171 ID": {
+      "nome": "Camara_Goiânia_2026_Motorista",
+      "remessa": "remessa_03",
+      "data": "2026-11-19 15:32:06.013673",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "motorista"
+      }
+    },
+    "172 ID": {
+      "nome": "Camara_Goiânia_2026_Operador_De",
+      "remessa": "remessa_03",
+      "data": "2026-11-19 15:32:06.878890",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "operador_de"
+      }
+    },
+    "174 ID": {
+      "nome": "Camara_Goiânia_2026_Psicólogo",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:08.787459",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "psicólogo"
+      }
+    },
+    "175 ID": {
+      "nome": "Camara_Goiânia_2026_Tradutor_E",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:10.288409",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "tradutor_e"
+      }
+    },
+    "176 ID": {
+      "nome": "Camara_Goiânia_2026_Técnico",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:11.210591",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "técnico"
+      }
+    },
+    "177 ID": {
+      "nome": "Camara_Goiânia_2026_Técnico_De",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:12.113407",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "técnico_de"
+      }
+    },
+    "178 ID": {
+      "nome": "Camara_Goiânia_2026_Técnico_Em",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:13.020769",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "goiânia",
+        "ano": "2026",
+        "cargo": "técnico_em"
+      }
+    },
+    "179 ID": {
+      "nome": "Camara_Gabarito_2011_Câmara_Municipal_De_Governador_Nunes_Freire_-_-_Agente_Administrativo",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:13.798050",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Gabarito",
+        "ano": "2011",
+        "cargo": "Câmara_Municipal_de_Governador_Nunes_Freire_-_-_Agente_Administrativo"
+      }
+    },
+    "181 ID": {
+      "nome": "Camara_Guarujá_2018_Agente_Legislativo",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:15.062290",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "guarujá",
+        "ano": "2018",
+        "cargo": "agente_legislativo"
+      }
+    },
+    "182 ID": {
+      "nome": "Camara_Guarulhos_2012_Agente_Legislativo_G",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:15.477422",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "guarulhos",
+        "ano": "2012",
+        "cargo": "agente_legislativo_g"
+      }
+    },
+    "185 ID": {
+      "nome": "Camara_Ibiraçu_2013_Agente_Legislativo",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:16.356947",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "ibiraçu",
+        "ano": "2013",
+        "cargo": "agente_legislativo"
+      }
+    },
+    "186 ID": {
+      "nome": "Camara_Gabarito_2009_Câmara_Municipal_De_Ibirité_-_-_Agente_Administrativo_Iv",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:16.365689",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Gabarito",
+        "ano": "2009",
+        "cargo": "Câmara_Municipal_de_Ibirité_-_-_Agente_Administrativo_IV"
+      }
+    },
+    "187 ID": {
+      "nome": "Camara_Gabarito_2009_Câmara_Municipal_De_Ibirité_-_-_Agente_Administrativo_V",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:16.378884",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Gabarito",
+        "ano": "2009",
+        "cargo": "Câmara_Municipal_de_Ibirité_-_-_Agente_Administrativo_V"
+      }
+    },
+    "188 ID": {
+      "nome": "Camara_Gabarito_2009_Câmara_Municipal_De_Ibirité_-_-_Agente_Legislativo_Iv",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:16.396228",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Gabarito",
+        "ano": "2009",
+        "cargo": "Câmara_Municipal_de_Ibirité_-_-_Agente_Legislativo_IV"
+      }
+    },
+    "189 ID": {
+      "nome": "Camara_Gabarito_2009_Câmara_Municipal_De_Ibirité_-_-_Agente_Legislativo_V",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:16.412852",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Gabarito",
+        "ano": "2009",
+        "cargo": "Câmara_Municipal_de_Ibirité_-_-_Agente_Legislativo_V"
+      }
+    },
+    "190 ID": {
+      "nome": "Camara_Gabarito_2022_Câmara_Municipal_De_Ibirité_-_-_Agente_De_Serviços_V_2",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:16.421006",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Gabarito",
+        "ano": "2022",
+        "cargo": "Câmara_Municipal_de_Ibirité_-_-_Agente_de_Serviços_V_2"
+      }
+    },
+    "191 ID": {
+      "nome": "Camara_Gabarito_2022_Câmara_Municipal_De_Ibirité_-_-_Agente_De_Serviços_V_2_v1",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:16.431833",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Gabarito",
+        "ano": "2022",
+        "cargo": "Câmara_Municipal_de_Ibirité_-_-_Agente_de_Serviços_V_2"
+      }
+    },
+    "192 ID": {
+      "nome": "Camara_Gabarito_2022_Câmara_Municipal_De_Ibirité_-_-_Agente_De_Serviços_V_2_v2",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:16.444302",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Gabarito",
+        "ano": "2022",
+        "cargo": "Câmara_Municipal_de_Ibirité_-_-_Agente_de_Serviços_V_2"
+      }
+    },
+    "193 ID": {
+      "nome": "Camara_Gabarito_2022_Câmara_Municipal_De_Ibirité_-_-_Agente_Legislativo_Ii",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:17.246565",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Gabarito",
+        "ano": "2022",
+        "cargo": "Câmara_Municipal_de_Ibirité_-_-_Agente_Legislativo_II"
+      }
+    },
+    "194 ID": {
+      "nome": "Camara_Ibiá_2010_Agente_Legislativo_v1",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:17.254562",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "ibiá",
+        "ano": "2010",
+        "cargo": "agente_legislativo"
+      }
+    },
+    "195 ID": {
+      "nome": "Camara_Icapuí_-_-_Agente_Administrativo_21_10_2012_2012_Agente_Administrativo",
+      "remessa": "remessa_04",
+      "data": "2026-11-19 15:32:17.262642",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "icapuí_-_-_agente_administrativo_21_10_2012",
+        "ano": "2012",
+        "cargo": "agente_administrativo"
+      }
+    },
+    "198 ID": {
+      "nome": "Camara_Ipameri_2026_Fiscal_De_Sala",
+      "remessa": "remessa_05",
+      "data": "2026-11-19 15:32:18.514339",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "ipameri",
+        "ano": "2026",
+        "cargo": "fiscal_de_sala"
+      }
+    },
+    "202 ID": {
+      "nome": "Camara_Ipu__2023_Agente_Administrativo",
+      "remessa": "remessa_05",
+      "data": "2026-11-19 15:32:20.135649",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "ipu_",
+        "ano": "2023",
+        "cargo": "agente_administrativo"
+      }
+    },
+    "203 ID": {
+      "nome": "Camara_Gabarito_2011_Câmara_Municipal_De_Itapororoca_-_-_Sintática_É",
+      "remessa": "remessa_05",
+      "data": "2026-11-19 15:32:21.276395",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Gabarito",
+        "ano": "2011",
+        "cargo": "Câmara_Municipal_de_Itapororoca_-_-_Sintática_É"
+      }
+    },
+    "208 ID": {
+      "nome": "Camara_Itupeva_2024_Agente_Legislativo_-_Recepção",
+      "remessa": "remessa_05",
+      "data": "2026-11-19 15:32:22.269426",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "itupeva",
+        "ano": "2024",
+        "cargo": "agente_legislativo_-_recepção"
+      }
+    },
+    "209 ID": {
+      "nome": "Camara_Itupeva_2024_Agente_Legislativo_-_Servios",
+      "remessa": "remessa_05",
+      "data": "2026-11-19 15:32:22.771142",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "itupeva",
+        "ano": "2024",
+        "cargo": "agente_legislativo_-_servios"
+      }
+    },
+    "210 ID": {
+      "nome": "Camara_Jambeiro_01_2014_2014_Agente_Administrativo",
+      "remessa": "remessa_05",
+      "data": "2026-11-19 15:32:23.466975",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "jambeiro_01_2014",
+        "ano": "2014",
+        "cargo": "agente_administrativo"
+      }
+    },
+    "211 ID": {
+      "nome": "Camara_Jaru_2014_Agente_Administrativo",
+      "remessa": "remessa_05",
+      "data": "2026-11-19 15:32:24.146736",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "jaru",
+        "ano": "2014",
+        "cargo": "agente_administrativo"
+      }
+    },
+    "212 ID": {
+      "nome": "Camara_Jataizinho_2013_Agente_Legislativo",
+      "remessa": "remessa_05",
+      "data": "2026-11-19 15:32:24.814122",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "jataizinho",
+        "ano": "2013",
+        "cargo": "agente_legislativo"
+      }
+    },
+    "213 ID": {
+      "nome": "Camara_Gabarito_2014_Câmara_Municipal_De_Juiz_De_Fora_-_-_Analista_De_Sistemas",
+      "remessa": "remessa_05",
+      "data": "2026-11-19 15:32:25.750629",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Gabarito",
+        "ano": "2014",
+        "cargo": "Câmara_Municipal_de_Juiz_de_Fora_-_-_Analista_de_Sistemas"
+      }
+    },
+    "215 ID": {
+      "nome": "Camara_Gabarito_2023_Câmara_Municipal_De_Lagoa_Da_Prata_-_-_Agente_Administrativo",
+      "remessa": "remessa_05",
+      "data": "2026-11-19 15:32:26.830571",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "Gabarito",
+        "ano": "2023",
+        "cargo": "Câmara_Municipal_de_Lagoa_da_Prata_-_-_Agente_Administrativo"
+      }
+    },
+    "216 ID": {
+      "nome": "Camara_Lagoa_De_Itaenga_2022_Agente_Legislativo",
+      "remessa": "remessa_05",
+      "data": "2026-11-19 15:32:28.081926",
+      "metadados": {
+        "orgao": "Camara",
+        "cidade": "lagoa_de_itaenga",
+        "ano": "2022",
+        "cargo": "agente_legislativo"
+      }
+    }
+  },
+  "erros": [],
+  "contador": 80,
+  "ultima_atualizacao": "2026-11-19 15:32:28.081938"
+}

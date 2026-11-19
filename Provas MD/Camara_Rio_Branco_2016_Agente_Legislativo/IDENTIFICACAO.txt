@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 298 ID (fila Falta_fazer / remessa_10)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Rio Branco - AC - 2016 - Agente Legislativo.pdf | Prova - Câmara Municipal de Rio Branco - AC - 2016 - Agente Legislativo.pdf
+Detalhe: 9p, 281KB, GABARITO; 44p, 1843KB, GABARITO
+Cidade (provavel): Rio Branco
+Ano: 2016
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 285 ID (fila Falta_fazer / remessa_09)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Pombal - PB - 2024 - Agente Administrativo.pdf | Prova - Câmara Municipal de Pombal - RS - 2024 - Agente Administrativo.pdf
+Detalhe: 5p, 272KB, GABARITO; 12p, 398KB, PROVA
+Cidade (provavel): Pombal
+Ano: 2024
+Fonte da identificacao: pdf-inteiro (3 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

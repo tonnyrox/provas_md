@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 345 ID (fila Falta_fazer / remessa_12)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de São José dos Campos - 2009 - Analista de Sistemas.pdf | Prova - Câmara Municipal de São José dos Campos - 2009 - Analista de Sistemas.pdf
+Detalhe: 1p, 37KB, GABARITO; 15p, 143KB, PROVA
+Cidade (provavel): São José Dos Campos
+Ano: 2009
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

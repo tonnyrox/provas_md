@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 247 ID (fila Falta_fazer / remessa_07)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Natal - RN - 2023 - Ccmn 06 – NS Assistente Legislativo (alns) – Administração.pdf | Prova - Câmara Municipal de Natal - RN - 2023 - Ccmn 06 – NS Assistente Legislativo (alns) – Administração.pdf
+Detalhe: 10p, 243KB, GABARITO; 14p, 468KB, PROVA
+Cidade (provavel): Natal
+Ano: 2023
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

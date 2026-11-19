@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 190 ID (fila Falta_fazer / remessa_04)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Ibirité - 2022 - Agente de Serviços V) (2).pdf
+Detalhe: 10p, 318KB, PROVA
+Cidade (provavel): Ibirité
+Ano: 2022
+Fonte da identificacao: pdf-inteiro (6 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

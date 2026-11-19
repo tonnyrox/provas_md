@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 273 ID (fila Falta_fazer / remessa_08)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Pará de Minas - MG - 2023 - Da Crase nos Trechos.pdf | Prova - Câmara Municipal de Pará de Minas - MG - 2023 - Da Crase nos Trechos.pdf
+Detalhe: 2p, 280KB, GABARITO; 14p, 814KB, PROVA
+Cidade (provavel): Pará de Minas (MG)
+Ano: 2023
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

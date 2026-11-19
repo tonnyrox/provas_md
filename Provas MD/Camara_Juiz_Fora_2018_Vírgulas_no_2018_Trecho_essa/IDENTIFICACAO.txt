@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 214 ID (fila Falta_fazer / remessa_05)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Juiz de Fora - MG - 2018 - Das Vírgulas no Trecho “essa.pdf | Prova - Câmara Municipal de Juiz de Fora – Minas Gerais - CE - 2006 - Das Vírgulas no Trecho “essa.pdf
+Detalhe: 13p, 463KB, GABARITO; 12p, 359KB, INDEFINIDO
+Cidade (provavel): Juiz de Fora
+Ano: 2006
+Fonte da identificacao: pdf-inteiro (4 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

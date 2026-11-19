@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 211 ID (fila Falta_fazer / remessa_05)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Jaru - RO - 2014 - Agente Administrativo.pdf | Prova - Câmara Municipal de Jaru – - RO - 2007 - Agente Administrativo.pdf
+Detalhe: 9p, 146KB, PROVA; 7p, 169KB, PROVA
+Cidade (provavel): Jaru
+Ano: 2014
+Fonte da identificacao: pdf-inteiro (4 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

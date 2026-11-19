@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 263 ID (fila Falta_fazer / remessa_08)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Ouro Preto D’oeste - RO - 2014 - Agente Administrativo e Taquigrafo.pdf | Prova - Câmara Municipal de Ouro Preto D’oeste – . - RO - 2014 - Agente Administrativo e Taquigrafo.pdf
+Detalhe: 7p, 562KB, GABARITO; 7p, 430KB, PROVA
+Cidade (provavel): Ouro Preto do Oeste
+Ano: 2014
+Fonte da identificacao: pdf-inteiro (4 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

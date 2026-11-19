@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 137 ID (fila Falta_fazer / remessa_02)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Goiânia - 2018 - Agente Administrativo.pdf | Prova - Câmara Municipal de Goiânia - 2018 - Agente Administrativo.pdf
+Detalhe: 40p, 1432KB, GABARITO; 12p, 1222KB, PROVA
+Cidade (provavel): Goiânia define
+Ano: 2018
+Fonte da identificacao: pdf-inteiro (1 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

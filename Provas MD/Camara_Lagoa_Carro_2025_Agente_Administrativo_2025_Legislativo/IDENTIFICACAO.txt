@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 217 ID (fila Falta_fazer / remessa_06)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Camara de Lagoa do Carro PE 2025 - Agente Administrativo do Legislativo (Darwin-qconcursos).pdf | Prova - Câmara Municipal de Lagoa do Carro – - PE - 2025 - Agente Administrativo do Legislativo.pdf
+Detalhe: 2p, 521KB, PROVA; 8p, 738KB, PROVA
+Cidade (provavel): Lagoa Do Carro
+Ano: 2025
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

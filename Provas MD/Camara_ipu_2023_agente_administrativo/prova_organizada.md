@@ -1,52 +1,28 @@
-# PROVA — Camara Nao_Identificado — AGENTE (2023)
+# Camara_IPU_2023_2023_Agente_Administrativo
 
-## 1. Análise geral da prova
+## Identificação
 
-- **Identificação:** Concurso Público da Camara de Nao_Identificado, 2023. Cargo: AGENTE.
-- **Quantidade total de questões:** 192
-- **Quantidade de textos de apoio:** 1
-- **Quantidade de imagens:** Sim
-- **Quantidade de grupos identificados:** 1
-- **Quantidade de questões independentes:** 0
+- **Instituição**: Camara
+- **Cidade**: IPU_–
+- **Ano**: 2023
+- **Cargo**: Agente_Administrativo
+- **Banca**: N/I
+- **Data**: N/I
+- **Número de Questões**: 0 (a ser preenchido)
 
-### Transcrição integral da capa/instruções
+## Observações
 
-> pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YjFjYTo5YjRh:U2F0LCAwNyBOb3YgMjAyNiAxMjowMzo0NiAtMDMwMA==
-CÂMARA  MUNICIPAL  DE  IPU  –  CE  –  AGENTE  ADMINISTRATIVO  –  07/05/2023 
-CÂMARA  MUNICIPAL  DE  IPU  –  CE 
-C O N C U R S O      P Ú B L I C O 
-EDITAL  Nº  001/2023  DE  03  DE  MARÇO  2023 
-AGENTE  ADMINISTRATIVO 
-NOME DO CANDIDATO: ____________________________________________________________________________________ 
- 
-RG: ______________________________                       ÓRGÃO EX...
+- Prova em processamento
+- Arquivos originais copiados
+- Aguardando extração de conteúdo
+
+## Arquivos
 
 
-## 2. Questões agrupadas
+- [Gabarito - Câmara Municipal de IPU – - CE - 2023 - Agente Administrativo.pdf](Gabarito - Câmara Municipal de IPU – - CE - 2023 - Agente Administrativo.pdf)
 
-### GRUPO 01 — Material compartilhado
-
-**Questões relacionadas:** 1 a {metadados.get('quantidade_questoes', 0)}
-
-#### QUESTÃO 1
-
-**Material de apoio:**
-(texto base do PDF)
-
-**Enunciado:**
-(enunciado da questão)
-
-**Alternativas:**
-A) ...
-B) ...
-C) ...
-D) ...
-E) ...
-
-✅ **Gabarito: [preencher]**
-
-**Referências visuais:**
-Nenhuma.
+- [Prova - Câmara Municipal de IPU – – Agente Administrativo – 07 05 2023 - CE - 2023 - Agente Administrativo.pdf](Prova - Câmara Municipal de IPU – – Agente Administrativo – 07 05 2023 - CE - 2023 - Agente Administrativo.pdf)
 
 ---
 
+*Processado em: 2026-11-19 15:34:36*

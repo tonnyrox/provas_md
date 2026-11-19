@@ -1,19 +1,25 @@
-# Relatório de análise — Camara_ipu_2023_agente_administrativo
+# Relatório de Análise - Camara_IPU_2023_2023_Agente_Administrativo
 
-## Resumo
-- **Data de processamento:** 2026-11-19 15:21:18
-- **PDF de origem:** Prova - Câmara Municipal de IPU – – Agente Administrativo – 07 05 2023 - CE - 2023 - Agente Administrativo.pdf
-- **Metadados:** {
-  "orgao": "Camara",
-  "cidade": "Nao_Identificado",
-  "ano": "2023",
-  "cargo": "AGENTE",
-  "quantidade_questoes": 192,
-  "tem_imagens": true,
-  "questoes_agrupadas": true
-}
+## Informações Básicas
 
-## Análise
-- **Quantidade de questões:** 192
-- **Questões agrupadas:** Sim
-- **Tem imagens:** Sim
+- **ID Original**: 202 ID
+- **Arquivos Encontrados**: 2 PDF(s)
+- **Pasta Local**: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\Falta_fazer\remessa_05\202 ID
+
+## Verificação de Duplicidade
+
+- [ ] Prova já cadastrada no GitHub
+- [ ] Duplicidade confirmada
+- [x] Nova prova a ser processada
+
+## Próximos Passos
+
+1. [ ] Extrair texto completo dos PDFs
+2. [ ] Identificar e classificar todas as questões
+3. [ ] Verificar duplicidade de conteúdo
+4. [ ] Organizar imagens e materiais de apoio
+5. [ ] Gerar arquivos finais padronizados
+
+---
+
+*Gerado em: 2026-11-19 15:34:36*

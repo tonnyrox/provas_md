@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 197 ID (fila Falta_fazer / remessa_05)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Vereadores de Iguaracy - PE - 2022 - Agente Administrativo.pdf | Prova - Câmara Municipal de Iguaracy - PE - 2014 - Agente Administrativo.pdf
+Detalhe: 3p, 506KB, GABARITO; 9p, 809KB, PROVA
+Cidade (provavel): Iguaracy
+Ano: 2014
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

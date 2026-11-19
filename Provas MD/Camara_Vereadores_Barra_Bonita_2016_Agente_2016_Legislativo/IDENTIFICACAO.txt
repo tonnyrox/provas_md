@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 371 ID (fila Falta_fazer / remessa_13)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Vereadores de Barra Bonita - SC - 2016 - Agente Legislativo (2).pdf
+Detalhe: 8p, 272KB, GABARITO
+Cidade (provavel): Barra Bonita
+Ano: 2016
+Fonte da identificacao: pdf-inteiro (15 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

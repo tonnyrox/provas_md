@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 293 ID (fila Falta_fazer / remessa_09)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Quirinópolis - MA - 2012 - , Além.pdf | Prova - Câmara Municipal de Quirinópolis - MA - 2005 - , Além.pdf
+Detalhe: 6p, 413KB, GABARITO; 9p, 567KB, PROVA
+Cidade (provavel): Quirinópolis
+Ano: 2005
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

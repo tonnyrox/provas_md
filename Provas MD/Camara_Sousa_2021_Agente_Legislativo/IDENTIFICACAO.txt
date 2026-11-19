@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 329 ID (fila Falta_fazer / remessa_11)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Sousa - PB - 2021 - Agente Legislativo.pdf
+Detalhe: 17p, 499KB, PROVA
+Cidade (provavel): Sousa
+Ano: 2021
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

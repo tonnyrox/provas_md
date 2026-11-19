@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 254 ID (fila Falta_fazer / remessa_07)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Nova Iguaçu - RJ - 1992 - Analista de Sistemas.pdf | Prova - Câmara Municipal de Nova Iguaçu - RJ - 1992 - Analista de Sistemas.pdf
+Detalhe: 19p, 2894KB, GABARITO; 16p, 1165KB, INDEFINIDO
+Cidade (provavel): Nova Iguaçu
+Ano: 1992
+Fonte da identificacao: pdf-inteiro (9 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

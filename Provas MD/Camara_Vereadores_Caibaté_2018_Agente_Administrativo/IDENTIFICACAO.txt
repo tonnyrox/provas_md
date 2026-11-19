@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 383 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Vereadores de Caibaté - RS - 2018 - Agente Administrativo.pdf | Prova - Câmara Municipal de Vereradores de - RS - 2018 - Agente Administrativo.pdf
+Detalhe: 4p, 307KB, GABARITO; 6p, 290KB, PROVA
+Cidade (provavel): Caibaté- RS Art
+Ano: 2018
+Fonte da identificacao: pdf-inteiro (6 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

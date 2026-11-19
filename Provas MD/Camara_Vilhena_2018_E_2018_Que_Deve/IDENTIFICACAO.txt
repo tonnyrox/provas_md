@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 384 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara de Vilhena - RO - 2018 - E Que Deve.pdf | Prova - Câmara Municipal de Vilhena - RO - 2018 - E Que Deve.pdf
+Detalhe: 12p, 140KB, PROVA; 12p, 168KB, PROVA
+Cidade (provavel): Vilhena
+Ano: 2018
+Fonte da identificacao: pdf-inteiro (3 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

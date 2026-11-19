@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 336 ID (fila Falta_fazer / remessa_11)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de São Carlos - 2013 - Analista de Sistemas.pdf | Prova - Câmara Municipal de São Carlos - 2013 - Analista de Sistemas.pdf
+Detalhe: 3p, 131KB, GABARITO; 16p, 445KB, PROVA
+Cidade (provavel): São Carlos
+Ano: 2013
+Fonte da identificacao: nome
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

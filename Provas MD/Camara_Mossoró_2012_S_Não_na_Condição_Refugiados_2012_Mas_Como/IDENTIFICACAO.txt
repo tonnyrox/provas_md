@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 246 ID (fila Falta_fazer / remessa_07)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Mossoró - RN - 2012 - S, Não na Condição de Refugiados, Mas Como.pdf | Prova - Câmara Municipal de Mossoró - RN - 2012 - S, Não na Condição de Refugiados, Mas Como.pdf
+Detalhe: 13p, 148KB, GABARITO; 13p, 416KB, PROVA
+Cidade (provavel): Mossoró
+Ano: 2012
+Fonte da identificacao: nome
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

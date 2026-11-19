@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 278 ID (fila Falta_fazer / remessa_09)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Paço do Lumiar - MA - 2012 - Agente Administrativo I.pdf | Prova - Câmara Municipal de Paço do Lumiar - MA - 2026 - Agente Administrativo I.pdf
+Detalhe: 4p, 193KB, GABARITO; 8p, 178KB, PROVA
+Cidade (provavel): Paço do Lumiar (MA)
+Ano: 2026
+Fonte da identificacao: pdf-inteiro (3 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

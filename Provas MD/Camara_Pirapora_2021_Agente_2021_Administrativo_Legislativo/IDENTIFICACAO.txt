@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 283 ID (fila Falta_fazer / remessa_09)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Pirapora - 2021 - Agente Administrativo Legislativo.pdf | Prova - Câmara Municipal de Pirapora - 2021 - Agente Administrativo Legislativo (2).pdf
+Detalhe: 6p, 431KB, GABARITO; 18p, 923KB, PROVA
+Cidade (provavel): Pirapora
+Ano: 2021
+Fonte da identificacao: pdf-inteiro (4 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

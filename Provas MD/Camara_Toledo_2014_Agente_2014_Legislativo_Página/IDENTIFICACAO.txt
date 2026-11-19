@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 357 ID (fila Falta_fazer / remessa_12)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Toledo - PR - 2014 - Agente Legislativo Página.pdf | Prova - Câmara Municipal de Toledo - PR - 2007 - Agente Legislativo Página.pdf
+Detalhe: 2p, 199KB, GABARITO; 11p, 937KB, INDEFINIDO
+Cidade (provavel): Toledo
+Ano: 2007
+Fonte da identificacao: pdf-inteiro (3 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

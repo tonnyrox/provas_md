@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 390 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Volta Redonda - RJ - 2025 - Agente Legislativo I.pdf | Prova - Câmara Municipal de Volta Redonda - RJ - 2025 - Agente Legislativo I.pdf
+Detalhe: 1p, 156KB, GABARITO; 11p, 358KB, PROVA
+Cidade (provavel): Volta Redonda
+Ano: 2025
+Fonte da identificacao: pdf-inteiro (3 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

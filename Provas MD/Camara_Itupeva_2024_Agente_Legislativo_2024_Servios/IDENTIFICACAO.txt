@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 209 ID (fila Falta_fazer / remessa_05)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Itupeva - SP - 2024 - Agente Legislativo - Servi˙os.pdf | Prova - Câmara Municipal de Itupeva – - SP - 2024 - Agente Legislativo - Servi˙os.pdf
+Detalhe: 2p, 506KB, GABARITO; 9p, 795KB, PROVA
+Cidade (provavel): Itupeva
+Ano: 2024
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

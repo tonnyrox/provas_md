@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 268 ID (fila Falta_fazer / remessa_08)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Paraty - SP - 2024 - Agente Administrativo.pdf | Prova - Câmara Municipal de Paraty - RJ - 2024 - Agente Administrativo.pdf
+Detalhe: 1p, 111KB, GABARITO; 11p, 710KB, PROVA
+Cidade (provavel): Paraty
+Ano: 2024
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

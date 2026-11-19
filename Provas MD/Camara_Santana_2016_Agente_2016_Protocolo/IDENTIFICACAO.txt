@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 320 ID (fila Falta_fazer / remessa_11)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Santana-. - AP - 2016 - Agente de Protocolo.pdf | Prova - Câmara Municipal de Santana-. - AP - 2015 - Agente de Protocolo.pdf
+Detalhe: 2p, 147KB, GABARITO; 13p, 713KB, PROVA
+Cidade (provavel): Santana
+Ano: 2015
+Fonte da identificacao: pdf-inteiro (4 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

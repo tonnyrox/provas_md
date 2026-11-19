@@ -1,0 +1,28 @@
+# Camara_Goiânia_2026_2026_Tradutor_e
+
+## Identificação
+
+- **Instituição**: Camara
+- **Cidade**: Goiânia
+- **Ano**: 2026
+- **Cargo**: Tradutor_e
+- **Banca**: N/I
+- **Data**: N/I
+- **Número de Questões**: 0 (a ser preenchido)
+
+## Observações
+
+- Prova em processamento
+- Arquivos originais copiados
+- Aguardando extração de conteúdo
+
+## Arquivos
+
+
+- [Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Tradutor e.pdf](Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Tradutor e.pdf)
+
+- [Prova - Câmara Municipal de Goiânia - GO - 2026 - Tradutor e.pdf](Prova - Câmara Municipal de Goiânia - GO - 2026 - Tradutor e.pdf)
+
+---
+
+*Processado em: 2026-11-19 15:34:33*

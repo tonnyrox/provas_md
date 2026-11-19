@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 341 ID (fila Falta_fazer / remessa_12)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de São José do RIO Preto - SP - 2012 - Agente Legislativo (diretoria de Finanças).pdf | Prova - Câmara Municipal de São José do RIO Preto - SP - 2000 - Agente Legislativo (diretoria de Finanças).pdf
+Detalhe: 7p, 294KB, GABARITO; 7p, 287KB, PROVA
+Cidade (provavel): município de Esperança realizará
+Ano: 2000
+Fonte da identificacao: pdf-inteiro (1 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

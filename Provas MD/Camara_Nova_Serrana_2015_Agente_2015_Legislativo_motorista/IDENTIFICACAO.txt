@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 259 ID (fila Falta_fazer / remessa_08)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Nova Serrana - MG - 2015 - Agente Legislativo (motorista).pdf | Prova - Câmara Municipal de Nova Serrana - MG - 2015 - Agente Legislativo (motorista) (2).pdf
+Detalhe: 8p, 162KB, GABARITO; 8p, 503KB, PROVA
+Cidade (provavel): Nova Serrana
+Ano: 2015
+Fonte da identificacao: pdf-inteiro (2 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

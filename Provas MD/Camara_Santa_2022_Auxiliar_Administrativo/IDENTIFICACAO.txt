@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 317 ID (fila Falta_fazer / remessa_10)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Santa - PE - 2022 - Auxiliar Administrativo.pdf | Prova - Câmara Municipal de Santa Terezinha - PE - 2022 - Auxiliar Administrativo.pdf
+Detalhe: 3p, 491KB, GABARITO; 13p, 544KB, INDEFINIDO
+Cidade (provavel): Santa Terezinha
+Ano: 2022
+Fonte da identificacao: nome
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 401 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Prefeitura Municipal de Água BOA - MT - 2024 - Agente Administrativo 40h.pdf | Prova - Prefeitura Municipal de Água BOA - MT - 2024 - Agente Administrativo 40h.pdf
+Detalhe: 9p, 103KB, GABARITO; 9p, 414KB, PROVA
+Cidade (provavel): Água Boa
+Ano: 2024
+Fonte da identificacao: pdf-inteiro (15 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+Observacoes: Conferido abrindo o PDF: Prefeitura de Agua Boa/MT, Edital 001/PMAB/2024
+Status de trabalho: CONFERIDO-ABRINDO-O-PDF; INEDITA-PRONTA-PARA-PROCESSAR

@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 231 ID (fila Falta_fazer / remessa_06)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Mara Rosa - GO - 2026 - Cerimonial.pdf | Prova - Câmara Municipal de Mara Rosa - GO - 2026 - Cerimonial.pdf
+Detalhe: 2p, 70KB, GABARITO; 12p, 1009KB, PROVA
+Cidade (provavel): Mara Rosa
+Ano: 2026
+Fonte da identificacao: pdf-inteiro (2 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

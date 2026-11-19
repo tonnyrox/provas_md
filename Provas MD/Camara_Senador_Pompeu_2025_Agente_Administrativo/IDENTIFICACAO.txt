@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 324 ID (fila Falta_fazer / remessa_11)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Senador Pompeu - CE - 2025 - Agente Administrativo.pdf | Prova - Câmara Municipal de Senador Pompeu - CE - 2025 - Agente Administrativo.pdf
+Detalhe: 2p, 128KB, GABARITO; 6p, 516KB, GABARITO
+Cidade (provavel): Senador Pompeu
+Ano: 2025
+Fonte da identificacao: pdf-inteiro (20 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

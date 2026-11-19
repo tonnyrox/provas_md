@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 322 ID (fila Falta_fazer / remessa_11)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Sapucaia do Sul - RS - 2023 - Agente Administrativo, Agente de Segurança.pdf | Prova - Câmara Municipal de Sapucaia do SUL - CE - 2020 - Agente Administrativo, Agente de Segurança.pdf
+Detalhe: 8p, 372KB, GABARITO; 12p, 1310KB, PROVA
+Cidade (provavel): Sapucaia do Sul
+Ano: 2023
+Fonte da identificacao: pdf-inteiro (4 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

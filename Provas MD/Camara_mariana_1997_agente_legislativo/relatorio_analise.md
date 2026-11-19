@@ -1,19 +1,25 @@
-# Relatório de análise — Camara_mariana_1997_agente_legislativo
+# Relatório de Análise - Camara_Mariana_1997_1997_Agente_Legislativo
 
-## Resumo
-- **Data de processamento:** 2026-11-19 15:21:24
-- **PDF de origem:** Prova - Câmara Municipal de Mariana - MG - 1997 - Agente Legislativo.pdf
-- **Metadados:** {
-  "orgao": "Camara",
-  "cidade": "Nao_Identificado",
-  "ano": "1997",
-  "cargo": "Agente",
-  "quantidade_questoes": 219,
-  "tem_imagens": true,
-  "questoes_agrupadas": false
-}
+## Informações Básicas
 
-## Análise
-- **Quantidade de questões:** 219
-- **Questões agrupadas:** Não
-- **Tem imagens:** Sim
+- **ID Original**: 236 ID
+- **Arquivos Encontrados**: 2 PDF(s)
+- **Pasta Local**: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\Falta_fazer\remessa_06\236 ID
+
+## Verificação de Duplicidade
+
+- [ ] Prova já cadastrada no GitHub
+- [ ] Duplicidade confirmada
+- [x] Nova prova a ser processada
+
+## Próximos Passos
+
+1. [ ] Extrair texto completo dos PDFs
+2. [ ] Identificar e classificar todas as questões
+3. [ ] Verificar duplicidade de conteúdo
+4. [ ] Organizar imagens e materiais de apoio
+5. [ ] Gerar arquivos finais padronizados
+
+---
+
+*Gerado em: 2026-11-19 15:34:42*

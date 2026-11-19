@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 199 ID (fila Falta_fazer / remessa_05)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Ipameri - GO - 2026 - Fiscal de Sala.pdf | Prova - Câmara Municipal de Ipameri - GO - 2026 - Fiscal de Sala.pdf
+Detalhe: 6p, 402KB, GABARITO; 8p, 725KB, PROVA
+Cidade (provavel): Ipameri
+Ano: 2026
+Fonte da identificacao: pdf-inteiro (3 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): Camara_Ipameri_2026_Agente_Administrativo
+
+Status de trabalho: CONFERIR-DUPLICATA de 198 ID

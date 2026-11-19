@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 344 ID (fila Falta_fazer / remessa_12)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de São José do RIO Preto - SP - 2014 - Ou Não da Crase, as Frases.pdf | Prova - Câmara Municipal de São José do RIO Preto - SP - 2014 - Ou Não da Crase, as Frases.pdf
+Detalhe: 5p, 247KB, PROVA; 20p, 675KB, PROVA
+Cidade (provavel): São José do Rio Preto
+Ano: 2014
+Fonte da identificacao: pdf-inteiro (2 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

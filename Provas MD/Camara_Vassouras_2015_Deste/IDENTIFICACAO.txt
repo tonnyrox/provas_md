@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 365 ID (fila Falta_fazer / remessa_13)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Vassouras - 2015 - Deste (2).pdf
+Detalhe: 8p, 660KB, GABARITO
+Cidade (provavel): Vassouras
+Ano: 2015
+Fonte da identificacao: pdf-inteiro (10 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

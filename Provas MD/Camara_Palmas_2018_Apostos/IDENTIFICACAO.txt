@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 266 ID (fila Falta_fazer / remessa_08)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Palmas - TO - 2018 - De Apostos.pdf | Prova - Câmara Municipal de Palmas - TO - 2018 - De Apostos.pdf
+Detalhe: 12p, 1569KB, GABARITO; 9p, 1200KB, PROVA
+Cidade (provavel): Palmas
+Ano: 2018
+Fonte da identificacao: pdf-inteiro (7 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

@@ -1,19 +1,25 @@
-# Relatório de análise — Camara_quirinópolis_2012_além
+# Relatório de Análise - Camara_Quirinópolis_2012_Além_2012
 
-## Resumo
-- **Data de processamento:** 2026-11-19 15:21:29
-- **PDF de origem:** Prova - Câmara Municipal de Quirinópolis - MA - 2005 - , Além.pdf
-- **Metadados:** {
-  "orgao": "Camara",
-  "cidade": "Quirinópolis",
-  "ano": "2012",
-  "cargo": "Analista",
-  "quantidade_questoes": 180,
-  "tem_imagens": true,
-  "questoes_agrupadas": true
-}
+## Informações Básicas
 
-## Análise
-- **Quantidade de questões:** 180
-- **Questões agrupadas:** Sim
-- **Tem imagens:** Sim
+- **ID Original**: 293 ID
+- **Arquivos Encontrados**: 2 PDF(s)
+- **Pasta Local**: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\Falta_fazer\remessa_09\293 ID
+
+## Verificação de Duplicidade
+
+- [ ] Prova já cadastrada no GitHub
+- [ ] Duplicidade confirmada
+- [x] Nova prova a ser processada
+
+## Próximos Passos
+
+1. [ ] Extrair texto completo dos PDFs
+2. [ ] Identificar e classificar todas as questões
+3. [ ] Verificar duplicidade de conteúdo
+4. [ ] Organizar imagens e materiais de apoio
+5. [ ] Gerar arquivos finais padronizados
+
+---
+
+*Gerado em: 2026-11-19 15:34:50*

@@ -1,53 +1,28 @@
-# PROVA — Camara Nao_Identificado — Agente (2024)
+# Camara_Horizontina_2024_2024_Agente_Legislativo
 
-## 1. Análise geral da prova
+## Identificação
 
-- **Identificação:** Concurso Público da Camara de Nao_Identificado, 2024. Cargo: Agente.
-- **Quantidade total de questões:** 128
-- **Quantidade de textos de apoio:** 0
-- **Quantidade de imagens:** Sim
-- **Quantidade de grupos identificados:** 0
-- **Quantidade de questões independentes:** 128
+- **Instituição**: Camara
+- **Cidade**: Horizontina
+- **Ano**: 2024
+- **Cargo**: Agente_Legislativo
+- **Banca**: N/I
+- **Data**: N/I
+- **Número de Questões**: 0 (a ser preenchido)
 
-### Transcrição integral da capa/instruções
+## Observações
 
-> pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YjFjYTo5YjRh:U3VuLCAwOCBOb3YgMjAyNiAxMjozNTowMSAtMDMwMA==
- 492 
- 
-  
-Câmara Municipal de Horizontina/RS 
-Concurso Público - Edital nº 001/2024 
- 
-https://concursos.objetivas.com.br 
-CADERNO DE PROVA 
- 
- 
- Agente Legislativo  
- 
-Direitos autorais reservados à Objetiva Concursos Ltda.  Proibida reprodução, ainda que parcial, sem autorização prévia.  
-Antes de iniciar a prova, leia as instruções: 
-1. Para fazer a prova, você recebeu: 
- este cadern...
+- Prova em processamento
+- Arquivos originais copiados
+- Aguardando extração de conteúdo
+
+## Arquivos
 
 
-## 2. Questões independentes
+- [Gabarito - Câmara Municipal de Horizontina - RS - 2024 - Agente Legislativo.pdf](Gabarito - Câmara Municipal de Horizontina - RS - 2024 - Agente Legislativo.pdf)
 
-### QUESTÃO 1
-
-**Enunciado:**
-(enunciado da questão)
-
-**Alternativas:**
-A) ...
-B) ...
-C) ...
-D) ...
-E) ...
-
-✅ **Gabarito: [preencher]**
-
-**Referências visuais:**
-Nenhuma.
+- [Prova - Câmara Municipal de Horizontina - RS - 2024 - Agente Legislativo.pdf](Prova - Câmara Municipal de Horizontina - RS - 2024 - Agente Legislativo.pdf)
 
 ---
 
+*Processado em: 2026-11-19 15:34:34*

@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 323 ID (fila Falta_fazer / remessa_11)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Satubinha - MA - 2012 - Agente Administrativo (2).pdf
+Detalhe: 6p, 156KB, GABARITO
+Cidade (provavel): Satubinha para
+Ano: 2012
+Fonte da identificacao: pdf-inteiro (5 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

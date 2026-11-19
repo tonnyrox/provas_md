@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 386 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Vinhedo - SP - 2020 - Agente Administrativo Página 1 de 8.pdf | Prova - Câmara Municipal de Vinhedo - SP - 2020 - Agente Administrativo Página 1 de 8.pdf
+Detalhe: 1p, 42KB, GABARITO; 8p, 211KB, PROVA
+Cidade (provavel): Vinhedo
+Ano: 2020
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

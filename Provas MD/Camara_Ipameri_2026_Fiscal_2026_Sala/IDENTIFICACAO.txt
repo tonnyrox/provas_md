@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 198 ID (fila Falta_fazer / remessa_05)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Ipameri - GO - 2026 - Fiscal de Sala.pdf | Prova - Câmara Municipal de Ipameri - GO - 2026 - Fiscal de Sala.pdf
+Detalhe: 6p, 402KB, GABARITO; 11p, 1484KB, PROVA
+Cidade (provavel): Ipameri
+Ano: 2026
+Fonte da identificacao: pdf-inteiro (11 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): Camara_Ipameri_2026_Agente_Administrativo
+Observacoes: Mesmo concurso da pasta jah publicada Camara_Ipameri_2026_Agente_Administrativo, porem outro cargo (Fiscal de Sala): inedito no GitHub; publicar como pasta propria Camara_Ipameri_2026_Fiscal_de_Sala
+Status de trabalho: CONFERIDO-ABRINDO-O-PDF; CONFERIR-PROVAVELJA-PUBL. (Camara_Ipameri_2026_Agente_Administrativo)

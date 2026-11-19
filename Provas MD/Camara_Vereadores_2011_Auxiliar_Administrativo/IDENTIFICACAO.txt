@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 373 ID (fila Falta_fazer / remessa_13)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Vereadores de - 2011 - Auxiliar Administrativo.pdf | Prova - Câmara Municipal de Vereadores de General Carneiro - 2011 - Auxiliar Administrativo.pdf
+Detalhe: 4p, 215KB, GABARITO; 12p, 284KB, GABARITO
+Cidade (provavel): General Carneiro
+Ano: 2011
+Fonte da identificacao: pdf-inteiro (2 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

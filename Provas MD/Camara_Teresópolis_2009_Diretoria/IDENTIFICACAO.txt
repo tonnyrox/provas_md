@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 355 ID (fila Falta_fazer / remessa_12)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Teresópolis - SC - 2009 - Diretoria.pdf | Prova - Câmara Municipal de Teresópolis - SC - 2009 - Diretoria.pdf
+Detalhe: 2p, 96KB, GABARITO; 4p, 121KB, GABARITO
+Cidade (provavel): Teresópolis
+Ano: 2009
+Fonte da identificacao: nome
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

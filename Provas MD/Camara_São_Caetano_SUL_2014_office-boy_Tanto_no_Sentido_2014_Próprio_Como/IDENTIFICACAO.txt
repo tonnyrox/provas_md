@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 335 ID (fila Falta_fazer / remessa_11)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de São Caetano do SUL - 2014 - De “office-boy” Tanto no Sentido Próprio Como.pdf | Prova - Câmara Municipal de São Caetano do SUL - 2014 - De “office-boy” Tanto no Sentido Próprio Como.pdf
+Detalhe: 3p, 211KB, GABARITO; 7p, 321KB, PROVA
+Cidade (provavel): São Caetano Do Sul
+Ano: 2014
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

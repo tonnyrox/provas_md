@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 134 ID (fila Falta_fazer / remessa_02)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de General Carneiro - MT - 2026 - Público Agente Administrativo.pdf | Prova - Câmara Municipal de General Carneiro - MT - 2026 - Público Agente Administrativo.pdf
+Detalhe: 4p, 244KB, PROVA; 12p, 558KB, PROVA
+Cidade (provavel): General Carneiro
+Ano: 2026
+Fonte da identificacao: pdf-inteiro (4 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: CONFERIR-DUPLICATA de 133 ID

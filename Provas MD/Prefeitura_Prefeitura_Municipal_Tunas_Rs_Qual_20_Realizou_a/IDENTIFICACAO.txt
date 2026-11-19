@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 400 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Prefeitura Municipal de Tunas - RS - 2023 - Para o Qual Realizou a.pdf | Prova - Prefeitura Municipal de Tunas - RS - 2022 - Para o Qual Realizou a.pdf
+Detalhe: 18p, 782KB, GABARITO; 9p, 932KB, PROVA
+Cidade (provavel): Tunas
+Ano: 2022
+Fonte da identificacao: pdf-inteiro (7 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+Observacoes: Conferido abrindo o PDF: Prefeitura de Tunas/RS 2022 (concurso 001/2022); nome do gabarito diz 2023
+Status de trabalho: CONFERIDO-ABRINDO-O-PDF; INEDITA-PRONTA-PARA-PROCESSAR

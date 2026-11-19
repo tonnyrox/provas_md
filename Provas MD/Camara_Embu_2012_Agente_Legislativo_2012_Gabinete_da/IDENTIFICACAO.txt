@@ -1,0 +1,8 @@
+IDENTIFICACAO DA REMESSA — 118 ID (fila Falta_fazer / remessa_01)
+Identificacao pelo CONTEUDO dos PDFs (capa e gabarito abertos e conferidos).
+
+PDFs: Prova - Câmara Municipal de Embu-guaçu - SP - 2012 - Agente Legislativo do Gabinete da.pdf
+Prova: Camara_Embu-Guacu_2018_Agente_Legislativo_do_Gabinete_da_Presidencia
+Pasta publicada (GitHub, provas_md/Provas MD): Camara_Embu-Guacu_2018_Agente_Legislativo_do_Gabinete_da_Presidencia
+Status: PUBLICADA — commit/push em origin/main em 18/11/2026.
+Observacoes: Prova sem gabarito no acervo (publicada sem gabarito, registrado no relatorio).

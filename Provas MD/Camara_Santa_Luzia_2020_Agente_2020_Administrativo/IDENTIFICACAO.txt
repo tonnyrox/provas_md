@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 308 ID (fila Falta_fazer / remessa_10)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Santa Luzia - PB - 2020 - Agente Administrativo (2).pdf
+Detalhe: 17p, 865KB, PROVA
+Cidade (provavel): Santa Luzia
+Ano: 2020
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 346 ID (fila Falta_fazer / remessa_12)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Tabaí - 2015 - Fiscal.pdf
+Detalhe: 8p, 325KB, PROVA
+Cidade (provavel): Tabaí
+Ano: 2015
+Fonte da identificacao: nome
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

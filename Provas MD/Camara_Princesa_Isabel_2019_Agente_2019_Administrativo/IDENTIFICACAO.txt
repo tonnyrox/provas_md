@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 290 ID (fila Falta_fazer / remessa_09)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Princesa Isabel - PB - 2019 - Agente Administrativo 1.pdf | Prova - Câmara Municipal de Princesa Isabel - PB - 2019 - Agente Administrativo 1.pdf
+Detalhe: 2p, 139KB, GABARITO; 6p, 336KB, PROVA
+Cidade (provavel): Princesa Isabel
+Ano: 2019
+Fonte da identificacao: pdf-inteiro (1 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

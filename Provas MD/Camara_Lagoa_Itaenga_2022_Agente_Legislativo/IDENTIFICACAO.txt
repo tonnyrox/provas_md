@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 216 ID (fila Falta_fazer / remessa_05)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Lagoa de Itaenga - PE - 2022 - Agente Legislativo.pdf | Prova - Câmara Municipal de Lagoa de Itaenga - PE - 2022 - Agente Legislativo.pdf
+Detalhe: 4p, 342KB, GABARITO; 9p, 550KB, PROVA
+Cidade (provavel): Lagoa de Itaenga
+Ano: 2022
+Fonte da identificacao: pdf-inteiro (1 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

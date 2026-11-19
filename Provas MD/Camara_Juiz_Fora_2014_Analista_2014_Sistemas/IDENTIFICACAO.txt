@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 213 ID (fila Falta_fazer / remessa_05)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Juiz de Fora - 2014 - Analista de Sistemas.pdf | Prova - Câmara Municipal de Juiz de Fora - 2014 - Analista de Sistemas.pdf
+Detalhe: 4p, 287KB, GABARITO; 20p, 438KB, PROVA
+Cidade (provavel): Juiz de Fora
+Ano: 2014
+Fonte da identificacao: pdf-inteiro (2 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

@@ -1,0 +1,1011 @@
+[2026-11-19 15:31:45] [INFO] ================================================================================
+[2026-11-19 15:31:45] [INFO] INICIANDO PROCESSAMENTO FINAL DE TODAS AS PASTAS
+[2026-11-19 15:31:45] [INFO] ================================================================================
+[2026-11-19 15:31:45] [INFO] 
+================================================================================
+[2026-11-19 15:31:45] [INFO] ETAPA 1: COLETANDO PASTAS PARA PROCESSAR
+[2026-11-19 15:31:45] [INFO] ================================================================================
+[2026-11-19 15:31:45] [INFO] ⏭️  111 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  112 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  113 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⚠️  114 ID é duplicidade, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  115 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  118 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  119 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  120 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  121 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  122 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  123 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  124 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  125 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  126 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  127 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  128 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  129 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  131 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  132 ID já publicada, pulando
+[2026-11-19 15:31:45] [INFO] ⏭️  133 ID já publicada, pulando
+[2026-11-19 15:31:46] [INFO] Total de pastas para processar: 263
+[2026-11-19 15:31:46] [INFO] 
+================================================================================
+[2026-11-19 15:31:46] [INFO] ETAPA 2: PROCESSANDO CADA PASTA
+[2026-11-19 15:31:46] [INFO] ================================================================================
+[2026-11-19 15:31:46] [INFO] 
+================================================================================
+[2026-11-19 15:31:46] [INFO] Processando 1/263: remessa_02/134 ID
+[2026-11-19 15:31:46] [INFO] ================================================================================
+[2026-11-19 15:31:46] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:46] [INFO]   - Gabarito - Câmara Municipal de General Carneiro - MT - 2026 - Público Agente Administrativo.pdf
+[2026-11-19 15:31:46] [INFO]   - Prova - Câmara Municipal de General Carneiro - MT - 2026 - Público Agente Administrativo.pdf
+[2026-11-19 15:31:46] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'general_carneiro', 'ano': '2026', 'cargo': 'público_agente_administrativo'}
+[2026-11-19 15:31:46] [INFO] Pasta destino: Camara_General_Carneiro_2026_Público_Agente_Administrativo
+[2026-11-19 15:31:46] [INFO] ⚠️  Camara_General_Carneiro_2026_Público_Agente_Administrativo já existe e tem prova_organizada.md
+[2026-11-19 15:31:46] [INFO] 
+================================================================================
+[2026-11-19 15:31:46] [INFO] Processando 2/263: remessa_02/135 ID
+[2026-11-19 15:31:46] [INFO] ================================================================================
+[2026-11-19 15:31:46] [INFO] PDFs encontrados: 1
+[2026-11-19 15:31:46] [INFO]   - Gabarito - Câmara Municipal de Glorinha - RS - 2013 - Agente.pdf
+[2026-11-19 15:31:46] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'glorinha', 'ano': '2013', 'cargo': 'agente'}
+[2026-11-19 15:31:46] [INFO] Pasta destino: Camara_Glorinha_2013_Agente
+[2026-11-19 15:31:46] [ERROR] ❌ Nenhum PDF de prova encontrado
+[2026-11-19 15:31:46] [INFO] 
+Progresso: 2/263 processadas | 261 pendentes | 1 erros
+[2026-11-19 15:31:46] [INFO] 
+================================================================================
+[2026-11-19 15:31:46] [INFO] Processando 3/263: remessa_02/136 ID
+[2026-11-19 15:31:46] [INFO] ================================================================================
+[2026-11-19 15:31:46] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:46] [INFO]   - Gabarito - Câmara Municipal de Goiânia - 2018 - Administrador.pdf
+[2026-11-19 15:31:46] [INFO]   - Prova - Câmara Municipal de Goiânia - 2018 - Administrador.pdf
+[2026-11-19 15:31:46] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2018', 'cargo': 'Câmara_Municipal_de_Goiânia_-_-_Administrador'}
+[2026-11-19 15:31:46] [INFO] Pasta destino: Camara_Gabarito_2018_Câmara_Municipal_De_Goiânia_-_-_Administrador
+[2026-11-19 15:31:47] [INFO] ✅ prova_organizada.md gerado (1788 caracteres)
+[2026-11-19 15:31:47] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:31:48] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:31:48] [INFO] 
+Progresso: 3/263 processadas | 260 pendentes | 1 erros
+[2026-11-19 15:31:48] [INFO] 
+================================================================================
+[2026-11-19 15:31:48] [INFO] Processando 4/263: remessa_02/137 ID
+[2026-11-19 15:31:48] [INFO] ================================================================================
+[2026-11-19 15:31:48] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:48] [INFO]   - Gabarito - Câmara Municipal de Goiânia - 2018 - Agente Administrativo.pdf
+[2026-11-19 15:31:48] [INFO]   - Prova - Câmara Municipal de Goiânia - 2018 - Agente Administrativo.pdf
+[2026-11-19 15:31:48] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2018', 'cargo': 'Câmara_Municipal_de_Goiânia_-_-_Agente_Administrativo'}
+[2026-11-19 15:31:48] [INFO] Pasta destino: Camara_Gabarito_2018_Câmara_Municipal_De_Goiânia_-_-_Agente_Administrativo
+[2026-11-19 15:31:49] [INFO] ✅ prova_organizada.md gerado (1804 caracteres)
+[2026-11-19 15:31:49] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:31:49] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:31:49] [INFO] 
+Progresso: 4/263 processadas | 259 pendentes | 1 erros
+[2026-11-19 15:31:49] [INFO] 
+================================================================================
+[2026-11-19 15:31:49] [INFO] Processando 5/263: remessa_02/138 ID
+[2026-11-19 15:31:49] [INFO] ================================================================================
+[2026-11-19 15:31:49] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:49] [INFO]   - Gabarito - Câmara Municipal de Goiânia - 2018 - Analista de Sistemas.pdf
+[2026-11-19 15:31:49] [INFO]   - Prova - Câmara Municipal de Goiânia - 2018 - Analista de Sistemas.pdf
+[2026-11-19 15:31:49] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2018', 'cargo': 'Câmara_Municipal_de_Goiânia_-_-_Analista_de_Sistemas'}
+[2026-11-19 15:31:49] [INFO] Pasta destino: Camara_Gabarito_2018_Câmara_Municipal_De_Goiânia_-_-_Analista_De_Sistemas
+[2026-11-19 15:31:50] [INFO] ✅ prova_organizada.md gerado (1802 caracteres)
+[2026-11-19 15:31:50] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:31:50] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:31:50] [INFO] 
+Progresso: 5/263 processadas | 258 pendentes | 1 erros
+[2026-11-19 15:31:50] [INFO] 
+================================================================================
+[2026-11-19 15:31:50] [INFO] Processando 6/263: remessa_02/139 ID
+[2026-11-19 15:31:50] [INFO] ================================================================================
+[2026-11-19 15:31:50] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:50] [INFO]   - Gabarito - Câmara Municipal de Goiânia - 2018 - Cerimonialista.pdf
+[2026-11-19 15:31:50] [INFO]   - Prova - Câmara Municipal de Goiânia - 2018 - Cerimonialista.pdf
+[2026-11-19 15:31:50] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2018', 'cargo': 'Câmara_Municipal_de_Goiânia_-_-_Cerimonialista'}
+[2026-11-19 15:31:50] [INFO] Pasta destino: Camara_Gabarito_2018_Câmara_Municipal_De_Goiânia_-_-_Cerimonialista
+[2026-11-19 15:31:52] [INFO] ✅ prova_organizada.md gerado (1790 caracteres)
+[2026-11-19 15:31:52] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:31:52] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:31:52] [INFO] 
+Progresso: 6/263 processadas | 257 pendentes | 1 erros
+[2026-11-19 15:31:52] [INFO] 
+================================================================================
+[2026-11-19 15:31:52] [INFO] Processando 7/263: remessa_02/140 ID
+[2026-11-19 15:31:52] [INFO] ================================================================================
+[2026-11-19 15:31:52] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:52] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Administrador.pdf
+[2026-11-19 15:31:52] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Administrador.pdf
+[2026-11-19 15:31:52] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'administrador'}
+[2026-11-19 15:31:52] [INFO] Pasta destino: Camara_Goiânia_2026_Administrador
+[2026-11-19 15:31:53] [INFO] ✅ prova_organizada.md gerado (1722 caracteres)
+[2026-11-19 15:31:53] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:31:53] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:31:53] [INFO] 
+Progresso: 7/263 processadas | 256 pendentes | 1 erros
+[2026-11-19 15:31:53] [INFO] 
+================================================================================
+[2026-11-19 15:31:53] [INFO] Processando 8/263: remessa_02/141 ID
+[2026-11-19 15:31:53] [INFO] ================================================================================
+[2026-11-19 15:31:53] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:53] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Administrador.pdf
+[2026-11-19 15:31:53] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Administrador.pdf
+[2026-11-19 15:31:53] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'administrador'}
+[2026-11-19 15:31:53] [INFO] Pasta destino: Camara_Goiânia_2026_Administrador
+[2026-11-19 15:31:53] [INFO] ⚠️  Camara_Goiânia_2026_Administrador já existe e tem prova_organizada.md
+[2026-11-19 15:31:53] [INFO] 
+================================================================================
+[2026-11-19 15:31:53] [INFO] Processando 9/263: remessa_02/142 ID
+[2026-11-19 15:31:53] [INFO] ================================================================================
+[2026-11-19 15:31:53] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:53] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Agente.pdf
+[2026-11-19 15:31:53] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Agente.pdf
+[2026-11-19 15:31:53] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'agente'}
+[2026-11-19 15:31:53] [INFO] Pasta destino: Camara_Goiânia_2026_Agente
+[2026-11-19 15:31:54] [INFO] ✅ prova_organizada.md gerado (1708 caracteres)
+[2026-11-19 15:31:54] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:31:54] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:31:54] [INFO] 
+Progresso: 9/263 processadas | 254 pendentes | 1 erros
+[2026-11-19 15:31:54] [INFO] 
+================================================================================
+[2026-11-19 15:31:54] [INFO] Processando 10/263: remessa_02/143 ID
+[2026-11-19 15:31:54] [INFO] ================================================================================
+[2026-11-19 15:31:54] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:54] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Agente.pdf
+[2026-11-19 15:31:54] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Agente.pdf
+[2026-11-19 15:31:54] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'agente'}
+[2026-11-19 15:31:54] [INFO] Pasta destino: Camara_Goiânia_2026_Agente
+[2026-11-19 15:31:54] [INFO] ⚠️  Camara_Goiânia_2026_Agente já existe e tem prova_organizada.md
+[2026-11-19 15:31:54] [INFO] 
+================================================================================
+[2026-11-19 15:31:54] [INFO] Processando 11/263: remessa_02/144 ID
+[2026-11-19 15:31:54] [INFO] ================================================================================
+[2026-11-19 15:31:54] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:54] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Agente de.pdf
+[2026-11-19 15:31:54] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Agente de.pdf
+[2026-11-19 15:31:54] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'agente_de'}
+[2026-11-19 15:31:54] [INFO] Pasta destino: Camara_Goiânia_2026_Agente_De
+[2026-11-19 15:31:55] [INFO] ✅ prova_organizada.md gerado (1714 caracteres)
+[2026-11-19 15:31:55] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:31:55] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:31:55] [INFO] 
+Progresso: 11/263 processadas | 252 pendentes | 1 erros
+[2026-11-19 15:31:55] [INFO] 
+================================================================================
+[2026-11-19 15:31:55] [INFO] Processando 12/263: remessa_02/145 ID
+[2026-11-19 15:31:55] [INFO] ================================================================================
+[2026-11-19 15:31:55] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:55] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Agente de.pdf
+[2026-11-19 15:31:55] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Agente de.pdf
+[2026-11-19 15:31:55] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'agente_de'}
+[2026-11-19 15:31:55] [INFO] Pasta destino: Camara_Goiânia_2026_Agente_De
+[2026-11-19 15:31:55] [INFO] ⚠️  Camara_Goiânia_2026_Agente_De já existe e tem prova_organizada.md
+[2026-11-19 15:31:55] [INFO] 
+================================================================================
+[2026-11-19 15:31:55] [INFO] Processando 13/263: remessa_02/146 ID
+[2026-11-19 15:31:55] [INFO] ================================================================================
+[2026-11-19 15:31:55] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:55] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Agente para.pdf
+[2026-11-19 15:31:55] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Agente para.pdf
+[2026-11-19 15:31:55] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'agente_para'}
+[2026-11-19 15:31:55] [INFO] Pasta destino: Camara_Goiânia_2026_Agente_Para
+[2026-11-19 15:31:55] [INFO] ✅ prova_organizada.md gerado (1718 caracteres)
+[2026-11-19 15:31:55] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:31:56] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:31:56] [INFO] 
+Progresso: 13/263 processadas | 250 pendentes | 1 erros
+[2026-11-19 15:31:56] [INFO] 
+================================================================================
+[2026-11-19 15:31:56] [INFO] Processando 14/263: remessa_02/147 ID
+[2026-11-19 15:31:56] [INFO] ================================================================================
+[2026-11-19 15:31:56] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:56] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Agente para.pdf
+[2026-11-19 15:31:56] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Agente para.pdf
+[2026-11-19 15:31:56] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'agente_para'}
+[2026-11-19 15:31:56] [INFO] Pasta destino: Camara_Goiânia_2026_Agente_Para
+[2026-11-19 15:31:56] [INFO] ⚠️  Camara_Goiânia_2026_Agente_Para já existe e tem prova_organizada.md
+[2026-11-19 15:31:56] [INFO] 
+================================================================================
+[2026-11-19 15:31:56] [INFO] Processando 15/263: remessa_02/148 ID
+[2026-11-19 15:31:56] [INFO] ================================================================================
+[2026-11-19 15:31:56] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:56] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Analista de.pdf
+[2026-11-19 15:31:56] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Analista de.pdf
+[2026-11-19 15:31:56] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'analista_de'}
+[2026-11-19 15:31:56] [INFO] Pasta destino: Camara_Goiânia_2026_Analista_De
+[2026-11-19 15:31:57] [INFO] ✅ prova_organizada.md gerado (1718 caracteres)
+[2026-11-19 15:31:57] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:31:57] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:31:57] [INFO] 
+Progresso: 15/263 processadas | 248 pendentes | 1 erros
+[2026-11-19 15:31:57] [INFO] 
+================================================================================
+[2026-11-19 15:31:57] [INFO] Processando 16/263: remessa_02/149 ID
+[2026-11-19 15:31:57] [INFO] ================================================================================
+[2026-11-19 15:31:57] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:57] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Analista de.pdf
+[2026-11-19 15:31:57] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Analista de.pdf
+[2026-11-19 15:31:57] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'analista_de'}
+[2026-11-19 15:31:57] [INFO] Pasta destino: Camara_Goiânia_2026_Analista_De
+[2026-11-19 15:31:57] [INFO] ⚠️  Camara_Goiânia_2026_Analista_De já existe e tem prova_organizada.md
+[2026-11-19 15:31:57] [INFO] 
+================================================================================
+[2026-11-19 15:31:57] [INFO] Processando 17/263: remessa_02/150 ID
+[2026-11-19 15:31:57] [INFO] ================================================================================
+[2026-11-19 15:31:57] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:57] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Arquivista.pdf
+[2026-11-19 15:31:57] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Arquivista.pdf
+[2026-11-19 15:31:57] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'arquivista'}
+[2026-11-19 15:31:57] [INFO] Pasta destino: Camara_Goiânia_2026_Arquivista
+[2026-11-19 15:31:58] [INFO] ✅ prova_organizada.md gerado (1716 caracteres)
+[2026-11-19 15:31:58] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:31:58] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:31:58] [INFO] 
+Progresso: 17/263 processadas | 246 pendentes | 1 erros
+[2026-11-19 15:31:58] [INFO] 
+================================================================================
+[2026-11-19 15:31:58] [INFO] Processando 18/263: remessa_02/151 ID
+[2026-11-19 15:31:58] [INFO] ================================================================================
+[2026-11-19 15:31:58] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:58] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Cerimonial.pdf
+[2026-11-19 15:31:58] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Cerimonial.pdf
+[2026-11-19 15:31:58] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'cerimonial'}
+[2026-11-19 15:31:58] [INFO] Pasta destino: Camara_Goiânia_2026_Cerimonial
+[2026-11-19 15:31:59] [INFO] ✅ prova_organizada.md gerado (1716 caracteres)
+[2026-11-19 15:31:59] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:31:59] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:31:59] [INFO] 
+Progresso: 18/263 processadas | 245 pendentes | 1 erros
+[2026-11-19 15:31:59] [INFO] 
+================================================================================
+[2026-11-19 15:31:59] [INFO] Processando 19/263: remessa_02/152 ID
+[2026-11-19 15:31:59] [INFO] ================================================================================
+[2026-11-19 15:31:59] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:59] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Cerimonial.pdf
+[2026-11-19 15:31:59] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Cerimonial.pdf
+[2026-11-19 15:31:59] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'cerimonial'}
+[2026-11-19 15:31:59] [INFO] Pasta destino: Camara_Goiânia_2026_Cerimonial
+[2026-11-19 15:31:59] [INFO] ⚠️  Camara_Goiânia_2026_Cerimonial já existe e tem prova_organizada.md
+[2026-11-19 15:31:59] [INFO] 
+================================================================================
+[2026-11-19 15:31:59] [INFO] Processando 20/263: remessa_02/153 ID
+[2026-11-19 15:31:59] [INFO] ================================================================================
+[2026-11-19 15:31:59] [INFO] PDFs encontrados: 2
+[2026-11-19 15:31:59] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Cinegrafista.pdf
+[2026-11-19 15:31:59] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Cinegrafista.pdf
+[2026-11-19 15:31:59] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'cinegrafista'}
+[2026-11-19 15:31:59] [INFO] Pasta destino: Camara_Goiânia_2026_Cinegrafista
+[2026-11-19 15:31:59] [INFO] ✅ prova_organizada.md gerado (1720 caracteres)
+[2026-11-19 15:31:59] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:00] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:00] [INFO] 
+Progresso: 20/263 processadas | 243 pendentes | 1 erros
+[2026-11-19 15:32:00] [INFO] 
+================================================================================
+[2026-11-19 15:32:00] [INFO] Processando 21/263: remessa_03/154 ID
+[2026-11-19 15:32:00] [INFO] ================================================================================
+[2026-11-19 15:32:00] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:00] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Contador.pdf
+[2026-11-19 15:32:00] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Contador.pdf
+[2026-11-19 15:32:00] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'contador'}
+[2026-11-19 15:32:00] [INFO] Pasta destino: Camara_Goiânia_2026_Contador
+[2026-11-19 15:32:01] [INFO] ✅ prova_organizada.md gerado (1712 caracteres)
+[2026-11-19 15:32:01] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:01] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:01] [INFO] 
+Progresso: 21/263 processadas | 242 pendentes | 1 erros
+[2026-11-19 15:32:01] [INFO] 
+================================================================================
+[2026-11-19 15:32:01] [INFO] Processando 22/263: remessa_03/155 ID
+[2026-11-19 15:32:01] [INFO] ================================================================================
+[2026-11-19 15:32:01] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:01] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Economista.pdf
+[2026-11-19 15:32:01] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Economista.pdf
+[2026-11-19 15:32:01] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'economista'}
+[2026-11-19 15:32:01] [INFO] Pasta destino: Camara_Goiânia_2026_Economista
+[2026-11-19 15:32:02] [INFO] ✅ prova_organizada.md gerado (1716 caracteres)
+[2026-11-19 15:32:02] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:02] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:02] [INFO] 
+Progresso: 22/263 processadas | 241 pendentes | 1 erros
+[2026-11-19 15:32:02] [INFO] 
+================================================================================
+[2026-11-19 15:32:02] [INFO] Processando 23/263: remessa_03/156 ID
+[2026-11-19 15:32:02] [INFO] ================================================================================
+[2026-11-19 15:32:02] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:02] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:02] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:02] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'fiscal_de_sala'}
+[2026-11-19 15:32:02] [INFO] Pasta destino: Camara_Goiânia_2026_Fiscal_De_Sala
+[2026-11-19 15:32:03] [INFO] ✅ prova_organizada.md gerado (1724 caracteres)
+[2026-11-19 15:32:03] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:03] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:03] [INFO] 
+Progresso: 23/263 processadas | 240 pendentes | 1 erros
+[2026-11-19 15:32:03] [INFO] 
+================================================================================
+[2026-11-19 15:32:03] [INFO] Processando 24/263: remessa_03/157 ID
+[2026-11-19 15:32:03] [INFO] ================================================================================
+[2026-11-19 15:32:03] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:03] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'fiscal_de_sala'}
+[2026-11-19 15:32:03] [INFO] Pasta destino: Camara_Goiânia_2026_Fiscal_De_Sala
+[2026-11-19 15:32:03] [INFO] ⚠️  Camara_Goiânia_2026_Fiscal_De_Sala já existe e tem prova_organizada.md
+[2026-11-19 15:32:03] [INFO] 
+================================================================================
+[2026-11-19 15:32:03] [INFO] Processando 25/263: remessa_03/158 ID
+[2026-11-19 15:32:03] [INFO] ================================================================================
+[2026-11-19 15:32:03] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:03] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'fiscal_de_sala'}
+[2026-11-19 15:32:03] [INFO] Pasta destino: Camara_Goiânia_2026_Fiscal_De_Sala
+[2026-11-19 15:32:03] [INFO] ⚠️  Camara_Goiânia_2026_Fiscal_De_Sala já existe e tem prova_organizada.md
+[2026-11-19 15:32:03] [INFO] 
+================================================================================
+[2026-11-19 15:32:03] [INFO] Processando 26/263: remessa_03/159 ID
+[2026-11-19 15:32:03] [INFO] ================================================================================
+[2026-11-19 15:32:03] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:03] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'fiscal_de_sala'}
+[2026-11-19 15:32:03] [INFO] Pasta destino: Camara_Goiânia_2026_Fiscal_De_Sala
+[2026-11-19 15:32:03] [INFO] ⚠️  Camara_Goiânia_2026_Fiscal_De_Sala já existe e tem prova_organizada.md
+[2026-11-19 15:32:03] [INFO] 
+================================================================================
+[2026-11-19 15:32:03] [INFO] Processando 27/263: remessa_03/160 ID
+[2026-11-19 15:32:03] [INFO] ================================================================================
+[2026-11-19 15:32:03] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:03] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'fiscal_de_sala'}
+[2026-11-19 15:32:03] [INFO] Pasta destino: Camara_Goiânia_2026_Fiscal_De_Sala
+[2026-11-19 15:32:03] [INFO] ⚠️  Camara_Goiânia_2026_Fiscal_De_Sala já existe e tem prova_organizada.md
+[2026-11-19 15:32:03] [INFO] 
+================================================================================
+[2026-11-19 15:32:03] [INFO] Processando 28/263: remessa_03/161 ID
+[2026-11-19 15:32:03] [INFO] ================================================================================
+[2026-11-19 15:32:03] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:03] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'fiscal_de_sala'}
+[2026-11-19 15:32:03] [INFO] Pasta destino: Camara_Goiânia_2026_Fiscal_De_Sala
+[2026-11-19 15:32:03] [INFO] ⚠️  Camara_Goiânia_2026_Fiscal_De_Sala já existe e tem prova_organizada.md
+[2026-11-19 15:32:03] [INFO] 
+================================================================================
+[2026-11-19 15:32:03] [INFO] Processando 29/263: remessa_03/162 ID
+[2026-11-19 15:32:03] [INFO] ================================================================================
+[2026-11-19 15:32:03] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:03] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'fiscal_de_sala'}
+[2026-11-19 15:32:03] [INFO] Pasta destino: Camara_Goiânia_2026_Fiscal_De_Sala
+[2026-11-19 15:32:03] [INFO] ⚠️  Camara_Goiânia_2026_Fiscal_De_Sala já existe e tem prova_organizada.md
+[2026-11-19 15:32:03] [INFO] 
+================================================================================
+[2026-11-19 15:32:03] [INFO] Processando 30/263: remessa_03/163 ID
+[2026-11-19 15:32:03] [INFO] ================================================================================
+[2026-11-19 15:32:03] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:03] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'fiscal_de_sala'}
+[2026-11-19 15:32:03] [INFO] Pasta destino: Camara_Goiânia_2026_Fiscal_De_Sala
+[2026-11-19 15:32:03] [INFO] ⚠️  Camara_Goiânia_2026_Fiscal_De_Sala já existe e tem prova_organizada.md
+[2026-11-19 15:32:03] [INFO] 
+================================================================================
+[2026-11-19 15:32:03] [INFO] Processando 31/263: remessa_03/164 ID
+[2026-11-19 15:32:03] [INFO] ================================================================================
+[2026-11-19 15:32:03] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:03] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'fiscal_de_sala'}
+[2026-11-19 15:32:03] [INFO] Pasta destino: Camara_Goiânia_2026_Fiscal_De_Sala
+[2026-11-19 15:32:03] [INFO] ⚠️  Camara_Goiânia_2026_Fiscal_De_Sala já existe e tem prova_organizada.md
+[2026-11-19 15:32:03] [INFO] 
+================================================================================
+[2026-11-19 15:32:03] [INFO] Processando 32/263: remessa_03/165 ID
+[2026-11-19 15:32:03] [INFO] ================================================================================
+[2026-11-19 15:32:03] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:03] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'fiscal_de_sala'}
+[2026-11-19 15:32:03] [INFO] Pasta destino: Camara_Goiânia_2026_Fiscal_De_Sala
+[2026-11-19 15:32:03] [INFO] ⚠️  Camara_Goiânia_2026_Fiscal_De_Sala já existe e tem prova_organizada.md
+[2026-11-19 15:32:03] [INFO] 
+================================================================================
+[2026-11-19 15:32:03] [INFO] Processando 33/263: remessa_03/166 ID
+[2026-11-19 15:32:03] [INFO] ================================================================================
+[2026-11-19 15:32:03] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:03] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'fiscal_de_sala'}
+[2026-11-19 15:32:03] [INFO] Pasta destino: Camara_Goiânia_2026_Fiscal_De_Sala
+[2026-11-19 15:32:03] [INFO] ⚠️  Camara_Goiânia_2026_Fiscal_De_Sala já existe e tem prova_organizada.md
+[2026-11-19 15:32:03] [INFO] 
+================================================================================
+[2026-11-19 15:32:03] [INFO] Processando 34/263: remessa_03/167 ID
+[2026-11-19 15:32:03] [INFO] ================================================================================
+[2026-11-19 15:32:03] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:03] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:03] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'fiscal_de_sala'}
+[2026-11-19 15:32:03] [INFO] Pasta destino: Camara_Goiânia_2026_Fiscal_De_Sala
+[2026-11-19 15:32:03] [INFO] ⚠️  Camara_Goiânia_2026_Fiscal_De_Sala já existe e tem prova_organizada.md
+[2026-11-19 15:32:03] [INFO] 
+================================================================================
+[2026-11-19 15:32:03] [INFO] Processando 35/263: remessa_03/168 ID
+[2026-11-19 15:32:03] [INFO] ================================================================================
+[2026-11-19 15:32:03] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:03] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Fotógrafo.pdf
+[2026-11-19 15:32:03] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Fotógrafo.pdf
+[2026-11-19 15:32:03] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'fotógrafo'}
+[2026-11-19 15:32:03] [INFO] Pasta destino: Camara_Goiânia_2026_Fotógrafo
+[2026-11-19 15:32:03] [INFO] ✅ prova_organizada.md gerado (1714 caracteres)
+[2026-11-19 15:32:03] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:04] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:04] [INFO] 
+Progresso: 35/263 processadas | 228 pendentes | 1 erros
+[2026-11-19 15:32:04] [INFO] 
+================================================================================
+[2026-11-19 15:32:04] [INFO] Processando 36/263: remessa_03/169 ID
+[2026-11-19 15:32:04] [INFO] ================================================================================
+[2026-11-19 15:32:04] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:04] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Legislativo.pdf
+[2026-11-19 15:32:04] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Legislativo.pdf
+[2026-11-19 15:32:04] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'legislativo'}
+[2026-11-19 15:32:04] [INFO] Pasta destino: Camara_Goiânia_2026_Legislativo
+[2026-11-19 15:32:05] [INFO] ✅ prova_organizada.md gerado (1718 caracteres)
+[2026-11-19 15:32:05] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:05] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:05] [INFO] 
+Progresso: 36/263 processadas | 227 pendentes | 1 erros
+[2026-11-19 15:32:05] [INFO] 
+================================================================================
+[2026-11-19 15:32:05] [INFO] Processando 37/263: remessa_03/170 ID
+[2026-11-19 15:32:05] [INFO] ================================================================================
+[2026-11-19 15:32:05] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:05] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Legislativo.pdf
+[2026-11-19 15:32:05] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Legislativo.pdf
+[2026-11-19 15:32:05] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'legislativo'}
+[2026-11-19 15:32:05] [INFO] Pasta destino: Camara_Goiânia_2026_Legislativo
+[2026-11-19 15:32:05] [INFO] ⚠️  Camara_Goiânia_2026_Legislativo já existe e tem prova_organizada.md
+[2026-11-19 15:32:05] [INFO] 
+================================================================================
+[2026-11-19 15:32:05] [INFO] Processando 38/263: remessa_03/171 ID
+[2026-11-19 15:32:05] [INFO] ================================================================================
+[2026-11-19 15:32:05] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:05] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Motorista.pdf
+[2026-11-19 15:32:05] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Motorista.pdf
+[2026-11-19 15:32:05] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'motorista'}
+[2026-11-19 15:32:05] [INFO] Pasta destino: Camara_Goiânia_2026_Motorista
+[2026-11-19 15:32:05] [INFO] ✅ prova_organizada.md gerado (1714 caracteres)
+[2026-11-19 15:32:05] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:06] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:06] [INFO] 
+Progresso: 38/263 processadas | 225 pendentes | 1 erros
+[2026-11-19 15:32:06] [INFO] 
+================================================================================
+[2026-11-19 15:32:06] [INFO] Processando 39/263: remessa_03/172 ID
+[2026-11-19 15:32:06] [INFO] ================================================================================
+[2026-11-19 15:32:06] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:06] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Operador de.pdf
+[2026-11-19 15:32:06] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Operador de.pdf
+[2026-11-19 15:32:06] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'operador_de'}
+[2026-11-19 15:32:06] [INFO] Pasta destino: Camara_Goiânia_2026_Operador_De
+[2026-11-19 15:32:06] [INFO] ✅ prova_organizada.md gerado (1718 caracteres)
+[2026-11-19 15:32:06] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:06] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:06] [INFO] 
+Progresso: 39/263 processadas | 224 pendentes | 1 erros
+[2026-11-19 15:32:06] [INFO] 
+================================================================================
+[2026-11-19 15:32:06] [INFO] Processando 40/263: remessa_03/173 ID
+[2026-11-19 15:32:06] [INFO] ================================================================================
+[2026-11-19 15:32:06] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:06] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Operador de.pdf
+[2026-11-19 15:32:06] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Operador de.pdf
+[2026-11-19 15:32:06] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'operador_de'}
+[2026-11-19 15:32:06] [INFO] Pasta destino: Camara_Goiânia_2026_Operador_De
+[2026-11-19 15:32:06] [INFO] ⚠️  Camara_Goiânia_2026_Operador_De já existe e tem prova_organizada.md
+[2026-11-19 15:32:06] [INFO] 
+================================================================================
+[2026-11-19 15:32:06] [INFO] Processando 41/263: remessa_04/174 ID
+[2026-11-19 15:32:06] [INFO] ================================================================================
+[2026-11-19 15:32:06] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:06] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Psicólogo.pdf
+[2026-11-19 15:32:06] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Psicólogo.pdf
+[2026-11-19 15:32:06] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'psicólogo'}
+[2026-11-19 15:32:06] [INFO] Pasta destino: Camara_Goiânia_2026_Psicólogo
+[2026-11-19 15:32:08] [INFO] ✅ prova_organizada.md gerado (1714 caracteres)
+[2026-11-19 15:32:08] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:08] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:08] [INFO] 
+Progresso: 41/263 processadas | 222 pendentes | 1 erros
+[2026-11-19 15:32:08] [INFO] 
+================================================================================
+[2026-11-19 15:32:08] [INFO] Processando 42/263: remessa_04/175 ID
+[2026-11-19 15:32:08] [INFO] ================================================================================
+[2026-11-19 15:32:08] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:08] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Tradutor e.pdf
+[2026-11-19 15:32:08] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Tradutor e.pdf
+[2026-11-19 15:32:08] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'tradutor_e'}
+[2026-11-19 15:32:08] [INFO] Pasta destino: Camara_Goiânia_2026_Tradutor_E
+[2026-11-19 15:32:10] [INFO] ✅ prova_organizada.md gerado (1716 caracteres)
+[2026-11-19 15:32:10] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:10] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:10] [INFO] 
+Progresso: 42/263 processadas | 221 pendentes | 1 erros
+[2026-11-19 15:32:10] [INFO] 
+================================================================================
+[2026-11-19 15:32:10] [INFO] Processando 43/263: remessa_04/176 ID
+[2026-11-19 15:32:10] [INFO] ================================================================================
+[2026-11-19 15:32:10] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:10] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Técnico.pdf
+[2026-11-19 15:32:10] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Técnico.pdf
+[2026-11-19 15:32:10] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'técnico'}
+[2026-11-19 15:32:10] [INFO] Pasta destino: Camara_Goiânia_2026_Técnico
+[2026-11-19 15:32:11] [INFO] ✅ prova_organizada.md gerado (1710 caracteres)
+[2026-11-19 15:32:11] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:11] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:11] [INFO] 
+Progresso: 43/263 processadas | 220 pendentes | 1 erros
+[2026-11-19 15:32:11] [INFO] 
+================================================================================
+[2026-11-19 15:32:11] [INFO] Processando 44/263: remessa_04/177 ID
+[2026-11-19 15:32:11] [INFO] ================================================================================
+[2026-11-19 15:32:11] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:11] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Técnico de.pdf
+[2026-11-19 15:32:11] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Técnico de.pdf
+[2026-11-19 15:32:11] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'técnico_de'}
+[2026-11-19 15:32:11] [INFO] Pasta destino: Camara_Goiânia_2026_Técnico_De
+[2026-11-19 15:32:12] [INFO] ✅ prova_organizada.md gerado (1716 caracteres)
+[2026-11-19 15:32:12] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:12] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:12] [INFO] 
+Progresso: 44/263 processadas | 219 pendentes | 1 erros
+[2026-11-19 15:32:12] [INFO] 
+================================================================================
+[2026-11-19 15:32:12] [INFO] Processando 45/263: remessa_04/178 ID
+[2026-11-19 15:32:12] [INFO] ================================================================================
+[2026-11-19 15:32:12] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:12] [INFO]   - Gabarito - Câmara Municipal de Goiânia - GO - 2026 - Técnico em.pdf
+[2026-11-19 15:32:12] [INFO]   - Prova - Câmara Municipal de Goiânia - GO - 2026 - Técnico em.pdf
+[2026-11-19 15:32:12] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'goiânia', 'ano': '2026', 'cargo': 'técnico_em'}
+[2026-11-19 15:32:12] [INFO] Pasta destino: Camara_Goiânia_2026_Técnico_Em
+[2026-11-19 15:32:12] [INFO] ✅ prova_organizada.md gerado (1716 caracteres)
+[2026-11-19 15:32:12] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:13] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:13] [INFO] 
+Progresso: 45/263 processadas | 218 pendentes | 1 erros
+[2026-11-19 15:32:13] [INFO] 
+================================================================================
+[2026-11-19 15:32:13] [INFO] Processando 46/263: remessa_04/179 ID
+[2026-11-19 15:32:13] [INFO] ================================================================================
+[2026-11-19 15:32:13] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:13] [INFO]   - Gabarito - Câmara Municipal de Governador Nunes Freire - 2011 - Agente Administrativo.pdf
+[2026-11-19 15:32:13] [INFO]   - Prova - Câmara Municipal de Governador Nunes Freire - 2011 - Agente Administrativo.pdf
+[2026-11-19 15:32:13] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2011', 'cargo': 'Câmara_Municipal_de_Governador_Nunes_Freire_-_-_Agente_Administrativo'}
+[2026-11-19 15:32:13] [INFO] Pasta destino: Camara_Gabarito_2011_Câmara_Municipal_De_Governador_Nunes_Freire_-_-_Agente_Administrativo
+[2026-11-19 15:32:13] [INFO] ✅ prova_organizada.md gerado (1836 caracteres)
+[2026-11-19 15:32:13] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:13] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:13] [INFO] 
+Progresso: 46/263 processadas | 217 pendentes | 1 erros
+[2026-11-19 15:32:13] [INFO] 
+================================================================================
+[2026-11-19 15:32:13] [INFO] Processando 47/263: remessa_04/181 ID
+[2026-11-19 15:32:13] [INFO] ================================================================================
+[2026-11-19 15:32:13] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:13] [INFO]   - Gabarito - Câmara Municipal de Guarujá - SP - 2018 - Agente Legislativo.pdf
+[2026-11-19 15:32:13] [INFO]   - Prova - Câmara Municipal de Guarujá - SP - 2018 - Agente Legislativo.pdf
+[2026-11-19 15:32:13] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'guarujá', 'ano': '2018', 'cargo': 'agente_legislativo'}
+[2026-11-19 15:32:13] [INFO] Pasta destino: Camara_Guarujá_2018_Agente_Legislativo
+[2026-11-19 15:32:14] [INFO] ✅ prova_organizada.md gerado (1732 caracteres)
+[2026-11-19 15:32:14] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:15] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:15] [INFO] 
+Progresso: 47/263 processadas | 216 pendentes | 1 erros
+[2026-11-19 15:32:15] [INFO] 
+================================================================================
+[2026-11-19 15:32:15] [INFO] Processando 48/263: remessa_04/182 ID
+[2026-11-19 15:32:15] [INFO] ================================================================================
+[2026-11-19 15:32:15] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:15] [INFO]   - Gabarito - Câmara Municipal de Guarulhos - SP - 2012 - Agente Legislativo G.pdf
+[2026-11-19 15:32:15] [INFO]   - Prova - Câmara Municipal de Guarulhos - SP - 2012 - Agente Legislativo G.pdf
+[2026-11-19 15:32:15] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'guarulhos', 'ano': '2012', 'cargo': 'agente_legislativo_g'}
+[2026-11-19 15:32:15] [INFO] Pasta destino: Camara_Guarulhos_2012_Agente_Legislativo_G
+[2026-11-19 15:32:15] [INFO] ✅ prova_organizada.md gerado (1740 caracteres)
+[2026-11-19 15:32:15] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:15] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:15] [INFO] 
+Progresso: 48/263 processadas | 215 pendentes | 1 erros
+[2026-11-19 15:32:15] [INFO] 
+================================================================================
+[2026-11-19 15:32:15] [INFO] Processando 49/263: remessa_04/184 ID
+[2026-11-19 15:32:15] [INFO] ================================================================================
+[2026-11-19 15:32:15] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:15] [INFO]   - Gabarito - Câmara Municipal de Horizontina - RS - 2024 - Agente Legislativo.pdf
+[2026-11-19 15:32:15] [INFO]   - Prova - Câmara Municipal de Horizontina - RS - 2024 - Agente Legislativo.pdf
+[2026-11-19 15:32:15] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'horizontina', 'ano': '2024', 'cargo': 'agente_legislativo'}
+[2026-11-19 15:32:15] [INFO] Pasta destino: Camara_Horizontina_2024_Agente_Legislativo
+[2026-11-19 15:32:15] [INFO] ⚠️  Camara_Horizontina_2024_Agente_Legislativo já existe e tem prova_organizada.md
+[2026-11-19 15:32:15] [INFO] 
+================================================================================
+[2026-11-19 15:32:15] [INFO] Processando 50/263: remessa_04/185 ID
+[2026-11-19 15:32:15] [INFO] ================================================================================
+[2026-11-19 15:32:15] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:15] [INFO]   - Gabarito - Câmara Municipal de Ibiraçu - ES - 2013 - Agente Legislativo.pdf
+[2026-11-19 15:32:15] [INFO]   - Prova - Câmara Municipal de Ibiraçú - ES - 2013 - Agente Legislativo.pdf
+[2026-11-19 15:32:15] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'ibiraçu', 'ano': '2013', 'cargo': 'agente_legislativo'}
+[2026-11-19 15:32:15] [INFO] Pasta destino: Camara_Ibiraçu_2013_Agente_Legislativo
+[2026-11-19 15:32:16] [INFO] ✅ prova_organizada.md gerado (1732 caracteres)
+[2026-11-19 15:32:16] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:16] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:16] [INFO] 
+Progresso: 50/263 processadas | 213 pendentes | 1 erros
+[2026-11-19 15:32:16] [INFO] 
+================================================================================
+[2026-11-19 15:32:16] [INFO] Processando 51/263: remessa_04/186 ID
+[2026-11-19 15:32:16] [INFO] ================================================================================
+[2026-11-19 15:32:16] [INFO] PDFs encontrados: 1
+[2026-11-19 15:32:16] [INFO]   - Gabarito - Câmara Municipal de Ibirité - 2009 - Agente Administrativo IV.pdf
+[2026-11-19 15:32:16] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2009', 'cargo': 'Câmara_Municipal_de_Ibirité_-_-_Agente_Administrativo_IV'}
+[2026-11-19 15:32:16] [INFO] Pasta destino: Camara_Gabarito_2009_Câmara_Municipal_De_Ibirité_-_-_Agente_Administrativo_Iv
+[2026-11-19 15:32:16] [ERROR] ❌ Nenhum PDF de prova encontrado
+[2026-11-19 15:32:16] [INFO] 
+Progresso: 51/263 processadas | 212 pendentes | 2 erros
+[2026-11-19 15:32:16] [INFO] 
+================================================================================
+[2026-11-19 15:32:16] [INFO] Processando 52/263: remessa_04/187 ID
+[2026-11-19 15:32:16] [INFO] ================================================================================
+[2026-11-19 15:32:16] [INFO] PDFs encontrados: 1
+[2026-11-19 15:32:16] [INFO]   - Gabarito - Câmara Municipal de Ibirité - 2009 - Agente Administrativo V.pdf
+[2026-11-19 15:32:16] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2009', 'cargo': 'Câmara_Municipal_de_Ibirité_-_-_Agente_Administrativo_V'}
+[2026-11-19 15:32:16] [INFO] Pasta destino: Camara_Gabarito_2009_Câmara_Municipal_De_Ibirité_-_-_Agente_Administrativo_V
+[2026-11-19 15:32:16] [ERROR] ❌ Nenhum PDF de prova encontrado
+[2026-11-19 15:32:16] [INFO] 
+Progresso: 52/263 processadas | 211 pendentes | 3 erros
+[2026-11-19 15:32:16] [INFO] 
+================================================================================
+[2026-11-19 15:32:16] [INFO] Processando 53/263: remessa_04/188 ID
+[2026-11-19 15:32:16] [INFO] ================================================================================
+[2026-11-19 15:32:16] [INFO] PDFs encontrados: 1
+[2026-11-19 15:32:16] [INFO]   - Gabarito - Câmara Municipal de Ibirité - 2009 - Agente Legislativo IV.pdf
+[2026-11-19 15:32:16] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2009', 'cargo': 'Câmara_Municipal_de_Ibirité_-_-_Agente_Legislativo_IV'}
+[2026-11-19 15:32:16] [INFO] Pasta destino: Camara_Gabarito_2009_Câmara_Municipal_De_Ibirité_-_-_Agente_Legislativo_Iv
+[2026-11-19 15:32:16] [ERROR] ❌ Nenhum PDF de prova encontrado
+[2026-11-19 15:32:16] [INFO] 
+Progresso: 53/263 processadas | 210 pendentes | 4 erros
+[2026-11-19 15:32:16] [INFO] 
+================================================================================
+[2026-11-19 15:32:16] [INFO] Processando 54/263: remessa_04/189 ID
+[2026-11-19 15:32:16] [INFO] ================================================================================
+[2026-11-19 15:32:16] [INFO] PDFs encontrados: 1
+[2026-11-19 15:32:16] [INFO]   - Gabarito - Câmara Municipal de Ibirité - 2009 - Agente Legislativo V.pdf
+[2026-11-19 15:32:16] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2009', 'cargo': 'Câmara_Municipal_de_Ibirité_-_-_Agente_Legislativo_V'}
+[2026-11-19 15:32:16] [INFO] Pasta destino: Camara_Gabarito_2009_Câmara_Municipal_De_Ibirité_-_-_Agente_Legislativo_V
+[2026-11-19 15:32:16] [ERROR] ❌ Nenhum PDF de prova encontrado
+[2026-11-19 15:32:16] [INFO] 
+Progresso: 54/263 processadas | 209 pendentes | 5 erros
+[2026-11-19 15:32:16] [INFO] 
+================================================================================
+[2026-11-19 15:32:16] [INFO] Processando 55/263: remessa_04/190 ID
+[2026-11-19 15:32:16] [INFO] ================================================================================
+[2026-11-19 15:32:16] [INFO] PDFs encontrados: 1
+[2026-11-19 15:32:16] [INFO]   - Gabarito - Câmara Municipal de Ibirité - 2022 - Agente de Serviços V) (2).pdf
+[2026-11-19 15:32:16] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2022', 'cargo': 'Câmara_Municipal_de_Ibirité_-_-_Agente_de_Serviços_V_2'}
+[2026-11-19 15:32:16] [INFO] Pasta destino: Camara_Gabarito_2022_Câmara_Municipal_De_Ibirité_-_-_Agente_De_Serviços_V_2
+[2026-11-19 15:32:16] [ERROR] ❌ Nenhum PDF de prova encontrado
+[2026-11-19 15:32:16] [INFO] 
+Progresso: 55/263 processadas | 208 pendentes | 6 erros
+[2026-11-19 15:32:16] [INFO] 
+================================================================================
+[2026-11-19 15:32:16] [INFO] Processando 56/263: remessa_04/191 ID
+[2026-11-19 15:32:16] [INFO] ================================================================================
+[2026-11-19 15:32:16] [INFO] PDFs encontrados: 1
+[2026-11-19 15:32:16] [INFO]   - Gabarito - Câmara Municipal de Ibirité - 2022 - Agente de Serviços V) (2).pdf
+[2026-11-19 15:32:16] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2022', 'cargo': 'Câmara_Municipal_de_Ibirité_-_-_Agente_de_Serviços_V_2'}
+[2026-11-19 15:32:16] [INFO] Pasta destino: Camara_Gabarito_2022_Câmara_Municipal_De_Ibirité_-_-_Agente_De_Serviços_V_2
+[2026-11-19 15:32:16] [ERROR] ❌ Nenhum PDF de prova encontrado
+[2026-11-19 15:32:16] [INFO] 
+Progresso: 56/263 processadas | 207 pendentes | 7 erros
+[2026-11-19 15:32:16] [INFO] 
+================================================================================
+[2026-11-19 15:32:16] [INFO] Processando 57/263: remessa_04/192 ID
+[2026-11-19 15:32:16] [INFO] ================================================================================
+[2026-11-19 15:32:16] [INFO] PDFs encontrados: 1
+[2026-11-19 15:32:16] [INFO]   - Gabarito - Câmara Municipal de Ibirité - 2022 - Agente de Serviços V) (2).pdf
+[2026-11-19 15:32:16] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2022', 'cargo': 'Câmara_Municipal_de_Ibirité_-_-_Agente_de_Serviços_V_2'}
+[2026-11-19 15:32:16] [INFO] Pasta destino: Camara_Gabarito_2022_Câmara_Municipal_De_Ibirité_-_-_Agente_De_Serviços_V_2
+[2026-11-19 15:32:16] [ERROR] ❌ Nenhum PDF de prova encontrado
+[2026-11-19 15:32:16] [INFO] 
+Progresso: 57/263 processadas | 206 pendentes | 8 erros
+[2026-11-19 15:32:16] [INFO] 
+================================================================================
+[2026-11-19 15:32:16] [INFO] Processando 58/263: remessa_04/193 ID
+[2026-11-19 15:32:16] [INFO] ================================================================================
+[2026-11-19 15:32:16] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:16] [INFO]   - Gabarito - Câmara Municipal de Ibirité - 2022 - Agente Legislativo II.pdf
+[2026-11-19 15:32:16] [INFO]   - Prova - Câmara Municipal de Ibirité - 2022 - Agente Legislativo II (2).pdf
+[2026-11-19 15:32:16] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2022', 'cargo': 'Câmara_Municipal_de_Ibirité_-_-_Agente_Legislativo_II'}
+[2026-11-19 15:32:16] [INFO] Pasta destino: Camara_Gabarito_2022_Câmara_Municipal_De_Ibirité_-_-_Agente_Legislativo_Ii
+[2026-11-19 15:32:17] [INFO] ✅ prova_organizada.md gerado (1804 caracteres)
+[2026-11-19 15:32:17] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:17] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:17] [INFO] 
+Progresso: 58/263 processadas | 205 pendentes | 8 erros
+[2026-11-19 15:32:17] [INFO] 
+================================================================================
+[2026-11-19 15:32:17] [INFO] Processando 59/263: remessa_04/194 ID
+[2026-11-19 15:32:17] [INFO] ================================================================================
+[2026-11-19 15:32:17] [INFO] PDFs encontrados: 1
+[2026-11-19 15:32:17] [INFO]   - Gabarito - Câmara Municipal de Ibiá - MG - 2010 - Agente Legislativo.pdf
+[2026-11-19 15:32:17] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'ibiá', 'ano': '2010', 'cargo': 'agente_legislativo'}
+[2026-11-19 15:32:17] [INFO] Pasta destino: Camara_Ibiá_2010_Agente_Legislativo
+[2026-11-19 15:32:17] [ERROR] ❌ Nenhum PDF de prova encontrado
+[2026-11-19 15:32:17] [INFO] 
+Progresso: 59/263 processadas | 204 pendentes | 9 erros
+[2026-11-19 15:32:17] [INFO] 
+================================================================================
+[2026-11-19 15:32:17] [INFO] Processando 60/263: remessa_04/195 ID
+[2026-11-19 15:32:17] [INFO] ================================================================================
+[2026-11-19 15:32:17] [INFO] PDFs encontrados: 1
+[2026-11-19 15:32:17] [INFO]   - Gabarito - Câmara Municipal de Icapuí - - Agente Administrativo – 21 10 2012 - CE - 2012 - Agente Administrativo.pdf
+[2026-11-19 15:32:17] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'icapuí_-_-_agente_administrativo_21_10_2012', 'ano': '2012', 'cargo': 'agente_administrativo'}
+[2026-11-19 15:32:17] [INFO] Pasta destino: Camara_Icapuí_-_-_Agente_Administrativo_21_10_2012_2012_Agente_Administrativo
+[2026-11-19 15:32:17] [ERROR] ❌ Nenhum PDF de prova encontrado
+[2026-11-19 15:32:17] [INFO] 
+Progresso: 60/263 processadas | 203 pendentes | 10 erros
+[2026-11-19 15:32:17] [INFO] 
+================================================================================
+[2026-11-19 15:32:17] [INFO] Processando 61/263: remessa_05/197 ID
+[2026-11-19 15:32:17] [INFO] ================================================================================
+[2026-11-19 15:32:17] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:17] [INFO]   - Gabarito - Câmara Municipal de Vereadores de Iguaracy - PE - 2022 - Agente Administrativo.pdf
+[2026-11-19 15:32:17] [INFO]   - Prova - Câmara Municipal de Iguaracy - PE - 2014 - Agente Administrativo.pdf
+[2026-11-19 15:32:17] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'vereadores_de_iguaracy', 'ano': '2022', 'cargo': 'agente_administrativo'}
+[2026-11-19 15:32:17] [INFO] Pasta destino: Camara_Vereadores_De_Iguaracy_2022_Agente_Administrativo
+[2026-11-19 15:32:17] [INFO] ⚠️  Camara_Vereadores_De_Iguaracy_2022_Agente_Administrativo já existe e tem prova_organizada.md
+[2026-11-19 15:32:17] [INFO] 
+================================================================================
+[2026-11-19 15:32:17] [INFO] Processando 62/263: remessa_05/198 ID
+[2026-11-19 15:32:17] [INFO] ================================================================================
+[2026-11-19 15:32:17] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:17] [INFO]   - Gabarito - Câmara Municipal de Ipameri - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:17] [INFO]   - Prova - Câmara Municipal de Ipameri - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:17] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'ipameri', 'ano': '2026', 'cargo': 'fiscal_de_sala'}
+[2026-11-19 15:32:17] [INFO] Pasta destino: Camara_Ipameri_2026_Fiscal_De_Sala
+[2026-11-19 15:32:18] [INFO] ✅ prova_organizada.md gerado (1724 caracteres)
+[2026-11-19 15:32:18] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:18] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:18] [INFO] 
+Progresso: 62/263 processadas | 201 pendentes | 10 erros
+[2026-11-19 15:32:18] [INFO] 
+================================================================================
+[2026-11-19 15:32:18] [INFO] Processando 63/263: remessa_05/199 ID
+[2026-11-19 15:32:18] [INFO] ================================================================================
+[2026-11-19 15:32:18] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:18] [INFO]   - Gabarito - Câmara Municipal de Ipameri - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:18] [INFO]   - Prova - Câmara Municipal de Ipameri - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:18] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'ipameri', 'ano': '2026', 'cargo': 'fiscal_de_sala'}
+[2026-11-19 15:32:18] [INFO] Pasta destino: Camara_Ipameri_2026_Fiscal_De_Sala
+[2026-11-19 15:32:18] [INFO] ⚠️  Camara_Ipameri_2026_Fiscal_De_Sala já existe e tem prova_organizada.md
+[2026-11-19 15:32:18] [INFO] 
+================================================================================
+[2026-11-19 15:32:18] [INFO] Processando 64/263: remessa_05/200 ID
+[2026-11-19 15:32:18] [INFO] ================================================================================
+[2026-11-19 15:32:18] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:18] [INFO]   - Gabarito - Câmara Municipal de Ipameri - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:18] [INFO]   - Prova - Câmara Municipal de Ipameri - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:18] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'ipameri', 'ano': '2026', 'cargo': 'fiscal_de_sala'}
+[2026-11-19 15:32:18] [INFO] Pasta destino: Camara_Ipameri_2026_Fiscal_De_Sala
+[2026-11-19 15:32:18] [INFO] ⚠️  Camara_Ipameri_2026_Fiscal_De_Sala já existe e tem prova_organizada.md
+[2026-11-19 15:32:18] [INFO] 
+================================================================================
+[2026-11-19 15:32:18] [INFO] Processando 65/263: remessa_05/201 ID
+[2026-11-19 15:32:18] [INFO] ================================================================================
+[2026-11-19 15:32:18] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:18] [INFO]   - Gabarito - Câmara Municipal de Ipameri - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:18] [INFO]   - Prova - Câmara Municipal de Ipameri - GO - 2026 - Fiscal de Sala.pdf
+[2026-11-19 15:32:18] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'ipameri', 'ano': '2026', 'cargo': 'fiscal_de_sala'}
+[2026-11-19 15:32:18] [INFO] Pasta destino: Camara_Ipameri_2026_Fiscal_De_Sala
+[2026-11-19 15:32:18] [INFO] ⚠️  Camara_Ipameri_2026_Fiscal_De_Sala já existe e tem prova_organizada.md
+[2026-11-19 15:32:18] [INFO] 
+================================================================================
+[2026-11-19 15:32:18] [INFO] Processando 66/263: remessa_05/202 ID
+[2026-11-19 15:32:18] [INFO] ================================================================================
+[2026-11-19 15:32:18] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:18] [INFO]   - Gabarito - Câmara Municipal de IPU – - CE - 2023 - Agente Administrativo.pdf
+[2026-11-19 15:32:18] [INFO]   - Prova - Câmara Municipal de IPU – – Agente Administrativo – 07 05 2023 - CE - 2023 - Agente Administrativo.pdf
+[2026-11-19 15:32:18] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'ipu_', 'ano': '2023', 'cargo': 'agente_administrativo'}
+[2026-11-19 15:32:18] [INFO] Pasta destino: Camara_Ipu__2023_Agente_Administrativo
+[2026-11-19 15:32:20] [INFO] ✅ prova_organizada.md gerado (1732 caracteres)
+[2026-11-19 15:32:20] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:20] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:20] [INFO] 
+Progresso: 66/263 processadas | 197 pendentes | 10 erros
+[2026-11-19 15:32:20] [INFO] 
+================================================================================
+[2026-11-19 15:32:20] [INFO] Processando 67/263: remessa_05/203 ID
+[2026-11-19 15:32:20] [INFO] ================================================================================
+[2026-11-19 15:32:20] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:20] [INFO]   - Gabarito - Câmara Municipal de Itapororoca - 2011 - Sintática É.pdf
+[2026-11-19 15:32:20] [INFO]   - Prova - Câmara Municipal de Itapororoca - 2011 - Sintática É.pdf
+[2026-11-19 15:32:20] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2011', 'cargo': 'Câmara_Municipal_de_Itapororoca_-_-_Sintática_É'}
+[2026-11-19 15:32:20] [INFO] Pasta destino: Camara_Gabarito_2011_Câmara_Municipal_De_Itapororoca_-_-_Sintática_É
+[2026-11-19 15:32:21] [INFO] ✅ prova_organizada.md gerado (1792 caracteres)
+[2026-11-19 15:32:21] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:21] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:21] [INFO] 
+Progresso: 67/263 processadas | 196 pendentes | 10 erros
+[2026-11-19 15:32:21] [INFO] 
+================================================================================
+[2026-11-19 15:32:21] [INFO] Processando 68/263: remessa_05/204 ID
+[2026-11-19 15:32:21] [INFO] ================================================================================
+[2026-11-19 15:32:21] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:21] [INFO]   - Gabarito - Câmara Municipal de Itumbiara - Goiás - GO - 2016 - Agente Administrativo.pdf
+[2026-11-19 15:32:21] [INFO]   - Prova - Câmara Municipal de Itumbiara - GO - 2016 - Agente Administrativo.pdf
+[2026-11-19 15:32:21] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'itumbiara_-_goiás', 'ano': '2016', 'cargo': 'agente_administrativo'}
+[2026-11-19 15:32:21] [INFO] Pasta destino: Camara_Itumbiara_-_Goiás_2016_Agente_Administrativo
+[2026-11-19 15:32:21] [INFO] ⚠️  Camara_Itumbiara_-_Goiás_2016_Agente_Administrativo já existe e tem prova_organizada.md
+[2026-11-19 15:32:21] [INFO] 
+================================================================================
+[2026-11-19 15:32:21] [INFO] Processando 69/263: remessa_05/205 ID
+[2026-11-19 15:32:21] [INFO] ================================================================================
+[2026-11-19 15:32:21] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:21] [INFO]   - Gabarito - Câmara Municipal de Itumbiara - Goiás - GO - 2016 - Agente Administrativo.pdf
+[2026-11-19 15:32:21] [INFO]   - Prova - Câmara Municipal de Itumbiara - GO - 2016 - Agente Administrativo.pdf
+[2026-11-19 15:32:21] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'itumbiara_-_goiás', 'ano': '2016', 'cargo': 'agente_administrativo'}
+[2026-11-19 15:32:21] [INFO] Pasta destino: Camara_Itumbiara_-_Goiás_2016_Agente_Administrativo
+[2026-11-19 15:32:21] [INFO] ⚠️  Camara_Itumbiara_-_Goiás_2016_Agente_Administrativo já existe e tem prova_organizada.md
+[2026-11-19 15:32:21] [INFO] 
+================================================================================
+[2026-11-19 15:32:21] [INFO] Processando 70/263: remessa_05/206 ID
+[2026-11-19 15:32:21] [INFO] ================================================================================
+[2026-11-19 15:32:21] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:21] [INFO]   - Gabarito - Câmara Municipal de Itumbiara - Goiás - GO - 2016 - Agente Administrativo.pdf
+[2026-11-19 15:32:21] [INFO]   - Prova - Câmara Municipal de Itumbiara - GO - 2016 - Agente Administrativo.pdf
+[2026-11-19 15:32:21] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'itumbiara_-_goiás', 'ano': '2016', 'cargo': 'agente_administrativo'}
+[2026-11-19 15:32:21] [INFO] Pasta destino: Camara_Itumbiara_-_Goiás_2016_Agente_Administrativo
+[2026-11-19 15:32:21] [INFO] ⚠️  Camara_Itumbiara_-_Goiás_2016_Agente_Administrativo já existe e tem prova_organizada.md
+[2026-11-19 15:32:21] [INFO] 
+================================================================================
+[2026-11-19 15:32:21] [INFO] Processando 71/263: remessa_05/207 ID
+[2026-11-19 15:32:21] [INFO] ================================================================================
+[2026-11-19 15:32:21] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:21] [INFO]   - Gabarito - Câmara Municipal de Itumbiara - Goiás - GO - 2016 - Agente Administrativo.pdf
+[2026-11-19 15:32:21] [INFO]   - Prova - Câmara Municipal de Itumbiara - GO - 2016 - Agente Administrativo.pdf
+[2026-11-19 15:32:21] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'itumbiara_-_goiás', 'ano': '2016', 'cargo': 'agente_administrativo'}
+[2026-11-19 15:32:21] [INFO] Pasta destino: Camara_Itumbiara_-_Goiás_2016_Agente_Administrativo
+[2026-11-19 15:32:21] [INFO] ⚠️  Camara_Itumbiara_-_Goiás_2016_Agente_Administrativo já existe e tem prova_organizada.md
+[2026-11-19 15:32:21] [INFO] 
+================================================================================
+[2026-11-19 15:32:21] [INFO] Processando 72/263: remessa_05/208 ID
+[2026-11-19 15:32:21] [INFO] ================================================================================
+[2026-11-19 15:32:21] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:21] [INFO]   - Gabarito - Câmara Municipal de Itupeva - SP - 2024 - Agente Legislativo - Recepção.pdf
+[2026-11-19 15:32:21] [INFO]   - Prova - Câmara Municipal de Itupeva - SP - 2024 - Agente Legislativo - Recepção.pdf
+[2026-11-19 15:32:21] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'itupeva', 'ano': '2024', 'cargo': 'agente_legislativo_-_recepção'}
+[2026-11-19 15:32:21] [INFO] Pasta destino: Camara_Itupeva_2024_Agente_Legislativo_-_Recepção
+[2026-11-19 15:32:22] [INFO] ✅ prova_organizada.md gerado (1754 caracteres)
+[2026-11-19 15:32:22] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:22] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:22] [INFO] 
+Progresso: 72/263 processadas | 191 pendentes | 10 erros
+[2026-11-19 15:32:22] [INFO] 
+================================================================================
+[2026-11-19 15:32:22] [INFO] Processando 73/263: remessa_05/209 ID
+[2026-11-19 15:32:22] [INFO] ================================================================================
+[2026-11-19 15:32:22] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:22] [INFO]   - Gabarito - Câmara Municipal de Itupeva - SP - 2024 - Agente Legislativo - Servi˙os.pdf
+[2026-11-19 15:32:22] [INFO]   - Prova - Câmara Municipal de Itupeva – - SP - 2024 - Agente Legislativo - Servi˙os.pdf
+[2026-11-19 15:32:22] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'itupeva', 'ano': '2024', 'cargo': 'agente_legislativo_-_servios'}
+[2026-11-19 15:32:22] [INFO] Pasta destino: Camara_Itupeva_2024_Agente_Legislativo_-_Servios
+[2026-11-19 15:32:22] [INFO] ✅ prova_organizada.md gerado (1751 caracteres)
+[2026-11-19 15:32:22] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:22] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:22] [INFO] 
+Progresso: 73/263 processadas | 190 pendentes | 10 erros
+[2026-11-19 15:32:22] [INFO] 
+================================================================================
+[2026-11-19 15:32:22] [INFO] Processando 74/263: remessa_05/210 ID
+[2026-11-19 15:32:22] [INFO] ================================================================================
+[2026-11-19 15:32:22] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:22] [INFO]   - Gabarito - Câmara Municipal de Jambeiro 01 2014 - AC - 2014 - Agente Administrativo.pdf
+[2026-11-19 15:32:22] [INFO]   - Prova - Câmara Municipal de Jambeiro 01 2014 - AC - 2013 - Agente Administrativo.pdf
+[2026-11-19 15:32:22] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'jambeiro_01_2014', 'ano': '2014', 'cargo': 'agente_administrativo'}
+[2026-11-19 15:32:22] [INFO] Pasta destino: Camara_Jambeiro_01_2014_2014_Agente_Administrativo
+[2026-11-19 15:32:23] [INFO] ✅ prova_organizada.md gerado (1756 caracteres)
+[2026-11-19 15:32:23] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:23] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:23] [INFO] 
+Progresso: 74/263 processadas | 189 pendentes | 10 erros
+[2026-11-19 15:32:23] [INFO] 
+================================================================================
+[2026-11-19 15:32:23] [INFO] Processando 75/263: remessa_05/211 ID
+[2026-11-19 15:32:23] [INFO] ================================================================================
+[2026-11-19 15:32:23] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:23] [INFO]   - Gabarito - Câmara Municipal de Jaru - RO - 2014 - Agente Administrativo.pdf
+[2026-11-19 15:32:23] [INFO]   - Prova - Câmara Municipal de Jaru – - RO - 2007 - Agente Administrativo.pdf
+[2026-11-19 15:32:23] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'jaru', 'ano': '2014', 'cargo': 'agente_administrativo'}
+[2026-11-19 15:32:23] [INFO] Pasta destino: Camara_Jaru_2014_Agente_Administrativo
+[2026-11-19 15:32:24] [INFO] ✅ prova_organizada.md gerado (1732 caracteres)
+[2026-11-19 15:32:24] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:24] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:24] [INFO] 
+Progresso: 75/263 processadas | 188 pendentes | 10 erros
+[2026-11-19 15:32:24] [INFO] 
+================================================================================
+[2026-11-19 15:32:24] [INFO] Processando 76/263: remessa_05/212 ID
+[2026-11-19 15:32:24] [INFO] ================================================================================
+[2026-11-19 15:32:24] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:24] [INFO]   - Gabarito - Câmara Municipal de Jataizinho - PA - 2013 - Agente Legislativo.pdf
+[2026-11-19 15:32:24] [INFO]   - Prova - Câmara Municipal de Jataizinho - PA - 2013 - Agente Legislativo.pdf
+[2026-11-19 15:32:24] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'jataizinho', 'ano': '2013', 'cargo': 'agente_legislativo'}
+[2026-11-19 15:32:24] [INFO] Pasta destino: Camara_Jataizinho_2013_Agente_Legislativo
+[2026-11-19 15:32:24] [INFO] ✅ prova_organizada.md gerado (1738 caracteres)
+[2026-11-19 15:32:24] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:24] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:24] [INFO] 
+Progresso: 76/263 processadas | 187 pendentes | 10 erros
+[2026-11-19 15:32:24] [INFO] 
+================================================================================
+[2026-11-19 15:32:24] [INFO] Processando 77/263: remessa_05/213 ID
+[2026-11-19 15:32:24] [INFO] ================================================================================
+[2026-11-19 15:32:24] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:24] [INFO]   - Gabarito - Câmara Municipal de Juiz de Fora - 2014 - Analista de Sistemas.pdf
+[2026-11-19 15:32:24] [INFO]   - Prova - Câmara Municipal de Juiz de Fora - 2014 - Analista de Sistemas.pdf
+[2026-11-19 15:32:24] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2014', 'cargo': 'Câmara_Municipal_de_Juiz_de_Fora_-_-_Analista_de_Sistemas'}
+[2026-11-19 15:32:24] [INFO] Pasta destino: Camara_Gabarito_2014_Câmara_Municipal_De_Juiz_De_Fora_-_-_Analista_De_Sistemas
+[2026-11-19 15:32:25] [INFO] ✅ prova_organizada.md gerado (1812 caracteres)
+[2026-11-19 15:32:25] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:25] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:25] [INFO] 
+Progresso: 77/263 processadas | 186 pendentes | 10 erros
+[2026-11-19 15:32:25] [INFO] 
+================================================================================
+[2026-11-19 15:32:25] [INFO] Processando 78/263: remessa_05/214 ID
+[2026-11-19 15:32:25] [INFO] ================================================================================
+[2026-11-19 15:32:25] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:25] [INFO]   - Gabarito - Câmara Municipal de Juiz de Fora - MG - 2018 - Das Vírgulas no Trecho “essa.pdf
+[2026-11-19 15:32:25] [INFO]   - Prova - Câmara Municipal de Juiz de Fora – Minas Gerais - CE - 2006 - Das Vírgulas no Trecho “essa.pdf
+[2026-11-19 15:32:25] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'juiz_de_fora', 'ano': '2018', 'cargo': 'das_vírgulas_no_trecho_essa'}
+[2026-11-19 15:32:25] [INFO] Pasta destino: Camara_Juiz_De_Fora_2018_Das_Vírgulas_No_Trecho_Essa
+[2026-11-19 15:32:25] [INFO] ⚠️  Camara_Juiz_De_Fora_2018_Das_Vírgulas_No_Trecho_Essa já existe e tem prova_organizada.md
+[2026-11-19 15:32:25] [INFO] 
+================================================================================
+[2026-11-19 15:32:25] [INFO] Processando 79/263: remessa_05/215 ID
+[2026-11-19 15:32:25] [INFO] ================================================================================
+[2026-11-19 15:32:25] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:25] [INFO]   - Gabarito - Câmara Municipal de Lagoa da Prata - 2023 - Agente Administrativo.pdf
+[2026-11-19 15:32:25] [INFO]   - Prova - Câmara Municipal de Lagoa da Prata - 2023 - Agente Administrativo.pdf
+[2026-11-19 15:32:25] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2023', 'cargo': 'Câmara_Municipal_de_Lagoa_da_Prata_-_-_Agente_Administrativo'}
+[2026-11-19 15:32:25] [INFO] Pasta destino: Camara_Gabarito_2023_Câmara_Municipal_De_Lagoa_Da_Prata_-_-_Agente_Administrativo
+[2026-11-19 15:32:26] [INFO] ✅ prova_organizada.md gerado (1818 caracteres)
+[2026-11-19 15:32:26] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:26] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:26] [INFO] 
+Progresso: 79/263 processadas | 184 pendentes | 10 erros
+[2026-11-19 15:32:26] [INFO] 
+================================================================================
+[2026-11-19 15:32:26] [INFO] Processando 80/263: remessa_05/216 ID
+[2026-11-19 15:32:26] [INFO] ================================================================================
+[2026-11-19 15:32:26] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:26] [INFO]   - Gabarito - Câmara Municipal de Lagoa de Itaenga - PE - 2022 - Agente Legislativo.pdf
+[2026-11-19 15:32:26] [INFO]   - Prova - Câmara Municipal de Lagoa de Itaenga - PE - 2022 - Agente Legislativo.pdf
+[2026-11-19 15:32:26] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'lagoa_de_itaenga', 'ano': '2022', 'cargo': 'agente_legislativo'}
+[2026-11-19 15:32:26] [INFO] Pasta destino: Camara_Lagoa_De_Itaenga_2022_Agente_Legislativo
+[2026-11-19 15:32:27] [INFO] ✅ prova_organizada.md gerado (1750 caracteres)
+[2026-11-19 15:32:27] [INFO] ✅ relatorio_analise.md gerado
+[2026-11-19 15:32:28] [INFO] ✅ PROVA_ORGANIZADA.zip gerado
+[2026-11-19 15:32:28] [INFO] 
+Progresso: 80/263 processadas | 183 pendentes | 10 erros
+[2026-11-19 15:32:28] [INFO] 
+================================================================================
+[2026-11-19 15:32:28] [INFO] Processando 81/263: remessa_06/217 ID
+[2026-11-19 15:32:28] [INFO] ================================================================================
+[2026-11-19 15:32:28] [INFO] PDFs encontrados: 2
+[2026-11-19 15:32:28] [INFO]   - Gabarito - Camara de Lagoa do Carro PE 2025 - Agente Administrativo do Legislativo (Darwin-qconcursos).pdf
+[2026-11-19 15:32:28] [INFO]   - Prova - Câmara Municipal de Lagoa do Carro – - PE - 2025 - Agente Administrativo do Legislativo.pdf
+[2026-11-19 15:32:28] [INFO] Metadados extraídos: {'orgao': 'Camara', 'cidade': 'Gabarito', 'ano': '2025', 'cargo': 'Camara_de_Lagoa_do_Carro_PE_-_Agente_Administrativo_do_Legislativo_Darwin-qconcursos'}
+[2026-11-19 15:32:28] [INFO] Pasta destino: Camara_Gabarito_2025_Camara_De_Lagoa_Do_Carro_Pe_-_Agente_Administrativo_Do_Legislativo_Darwin-Qconcursos

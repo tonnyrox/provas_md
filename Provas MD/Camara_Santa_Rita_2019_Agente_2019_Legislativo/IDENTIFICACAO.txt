@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 316 ID (fila Falta_fazer / remessa_10)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Santa Rita - PB - 2019 - Agente Legislativo (2).pdf
+Detalhe: 16p, 1182KB, PROVA
+Cidade (provavel): Maturéia
+Ano: 2019
+Fonte da identificacao: pdf-inteiro (1 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

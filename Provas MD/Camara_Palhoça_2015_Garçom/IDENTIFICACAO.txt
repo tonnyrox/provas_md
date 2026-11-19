@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 264 ID (fila Falta_fazer / remessa_08)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Palhoça - SP - 2015 - Garçom.pdf | Prova - Câmara Municipal de Palhoça - SP - 2015 - Garçom.pdf
+Detalhe: 1p, 102KB, GABARITO; 16p, 348KB, INDEFINIDO
+Cidade (provavel): Palhoça
+Ano: 2015
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 328 ID (fila Falta_fazer / remessa_11)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Sorocaba - SP - 2022 - Analista de Sistemas I Página 1 de 13.pdf | Prova - Câmara Municipal de Sorocaba - SP - 2022 - Analista de Sistemas I Página 1 de 13.pdf
+Detalhe: 3p, 107KB, GABARITO; 13p, 387KB, INDEFINIDO
+Cidade (provavel): Sorocaba
+Ano: 2022
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

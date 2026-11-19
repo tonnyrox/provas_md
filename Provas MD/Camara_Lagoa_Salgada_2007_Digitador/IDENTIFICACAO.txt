@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 219 ID (fila Falta_fazer / remessa_06)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Lagoa Salgada - RN - 2007 - – Digitador.pdf
+Detalhe: 4p, 193KB, GABARITO
+Cidade (provavel): LAGOA SALGADA Rua
+Ano: 2007
+Fonte da identificacao: capa
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

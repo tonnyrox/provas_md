@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 312 ID (fila Falta_fazer / remessa_10)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Santa Maria - Agente Legislativo.pdf | Prova - Câmara Municipal de Santa Maria - Agente Legislativo.pdf
+Detalhe: 5p, 141KB, GABARITO; 9p, 299KB, PROVA
+Cidade (provavel): Santa Maria
+Ano: 2007
+Fonte da identificacao: nome
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: CONFERIR-DUPLICATA de 310 ID

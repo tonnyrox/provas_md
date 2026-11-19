@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 397 ID (fila Falta_fazer / remessa_14)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Prefeitura Municipal de João Câmara – - RN - 2006 - Agente Administrativo.pdf
+Detalhe: 24p, 154KB, GABARITO
+Cidade (provavel): João Câmara
+Ano: 2006
+Fonte da identificacao: pdf-inteiro (24 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

@@ -1,54 +1,28 @@
-# PROVA — Camara Nao_Identificado — Agente (1997)
+# Camara_Mariana_1997_1997_Agente_Legislativo
 
-## 1. Análise geral da prova
+## Identificação
 
-- **Identificação:** Concurso Público da Camara de Nao_Identificado, 1997. Cargo: Agente.
-- **Quantidade total de questões:** 219
-- **Quantidade de textos de apoio:** 0
-- **Quantidade de imagens:** Sim
-- **Quantidade de grupos identificados:** 0
-- **Quantidade de questões independentes:** 219
+- **Instituição**: Camara
+- **Cidade**: Mariana
+- **Ano**: 1997
+- **Cargo**: Agente_Legislativo
+- **Banca**: N/I
+- **Data**: N/I
+- **Número de Questões**: 0 (a ser preenchido)
 
-### Transcrição integral da capa/instruções
+## Observações
 
-> pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YjFjYTo5YjRh:U3VuLCAwOCBOb3YgMjAyNiAxMjozNDowMyAtMDMwMA==
-Agente Legislativo
-Câmara Municipal de Mariana/MG
-PROVA 7IPO1–BRANCA
-TARDE
-Concurso Público
-(dital5
-www.pciconcursos.com.br
-pcimarkpci MDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6YjFjYTo5YjRh:U3VuLCAwOCBOb3YgMjAyNiAxMjozNDowMyAtMDMwMA==
-  
-2 
- 
-AGENTE LEGISLATIVO 
-TARDE | TIPO 1 – BRANCA 🜸 
-CONCURSO PÚBLICO – CÂMARA MUNICIPAL DE MARIANA/MG 
-CARGO: AGENTE LEGISLATIVO 
- 
-CONHECIME...
+- Prova em processamento
+- Arquivos originais copiados
+- Aguardando extração de conteúdo
+
+## Arquivos
 
 
-## 2. Questões independentes
+- [Gabarito - Câmara Municipal de Mariana - MG - 1997 - Agente Legislativo.pdf](Gabarito - Câmara Municipal de Mariana - MG - 1997 - Agente Legislativo.pdf)
 
-### QUESTÃO 1
-
-**Enunciado:**
-(enunciado da questão)
-
-**Alternativas:**
-A) ...
-B) ...
-C) ...
-D) ...
-E) ...
-
-✅ **Gabarito: [preencher]**
-
-**Referências visuais:**
-Nenhuma.
+- [Prova - Câmara Municipal de Mariana - MG - 1997 - Agente Legislativo.pdf](Prova - Câmara Municipal de Mariana - MG - 1997 - Agente Legislativo.pdf)
 
 ---
 
+*Processado em: 2026-11-19 15:34:42*

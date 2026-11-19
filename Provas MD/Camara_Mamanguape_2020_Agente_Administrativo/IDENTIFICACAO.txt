@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 228 ID (fila Falta_fazer / remessa_06)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Camara de Mamanguape PB 2020 - Agente Administrativo (IDIB-qconcursos).pdf | Prova - Câmara Municipal de Mamanguape - PB - 2020 - Agente Administrativo.pdf
+Detalhe: 2p, 802KB, PROVA; 7p, 1058KB, PROVA
+Cidade (provavel): Mamanguape
+Ano: 2020
+Fonte da identificacao: pdf-inteiro (1 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR

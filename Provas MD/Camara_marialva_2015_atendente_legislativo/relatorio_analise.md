@@ -1,19 +1,25 @@
-# Relatório de análise — Camara_marialva_2015_atendente_legislativo
+# Relatório de Análise - Camara_Marialva_2015_2015_Atendente_Legislativo
 
-## Resumo
-- **Data de processamento:** 2026-11-19 15:21:22
-- **PDF de origem:** Prova - Câmara Municipal de Marialva - PA - 2015 - Atendente Legislativo.pdf
-- **Metadados:** {
-  "orgao": "Camara",
-  "cidade": "Nao_Identificado",
-  "ano": "2015",
-  "cargo": "LEGISLATIVO",
-  "quantidade_questoes": 160,
-  "tem_imagens": false,
-  "questoes_agrupadas": true
-}
+## Informações Básicas
 
-## Análise
-- **Quantidade de questões:** 160
-- **Questões agrupadas:** Sim
-- **Tem imagens:** Não
+- **ID Original**: 235 ID
+- **Arquivos Encontrados**: 2 PDF(s)
+- **Pasta Local**: C:\Users\Tonny\Downloads\projeto_git_prova\000000 -OK\Falta_fazer\remessa_06\235 ID
+
+## Verificação de Duplicidade
+
+- [ ] Prova já cadastrada no GitHub
+- [ ] Duplicidade confirmada
+- [x] Nova prova a ser processada
+
+## Próximos Passos
+
+1. [ ] Extrair texto completo dos PDFs
+2. [ ] Identificar e classificar todas as questões
+3. [ ] Verificar duplicidade de conteúdo
+4. [ ] Organizar imagens e materiais de apoio
+5. [ ] Gerar arquivos finais padronizados
+
+---
+
+*Gerado em: 2026-11-19 15:34:42*

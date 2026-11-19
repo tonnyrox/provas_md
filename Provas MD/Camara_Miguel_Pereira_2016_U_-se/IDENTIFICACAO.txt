@@ -1,0 +1,11 @@
+﻿IDENTIFICACAO DA REMESSA — 240 ID (fila Falta_fazer / remessa_07)
+Nomes de PDF podem estar errados; identificacao pelos nomes + capa. Estado: ainda NAO publicado no GitHub.
+
+PDFs: Gabarito - Câmara Municipal de Miguel Pereira - SE - 2016 - U -se.pdf | Prova - Câmara Municipal de Miguel Pereira – Agente Administrativo - SE - 1998 - U -se.pdf
+Detalhe: 8p, 740KB, GABARITO; 6p, 544KB, PROVA
+Cidade (provavel): Miguel Pereira
+Ano: 2016
+Fonte da identificacao: pdf-inteiro (5 ocorr.)
+Pasta jah existente no GitHub a conferir (provavel duplicata): -
+
+Status de trabalho: INEDITA-PRONTA-PARA-PROCESSAR
