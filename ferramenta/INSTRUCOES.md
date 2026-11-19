@@ -242,3 +242,33 @@ O [`organizador_provas.py`](organizador_provas.py) agora resolve sozinho, sem in
 5. Copiar para `Provas MD/`, commitar na `main` e conferir `git status` (só os arquivos da prova nova).
 
 **Regra de duplicidade (PROMPT MESTRE):** ano diferente = concurso diferente, mesmo que as questões se repitam — cadastre as duas e registre a recorrência nos dois `relatorio_analise.md` (exemplo: `Camara_Carangola_1992_Agente_Administrativo_I` e `Camara_Carangola_2008_Agente_Administrativo_I`). Prova idêntica (mesmo ano, cargo, banca e conteúdo) já existente = não processe novamente.
+---
+
+## PARTE 6 — AUDITORIA ESTRUTURAL DO BANCO (pós-publicação)
+
+Publicada ≠ validada para sempre. Depois de lotes grandes, rode o **auditor estrutural** sobre o banco inteiro ([`auditor_estrutural.py`](auditor_estrutural.py)):
+
+```
+python ferramenta/auditor_estrutural.py                    # acervo inteiro
+python ferramenta/auditor_estrutural.py --prova Florania   # filtra por substring
+python ferramenta/auditor_estrutural.py --saida achados.txt
+```
+
+O que ele verifica em cada prova (detalhes no cabeçalho do script):
+
+1. Seções 1–4 presentes;
+2. numeração contínua 1..N e coerência com a seção 1;
+3. linha de gabarito em toda questão;
+4. grupos: faixa do cabeçalho × "Questões relacionadas" (intervalos `01 a 10` são expandidos), material presente em todas as questões do grupo e materiais ~idênticos dentro do grupo;
+5. imagens: referência dentro da questão refletida em "Referências visuais";
+6. marcadores de truncamento conhecidos;
+7. vazamento de rótulo de disciplina ("MATEMÁTICA", "CONHECIMENTOS ESPECÍFICOS"...) na cauda das alternativas.
+
+**Resultado da auditoria completa de 11/2026 sobre as 122 provas:** 0 ERROs; único AVISO restante é legítimo (Florânia 2007 q4 usa a lista de afirmativas I–IV como material, conforme o PDF original). Correções aplicadas nessa auditoria estão em `GARGALOS_E_SOLUCOES.md`, Caso 16.
+
+Regras da auditoria (do PROMPT MESTRE):
+
+- **ERRO** = violação de estrutura/padrão → corrigir o `.md` e regenerar o ZIP antes de continuar.
+- **AVISO** = diferença que pode ser legítima → conferir sempre contra o PDF original; nunca "corrigir" sem o original na mão.
+- Correções de conteúdo só com o PDF de origem conferido (capa, bloco e página); partes ilegíveis do original são registradas na seção 4, nunca inventadas.
+- Ao alterar uma prova: atualizar `relatorio_analise.md`, regenerar `PROVA_ORGANIZADA.zip` e commitar com o motivo.
