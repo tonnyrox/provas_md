@@ -17,13 +17,9 @@
 > Conteúdo integral das páginas anteriores à primeira questão, sem cortes.
 
 > CONCURSO CÂMARA MUNICIPAL DE ESTREITO-MA
->
->
->
+
 > Z
->
->
->
+
 > ESTADO DO MARANHÃO
 > CÂMARA MUNICIPAL DE ESTREITO
 > CONCURSO PÚBLICO PARA PROVIMENTOS DE CARGOS
@@ -33,9 +29,7 @@
 > A
 > B
 > D
->
->
->
+
 > INSTITUTO MACHADO DE ASSIS - IMA
 > CONCURSO PÚBLICO DA PREFEITURA MUNICIPAL DE ESTREITO-MA
 > FOLHA DE ANOTAÇÃO DO GABARITO - ATENÇÃO: Esta parte somente deverá ser destacada pelo fiscal da sala, após o término da prova.
@@ -43,7 +37,7 @@
 > TURNO: MANHÃ
 > CADERNO DE PROVA OBJETIVA
 > Leia atentamente as instruções abaixo.
->
+
 > 01- Você recebeu do fiscal o seguinte material:
 > a) Este Caderno, com 40 (quarenta) questões da Prova Objetiva, sem repetição ou falha,
 > conforme distribuição abaixo. Examine se a prova está completa, se há falhas ou imperfeições
@@ -52,19 +46,18 @@
 > Matemática
 > Informática
 > Conhec. Específicos
->
+
 > 02- A prova terá duração de 3 (três horas).
 > 03- No Cartão de Respostas, a marcação da alternativa correta deve ser feita cobrindo a letra e
 > preenchendo todo o espaço interno do quadrado, com caneta esferográfica de tinta na cor azul ou
 > preta, de forma contínua e densa.
 > Exemplo:
->
->
+
 > 05- Para cada uma das questões objetivas, são apresentadas 4 (quatro) alternativas classificadas
 > com as letras (A, B, C, D), mas só uma responde adequadamente à questão proposta. Você só
 > deve assinalar uma alternativa. A marcação em mais de uma alternativa anula a questão, mesmo
 > que uma das respostas esteja correta.
->
+
 > 06- Será eliminado do Concurso Público o candidato que:
 > a) Utilizar ou consultar cadernos, livros, notas de estudo, calculadoras, telefones celulares, pagers,
 > walkmans, réguas, esquadros, transferidores, compassos, MP3, Ipod, Ipad e quaisquer outros
@@ -74,11 +67,9 @@
 > (uma) hora a partir do início da prova.
 > 5.11.1. O candidato somente poderá levar o Caderno de Questões caso saía da sala de aplicação
 > de sua prova nos últimos 30 (trinta) minutos.
->
+
 > NOME DO (A) CANDIDATO (A):_________________________________________________
->
->
->
+
 > MAIS INFORMAÇÕES:
 > Internet:
 > www.institutomachadodeassis.com.br
@@ -87,23 +78,11 @@
 > A
 > B
 > D
->
->
->
-> Página 2 de 11
->
->
->
+
 > CARGO: AGENTE ADMINISTRATIVO
 > INSTITUTO MACHADO DE ASSIS - IMA
 > CONCURSO PÚBLICO CÂMARA MUNICIPAL DE ESTREITO-MA
->
->
->
->
->
->
-> Página 3 de 11
+
 > CARGO: AGENTE ADMINISTRATIVO
 > INSTITUTO MACHADO DE ASSIS - IMA
 > CONCURSO PÚBLICO CÂMARA MUNICIPAL DE ESTREITO-MA
@@ -133,10 +112,7 @@
 > mais caros, então, há acesso, mas ele não é igualitário e includente, ele atende a um
 > mecanismo maquínico que vai além da discussão da tecnologia em si.
 > FILOSOFIA, ciência & vida, nº 116, p.56, abril/2016
->
->
->
-> Página 4 de 11
+
 > CARGO: AGENTE ADMINISTRATIVO
 > INSTITUTO MACHADO DE ASSIS - IMA
 

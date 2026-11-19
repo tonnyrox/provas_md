@@ -16,7 +16,6 @@
 > [!NOTE]
 > Conteúdo integral das páginas anteriores à primeira questão, sem cortes.
 
-> Página 1
 > EDITAL DE CONCURSO PÚBLICO N.º 001/2011
 > CÂMARA MUNICIPAL DE CLEVELÂNDIA
 > CARGO: AGENTE ADMINISTRATIVO II
@@ -266,10 +265,7 @@
 > C
 > D
 > E
->
->
->
-> Página 2
+
 > LÍNGUA PORTUGUESA
 > TEXTO
 > “Em vários aspectos, vive-se melhor numa calçada imunda de São Paulo do que com um emprego de baixa
@@ -735,7 +731,6 @@ assinale a alternativa que contempla um objetivo estratégico para o desenvolvim
 
 A) Incentivar a participação popular como instrumento de construção da cidadania.
 B) Promover meios efetivos e eficazes de participação da população na gestão do Município.
-Página 6
 C) Combater as causas da pobreza.
 D) Fortalecer a municipalidade como espaço privilegiado de gestão pública democrática e criativa, de
 solidariedade social e de valorização da cidadania.

@@ -1,0 +1,173 @@
+================================================================================
+RELATÓRIO COMPLETO DA AUDITORIA DO ACERVO DE PROVAS
+================================================================================
+
+Total de provas auditadas: 122
+Provas OK (sem problemas): 112
+Provas com problemas: 0
+Provas com avisos: 10
+Total de questões verificadas: 0
+Total de imagens referenciadas: 679
+
+================================================================================
+PROVAS COM AVISOS (verificar manualmente)
+================================================================================
+
+Camara_Americana_2024_Analista_de_Comunicacao:
+  - [AVISO] Possível resíduo de numeração de página do PDF
+
+Camara_Araraquara_2016_Assistente_de_Cerimonial:
+  - [AVISO] Possível resíduo de numeração de página do PDF
+
+Camara_Araripina_2020_Agente_Administrativo_Grupo_02:
+  - [AVISO] Possível resíduo de numeração de página do PDF
+
+Camara_Araripina_2024_Agente_Administrativo:
+  - [AVISO] Possível resíduo de numeração de página do PDF
+
+Camara_Cacapava_2025_Agente_Administrativo:
+  - [AVISO] Possível resíduo de numeração de página do PDF
+
+Camara_Calumbi_2024_Agente_Administrativo:
+  - [AVISO] Possível resíduo de numeração de página do PDF
+
+Camara_Caroebe_2014_Nivel_Fundamental:
+  - [AVISO] Possível resíduo de numeração de página do PDF
+
+Camara_Caroebe_2014_Nivel_Medio:
+  - [AVISO] Possível resíduo de numeração de página do PDF
+
+Camara_Ouro_Preto_do_Oeste_2024_Agente_Administrativo:
+  - [AVISO] Possível resíduo de numeração de página do PDF
+
+Camara_Sao_Luiz_do_Paraitinga_2015_Analista_de_Comunicacao:
+  - [AVISO] Possível resíduo de numeração de página do PDF
+
+================================================================================
+RESUMO POR PROVA
+================================================================================
+
+ID   Prova                                                          Qtde   Agr.   Imgs   Status
+--------------------------------------------------------------------------------
+1    Camara_Abaetetuba_2018_Administrador                              0      0      0       OK
+2    Camara_Abaetetuba_2018_Agente_Legislativo                         0      0      4       OK
+3    Camara_Acarau_2009_Agente_Administrativo                          0      0      0       OK
+4    Camara_Alenquer_2010_Atendente_Legislativo                        0      0     19       OK
+5    Camara_Altonia_2024_Agente_Administrativo                         0      0      0       OK
+6    Camara_Alto_Paraiso_2024_Agente_Administrativo                    0      0      0       OK
+7    Camara_Alvorada_2008_Agente_Administrativo                        0      0      2       OK
+8    Camara_Americana_2024_Analista_de_Comunicacao                     0      0      8    AVISO
+9    Camara_Anapolis_2024_Analista_de_Sistemas                         0      0     15       OK
+10   Camara_Aquiraz_2001_Agente_Administrativo                         0      0     13       OK
+11   Camara_Aquiraz_2024_Agente_Administrativo_do_Legislativo          0      0      4       OK
+12   Camara_Aracati_2026_Agente_Administrativo                         0      0      0       OK
+13   Camara_Araraquara_2003_Agente_Administrativo                      0      0      2       OK
+14   Camara_Araraquara_2016_Assistente_de_Cerimonial                   0      0      1    AVISO
+15   Camara_Araraquara_2017_Agente_Administrativo                      0      0     10       OK
+16   Camara_Araraquara_2018_Cerimonialista                             0      0     15       OK
+17   Camara_Araraquara_2024_Cerimonialista                             0      0      0       OK
+18   Camara_Araripina_2020_Agente_Administrativo_Grupo_02              0      0      0    AVISO
+19   Camara_Araripina_2024_Agente_Administrativo                       0      0      0    AVISO
+20   Camara_Arcoverde_2016_Agente_Administrativo                       0      0      0       OK
+21   Camara_Areal_2024_Agente_Legislativo                              0      0      4       OK
+22   Camara_Asis_2014_Agente_Legislativo                               0      0      8       OK
+23   Camara_Balneario_Camboriu_2010_Analista_de_Sistemas               0      0      8       OK
+24   Camara_Barbacena_2022_Agente_Administrativo                       0      0     16       OK
+25   Camara_Barbalha_2019_Nivel_Medio                                  0      0      2       OK
+26   Camara_Barra_Bonita_2012_Agente_Administrativo                    0      0      4       OK
+27   Camara_Belem_do_Sao_Francisco_2016_Agente_Administrativo          0      0      4       OK
+28   Camara_Belo_Horizonte_2023_Administrador                          0      0      1       OK
+29   Camara_Belo_Jardim_2015_Agente_Administrativo                     0      0      8       OK
+30   Camara_Bezerros_2025_Agente_Administrativo                        0      0      0       OK
+31   Camara_Boa_Viagem_2016_Agente_Administrativo                      0      0      6       OK
+32   Camara_Bom_Jesus_do_Itabapoana_2010_Agente_Legislativo            0      0      2       OK
+33   Camara_Bom_Principio_2026_Agente_Legislativo                      0      0      0       OK
+34   Camara_Bonito_de_Minas_2009                                       0      0      1       OK
+35   Camara_Braga_2023_Assessor_Administrativo_e_Tesoureiro            0      0     11       OK
+36   Camara_Brejo_da_Madre_de_Deus_2016_Agente_Administrativo          0      0      0       OK
+37   Camara_Brusque_2024_Agente_Administrativo_Recepcao                0      0      2       OK
+38   Camara_Cacapava_2015_Agente_Administrativo                        0      0     37       OK
+39   Camara_Cacapava_2025_Agente_Administrativo                        0      0      8    AVISO
+40   Camara_Caceres_2018_Analista_em_Comunicacao_Social_Jornali        0      0     11       OK
+41   Camara_Cacoal_2018_Agente_Administrativo                          0      0      0       OK
+42   Camara_Caete_2015_Agente_Administrativo                           0      0     17       OK
+43   Camara_Calumbi_2024_Agente_Administrativo                         0      0      0    AVISO
+44   Camara_Camaragibe_2016_Agente_Administrativo                      0      0      4       OK
+45   Camara_Campina_Grande_2018_Assessor_Tecnico_Legislativo_I         0      0     16       OK
+46   Camara_Campo_Mourao_2006_Agente_Administrativo                    0      0      4       OK
+47   Camara_Canaa_dos_Carajas_2014_Agente_Legislativo                  0      0      2       OK
+48   Camara_Candiota_2024_Agente_Administrativo                        0      0      5       OK
+49   Camara_Capanema_2017_Agente_Administrativo                        0      0      6       OK
+50   Camara_Carangola_1992_Agente_Administrativo_I                     0      0      2       OK
+51   Camara_Carangola_2008_Agente_Administrativo_I                     0      0      2       OK
+52   Camara_Carangola_2008_Agente_Administrativo_II                    0      0      0       OK
+53   Camara_Carangola_2008_Agente_Administrativo_III                   0      0      0       OK
+54   Camara_Carangola_2008_Agente_Administrativo_IV_Controle_In        0      0      0       OK
+55   Camara_Carangola_2008_Agente_Administrativo_IV_Servico_Leg        0      0      0       OK
+56   Camara_Caroebe_2014_Nivel_Fundamental                             0      0      0    AVISO
+57   Camara_Caroebe_2014_Nivel_Medio                                   0      0      4    AVISO
+58   Camara_Catas_Altas_da_Noruega_2010_Agente_Legislativo             0      0      2       OK
+59   Camara_Caucaia_2010_Agente_Administrativo                         0      0      0       OK
+60   Camara_Caucaia_2016_Agente_Administrativo                         0      0     16       OK
+61   Camara_Caucaia_2024_Agente_Administrativo_do_Legislativo          0      0      6       OK
+62   Camara_Cerro_Cora_2020_Agente_Administrativo                      0      0      8       OK
+63   Camara_Chapeco_2007_Analista_de_Comunicacao                       0      0     44       OK
+64   Camara_Chapeco_2025_Analista_de_Comunicacao                       0      0      0       OK
+65   Camara_Clevelandia_2011_Agente_Administrativo_I                   0      0      0       OK
+66   Camara_Clevelandia_2011_Agente_Administrativo_II                  0      0      0       OK
+67   Camara_Clevelandia_2017_Agente_Administrativo_I                   0      0      0       OK
+68   Camara_Conde_2022_Nivel_Fundamental_Completo                      0      0     42       OK
+69   Camara_Conselheiro_Lafaiete_2018_Agente_Legislativo               0      0      4       OK
+70   Camara_Conselheiro_Lafaiete_2018_Analista_de_Sistemas             0      0     49       OK
+71   Camara_Contagem_2022_Analista_Tecnico_Analista_de_Sistemas        0      0      3       OK
+72   Camara_Cornelio_Procopio_2012_Agente_Administrativo               0      0      0       OK
+73   Camara_Coronel_Fabriciano_2017_Agente_Administrativo              0      0     60       OK
+74   Camara_Craibas_2025_Agente_Administrativo                         0      0      0       OK
+75   Camara_Curitiba_2007_Analista_de_Sistemas                         0      0      2       OK
+76   Camara_Embu-Guacu_2018_Agente_Legislativo_do_Gabinete_da_P        0      0     11       OK
+77   Camara_Estancia_2013_Agente_Administrativo_Agente_Legislat        0      0      0       OK
+78   Camara_Esteja_2002_Agente_Administrativo                          0      0      0       OK
+79   Camara_Estreito_2016_Agente_Administrativo                        0      0      4       OK
+80   Camara_Estreito_2016_Analista_de_Sistema                          0      0      4       OK
+81   Camara_Feira_de_Santana_2018_Analista_de_Sistemas_em_Rede         0      0      0       OK
+82   Camara_Florania_2007_Agente_Administrativo                        0      0      1       OK
+83   Camara_Flores_2019_Agente_Administrativo                          0      0      2       OK
+84   Camara_Fortaleza_2023_Agente_Administrativo                       0      0      0       OK
+85   Camara_Fortaleza_2023_Analista_de_Comunicacao_Social              0      0      0       OK
+86   Camara_Fortim_2024_Agente_Administrativo                          0      0      0       OK
+87   Camara_Foz_do_Iguacu_2012_Agente_Administrativo_I                 0      0      4       OK
+88   Camara_Garanhuns_2014_Agente_Administrativo                       0      0     54       OK
+89   Camara_General_Carneiro_2026_Agente_Administrativo                0      0      2       OK
+90   Camara_Goiana_2022_Agente_de_Cerimonial_e_Eventos                 0      0     10       OK
+91   Camara_Igarapeacu_2024_Agente_Administrativo                      0      0      2       OK
+92   Camara_Inhumas_2005_Agente_Administrativo                         0      0      0       OK
+93   Camara_Ipameri_2026_Agente_Administrativo                         0      0      6       OK
+94   Camara_Itaborai_2011_Agente_Administrativo                        0      0      0       OK
+95   Camara_Itaborai_2011_Agente_Legislativo                           0      0      0       OK
+96   Camara_Itaiopolis_2024_Agente_Legislativo                         0      0      0       OK
+97   Camara_Itapuranga_2014_Analista_de_Sistemas                       0      0     14       OK
+98   Camara_Municipio_Nao_Identificado_Agente_Legislativo_Objet        0      0      2       OK
+99   Camara_Ouro_Preto_Agente_Legislativo_I                            0      0      2       OK
+100  Camara_Ouro_Preto_Agente_Legislativo_II                           0      0      2       OK
+101  Camara_Ouro_Preto_do_Oeste_2024_Agente_Administrativo             0      0      0    AVISO
+102  Camara_Piracicaba_2019_Agente_Legislativo                         0      0     16       OK
+103  Camara_Praia_Grande_2019_Agente_Administrativo                    0      0      0       OK
+104  Camara_Praia_Grande_2022_Agente_Administrativo                    0      0      0       OK
+105  Camara_Sao_Joao_do_Triunfo_2024_Administrador                     0      0      0       OK
+106  Camara_Sao_Jose_de_Mipibu_2020_Agente_Administrativo              0      0      0       OK
+107  Camara_Sao_Jose_de_Mipibu_2020_Assistente_de_Cerimonial           0      0      3       OK
+108  Camara_Sao_Jose_dos_Pinhais_2016_Administrador                    0      0      0       OK
+109  Camara_Sao_Jose_dos_Pinhais_2016_Agente_Administrativo            0      0      1       OK
+110  Camara_Sao_Jose_dos_Pinhais_2016_Analista_de_Sistema_Junio        0      0      0       OK
+111  Camara_Sao_Jose_do_Egito_2024_Agente_Administrativo               0      0      0       OK
+112  Camara_Sao_Luiz_do_Paraitinga_2015_Analista_de_Comunicacao        0      0      0    AVISO
+113  Camara_Sao_Pedro_do_Sul_2008_Agente_Legislativo_I                 0      0      3       OK
+114  Camara_Seara_2011_Agente_Administrativo                           0      0      0       OK
+115  Camara_Serra_2014_Agente_Legislativo                              0      0      8       OK
+116  Camara_Serra_Talhada_2018_Agente_Administrativo                   0      0      0       OK
+117  Camara_Votorantim_2016_Cerimonialista                             0      0      0       OK
+118  Camara_Xinguara_2011_Agente_Administrativo_Legislativo            0      0      0       OK
+119  Prefeitura_Bom_Jesus_e_Camara_Sao_Tome_2022_Agente_Adminis        0      0      0       OK
+120  Prefeitura_Carmo_do_Rio_Verde_2024_Agente_Administrativo          0      0      2       OK
+121  Prefeitura_e_Camara_Erechim_e_Instituto_Erechinense_de_Pre        0      0      2       OK
+122  Prefeitura_e_Camara_Gameleira_de_Goias_2026_Agente_Adminis        0      0      0       OK

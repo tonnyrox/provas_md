@@ -38,13 +38,13 @@
 - Q07 ANULADA (N*) no gabarito oficial do Edital Nº 091/2014.
 
 > **Transcrição integral da capa e das instruções oficiais do caderno** (linhas de continuação reunidas; a capa original exibe, ainda, logotipos da banca e código QR — imagens não-conteúdo, ver relatório):
-> 
+
 > CÂMARA MUNICIPAL DE CAROEBE — FUNDAÇÃO AJURI
-> 
+
 > CAROEBE - 2014 · CONCURSO PÚBLICO PARA PROVIMENTO DE VAGAS · DO QUADRO DE PESSOAL
-> 
+
 > NÍVEL MÉDIO
-> 
+
 > INSTRUÇÕES GERAIS
 > Ø O candidato receberá do fiscal:
 > Ÿ Um caderno de provas contendo 30 (trinta) questões de múltipla escolha.
@@ -55,18 +55,18 @@
 > Ø Após o término da prova, o candidato deverá entregar, obrigatoriamente, o caderno de provas e a folha de respostas devidamente assinada no local indicado.
 > Ø Os dois últimos candidatos de cada sala só poderão ser liberados juntos.
 > Se você precisar de algum esclarecimento, fale com o fiscal ou solicite a presença do responsável pelo local.
-> 
+
 > INSTRUÇÕES PROVA OBJETIVA
 > Ø Verifique se os seus dados estão corretos na folha de respostas. Em caso de erro, solicite ao fiscal para efetuar as correções na Ata da Prova.
 > Ø Assine no local indicado na folha de respostas.
 > Ø Leia atentamente cada questão e assinale na folha de respostas a alternativa que você julgar correta.
 > Ø A folha de respostas NÃO pode ser dobrada, amassada, rasurada, manchada ou conter qualquer registro fora dos locais destinados às respostas, sob pena de eliminação do processo.
 > Ø A maneira correta de assinalar a alternativa na folha de respostas é cobrindo, completamente, com caneta esferográfica azul ou preta todo o espaço a ela correspondente, conforme o exemplo a seguir:
-> 
+
 > A B C D E
-> 
+
 > ATENÇÃO: Formas de marcação diferentes da que foi determinada implicarão a rejeição da folha de respostas pela leitora ótica.
-> 
+
 > Na última página do caderno consta a grade "RASCUNHO DE GABARITO" (espaços numerados de 01 a 30 para o rascunho das respostas, impressos em duas colunas de 18 e 12 números).
 
 **Gabarito oficial — tabela "Gabarito oficial — anexo do Edital Nº 091/2014, publicado em 22/12/2014 (Fundação AJURI)":**

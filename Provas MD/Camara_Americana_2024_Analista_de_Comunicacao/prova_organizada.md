@@ -18,42 +18,40 @@
 
 > ANALISTA DE COMUNICAÇÃO
 > Leia atentamente as instruções abaixo
->
->
->
+
 > CADERNO DE QUESTÕES
 > 1. PROVA E FOLHA DE RESPOSTAS
->
+
 > Além deste Caderno de Prova, contendo 50 (cinquenta)
 > questões objetivas, você receberá do Fiscal de Sala:
->
+
 >  01 (uma) Folha de Respostas destinada às respostas das
 > questões objetivas. Confira se seus dados estão corretos.
->
+
 > 2. TEMPO
->
+
 >  03 (três) horas é o tempo disponível para realização da
 > prova, já incluído o tempo para marcação da Folha de
 > Respostas da prova objetiva;
->
+
 >  01 (uma) hora após o início da prova é possível, retirar-
 > se da sala levando o caderno de prova;
->
+
 > 3. INFORMAÇÕES GERAIS
->
+
 >  As questões objetivas têm 05 (cinco) alternativas de
 > resposta (A, B, C, D, E) e somente uma delas está correta;
->
+
 >  Verifique se seu caderno está completo, sem repetição
 > de questões ou falhas. Caso contrário, informe
 > imediatamente o Fiscal da Sala, para que sejam tomadas
 > as devidas providências;
->
+
 >  Confira seus dados pessoais na Folha de Respostas,
 > especialmente nome, número de inscrição e documento
 > de identidade e leia atentamente as instruções para
 > preenchimento;
->
+
 >  O preenchimento das respostas da prova objetiva é de
 > sua responsabilidade e não será permitida a troca de
 > Folha de Respostas em caso de erro de marcação pelo
@@ -61,22 +59,22 @@
 >  Marque, na folha de respostas, com caneta de tinta azul
 > ou preta, a letra correspondente à alternativa que você
 > escolheu.
->
+
 >  Reserve tempo suficiente para o preenchimento de suas
 > respostas. Para fins de avaliação, serão levadas em
 > consideração apenas as marcações realizadas na Folha de
 > Respostas da prova objetiva, não sendo permitido anotar
 > informações relativas às respostas em qualquer outro
 > meio que não seja o caderno de prova;
->
+
 >  Ao se retirar, entregue a Folha de Respostas preenchida
 > e assinada ao Fiscal de Sala.
->
+
 > SERÁ ELIMINADO do presente certame o candidato que:
->
+
 > a) for surpreendido, durante as provas, em qualquer tipo
 > de comunicação com outro candidato;
->
+
 > b) portar ou usar, qualquer tipo de aparelho eletrônico
 > (calculadoras,
 > bips/pagers,
@@ -88,26 +86,21 @@
 > outro tipo de computador portátil, receptores ou
 > gravadores) seja na sala de prova, sanitários, pátios ou
 > qualquer outra dependência do local de prova;
->
+
 > c) se ausentar da sala em que se realizam as provas
 > levando consigo o Caderno de Questões e/ou a Folha de
 > Respostas;
->
+
 > d) se recusar a entregar a Folha de Respostas, quando
 > terminar o tempo estabelecido;
->
+
 > e) não assinar a Lista de Presença e/ou a Folha de
 > Respostas.
 > PROVA OBJETIVA
 > CÂMARA MUNICIPAL DE AMERICANA
 > CONCURSO PÚBLICO
 > 01/2024
->
->
->
->
->
->
+
 > Câmara Municipal De Americana/SP– Concurso Público 01/2024 INSTITUTO AVANÇA SÃO PAULO
 > ANALISTA DE COMUNICAÇÃO Página 2 de 12
 > LÍNGUA PORTUGUESA
@@ -172,7 +165,7 @@
 > constata o arqueólogo Estrada-Belli. “Ela abre
 > uma janela para um tempo obscuro sobre o qual
 > temos pouquíssimos textos.”
->
+
 > Revista
 > Galileu.
 > Disponível

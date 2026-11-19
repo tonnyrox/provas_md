@@ -43,33 +43,29 @@
 
 > CÂMARA MUNICIPAL DA ESTÂNCIA TURÍSTICA  
 >           DE OURO PRETO DO OESTE - RO 
->  
->  
+
 > C04 - AGENTE ADMINISTRATIVO 
 > Turno: MANHÃ 
 > Tipo de Prova 
-> 1 
+
 > Sr. Candidato, para ter a sua prova corrigida é obrigatório a marcação do tipo de 
 > prova no cartão de respostas. Caso não marque o tipo de prova, o cartão de 
 > respostas não será lido, e estará automaticamente eliminado do Concurso 
 > Público.  
->  
+
 > TRANSCREVA, NO SEU CARTÃO DE RESPOSTAS, A FRASE ABAIXO PARA O EXAME GRAFOTÉCNICO: 
 > “A liberdade é a possibilidade do isolamento. Se te é impossível viver só, 
 > nasceste escravo.” (Fernando Pessoa) 
->  
+
 > ATENÇÃO 
 > Este caderno contém trinta questões de múltipla escolha, cada uma com cinco alternativas de resposta 
 > (A, B, C, D, E). 
 > Verifique se este material está em ordem, caso contrário, notifique imediatamente o fiscal. 
 > O tempo de duração da prova inclui o preenchimento do cartão de respostas. 
 > Duração da prova: 3h 
->  
->  
->  
->  
+
 > LEIA AS INSTRUÇÕES ABAIXO 
->  
+
 > Por motivo de segurança: 
 > • 
 > O candidato só poderá retirar-se definitivamente da sala após 1 (uma) hora do início efetivo da prova. 
@@ -117,24 +113,24 @@
 **Material de apoio compartilhado:**
 
 > Leia o poema abaixo e responda às questões 1, 2, 3 e 4.
-> 
+
 > “Quem me compra um jardim com flores?
 > Borboletas de muitas cores,
 > lavadeiras e passarinhos,
 > ovos verdes e azuis nos ninhos?
-> 
+
 > Quem me compra este caracol?
 > Quem me compra um raio de sol?
 > Um lagarto entre o muro e a hera,
 > uma estátua da Primavera?
-> 
+
 > Quem me compra este formigueiro?
 > E este sapo, que é jardineiro?
 > E a cigarra e a sua canção?
 > E o grilinho dentro do chão?
-> 
+
 > (Este é o meu leilão.)”
-> 
+
 > Leilão de Jardim, de Cecília Meireles
 
 ---
@@ -146,24 +142,24 @@
 **Material de apoio:**
 
 > Leia o poema abaixo e responda às questões 1, 2, 3 e 4.
-> 
+
 > “Quem me compra um jardim com flores?
 > Borboletas de muitas cores,
 > lavadeiras e passarinhos,
 > ovos verdes e azuis nos ninhos?
-> 
+
 > Quem me compra este caracol?
 > Quem me compra um raio de sol?
 > Um lagarto entre o muro e a hera,
 > uma estátua da Primavera?
-> 
+
 > Quem me compra este formigueiro?
 > E este sapo, que é jardineiro?
 > E a cigarra e a sua canção?
 > E o grilinho dentro do chão?
-> 
+
 > (Este é o meu leilão.)”
-> 
+
 > Leilão de Jardim, de Cecília Meireles
 
 **Enunciado:**
@@ -191,24 +187,24 @@ E) Advérbio.
 **Material de apoio:**
 
 > Leia o poema abaixo e responda às questões 1, 2, 3 e 4.
-> 
+
 > “Quem me compra um jardim com flores?
 > Borboletas de muitas cores,
 > lavadeiras e passarinhos,
 > ovos verdes e azuis nos ninhos?
-> 
+
 > Quem me compra este caracol?
 > Quem me compra um raio de sol?
 > Um lagarto entre o muro e a hera,
 > uma estátua da Primavera?
-> 
+
 > Quem me compra este formigueiro?
 > E este sapo, que é jardineiro?
 > E a cigarra e a sua canção?
 > E o grilinho dentro do chão?
-> 
+
 > (Este é o meu leilão.)”
-> 
+
 > Leilão de Jardim, de Cecília Meireles
 
 **Enunciado:**
@@ -236,24 +232,24 @@ E) Adjunto adnominal.
 **Material de apoio:**
 
 > Leia o poema abaixo e responda às questões 1, 2, 3 e 4.
-> 
+
 > “Quem me compra um jardim com flores?
 > Borboletas de muitas cores,
 > lavadeiras e passarinhos,
 > ovos verdes e azuis nos ninhos?
-> 
+
 > Quem me compra este caracol?
 > Quem me compra um raio de sol?
 > Um lagarto entre o muro e a hera,
 > uma estátua da Primavera?
-> 
+
 > Quem me compra este formigueiro?
 > E este sapo, que é jardineiro?
 > E a cigarra e a sua canção?
 > E o grilinho dentro do chão?
-> 
+
 > (Este é o meu leilão.)”
-> 
+
 > Leilão de Jardim, de Cecília Meireles
 
 **Enunciado:**
@@ -281,24 +277,24 @@ E) literal.
 **Material de apoio:**
 
 > Leia o poema abaixo e responda às questões 1, 2, 3 e 4.
-> 
+
 > “Quem me compra um jardim com flores?
 > Borboletas de muitas cores,
 > lavadeiras e passarinhos,
 > ovos verdes e azuis nos ninhos?
-> 
+
 > Quem me compra este caracol?
 > Quem me compra um raio de sol?
 > Um lagarto entre o muro e a hera,
 > uma estátua da Primavera?
-> 
+
 > Quem me compra este formigueiro?
 > E este sapo, que é jardineiro?
 > E a cigarra e a sua canção?
 > E o grilinho dentro do chão?
-> 
+
 > (Este é o meu leilão.)”
-> 
+
 > Leilão de Jardim, de Cecília Meireles
 
 **Enunciado:**

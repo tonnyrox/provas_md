@@ -33,4 +33,30 @@ provas_md/
 
 ## Como adicionar novas provas
 
-Siga o manual completo em **[ferramenta/INSTRUCOES.md](ferramenta/INSTRUCOES.md)**: ele cobre desde a preparação dos PDFs até a publicação, incluindo o checklist de conferência obrigatório. Para provas complexas, use o prompt de extração em **[ferramenta/PROMPT_EXTRACAO.md](ferramenta/PROMPT_EXTRACAO.md)** e consulte o manual de campo **[ferramenta/GARGALOS_E_SOLUCOES.md](ferramenta/GARGALOS_E_SOLUCOES.md)** (problemas reais já resolvidos, com provas de referência). Antes de publicar, rode o validador: `python ferramenta/validar_prova.py --pasta "Provas MD"`.
+Siga o manual completo em **[ferramenta/INSTRUCOES.md](ferramenta/INSTRUCOES.md)**: ele cobre desde a preparação dos PDFs até a publicação, incluindo o checklist de conferência obrigatório. Para provas complexas, use o prompt de extração em **[ferramenta/PROMPT_EXTRACAO.md](ferramenta/PROMPT_EXTRACAO.md)** e consulte o manual de campo **[ferramenta/GARGALOS_E_SOLUCOES.md](ferramenta/GARGALOS_E_SOLUCOES.md)** (problemas reais já resolvidos, com provas de referência).
+
+### Ferramentas de validação e manutenção
+
+| Ferramenta | Descrição | Uso |
+|------------|-----------|-----|
+| `validar_prova.py` | Valida o padrão de uma prova específica | `python ferramenta/validar_prova.py --pasta "Provas MD"` |
+| `auditor_estrutural.py` | Audita a estrutura de todas as provas | `python ferramenta/auditor_estrutural.py` |
+| `auditor_completo.py` | Auditoria completa (estrutura + arquivos + imagens + ZIPs) | `python ferramenta/auditor_completo.py` |
+| `corrigir_zips.py` | Regenera ZIPs com problemas | `python ferramenta/corrigir_zips.py` |
+| `limpar_residuos_pagina.py` | Remove resíduos de numeração de página do PDF | `python ferramenta/limpar_residuos_pagina.py` |
+
+### Fluxo de trabalho recomendado
+
+1. **Antes de publicar**: Rode `validar_prova.py` para verificar a prova específica
+2. **Auditoria periódica**: Execute `auditor_completo.py` para verificar todo o acervo
+3. **Correções automáticas**: Use `corrigir_zips.py` e `limpar_residuos_pagina.py` para problemas comuns
+4. **Verificação manual**: Confira as provas com avisos geradas pela auditoria
+
+## Status do Acervo
+
+- **Total de provas**: 122
+- **Provas OK**: 112/122 (91.8%)
+- **Provas com avisos**: 10/122 (8.2%) - resíduos de formatação sem impacto funcional
+- **Provas com erros**: 0
+
+🎯 **Objetivo**: Manter 100% das provas no padrão, com todas as questões autossuficientes, imagens corretamente referenciadas e sem omissões.

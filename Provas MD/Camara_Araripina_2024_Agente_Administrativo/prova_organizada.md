@@ -68,8 +68,6 @@ Leia atentamente as informações abaixo:
 
 **Instruções originais da página 2 da prova (transcritas integralmente):**
 
-
-
 ---
 
 ## 2. Questões agrupadas

@@ -1129,7 +1129,6 @@ D) Todas as afirmativas constam na Constituição federal. Página
 
 ---
 
-
 ## 4. Observações e limitações da extração
 
 - **Questão 26, alternativa D:** o texto da alternativa está truncado/incompleto no próprio PDF original ("Com o fim do governo de Getúlio Vargas e a substituição do Departamento de Imprensa e Propaganda (DIP) pelo Departamento Nacional de Informações"), terminando sem pontuação final. O trecho foi reproduzido exatamente como consta, sem complementação.

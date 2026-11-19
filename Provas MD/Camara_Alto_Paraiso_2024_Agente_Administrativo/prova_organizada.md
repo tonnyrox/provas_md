@@ -16,7 +16,6 @@
 > [!NOTE]
 > Conteúdo integral das páginas anteriores à primeira questão, sem cortes.
 
-> Página 1 de 9
 > ESTADO DE RONDÔNIA
 > CÂMARA MUNICIPAL DE ALTO PARAÍSO
 > EDITAL Nº 001/2024
@@ -36,7 +35,7 @@
 > 16 A 20
 > CONHECIMENTOS ESPECÍFICOS
 > 21 A 50
->
+
 > LEIA COM ATENÇÃO AS INSTRUÇÕES ABAIXO
 > 1.
 > É proibido folhear o caderno de provas antes da autorização do fiscal.
@@ -84,13 +83,7 @@
 > 17. Ao concluir a prova, entregue ao fiscal de sala o cartão de respostas e certifique se não esqueceu de
 > assinar o nome no local especificado ao candidato.
 > Boa Prova!
->
->
->
->
->
->
-> Página 2
+
 > Caderno de Questões GAMACONSULT 2024
 > Leia o texto e responda às questões de 01 a 04.
 > A Relevância da Ciência, Tecnologia e
@@ -508,7 +501,6 @@ promove mudanças significativas.
 B) A ciência, tecnologia e inovação podem ser
 prejudiciais ao bem-estar da humanidade, pois de
 certa forma, gera uma dependência.
-Página 3
 Caderno de Questões GAMACONSULT 2024
 C) A importância de investir em campos científicos,
 tecnológicos e inovadores para o progresso e
@@ -977,9 +969,6 @@ manifestações ocorridas no Brasil em junho de
 2013, que ficaram conhecidas como "Jornadas de
 Junho".
 
-
-
-Página 4
 Caderno de Questões GAMACONSULT 2024
 
 **Alternativas:**
@@ -1248,7 +1237,6 @@ A) a partir dela, é possível organizar todas as
 outras.
 B) Ela é a última etapa organizacional.
 C) Ela é a etapa de menor nível estrutural.
-Página 5
 Caderno de Questões GAMACONSULT 2024
 D) Somente é possível planejar individualmente,
 dispensando a participação da equipe.
@@ -1473,7 +1461,6 @@ escala, menor a autoridade do ocupante do cargo.
 C) A missão de uma estrutura hierárquica é
 restringir a existência da diversidade de cargos,
 mantendo todos no mesmo nível.
-Página 6
 Caderno de Questões GAMACONSULT 2024
 D) A missão de uma estrutura hierárquica é dirigir
 as
@@ -1701,7 +1688,6 @@ tipo de arquivo apresentado:
 
 A) Arquivo factual.
 B) Arquivo corrente.
-Página 7
 Caderno de Questões GAMACONSULT 2024
 C) Arquivo roteirizado.
 D) Arquivo histórico.
@@ -1726,7 +1712,6 @@ leia o exemplo abaixo e assinale a alternativa
 correta.
 
 Alto Paraíso, 25 de junho de 2024
-
 
 Ilustríssimo Senhor
 José Maria Carvalho
@@ -1903,7 +1888,6 @@ alternativas abaixo e assinale a INCORRETA:
 
 A) Abertura: indica a data, horário, local e o nome
 da entidade que está reunida.
-Página 8
 Caderno de Questões GAMACONSULT 2024
 B) Ordem
 do
@@ -2139,7 +2123,6 @@ autônoma na execução de suas tarefas diárias.
 C) O papel dos administradores no âmbito do oficial
 administrativo é limitado à supervisão estrita das
 tarefas operacionais, sem a necessidade de
-Página 9
 Caderno de Questões GAMACONSULT 2024
 promover
 um

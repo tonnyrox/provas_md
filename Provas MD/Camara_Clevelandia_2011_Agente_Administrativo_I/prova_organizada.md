@@ -16,7 +16,6 @@
 > [!NOTE]
 > Conteúdo integral das páginas anteriores à primeira questão, sem cortes.
 
-> Página 1
 > EDITAL DE CONCURSO PÚBLICO N.º 001/2011
 > CÂMARA MUNICIPAL DE CLEVELÂNDIA
 > CARGO: AGENTE ADMINISTRATIVO I
@@ -267,10 +266,7 @@
 > C
 > D
 > E
->
->
->
-> Página 2
+
 > REDAÇÃO
 > O emprego de tecnologia como meio para o desenvolvimento social é mundialmente reconhecido. Há uma relação
 > direta do acesso às tecnologias da informação e da comunicação com empregabilidade; muitos empregos são gerados
@@ -286,10 +282,7 @@
 > a versão definitiva deverá ser transcrita para a Folha de Redação;
 > •
 > não faça nenhum tipo de marca, sinal ou assinatura que possa identificá-lo na Folha de Redação.
->
->
->
-> Página 3
+
 > LÍNGUA PORTUGUESA
 > TEXTO
 > “Em vários aspectos, vive-se melhor numa calçada imunda de São Paulo do que com um emprego de baixa
@@ -774,7 +767,6 @@ assinale a alternativa que contempla um objetivo estratégico para o desenvolvim
 
 A) Incentivar a participação popular como instrumento de construção da cidadania.
 B) Promover meios efetivos e eficazes de participação da população na gestão do Município.
-Página 7
 C) Combater as causas da pobreza.
 D) Fortalecer a municipalidade como espaço privilegiado de gestão pública democrática e criativa, de
 solidariedade social e de valorização da cidadania.
@@ -997,7 +989,6 @@ Assinale a alternativa correta sobre o uso da Internet pelas instituições púb
 
 A) Aos municípios é permitido apenas veicular notícias na Internet e qualquer outra informação deve ser
 obrigatoriamente publicada em diário oficial.
-Página 9
 B) É possível gerar mais transparência na administração pública ao se disponibilizar as prestações de conta na
 Internet para consulta dos cidadãos.
 C) O uso da Internet é restrito aos municípios com mais de 15 mil habitantes.
@@ -1233,10 +1224,6 @@ Nenhuma.
 A questão da ética no local de trabalho é tão importante que muitas empresas dedicam tempo para definir ética
 formalmente e desenvolver diretrizes de comportamento ético. Dentre as alternativas abaixo, assinale a que não
 representa um comportamento ético.
-
-
-
-Página 11
 
 **Alternativas:**
 

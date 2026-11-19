@@ -18,13 +18,9 @@
 
 > CONCURSO PÚBLICO
 > CÂMARA DE ARARIPINA (PE) - GRUPO 02
->
->
->
+
 > G2. AGENTE ADMINISTRATIVO (NM)
->
->
->
+
 > _
 > 100  QUESTÕES OBJETIVAS
 > Leia atentamente as informações abaixo:
@@ -54,9 +50,7 @@
 > CPF
 > _
 > CADERNO DE QUESTÕES OBJETIVAS
->
->
->
+
 > G2. AGENTE ADMINISTRATIVO (NM) - Página 2 de 8
 > Leia atentamente as informações abaixo:
 > Cada um dos itens desta prova objetiva está vinculado a um comando que o antecede, permitindo, portanto, que o
@@ -321,8 +315,6 @@ interesse da organização. Tais poderes incluem o poder
 hierárquico, disciplinar, regulamentar e de polícia
 administrativa, fundamentais para o exercício eficaz da
 gestão organizacional.
-
-
 
 G2. AGENTE ADMINISTRATIVO (NM) - Página 3 de 8
 
@@ -669,8 +661,6 @@ estabilidade, o principal objetivo passa a garantir que os
 colaboradores sejam controlados de forma rígida e
 centralizada, visando a máxima eficiência operacional da
 organização.
-
-
 
 G2. AGENTE ADMINISTRATIVO (NM) - Página 4 de 8
 
@@ -1037,8 +1027,6 @@ engajamento de servidores em processos de capacitação
 e a criação de uma cultura organizacional que valorize a
 excelência operacional e o atendimento às expectativas
 dos cidadãos.
-
-
 
 G2. AGENTE ADMINISTRATIVO (NM) - Página 5 de 8
 
@@ -1408,8 +1396,6 @@ juros, garantindo que o consumidor faça escolhas
 financeiras conscientes e alinhadas com suas
 necessidades financeiras.
 
-
-
 G2. AGENTE ADMINISTRATIVO (NM) - Página 6 de 8
 
 **Referências visuais:**
@@ -1685,8 +1671,6 @@ Nenhuma.
 Na frase "O estudo dos fenômenos naturais é fascinante",
 a expressão "dos fenômenos naturais" é um exemplo de
 complemento nominal.
-
-
 
 G2. AGENTE ADMINISTRATIVO (NM) - Página 7 de 8
 
@@ -2042,8 +2026,6 @@ Nenhuma.
 Na frase "Ela sempre foi uma mulher de muita coragem",
 a expressão "de muita coragem" funciona como adjunto
 adnominal.
-
-
 
 G2. AGENTE ADMINISTRATIVO (NM) - Página 8 de 8
 RASCUNHO

@@ -38,7 +38,7 @@
 - O logotipo do IBFC presente na capa foi descartado (não é conteúdo de questão).
 
 > **Transcrição integral da capa, das instruções gerais e do gabarito de rascunho (conforme extraída do PDF):**
-> 
+
 > > CÂMARA MUNICIPAL DE ARARAQUARA
 > > EDITAL N° 01/2016 - NÍVEL SUPERIOR
 > > ASSISTENTE DE CERIMONIAL
@@ -181,15 +181,15 @@
 **Material de apoio compartilhado:**
 
 > Leia o texto abaixo e responda as questões de 1 a 10:
-> 
+
 > O estudo científico da comunicação: avanços teóricos e metodológicos ensejados pela escola latino-americana
-> 
+
 > INTRODUÇÃO
-> 
+
 > A sociedade moderna está cercada de todos os lados pelos vários sistemas de comunicação. Estudar a comunicação social é uma necessidade atual de todos os povos em qualquer parte do mundo. Conhecer e dominar os sistemas de informação e da comunicação é indispensável no mundo globalizado. Estamos iniciando os últimos passos para a saída do século XX e os primeiros para a entrada do século XXI. Neste período de transição o ser humano vive momentos de incertezas da comunicação e de (in)comunicação, das crises políticas, culturais, econômicas e religiosas. As distâncias na sociedade contemporânea estão cada vez mais próximas, quer seja pelos modernos meios de transporte ou pelas telecomunicações via satélite, Internet, etc. Com as novas tecnologias, a velocidade da informação e o processo comunicacional tornam-se cada vez mais complexos e consequentemente de mais difícil compreensão.
-> 
+
 > No início do século XX o impacto sociocultural e econômico se deu com a revolução industrial. O século XXI está chegando sob o impacto da revolução dos meios de comunicação e das novas tecnologias da informação. É inegável a importância dos meios de comunicação social e sua influência na complexa sociedade globalizada. Desta forma, estudar as mídias passou a ser uma prioridade no campo das interações sociais. É necessário investigar, compreender e formular teorias de comunicação que possam atender os interesses da sociedade no mundo globalizado. Em busca desse objetivo resolvemos fazer algumas reflexões sobre os paradigmas existentes e tentar abrir algumas brechas que possam contribuir na formatação de novos ingredientes colaboradores do processo de interpretação e explicação da realidade atual. É neste mundo globalizado que o homem vive atualmente e dele retira as informações que irão contribuir para ampliação dos seus conhecimentos e das suas experiências.
-> 
+
 > http://www2.metodista.br/unesco/PCLA/revista6/artigo%206-3.htm – acesso em 03/05/2016.
 
 ---
@@ -201,15 +201,15 @@
 **Material de apoio:**
 
 > Leia o texto abaixo e responda as questões de 1 a 10:
-> 
+
 > O estudo científico da comunicação: avanços teóricos e metodológicos ensejados pela escola latino-americana
-> 
+
 > INTRODUÇÃO
-> 
+
 > A sociedade moderna está cercada de todos os lados pelos vários sistemas de comunicação. Estudar a comunicação social é uma necessidade atual de todos os povos em qualquer parte do mundo. Conhecer e dominar os sistemas de informação e da comunicação é indispensável no mundo globalizado. Estamos iniciando os últimos passos para a saída do século XX e os primeiros para a entrada do século XXI. Neste período de transição o ser humano vive momentos de incertezas da comunicação e de (in)comunicação, das crises políticas, culturais, econômicas e religiosas. As distâncias na sociedade contemporânea estão cada vez mais próximas, quer seja pelos modernos meios de transporte ou pelas telecomunicações via satélite, Internet, etc. Com as novas tecnologias, a velocidade da informação e o processo comunicacional tornam-se cada vez mais complexos e consequentemente de mais difícil compreensão.
-> 
+
 > No início do século XX o impacto sociocultural e econômico se deu com a revolução industrial. O século XXI está chegando sob o impacto da revolução dos meios de comunicação e das novas tecnologias da informação. É inegável a importância dos meios de comunicação social e sua influência na complexa sociedade globalizada. Desta forma, estudar as mídias passou a ser uma prioridade no campo das interações sociais. É necessário investigar, compreender e formular teorias de comunicação que possam atender os interesses da sociedade no mundo globalizado. Em busca desse objetivo resolvemos fazer algumas reflexões sobre os paradigmas existentes e tentar abrir algumas brechas que possam contribuir na formatação de novos ingredientes colaboradores do processo de interpretação e explicação da realidade atual. É neste mundo globalizado que o homem vive atualmente e dele retira as informações que irão contribuir para ampliação dos seus conhecimentos e das suas experiências.
-> 
+
 > http://www2.metodista.br/unesco/PCLA/revista6/artigo%206-3.htm – acesso em 03/05/2016.
 
 **Enunciado:**
@@ -243,15 +243,15 @@ Nenhuma.
 **Material de apoio:**
 
 > Leia o texto abaixo e responda as questões de 1 a 10:
-> 
+
 > O estudo científico da comunicação: avanços teóricos e metodológicos ensejados pela escola latino-americana
-> 
+
 > INTRODUÇÃO
-> 
+
 > A sociedade moderna está cercada de todos os lados pelos vários sistemas de comunicação. Estudar a comunicação social é uma necessidade atual de todos os povos em qualquer parte do mundo. Conhecer e dominar os sistemas de informação e da comunicação é indispensável no mundo globalizado. Estamos iniciando os últimos passos para a saída do século XX e os primeiros para a entrada do século XXI. Neste período de transição o ser humano vive momentos de incertezas da comunicação e de (in)comunicação, das crises políticas, culturais, econômicas e religiosas. As distâncias na sociedade contemporânea estão cada vez mais próximas, quer seja pelos modernos meios de transporte ou pelas telecomunicações via satélite, Internet, etc. Com as novas tecnologias, a velocidade da informação e o processo comunicacional tornam-se cada vez mais complexos e consequentemente de mais difícil compreensão.
-> 
+
 > No início do século XX o impacto sociocultural e econômico se deu com a revolução industrial. O século XXI está chegando sob o impacto da revolução dos meios de comunicação e das novas tecnologias da informação. É inegável a importância dos meios de comunicação social e sua influência na complexa sociedade globalizada. Desta forma, estudar as mídias passou a ser uma prioridade no campo das interações sociais. É necessário investigar, compreender e formular teorias de comunicação que possam atender os interesses da sociedade no mundo globalizado. Em busca desse objetivo resolvemos fazer algumas reflexões sobre os paradigmas existentes e tentar abrir algumas brechas que possam contribuir na formatação de novos ingredientes colaboradores do processo de interpretação e explicação da realidade atual. É neste mundo globalizado que o homem vive atualmente e dele retira as informações que irão contribuir para ampliação dos seus conhecimentos e das suas experiências.
-> 
+
 > http://www2.metodista.br/unesco/PCLA/revista6/artigo%206-3.htm – acesso em 03/05/2016.
 
 **Enunciado:**
@@ -281,15 +281,15 @@ Nenhuma.
 **Material de apoio:**
 
 > Leia o texto abaixo e responda as questões de 1 a 10:
-> 
+
 > O estudo científico da comunicação: avanços teóricos e metodológicos ensejados pela escola latino-americana
-> 
+
 > INTRODUÇÃO
-> 
+
 > A sociedade moderna está cercada de todos os lados pelos vários sistemas de comunicação. Estudar a comunicação social é uma necessidade atual de todos os povos em qualquer parte do mundo. Conhecer e dominar os sistemas de informação e da comunicação é indispensável no mundo globalizado. Estamos iniciando os últimos passos para a saída do século XX e os primeiros para a entrada do século XXI. Neste período de transição o ser humano vive momentos de incertezas da comunicação e de (in)comunicação, das crises políticas, culturais, econômicas e religiosas. As distâncias na sociedade contemporânea estão cada vez mais próximas, quer seja pelos modernos meios de transporte ou pelas telecomunicações via satélite, Internet, etc. Com as novas tecnologias, a velocidade da informação e o processo comunicacional tornam-se cada vez mais complexos e consequentemente de mais difícil compreensão.
-> 
+
 > No início do século XX o impacto sociocultural e econômico se deu com a revolução industrial. O século XXI está chegando sob o impacto da revolução dos meios de comunicação e das novas tecnologias da informação. É inegável a importância dos meios de comunicação social e sua influência na complexa sociedade globalizada. Desta forma, estudar as mídias passou a ser uma prioridade no campo das interações sociais. É necessário investigar, compreender e formular teorias de comunicação que possam atender os interesses da sociedade no mundo globalizado. Em busca desse objetivo resolvemos fazer algumas reflexões sobre os paradigmas existentes e tentar abrir algumas brechas que possam contribuir na formatação de novos ingredientes colaboradores do processo de interpretação e explicação da realidade atual. É neste mundo globalizado que o homem vive atualmente e dele retira as informações que irão contribuir para ampliação dos seus conhecimentos e das suas experiências.
-> 
+
 > http://www2.metodista.br/unesco/PCLA/revista6/artigo%206-3.htm – acesso em 03/05/2016.
 
 **Enunciado:**
@@ -319,15 +319,15 @@ Nenhuma.
 **Material de apoio:**
 
 > Leia o texto abaixo e responda as questões de 1 a 10:
-> 
+
 > O estudo científico da comunicação: avanços teóricos e metodológicos ensejados pela escola latino-americana
-> 
+
 > INTRODUÇÃO
-> 
+
 > A sociedade moderna está cercada de todos os lados pelos vários sistemas de comunicação. Estudar a comunicação social é uma necessidade atual de todos os povos em qualquer parte do mundo. Conhecer e dominar os sistemas de informação e da comunicação é indispensável no mundo globalizado. Estamos iniciando os últimos passos para a saída do século XX e os primeiros para a entrada do século XXI. Neste período de transição o ser humano vive momentos de incertezas da comunicação e de (in)comunicação, das crises políticas, culturais, econômicas e religiosas. As distâncias na sociedade contemporânea estão cada vez mais próximas, quer seja pelos modernos meios de transporte ou pelas telecomunicações via satélite, Internet, etc. Com as novas tecnologias, a velocidade da informação e o processo comunicacional tornam-se cada vez mais complexos e consequentemente de mais difícil compreensão.
-> 
+
 > No início do século XX o impacto sociocultural e econômico se deu com a revolução industrial. O século XXI está chegando sob o impacto da revolução dos meios de comunicação e das novas tecnologias da informação. É inegável a importância dos meios de comunicação social e sua influência na complexa sociedade globalizada. Desta forma, estudar as mídias passou a ser uma prioridade no campo das interações sociais. É necessário investigar, compreender e formular teorias de comunicação que possam atender os interesses da sociedade no mundo globalizado. Em busca desse objetivo resolvemos fazer algumas reflexões sobre os paradigmas existentes e tentar abrir algumas brechas que possam contribuir na formatação de novos ingredientes colaboradores do processo de interpretação e explicação da realidade atual. É neste mundo globalizado que o homem vive atualmente e dele retira as informações que irão contribuir para ampliação dos seus conhecimentos e das suas experiências.
-> 
+
 > http://www2.metodista.br/unesco/PCLA/revista6/artigo%206-3.htm – acesso em 03/05/2016.
 
 **Enunciado:**
@@ -358,15 +358,15 @@ Nenhuma.
 **Material de apoio:**
 
 > Leia o texto abaixo e responda as questões de 1 a 10:
-> 
+
 > O estudo científico da comunicação: avanços teóricos e metodológicos ensejados pela escola latino-americana
-> 
+
 > INTRODUÇÃO
-> 
+
 > A sociedade moderna está cercada de todos os lados pelos vários sistemas de comunicação. Estudar a comunicação social é uma necessidade atual de todos os povos em qualquer parte do mundo. Conhecer e dominar os sistemas de informação e da comunicação é indispensável no mundo globalizado. Estamos iniciando os últimos passos para a saída do século XX e os primeiros para a entrada do século XXI. Neste período de transição o ser humano vive momentos de incertezas da comunicação e de (in)comunicação, das crises políticas, culturais, econômicas e religiosas. As distâncias na sociedade contemporânea estão cada vez mais próximas, quer seja pelos modernos meios de transporte ou pelas telecomunicações via satélite, Internet, etc. Com as novas tecnologias, a velocidade da informação e o processo comunicacional tornam-se cada vez mais complexos e consequentemente de mais difícil compreensão.
-> 
+
 > No início do século XX o impacto sociocultural e econômico se deu com a revolução industrial. O século XXI está chegando sob o impacto da revolução dos meios de comunicação e das novas tecnologias da informação. É inegável a importância dos meios de comunicação social e sua influência na complexa sociedade globalizada. Desta forma, estudar as mídias passou a ser uma prioridade no campo das interações sociais. É necessário investigar, compreender e formular teorias de comunicação que possam atender os interesses da sociedade no mundo globalizado. Em busca desse objetivo resolvemos fazer algumas reflexões sobre os paradigmas existentes e tentar abrir algumas brechas que possam contribuir na formatação de novos ingredientes colaboradores do processo de interpretação e explicação da realidade atual. É neste mundo globalizado que o homem vive atualmente e dele retira as informações que irão contribuir para ampliação dos seus conhecimentos e das suas experiências.
-> 
+
 > http://www2.metodista.br/unesco/PCLA/revista6/artigo%206-3.htm – acesso em 03/05/2016.
 
 **Enunciado:**
@@ -396,15 +396,15 @@ Nenhuma.
 **Material de apoio:**
 
 > Leia o texto abaixo e responda as questões de 1 a 10:
-> 
+
 > O estudo científico da comunicação: avanços teóricos e metodológicos ensejados pela escola latino-americana
-> 
+
 > INTRODUÇÃO
-> 
+
 > A sociedade moderna está cercada de todos os lados pelos vários sistemas de comunicação. Estudar a comunicação social é uma necessidade atual de todos os povos em qualquer parte do mundo. Conhecer e dominar os sistemas de informação e da comunicação é indispensável no mundo globalizado. Estamos iniciando os últimos passos para a saída do século XX e os primeiros para a entrada do século XXI. Neste período de transição o ser humano vive momentos de incertezas da comunicação e de (in)comunicação, das crises políticas, culturais, econômicas e religiosas. As distâncias na sociedade contemporânea estão cada vez mais próximas, quer seja pelos modernos meios de transporte ou pelas telecomunicações via satélite, Internet, etc. Com as novas tecnologias, a velocidade da informação e o processo comunicacional tornam-se cada vez mais complexos e consequentemente de mais difícil compreensão.
-> 
+
 > No início do século XX o impacto sociocultural e econômico se deu com a revolução industrial. O século XXI está chegando sob o impacto da revolução dos meios de comunicação e das novas tecnologias da informação. É inegável a importância dos meios de comunicação social e sua influência na complexa sociedade globalizada. Desta forma, estudar as mídias passou a ser uma prioridade no campo das interações sociais. É necessário investigar, compreender e formular teorias de comunicação que possam atender os interesses da sociedade no mundo globalizado. Em busca desse objetivo resolvemos fazer algumas reflexões sobre os paradigmas existentes e tentar abrir algumas brechas que possam contribuir na formatação de novos ingredientes colaboradores do processo de interpretação e explicação da realidade atual. É neste mundo globalizado que o homem vive atualmente e dele retira as informações que irão contribuir para ampliação dos seus conhecimentos e das suas experiências.
-> 
+
 > http://www2.metodista.br/unesco/PCLA/revista6/artigo%206-3.htm – acesso em 03/05/2016.
 
 **Enunciado:**
@@ -436,15 +436,15 @@ Nenhuma.
 **Material de apoio:**
 
 > Leia o texto abaixo e responda as questões de 1 a 10:
-> 
+
 > O estudo científico da comunicação: avanços teóricos e metodológicos ensejados pela escola latino-americana
-> 
+
 > INTRODUÇÃO
-> 
+
 > A sociedade moderna está cercada de todos os lados pelos vários sistemas de comunicação. Estudar a comunicação social é uma necessidade atual de todos os povos em qualquer parte do mundo. Conhecer e dominar os sistemas de informação e da comunicação é indispensável no mundo globalizado. Estamos iniciando os últimos passos para a saída do século XX e os primeiros para a entrada do século XXI. Neste período de transição o ser humano vive momentos de incertezas da comunicação e de (in)comunicação, das crises políticas, culturais, econômicas e religiosas. As distâncias na sociedade contemporânea estão cada vez mais próximas, quer seja pelos modernos meios de transporte ou pelas telecomunicações via satélite, Internet, etc. Com as novas tecnologias, a velocidade da informação e o processo comunicacional tornam-se cada vez mais complexos e consequentemente de mais difícil compreensão.
-> 
+
 > No início do século XX o impacto sociocultural e econômico se deu com a revolução industrial. O século XXI está chegando sob o impacto da revolução dos meios de comunicação e das novas tecnologias da informação. É inegável a importância dos meios de comunicação social e sua influência na complexa sociedade globalizada. Desta forma, estudar as mídias passou a ser uma prioridade no campo das interações sociais. É necessário investigar, compreender e formular teorias de comunicação que possam atender os interesses da sociedade no mundo globalizado. Em busca desse objetivo resolvemos fazer algumas reflexões sobre os paradigmas existentes e tentar abrir algumas brechas que possam contribuir na formatação de novos ingredientes colaboradores do processo de interpretação e explicação da realidade atual. É neste mundo globalizado que o homem vive atualmente e dele retira as informações que irão contribuir para ampliação dos seus conhecimentos e das suas experiências.
-> 
+
 > http://www2.metodista.br/unesco/PCLA/revista6/artigo%206-3.htm – acesso em 03/05/2016.
 
 **Enunciado:**
@@ -475,15 +475,15 @@ Nenhuma.
 **Material de apoio:**
 
 > Leia o texto abaixo e responda as questões de 1 a 10:
-> 
+
 > O estudo científico da comunicação: avanços teóricos e metodológicos ensejados pela escola latino-americana
-> 
+
 > INTRODUÇÃO
-> 
+
 > A sociedade moderna está cercada de todos os lados pelos vários sistemas de comunicação. Estudar a comunicação social é uma necessidade atual de todos os povos em qualquer parte do mundo. Conhecer e dominar os sistemas de informação e da comunicação é indispensável no mundo globalizado. Estamos iniciando os últimos passos para a saída do século XX e os primeiros para a entrada do século XXI. Neste período de transição o ser humano vive momentos de incertezas da comunicação e de (in)comunicação, das crises políticas, culturais, econômicas e religiosas. As distâncias na sociedade contemporânea estão cada vez mais próximas, quer seja pelos modernos meios de transporte ou pelas telecomunicações via satélite, Internet, etc. Com as novas tecnologias, a velocidade da informação e o processo comunicacional tornam-se cada vez mais complexos e consequentemente de mais difícil compreensão.
-> 
+
 > No início do século XX o impacto sociocultural e econômico se deu com a revolução industrial. O século XXI está chegando sob o impacto da revolução dos meios de comunicação e das novas tecnologias da informação. É inegável a importância dos meios de comunicação social e sua influência na complexa sociedade globalizada. Desta forma, estudar as mídias passou a ser uma prioridade no campo das interações sociais. É necessário investigar, compreender e formular teorias de comunicação que possam atender os interesses da sociedade no mundo globalizado. Em busca desse objetivo resolvemos fazer algumas reflexões sobre os paradigmas existentes e tentar abrir algumas brechas que possam contribuir na formatação de novos ingredientes colaboradores do processo de interpretação e explicação da realidade atual. É neste mundo globalizado que o homem vive atualmente e dele retira as informações que irão contribuir para ampliação dos seus conhecimentos e das suas experiências.
-> 
+
 > http://www2.metodista.br/unesco/PCLA/revista6/artigo%206-3.htm – acesso em 03/05/2016.
 
 **Enunciado:**
@@ -515,15 +515,15 @@ Nenhuma.
 **Material de apoio:**
 
 > Leia o texto abaixo e responda as questões de 1 a 10:
-> 
+
 > O estudo científico da comunicação: avanços teóricos e metodológicos ensejados pela escola latino-americana
-> 
+
 > INTRODUÇÃO
-> 
+
 > A sociedade moderna está cercada de todos os lados pelos vários sistemas de comunicação. Estudar a comunicação social é uma necessidade atual de todos os povos em qualquer parte do mundo. Conhecer e dominar os sistemas de informação e da comunicação é indispensável no mundo globalizado. Estamos iniciando os últimos passos para a saída do século XX e os primeiros para a entrada do século XXI. Neste período de transição o ser humano vive momentos de incertezas da comunicação e de (in)comunicação, das crises políticas, culturais, econômicas e religiosas. As distâncias na sociedade contemporânea estão cada vez mais próximas, quer seja pelos modernos meios de transporte ou pelas telecomunicações via satélite, Internet, etc. Com as novas tecnologias, a velocidade da informação e o processo comunicacional tornam-se cada vez mais complexos e consequentemente de mais difícil compreensão.
-> 
+
 > No início do século XX o impacto sociocultural e econômico se deu com a revolução industrial. O século XXI está chegando sob o impacto da revolução dos meios de comunicação e das novas tecnologias da informação. É inegável a importância dos meios de comunicação social e sua influência na complexa sociedade globalizada. Desta forma, estudar as mídias passou a ser uma prioridade no campo das interações sociais. É necessário investigar, compreender e formular teorias de comunicação que possam atender os interesses da sociedade no mundo globalizado. Em busca desse objetivo resolvemos fazer algumas reflexões sobre os paradigmas existentes e tentar abrir algumas brechas que possam contribuir na formatação de novos ingredientes colaboradores do processo de interpretação e explicação da realidade atual. É neste mundo globalizado que o homem vive atualmente e dele retira as informações que irão contribuir para ampliação dos seus conhecimentos e das suas experiências.
-> 
+
 > http://www2.metodista.br/unesco/PCLA/revista6/artigo%206-3.htm – acesso em 03/05/2016.
 
 **Enunciado:**
@@ -553,15 +553,15 @@ Nenhuma.
 **Material de apoio:**
 
 > Leia o texto abaixo e responda as questões de 1 a 10:
-> 
+
 > O estudo científico da comunicação: avanços teóricos e metodológicos ensejados pela escola latino-americana
-> 
+
 > INTRODUÇÃO
-> 
+
 > A sociedade moderna está cercada de todos os lados pelos vários sistemas de comunicação. Estudar a comunicação social é uma necessidade atual de todos os povos em qualquer parte do mundo. Conhecer e dominar os sistemas de informação e da comunicação é indispensável no mundo globalizado. Estamos iniciando os últimos passos para a saída do século XX e os primeiros para a entrada do século XXI. Neste período de transição o ser humano vive momentos de incertezas da comunicação e de (in)comunicação, das crises políticas, culturais, econômicas e religiosas. As distâncias na sociedade contemporânea estão cada vez mais próximas, quer seja pelos modernos meios de transporte ou pelas telecomunicações via satélite, Internet, etc. Com as novas tecnologias, a velocidade da informação e o processo comunicacional tornam-se cada vez mais complexos e consequentemente de mais difícil compreensão.
-> 
+
 > No início do século XX o impacto sociocultural e econômico se deu com a revolução industrial. O século XXI está chegando sob o impacto da revolução dos meios de comunicação e das novas tecnologias da informação. É inegável a importância dos meios de comunicação social e sua influência na complexa sociedade globalizada. Desta forma, estudar as mídias passou a ser uma prioridade no campo das interações sociais. É necessário investigar, compreender e formular teorias de comunicação que possam atender os interesses da sociedade no mundo globalizado. Em busca desse objetivo resolvemos fazer algumas reflexões sobre os paradigmas existentes e tentar abrir algumas brechas que possam contribuir na formatação de novos ingredientes colaboradores do processo de interpretação e explicação da realidade atual. É neste mundo globalizado que o homem vive atualmente e dele retira as informações que irão contribuir para ampliação dos seus conhecimentos e das suas experiências.
-> 
+
 > http://www2.metodista.br/unesco/PCLA/revista6/artigo%206-3.htm – acesso em 03/05/2016.
 
 **Enunciado:**
@@ -1640,35 +1640,35 @@ Nenhuma.
 **Instruções e tema:**
 
 > Transcreva a redação de 20 a 30 linhas, com caneta azul ou preta, para o cartão de respostas.
-> 
+
 > Todos sabem o quanto é difícil envelhecer na sociedade moderna, vários são os obstáculos que a “evelhescência” nos traz. Leia os textos abaixo e faça uma dissertação sobre as vantagens e desvantagens do envelhecimento. Busque argumentos consistentes para produzir seu texto.
 
 **Texto de apoio 1 — “Envelhecimento intelectualmente ativo” (Cristiane Pomeranz):**
 
 > Envelhecimento intelectualmente ativo
-> 
+
 > Escrito por Cristiane Pomeranz(*)
-> 
+
 > Faz-se a hora de repensarmos o conceito de idoso ativo. Envelhecer mantendo a intelectualidade ativa é uma forma excepcional de viver a velhice. Mentes estimuladas com assuntos interessantes ganham asas e voam muito mais alto do que o idoso que pula de parapente.
-> 
+
 > A vida pede mudanças. Mudanças de comportamento e de olhares. Como enxergar a velhice? Esta pergunta tornou-se corriqueira para todos nós que envelhecemos e que olhamos ao redor de um mundo repleto de idosos. Idosos existindo em sua condição.
-> 
+
 > Muito se fala em envelhecimento ativo. O conceito de idosos apáticos, inexistentes como sujeitos e que apenas vivem em função da vida dos outros, tornou-se obsoleto.
-> 
+
 > A partir da Sociedade Brasileira de Geriatria e Gerontologia, que segue o marco legal da Política do Envelhecimento Ativo da Organização Mundial da Saúde (OMS), entendemos o objetivo do envelhecimento ativo como a possibilidade de aumentar a expectativa de uma vida saudável e a qualidade de vida para todas as pessoas que estão envelhecendo, inclusive as que são frágeis, fisicamente incapacitadas e que requerem cuidados.
 
 **Texto de apoio 2 — “Você é um Envelhescente?” (Mário Prata):**
 
 > Você é um Envelhescente?
-> 
+
 > Mário Prata
-> 
+
 > Se você tem entre 45 e 65 anos, preste bastante atenção no que se segue. Se você for mais novo, preste também, porque um dia vai chegar lá. E, se já passou, confira.
-> 
+
 > Sempre me disseram que a vida do homem se dividia em quatro partes: infância, adolescência, maturidade e velhice. Quase correto. Esqueceram de nos dizer que entre a maturidade e a velhice (entre os 45 e os 65), existe a ENVELHESCÊNCIA.
-> 
+
 > A envelhescência nada mais é que uma preparação para entrar na velhice, assim com a adolescência é uma preparação para a maturidade. Engana-se quem acha que o homem maduro fica velho de repente, assim da noite para o dia. Não. Antes, a envelhescência. E, se você está em plena envelhescência, já notou como ela é parecida com a adolescência? Coloque os óculos e veja como este nosso estágio é maravilhoso (...)
-> 
+
 > http://www.releituras.com/marioprata_envelhece.asp. Acesso em 25/05/2016.
 
 **Referências visuais:**
